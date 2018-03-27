@@ -27,7 +27,7 @@ source: "1764 edition"
 [^f3]:
 	Or *Ebbos*, as they are commonly called, are a numerous nation. Many of them have their teeth filed, and blackened in an extraordinary manner. They make good ſlaves when bought young; but are, in general[...] 
 
-	[The modern spelling is Igbo]
+	[The modern spelling is Igbo.]
 
 
 
