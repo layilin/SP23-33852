@@ -6,7 +6,7 @@ source: "1764 edition"
 ---
 
 
-- Nor kill the winding ſnake, thy foes they eat.
+- Nor murder the winding ſnake, thy foes they eat.
 - Thus, on the mangrove-banks[^f1] of Guayaquil,
 - Child of the rocky deſert, ſea-like ﬅream,
 - With ﬅudious care, the American preſerves
