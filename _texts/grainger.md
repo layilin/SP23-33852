@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "page 67 #1"
+title: "page 67"
 editor: Alex Gil
 source: "1764 edition"
 ---

@@ -2,7 +2,7 @@
 
 # Setup
 title:               The Sugar-Cane.
-tagline:             'A sample edition of Grainger''s poem'
+tagline:             'A sampling of Grainger''s poem'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/grainger'
