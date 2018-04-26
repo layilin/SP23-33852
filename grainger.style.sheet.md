@@ -1,7 +1,7 @@
 # Grainger style sheet  
 
 ## Starting each page  
-Each page of the Grainger poem will be a separate file. We will join them later.
+Each page of the Grainger poem will be a separate file. We will join them later.  
 Each transcription page must begin with the following information (all words in brackets are what will be changed for each page and for each transcriber). Make sure to include the three dashes before and after this entry. Do not replicate the original heads or footers (i.e., “The Sugar-Cane,” “Book I,” or printers marks):
 
 ~~~ markdown
@@ -19,12 +19,12 @@ Leave two lines between this header and the text of the poem.
 1. Begin each line with a hyphen, followed by a space and then the text of the line
 2. If there is a line number in the original, include the line number in brackets with one space between the first bracket and the line text
 3. Include all footnotes on the word that Grainger references using [^f1] (and proceed sequentially: [^f2], [^f3], etc.)
-4. Include an empty line in between stanzas
+4. Include an empty line in between stanzas  
 /*Note: previously, the idea was introduced to indent the first line of each stanza. This idea will be revisited at a later time as we transcribe. In the meantime, please write the first line as a normal line of poetry.*
 
 
 ## Between the poetic lines and the footnotes
-The poetic lines will be followed by a horizontal break (make sure to include empty lines):
+The poetic lines will be followed by a horizontal break (make sure to include empty lines):  
 [poetic line]
 ~~~ markdown
 
