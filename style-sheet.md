@@ -24,7 +24,7 @@ Leave two lines between this header and the text of the poem.
 
 
 ## Between the poetic lines and the footnotes
-The poetic lines will be followed by a horizontal break (make sure to include empty lines):  
+The poetic lines will be followed by a horizontal break (make sure to include empty lines before and after the break):  
 [poetic line]
 ~~~ markdown
 
@@ -34,10 +34,9 @@ The poetic lines will be followed by a horizontal break (make sure to include em
 [footnote text]
 
 ## Footnotes  
-1. Begin with [^footnote code]: (example [^f1]:) and start your comment one space away from the colon.
-2. Indent using the SublimeText indent option and type footnote as one continuous line
-3. For footnotes that include more than one paragraph: once you complete the first paragraph, include two spaces after the period and then hit enter. This will start a line break rather than a new section. Make sure to indent the new line.
-4. If you would like to add editorial footnotes, please include your initials in parentheses at the end of each footnote that you add.
+1. Begin with `>` followed by a space and then the text of Grainger's footnote.
+2. For footnotes that include more than one paragraph: once you complete the first paragraph, include two spaces after the period and then hit enter. This will start a line break rather than a new section. 
+3. If you would like to add editorial footnotes, please include your initials in parentheses at the end of each footnote that you add.
 
 ### General Markdown guide  
 1. To italicize, enclose the word in asterisks, like `*this*`  
