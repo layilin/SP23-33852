@@ -1,3 +1,8 @@
+---
+layout: page
+title: Stylesheet
+---
+
 # Grainger style sheet  
 
 ## Starting each page  
