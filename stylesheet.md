@@ -23,7 +23,6 @@ Leave two lines between this header and the text of the poem.
 ## Poetic body  
 1. Begin each line with a hyphen, followed by a space and then the text of the line
 2. If there is a line number in the original, include the line number in brackets with one space between the first bracket and the line text
-3. Include all footnotes on the word that Grainger references using [^f1] (and proceed sequentially: [^f2], [^f3], etc.)
 4. Include an empty line in between stanzas  
 /*Note: previously, the idea was introduced to indent the first line of each stanza. This idea will be revisited at a later time as we transcribe. In the meantime, please write the first line as a normal line of poetry.*
 
