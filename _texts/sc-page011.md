@@ -35,4 +35,4 @@ source: "1764 edition"
 
 ---
 
->VER. 71. *yet virgins, far more beautiful*\]\ The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands. *Sloane*.
+>VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands. *Sloane*.

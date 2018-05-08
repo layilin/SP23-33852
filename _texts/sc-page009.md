@@ -19,7 +19,7 @@ source: "1764 edition"
 
 ---
 
->VER. 60. *green St. Christopher,*\]\ This beautiful and fertile island, and which , in Shakespear's words, may justly be stiled
+>VER. 60. *green St. Christopher,*\] This beautiful and fertile island, and which , in Shakespear's words, may justly be stiled
 
 -"A precious stone set in the silver sea,"
 
