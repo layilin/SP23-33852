@@ -7,13 +7,10 @@ source: 1764 edition
 
 [3]()
 
-## The Sugar Cane
+## THE SUGAR-CANE.
 
-_____________________________________
+### Book I.
 
-### Book I
-
-_____________________________________
 
 - What soil the Cane affects; what care demands;
 - Beneath what signs to plant; what ills await;
