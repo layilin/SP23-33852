@@ -8,8 +8,8 @@ source: "1764 edition"
 
 [53]()  
 
-# THE SUGAR-CANE.  
-## BOOK II.  
+## THE SUGAR-CANE.  
+### BOOK II.  
 
 - ENOUGH of culture.—A less pleasing theme,  
 - What ills await the ripening Cane, demands  
