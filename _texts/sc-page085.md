@@ -6,6 +6,8 @@ source: "1764 edition"
 ---
 
 
-#THE 
-#SUGAR-CANE.
-##BOOK III.
+# THE
+
+# SUGAR-CANE.
+
+## BOOK III.
