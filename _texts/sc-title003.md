@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: page
 title: "title page"
 editor: Cristobal Silva
 source: "1764 edition"
