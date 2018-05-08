@@ -30,6 +30,7 @@ As a general rule, modernize typography. We can discuss specific instances.
 ## Saving each page
 1. Naming convention: sc-page000.md
 2. For an implicit page: sc-page000i.md (these include blank pages)
+3. For pages that are named (e.g. preface): sc-preface.md
 
 ## Poetic body  
 1. Begin each line with a hyphen, followed by a space and then the text of the line
