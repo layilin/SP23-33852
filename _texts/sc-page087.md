@@ -8,9 +8,12 @@ source: "1764 edition"
 
 [87]()
 
-#THE 
-#SUGAR-CANE
-##BOOK III.
+# THE 
+
+# SUGAR-CANE
+
+
+## BOOK III.
 - FROM scenes of deep distress, the heavenly Muse,
 - Emerging joyous, claps her dewy wings.
 - As when a pilgrim, in the howling waste,
