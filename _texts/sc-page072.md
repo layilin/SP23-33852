@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Book II, page 72"
+title: "page 72"
 editor: Kimberly Takahata
 source: "1764 edition"
 ---
