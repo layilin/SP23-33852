@@ -26,7 +26,7 @@ source: "1764 edition"
 - Their feet in blotches, which admit no cure,
 - Burst loathsome out: but should its owner filch,
 - As slaves were ever of the pilfering kind,
-- This from detection screens;---so conjurers swear. [405]
+- This from detection screens;—so conjurers swear. [405]
 
 - \'TILL morning dawn, and Lucifer withdraw
 - His beamy chariot; let not the loud bell
