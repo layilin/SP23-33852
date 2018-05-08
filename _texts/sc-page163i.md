@@ -11,8 +11,8 @@ source: "1764 edition"
 
 A.
 
-ACajou, a tree, p. 8, 131.
-Acassee, p. 36.
+ACajou, a tree, p. 8, 131.  
+Acassee, p. 36.  
 Africk, p. 125.
 Anguilla, p. 120.
 Antigua, praise of, p. 98.
