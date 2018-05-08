@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: page 1
+title: page 3
 editor: Steve
 source: 1764 edition
 ---
@@ -21,7 +21,6 @@ _____________________________________
 - And Afric’s sable progeny to treat:
 - \[5]A Muse, that long hath wander’d in the groves
 - Of myrtle – indolence attempts to sing.
-
 
 - Spirit of Inspiration, that didst lead 
 - Th’ Ascrean Poet to the sacred Mount,
