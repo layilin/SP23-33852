@@ -22,6 +22,7 @@ _____________________________________
 - \[5]A Muse, that long hath wander’d in the groves
 - Of myrtle – indolence attempts to sing.
 
+
 - Spirit of Inspiration, that didst lead 
 - Th’ Ascrean Poet to the sacred Mount,
 - And taught’st him all the precepts of the swain;
