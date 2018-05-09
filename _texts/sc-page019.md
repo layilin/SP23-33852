@@ -17,7 +17,7 @@ source: "1764 edition"
 - Which lust of gain, unconscious of its end,
 - Ungrateful vexes with unceasing toil.
 
-- As, not indulg'd, the richest lands grow poor; [205]
+- AS, not indulg'd, the richest lands grow poor; [205]
 - And Liamuiga may, in future times,
 - If too much urg'd, her barrenness bewail:
 - So cultivation, on the shallowest soil,
