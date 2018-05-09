@@ -20,7 +20,7 @@ source: "1764 edition"
 - Else good Amyntor, him the graces lov'd,
 - Wisdom caress'd, and Themis call'd her own, [330]
 - Had liv'd by all admir'd, had now perus'd
-- \"These lines, will all the malice of a friend."
+- "These lines, will all the malice of a friend."
 
 - YET future rains the careful may foretell:
 - Mosquitos, sand-flies, seek the shelter'd roof,
