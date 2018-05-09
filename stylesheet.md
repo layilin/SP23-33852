@@ -25,7 +25,7 @@ Leave two lines between this header and the text of the poem.
 
 If you are transcribing a page that isn't poetry, use the layout: page to make sure it renders correctly.
 
-As a general rule, modernize typography. We can discuss specific instances.
+As a general rule, modernize typography. But do not modernize or correct any of Grainger's spelling (or misspelling). We can discuss specific instances (and see the general transcription guide section below for some specific cases).
 
 ## Saving each page
 1. Naming convention: sc-page000.md
@@ -64,7 +64,7 @@ The poetic lines will be followed by a horizontal break (make sure to include em
 1. To italicize, enclose the word in asterisks, like `*this*`  
 2. To bold, enclose the word in double asterisks, like `**this**`
 3. For an m-dash: shift option hyphen. When Grainger has a double m-dash, just type two m-dashes for now. 
-4. For Greek characters, see sheet sent from Julie. Make sure to include the ampersand and the colon.
+4. For Greek and Hebrew characters, see links sent by email from Julie. Make sure to include the ampersand and the semicolon.
 5. To add a comment to which you can return later, `<!--[text of comment]-->`   
 
 ### General transcription guide (from Julie)  
