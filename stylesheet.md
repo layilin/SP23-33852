@@ -21,8 +21,6 @@ source: "1764 edition"
 [pagenumber]()
 ~~~
 
-Leave two lines between this header and the text of the poem. 
-
 If you are transcribing a page that isn't poetry, use the layout: page to make sure it renders correctly.
 
 As a general rule, modernize typography. But do not modernize or correct any of Grainger's spelling (or misspelling). We can discuss specific instances (and see the general transcription guide section below for some specific cases).
