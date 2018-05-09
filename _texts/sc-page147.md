@@ -5,6 +5,7 @@ editor: Julie Kim
 source: "1764 edition"
 ---
 
+
 [147]()
 
 - HOWE'ER insensate some may deem their slaves,
