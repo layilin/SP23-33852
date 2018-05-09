@@ -21,11 +21,11 @@ source: "1764 edition"
 [pagenumber]()
 ~~~
 
-Include one empty line between the [page number]() and the first line of poetry.
+Notice that, in the header above, there are two empty lines between the horizontal break and the bracketed page number. Include one empty line between the bracketed page number and the first line of poetry.
 
 If you are transcribing a page that isn't poetry, use the layout: page to make sure it renders correctly.
 
-As a general rule, modernize typography. But do not modernize or correct any of Grainger's spelling (or misspelling). We can discuss specific instances (and see the general transcription guide section below for some specific cases).
+As a general rule, modernize typography. But do not modernize or correct any of Grainger's spelling (or misspelling). We can discuss specific instances (and see the general transcription guide section below for some specific cases we've already come up with rules for).
 
 ## Saving each page
 1. Naming convention: sc-page000.md
