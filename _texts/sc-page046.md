@@ -27,6 +27,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Cender*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans. Nº 208.  
+> VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Cender*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans.* Nº 208.  
 > VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadeloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribee, or Virgin-Islands.  
 > VER. 645. *on rapid Twilight's heel:*\] There is little or no twilight in the West-Indies. All the year round it is dark before eight at night. The dawn is equally short.
