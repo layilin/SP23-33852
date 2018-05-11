@@ -9,10 +9,10 @@ source: "1764 edition"
 <!-- four lines of latin poetry, italicized and indented; ck for cicrcumflex on 'o' in line 1; graiae/graioe in line 1; em-dash in line 4-->
 [vii]()
 
-	*Vos sequor, o Graiae gentis decus, inque vestris nunc*
-	*Fixa pedum pono pressis vestigia signis;*
-	*Non ita certandi cupidus, quam propter amorem,*
-	*Quod vos imitari aveo.——*
+*Vos sequor, o Graiae gentis decus, inque vestris nunc*  
+*Fixa pedum pono pressis vestigia signis;*  
+*Non ita certandi cupidus, quam propter amorem,*  
+*Quod vos imitari aveo.——*  
 
 Yet, like them too, I have generally preferred the way of description, wherever that could be done without hurting the subject.
 

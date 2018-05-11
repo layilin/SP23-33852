@@ -21,15 +21,16 @@ source: "1764 edition"
 [pagenumber]()
 ~~~
 
-Leave two lines between this header and the text of the poem. 
+Notice that, in the header above, there are two empty lines between the horizontal break and the bracketed page number. Include one empty line between the bracketed page number and the first line of poetry.
 
 If you are transcribing a page that isn't poetry, use the layout: page to make sure it renders correctly.
 
-As a general rule, modernize typography. We can discuss specific instances.
+As a general rule, modernize typography. But do not modernize or correct any of Grainger's spelling (or misspelling). We can discuss specific instances (and see the general transcription guide section below for some specific cases we've already come up with rules for).
 
 ## Saving each page
 1. Naming convention: sc-page000.md
 2. For an implicit page: sc-page000i.md (these include blank pages)
+3. For pages that are named (e.g. preface): sc-preface.md
 
 ## Poetic body  
 1. Begin each line with a hyphen, followed by a space and then the text of the line
@@ -63,7 +64,7 @@ The poetic lines will be followed by a horizontal break (make sure to include em
 1. To italicize, enclose the word in asterisks, like `*this*`  
 2. To bold, enclose the word in double asterisks, like `**this**`
 3. For an m-dash: shift option hyphen. When Grainger has a double m-dash, just type two m-dashes for now. 
-4. For Greek characters, see sheet sent from Julie. Make sure to include the ampersand and the colon.
+4. For Greek and Hebrew characters, see links sent by email from Julie. Make sure to include the ampersand and the semicolon.
 5. To add a comment to which you can return later, `<!--[text of comment]-->`   
 
 ### General transcription guide (from Julie)  
@@ -75,7 +76,7 @@ The poetic lines will be followed by a horizontal break (make sure to include em
 6. Do not italicize commas that separate italicized items in a list. For example, the commas between the following words are not italicized (and neither is the closing period): *horses*, *cats*, *dogs*.
 7. Do italicize commas and other punctuation if they appear as part of a longer, continuous piece of italicized text (the final comma is italicized as well). For example, *It was raining horses, cats, and dogs.*
 
-##To add to github
+## To add to github
 1. Navigate into \_texts folder
 2. Select "Upload files" at the top of the page
 3. Describe what you did in notes: e.g. "transcription for page 57"
