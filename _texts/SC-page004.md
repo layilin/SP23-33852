@@ -8,13 +8,13 @@ source: "1764 edition"
 [4]()
 
 - Their sylvan law convey: O may I join 
-- \[15]This choral band, and from their precepts learn
+- This choral band, and from their precepts learn \[15]
 - To deck my theme, which though to song unknown,
 - Is most momentous to my country’s weal!
 
 - So shall my numbers win the Public ear;
 - And not displease Aurelius; him to whom,
-- \[20]Imperial George, the monarch of the main,  
+- Imperial George, the monarch of the main, \[20]
 - Hath given to wield the scepter of those isles,
 - Where first the Muse beheld the spiry Cane,
 - Supreme of plants, rich subject of my song.
