@@ -26,14 +26,14 @@ source: "1764 edition"
 ---
 
 > VER. 132. *the bearded Fig*] This wonderful tree, by the Indians called the *Banian-tree*; and by the botanists *Ficus Indica*, or *Bengaliensis*, is exactly described by Q. Curtius, and beautifully by Milton in the following lines:   
-      \"The Fig-tree, not that kind renown'd for fruit,
-      \"But such as at this day to Indians known,
-      \"In Malabar and Decan spreads her arms;
-      \"Branching so broad and long, that in the ground,
-      \"The bended twigs take root, and daughters grow
-      \"About the mother-tree, a pillar'd shade,
-      \"High over-arch'd, and echoing walks between.
-      \"There oft the Indian herdsman, shunning heat,
-      \"Shelters in cool, and tends his pasturing herds
-      \"At Loop-holes cut through thickest shade."—  
+      - \"The Fig-tree, not that kind renown'd for fruit,
+      - \"But such as at this day to Indians known,
+      - \"In Malabar and Decan spreads her arms;
+      - \"Branching so broad and long, that in the ground,
+      - \"The bended twigs take root, and daughters grow
+      - \"About the mother-tree, a pillar'd shade,
+      - \"High over-arch'd, and echoing walks between.
+      - \"There oft the Indian herdsman, shunning heat,
+      - \"Shelters in cool, and tends his pasturing herds
+      - \"At Loop-holes cut through thickest shade."—  
 What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
