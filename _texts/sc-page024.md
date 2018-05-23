@@ -1,7 +1,7 @@
 ---
 layout: poem
-title: page 24
-editor: Steve
+title: "page 24"
+editor: Steve Fragano
 source: "1764 edition"
 ---
 
