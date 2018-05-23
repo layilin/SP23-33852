@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: page 3
-editor: Steve
-source: 1764 edition
+title: "page 3"
+editor: Steve Fragano
+source: "1764 edition"
 ---
 
 [3]()
