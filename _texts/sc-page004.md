@@ -7,10 +7,10 @@ source: "1764 edition"
 
 [4]()
 
-- Their sylvan law convey: O may I join 
+- Their sylvan lore convey: O may I join 
 - This choral band, and from their precepts learn \[15]
 - To deck my theme, which though to song unknown,
-- Is most momentous to my country’s weal!
+- Is most momentous to my Country’s weal!
 
 - So shall my numbers win the Public ear;
 - And not displease Aurelius; him to whom,
