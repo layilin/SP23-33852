@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "argument"
-editor: Steve
-Source: 1764 edition
+editor: Steve Fragano
+Source: "1764 edition"
 ---
 
 [2]()
