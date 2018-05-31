@@ -8,9 +8,9 @@ source: "1764 edition"
 
 [94]()
 
--  With sweet abundance. As on Lincoln-plains, [130]
+- With sweet abundance. As on Lincoln-plains, [130]
 - \(Ye plains of Lincoln sound your Dyer's praise!\)
-- When the lav'd snow-white flocks are numerous penn'd,
+- When the lav'd snow-white flocks are numerous penn'd;
 - The senior swains, with sharpen'd shears, cut off
 - The fleecy vestment; others stir the tar;
 - And some impress, upon their captives sides, [135]
@@ -20,7 +20,7 @@ source: "1764 edition"
 - Light-bandied round, but innocent of ill;
 - Nor choral song are wanting: eccho rings. [140]
 
-- NOR need the driver, Ӕthip authoriz'd,
+- NOR need the driver, Ӕthiop authoriz'd,
 - Thence more inhuman, crack his horrid whip;
 - From such dire sounds the indignant muse averts
 - Her virgin-ear, where musick loves to dwell:

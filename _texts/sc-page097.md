@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - In separate parcels, far, the infected fling:
 - Of bad Cane-juice the least admixture spoils
-- The richest, sounderst; thus, in pastoral walks,
+- The richest, soundest; thus, in pastoral walks,
 - One tainted sheep contaminates the fold. [185]
 
 - NOR yet to dung-heaps thou resign the canes,
@@ -27,11 +27,11 @@ source: "1764 edition"
 - Which Polydamna, Thone's imperial queen,
 - Taught Jove-born Helen on the banks of Nile.
 
-- As on old ocean, when the wind blows high,
+- AS on old ocean, when the wind blows high,
 - The cautious mariner contracts his sail; [200]
 - So here, when squaly bursts the speeding gale,
 - If thou from ruin would'st thy points preserve,
-- Less-bellying canvass to the storm oppose.
+- Less-bellying canvas to the storm oppose.
 
 ---
 

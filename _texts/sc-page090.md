@@ -15,7 +15,7 @@ source: "1764 edition"
 - Ends with the year, and with the year begins.
 
 - YE swains, to Heaven bend low in grateful prayer,
-- Worship the Almighty; whose kind-softering hand
+- Worship the Almighty; whose kind-fostering hand
 - Hath blest your labour, and hath given the cane [50]
 - To rise superior to each menac'd ill.
 

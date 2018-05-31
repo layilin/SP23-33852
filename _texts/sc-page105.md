@@ -22,7 +22,7 @@ source: "1764 edition"
 
 - THE skill'd chemia, boast of modern arts,
 - Know from experiment, the fire of truth,
-- In mant a plant that oil, and acid juice,
+- In many a plant that oil, and acid juice,
 - And ropy mucilage, by nature live: [345]
 - These, envious, stop the much desir'd embrace
 - Of the essential salts, tho' coction bid

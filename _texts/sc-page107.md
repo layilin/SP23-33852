@@ -8,12 +8,12 @@ source: "1764 edition"
 
 [107]()
 
-- In silence lock it, sudden, and constraint,
+- In silence lock it, sudden, and constrain'd,
 - \(Death to Xantippe,\) with distorting pain.
 
 - NOR is it not effectual: But wouldst thou [360]
 - Have rival brokers for thy cades contend;
-- Superior arts remain. —Small casks provide,
+- Superior arts remain.—Small casks provide,
 - Replete with lime-stone thoroughly calcin'd,
 - And from the air secur'd: This Bristol sends,
 - Bristol, Britannia's second mart and eye! [365]

@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [109]()
 
-- The fam'd Bermuda's ever-healthy isles,
+- THE fam'd Bermuda's ever-healthy isles,
 - More fam'd by gentle Waller's deathless strains,
 - Than for their cedars, which, insulting, fly
 - O'er the wide ocean; 'mid their rocks contain

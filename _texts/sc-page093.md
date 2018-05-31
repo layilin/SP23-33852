@@ -18,7 +18,7 @@ source: "1764 edition"
 - Measures two inches full;\) and near the root
 - Lop the stem off, which quivers in their hand [115]
 - With fond impatience: soon it's branchy spires,
-- \(Food to thy cattle\) it resignes; and soon
+- \(Food to thy cattle\) it resigns; and soon
 - It's tender prickly tops, with eyes thick set,
 - To load with future crops thy long-hoed land.
 - These with their green, their pliant branches bound, [120]

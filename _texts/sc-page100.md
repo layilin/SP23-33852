@@ -25,7 +25,7 @@ source: "1764 edition"
 - In the receiver floats a limpid stream.
 - So twice five casks, with muscovado fill'd [255]
 - Shall from thy staunchions drip, ere Day's bright god
-- Hath in the Atlantic fix times cool'd his wheels.
+- Hath in the Atlantic six times cool'd his wheels.
 
 - WOULDST thou against calamity provide?
 - Let a well shingled roof, from Raleigh's land,

@@ -18,7 +18,7 @@ source: "1764 edition"
 - A tedious journey; yet not weary they,
 - Drawn by the enchantment of his artless song.
 - What cannot musick?——When brown Ceres asks [160]
-- The reapers sickle; what like magic found,
+- The reapers sickle; what like magic sound,
 - Puff'd from sonorous bellows by the squeeze
 - Of tuneful artist, can the rage disarm
 - Of the swart dog-star, and make harvest light?

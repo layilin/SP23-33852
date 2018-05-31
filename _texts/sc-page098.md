@@ -21,7 +21,7 @@ source: "1764 edition"
 - The organic spirit, principle of life!
 - Lord of the seasons! who in courtly pomp
 - Lacquay thy presence, and with glad dispatch, [215]
-- Pour at thy bidding, o'ver the land and sea!
+- Pour at thy bidding, o'er the land and sea!
 - Parent of Vegetation, whose fond grasp
 - The Sugar-Cane displays; and whose green car
 - Soft-stealing dews, with liquid pearls adorn'd,

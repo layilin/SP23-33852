@@ -20,7 +20,7 @@ source: "1764 edition"
 - Deny protection? Muse suppress the tale.
 
 - YE! who in bundles bind the lopt-off Canes; [180]
-- But chiefly ye! who feed the tight0brac'd mill;
+- But chiefly ye! who feed the tight-brac'd mill;
 
 ---
 
