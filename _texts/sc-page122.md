@@ -1,0 +1,19 @@
+---
+layout: poem
+title: "page 122"
+editor: Elizabeth Cornell
+source: "1764 edition"
+---
+
+
+[122]()
+
+- Of use to mortal man, life to prolong,
+- To soften, or adorn; what genuine joy,
+- What exultation of supreme delight, [650]
+- Will swell my rpatured bosom. Then, whend death
+- Shall call me hence, I'll unrepining go;
+- Nor envy conquerors their storied tombs,
+- Tho' not a stone point out my humble grave.
+
+- The END of BOOK III.
