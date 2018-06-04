@@ -19,7 +19,7 @@ source: "1764 edition"
 [internal] Page 81, for lines 505 and 506, read  
 *The fring'd urtica spreads her purple form*  
 *To catch the gale, and dances o'er the waves:*  
-Ibid. in the notes, for *nautilus* read *urtica*.  <!--These two lines of poetry should be indented-->
+[internal] Ibid. in the notes, for *nautilus* read *urtica*.  <!--These two lines of poetry should be indented-->
 [internal] Page 100, line 252, for *thro'* read *through*.  
 [internal] Page 102, line 285, the same.  
 [internal] Page 110, line 425, for *weighed* read *weigh'd*.  
