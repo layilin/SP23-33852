@@ -8,16 +8,16 @@ source: "1764 edition"
 [8]()
 
 - The golden shaddoc, the forbidden fruit,
-- The white acajou, and rich sabbaca: \[45]
+- The white acajou, and rich sabbaca: [45]
 - For, where these trees their leafy banners raise
 - Aloft in air, a grey deep earth abounds,
 - Fat, light; yet, when it feels the wounding hoe, 
 - Rising in clods, which ripening suns and rain
-- Resolve to crumbles, yet not pulverize: \[50]
+- Resolve to crumbles, yet not pulverize: [50]
 - In this the soul of vegetation wakes, 
-- Pleas'd at the planter's call, the burst on day.
+- Pleas'd at the planter's call, to burst on day.
 
-- Thrice happy he, to whom such fields are given!
+- THRICE happy he, to whom such fields are given!
 - For him the Cane with little labour grows;
 
 ---
