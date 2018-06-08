@@ -4,7 +4,7 @@ title: Tags
 ---
 
 
-#Tags to use when annotating
+**Tags to use when annotating**
 
 People  
 Plants  
@@ -18,5 +18,3 @@ Measurements
 Indigenous  
 Citations  
 Food and drink  
-
----
