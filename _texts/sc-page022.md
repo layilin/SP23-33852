@@ -7,26 +7,26 @@ source: "1764 edition"
 
 [22]()
 
-- It not imports beneath what sign thy hoes
+- IT not imports beneath what sign thy hoes
 - The deep trough sink, and ridge alternate raise:
-- If this from washes guard thy gemmy tops; \[260]
+- If this from washes guard thy gemmy tops; [260]
 - And that arrest the moisture these require.
 
-- Yet, should the site of thine estate permit,
+- YET, should the site of thine estate permit,
 - Let the trade-wind thy ridges ventilate;
 - So shall a greener, loftier Cane arise,
-- And richest nectar in thy coppers foam. \[265]
+- And richest nectar in thy coppers foam. [265]
 
 - As art transforms the savage face of things,
 - And order captivates the harmonious mind;
 - Let not thy Blacks irregularly hoe: 
 - But, aided by the line, consult the site
-- Of thy demesnes; and beautify the whole. \[270]
+- Of thy demesnes; and beautify the whole. [270]
 - So when a monarch rushes to the war,
 - To drive invasion from his frighted realm;
 - Some delegated chief the frontier views,
 - And to each squadron, and brigade, assigns
-- Their order'd station: Soon the tented field \[275]
+- Their order'd station: Soon the tented field [275]
 
 ---
 
