@@ -2,11 +2,10 @@
 layout: page
 title: sample annotations
 editor: Julie and Cristobal
-source: various
 ---
 
 
-#Sample Annotations
+# Sample Annotations
 
 3.6 myrtle-indolence. *Myrtus communis*, an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
