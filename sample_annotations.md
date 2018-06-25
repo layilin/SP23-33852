@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Sample Annotations
+title: sample annotations
 editor: Julie and Cristobal
 source: various
 ---
 
+
+#Sample Annotations
 
 3.6 myrtle-indolence. *Myrtus communis*, an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
@@ -14,7 +16,7 @@ source: various
 
 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
 
-3.12 Dyer. FIRSTNAME Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757). Grainger reviewed Dyer's poem in the April 1757 issue of the *Monthly Review*.  
+3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757). Grainger reviewed Dyer's poem in the April 1757 issue of the *Monthly Review*.  
 
 3.12 Pomona's Bard. John Philips (1676-1709), author of the georgic poem *Cyder* (1708). Pomona is the Roman goddess of fruit.  
 
