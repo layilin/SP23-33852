@@ -7,6 +7,8 @@ editor: Julie and Cristobal
 
 # Sample Annotations
 
+## From p. 3 (the first page of Book I)
+
 3.6 myrtle-indolence. *Myrtus communis*, an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon. Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
