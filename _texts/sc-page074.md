@@ -27,10 +27,10 @@ source: "1764 edition"
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied isles: The solsaterre
+- Oft shake the astonied isles: The solfaterre
 
 ---
 
-> VER. 392. *solsaterre*\] Volcanos are called *sulphurs*, *or solsaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum in the solsaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 ---
