@@ -25,7 +25,7 @@ source: "1764 edition"
 
 ---
 
-> VER. 17. *Tho' mountain heapt on mountains*\] This more particularly alludes to St. Kitts; where one of the highest ridges of that chain of mountains, which run through its center, from one end of it to the other, bears upon it another mountain, which, somewhat resembling the legendary prints of the devil's carrying on his shoulders St. Christopher; or, as others write, of a giant, of that appellation, carrying our Saviour, in the form of a child, in the same manner, through a deep sea; gave name, to this island.
+> VER. 17. *Tho' mountains heapt on mountains*\] This more particularly alludes to St. Kitts; where one of the highest ridges of that chain of mountains, which run through its center, from one end of it to the other, bears upon it another mountain, which, somewhat resembling the legendary prints of the devil's carrying on his shoulders St. Christopher; or, as others write, of a giant, of that appellation, carrying our Saviour, in the form of a child, in the same manner, through a deep sea; gave name, to this island.
 
 > VER. 25. *Of broad-leaf'd china,*\] The leaves of this medicinal tree are so large, that the Negroes commonly use them to cover the water, which they bring in pails from the mountain, where it chiefly grows. The roots of this tree were introduced into European practice, soon after the venereal disease; but, unless they are fresh, it must be confessed they possess fewer virtues than either sarsaparilla or lignum
 
