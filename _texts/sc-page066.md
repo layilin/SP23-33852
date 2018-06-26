@@ -12,7 +12,7 @@ source: "1764 edition"
 - Unseemly stains succeed; which, nearer viewed
 - By microscopic arts, small eggs appear,
 - Dire fraught with reptile-life; alas, too soon
-- They burst their slimy jail, and crawl abroad,
+- They burst their filmy jail, and crawl abroad,
 - Bugs of uncommon shape; thrice hideous show! [215]
 - Innumerous as the painted shells, that load
 - The wave-worn margin of the Virgin-isles!
@@ -21,7 +21,7 @@ source: "1764 edition"
 - Naked, her gold fruit to the God of noon. [220]
 - Remorseless to its youth; what pity, say,
 - Can the Cane's age expect? In vain, its pith
-- With juice nectarious slows; to pungent sour,
+- With juice nectarious flows; to pungent sour,
 - Foe to the bowels, soon its nectar turns:
 - Vain every joint a gemmy embryo bears, [225]
 - Alternate rang'd; from these no filial young
@@ -32,3 +32,5 @@ source: "1764 edition"
 ---
 
 > VER. 218. *the plumb-tree sheds*,\] This is the Jamaica plumb-tree. When covered with fruit, it has no leaves upon it. The fruit is wholesome. In like manner, the panspan is destitute of foliage when covered with flowers. The latter is a species of jessamine, and grows as large as an apple-tree.
+
+---
