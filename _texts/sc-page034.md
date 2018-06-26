@@ -9,7 +9,7 @@ source: "1764 edition"
 [34]()  
 
 - OF mountain-lands oeconomy permits  
-- A third, in Canes of might growth to rise:  
+- A third, in Canes of mighty growth to rise:  
 - But, in the low-land plain, the half will yield [480]  
 - Tho' not so lofty, yet a richer Cane,  
 - For many a crop; if seasons glad the soil.  
@@ -34,4 +34,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 482. *if seasons glad the soil*\] Long-continued and violent rains are called *Seasons* in the West-Indies.
+> VER. 482. *if seasons glad the soil.*\] Long-continued and violent rains are called *Seasons* in the West-Indies.
+
+---
