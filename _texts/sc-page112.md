@@ -32,3 +32,5 @@ source: "1764 edition"
 
 - BE thrifty, planter, even thy skimmings save:
 - For, planter, know, the refuse of the Cane
+
+---
