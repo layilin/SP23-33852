@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [136]()
 
-- YET, planter, let humanity prevail.——
+- YET, planter, let humanity prevail.—
 - Perhaps thy Negroe, in his native land,
 - Possest large fertile plains, and slaves, and herds: <!--[Possest is in the original, as opposed to Possessed]-->
 - Perhaps, whene'er he deign'd to walk abroad,
@@ -20,15 +20,17 @@ source: "1764 edition"
 - Gave him a captive to his deadliest foe: [220]
 - Perhaps, incautious, in his native fields,
 - (On pleasurable scenes his mind intent)
-- All as he wandered; from the neighboouring grove,
-- Fell ambush dragg'd him to the hated main.——
+- All as he wandered; from the neighbouring grove,
+- Fell ambush dragg'd him to the hated main.—
 - Were they even sold for crimes; ye polish'd, say! [225]
-- Ye, to whom Learning opes amplest page!
+- Ye, to whom Learning opes her amplest page!
 - Ye, whom the knowledge of a living God
 - Should lead to virtue! Are ye free from crimes?
 - Ah pity, then, these uninstructed swains;
 - And still let mercy soften the decrees [230]
 - Of rigid justice, with her lenient hand.
 
-- OH, did the tender muse posses the power,
+- OH, did the tender muse possess the power,
 - Which monarchs have, and monarchs oft abuse:
+
+---
