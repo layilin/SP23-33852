@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: "1764 edition"
 ---
 
+
 [16]()
 
 - Change, like Medusa's head, whate'er they touch,
@@ -30,4 +31,6 @@ source: "1764 edition"
 
 ---
 
-> shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time, they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner, *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.    
+> shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time, they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner, *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.
+
+---
