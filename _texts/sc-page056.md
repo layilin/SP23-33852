@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - With these attack the predatory bands;  
 - Quickly the unequal conflict they decline,  
-- And, chattering, fling the ill-got spoils away.  
+- And, chattering, fling their ill-got spoils away.  
 - So when, of late, innumerous Gallic hosts [55]  
 - Fierce, wanton, cruel, did by stealth invade  
 - The peaceable American's domains,  
@@ -29,4 +29,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 64. *These to destroy*\] Rats, *&c*. are not natives of America, but came by shipping from Europe. They breed in the ground, under loose rocks and bushes. Durante, a Roman, who was physician to Pope Sixtus Quintus, and who wrote a Latin poem on the preservation of health, enumerates domestic rats among animals that may be eaten with safety. But if these are wholesome, cane-rats must be much more delicate, as well as more nourishing. Accordingly we find most field Negroes fond of them, and I have heard that scraps of cane-rats are publicly sold in the markets of Jamaica.
+> VER. 64. *These to destroy*\] Rats, *&c.* are not natives of America, but came by shipping from Europe. They breed in the ground, under loose rocks and bushes. Durante, a Roman, who was physician to Pope Sixtus Quintus, and who wrote a Latin poem on the preservation of health, enumerates domestic rats among animals that may be eaten with safety. But if these are wholesome, cane-rats must be much more delicate, as well as more nourishing. Accordingly we find most field Negroes fond of them, and I have heard that straps of cane-rats are publicly sold in the markets of Jamaica.
+
+---
