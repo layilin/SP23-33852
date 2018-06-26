@@ -20,7 +20,7 @@ source: "1764 edition"
 - Whose cool perflation, wooed through many a grate, [340]
 - Dispells the steam, and gives the lungs to play.
 
-- THE skill'd chemia, boast of modern arts,
+- THE skill'd in chemia, boast of modern arts,
 - Know from experiment, the fire of truth,
 - In many a plant that oil, and acid juice,
 - And ropy mucilage, by nature live: [345]
@@ -34,3 +34,5 @@ source: "1764 edition"
 ---
 
 > VER. 339. *Open, and pervious*\] This also assists the christallization of the Sugar.
+
+---
