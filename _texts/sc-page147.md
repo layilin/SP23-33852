@@ -9,7 +9,7 @@ source: "1764 edition"
 [147]()
 
 - HOWE'ER insensate some may deem their slaves,
-- Nor \'bove the bestial rank; far other thoughts
+- Nor 'bove the bestial rank; far other thoughts
 - The muse, soft daughter of humanity!
 - Will ever entertain.—The Ethiop knows,
 - The Ethiop feels, when treated like a man; [425]
@@ -32,3 +32,5 @@ source: "1764 edition"
 - Would'st thou preserve them from the jaws of death; [440]
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
+
+---
