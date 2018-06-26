@@ -16,5 +16,4 @@ AND yet, except some scattered hints in Pere Labat, and other French travellers 
 
 IT must be confessed, that terms of art look awkward in poetry; yet didactic compositions cannot wholly dispense with them. Accordingly we find that Hesiod and Virgil, among the ancients, with Philips and Dyer, (not to mention some other poets now living in our own country); have been obliged to insert them in their poems. Their example is a sufficient apology for me, for in their steps I shall always be proud to tread.
 
-
 ---
