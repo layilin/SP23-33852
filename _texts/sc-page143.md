@@ -34,3 +34,5 @@ source: "1764 edition"
 ---
 
 > VER. 370. *snake-mark'd*\] The negroe-conjurers, or Obia-men, as they are called, carry about them a staff, which is marked with frogs, snakes, *&c.* The
+
+---
