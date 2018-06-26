@@ -5,7 +5,6 @@ editor: Lina Jiang
 source: "1764 edition"
 ---
 
-
 [97]()
 
 - In separate parcels, far, the infected fling:
@@ -16,7 +15,7 @@ source: "1764 edition"
 - NOR yet to dung-heaps thou resign the canes,
 - Which or the sun hath burnt, or rats have gnaw'd.
 - These, to small junks reduc'd, and in huge casks
-- Steept, where no cool winds blow; do thou ferment:——.
+- Steept, where no cool winds blow; do thou ferment:—.
 - Then, when from his entanglements inlarg'd [190]
 - Th' evasive spirit mounts; by Vulcan's aid,
 - \(Nor Amphitryte will her help deny,\)
@@ -31,8 +30,10 @@ source: "1764 edition"
 - The cautious mariner contracts his sail; [200]
 - So here, when squaly bursts the speeding gale,
 - If thou from ruin would'st thy points preserve,
-- Less-bellying canvas to the storm oppose.
+- Less-bellying canvass to the storm oppose.
 
 ---
 
 > VER. 192. *Amphitryte*\] A mixtue of sea water, is a real improvement in the distillation of rum.
+
+---
