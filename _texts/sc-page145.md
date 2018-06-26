@@ -11,7 +11,7 @@ source: "1764 edition"
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;
 - A lizard's skeleton; a serpent's head:
-- Those mix'd with salt, and water from the spring, [390]
+- These mix'd with salt, and water from the spring, [390]
 - Are in a phial pour'd; o'er these the leach
 - Mutters strange jargon, and wild circles forms.
 
@@ -31,3 +31,5 @@ source: "1764 edition"
 
 - 'TILL morning dawn, and Lucifer withdraw
 - His beamy chariot; let not the loud bell
+
+---
