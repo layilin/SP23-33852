@@ -27,10 +27,12 @@ source: "1764 edition"
 
 - THY foaming coppers well with fewel feed;
 - For a clear, strong, continued fire improves
-- Thy muscovado's colour, and its grain.—— [310]
+- Thy muscovado's colour, and its grain.— [310]
 - Yet vehement heat, protracted, will consume
 - Thy vessels, whether from the martial mine,
 
 ---
 
 > VER. 312. *Thy vessels,*\] The vessels, wherein the Cane-juice is reduced to Sugar by coction, are either made of iron or of copper. Each sort hath its advantages and
+
+---
