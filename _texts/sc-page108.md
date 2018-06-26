@@ -24,10 +24,12 @@ source: "1764 edition"
 - Nor loves ill-founded; when no other art
 - Can bribe to union the coy floating salts,
 - A proper portion of this precious dust,
-- Cast in the wave, \(so showers alone of gold
-- Could win fair Danae to the God's embrace;\) [395]
+- Cast in the wave, (so showers alone of gold
+- Could win fair Danae to the God's embrace;) [395]
 - With nectar'd muscovado soon will charge
 - Thy shelving coolers, which, severely press'd
 - Between the fingers, not resolves; and which
 - Rings in the cask; and or a light-brown hue,
 - Or thine, more precious silvery-grey, assumes. [400]
+
+---
