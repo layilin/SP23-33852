@@ -20,7 +20,7 @@ source: "1764 edition"
 
 > of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical search after gold mines in Florida and Guiana, settled themselves soon after at the mouth of the river Surinam, where they cultivated the Cane with such success, that when the colony was ceded to the Dutch by the treaty of Breda, it maintained not less than 40,000 Whites, half that number of slaves, and employed one year with another 15,000 ton of shipping. This cession was a severe blow to the English-trade, which it did not recover for several years, though many of the Surinam Planters carried their art and Negroes to the Leeward Islands and Jamaica, which then began to be the object of political consideration in England.  
 
-Sugar is twice mentioned by Chaucer, who flourished in the fourteenth century; and succeeding poets, down to the middle of the last, use the epithet *Sugar'd*, whenever they would express any thing uncommonly pleasing: since that time, the more elegant writers seldom admit of that adjective in a metaphorical sense; but herein perhaps they are affectedly squeamish. 
+> Sugar is twice mentioned by Chaucer, who flourished in the fourteenth century; and succeeding poets, down to the middle of the last, use the epithet *Sugar'd*, whenever they would express any thing uncommonly pleasing: since that time, the more elegant writers seldom admit of that adjective in a metaphorical sense; but herein perhaps they are affectedly squeamish. 
 
 > VER. 29. *Muscovado,*\] The Cane-juice being brought to the consistence of syrup, and, by subsequent coction, granulated, is then called *muscovado* \(a Spanish word probably, though not to be found in Pineda) vulgarly brown Sugar; the French term it *sucre brut*.
 
