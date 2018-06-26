@@ -39,6 +39,6 @@ source: "1764 edition"
 > "Shelters in cool, and tends his pasturing herds  
 > "At Loop-holes cut through thickest shade."——  
       
->What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
+> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
 
 ---
