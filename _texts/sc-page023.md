@@ -14,7 +14,7 @@ source: "1764 edition"
 - PLANTER, improvement is the child of time;
 - What your sires knew not, ye their offspring know:
 - But hath your art receiv'd Perfection's stamp? [280]
-- Thou can'st not say.—Unprejudic'd, then learn
+- Thou can'st not say.——Unprejudic'd, then learn
 - Of ancient modes to doubt, and new to try:
 - And if Philosophy, with Wisdom, deign
 - Thee to enlighten with their useful lore;
@@ -22,7 +22,7 @@ source: "1764 edition"
 
 - THEN say, ye swains, whom wealth and fame inspire,
 - Might not the plough, that rolls on rapid wheels,
-- SAVE no small labour to the hoe-arm'd gang?
+- Save no small labour to the hoe-arm'd gang?
 - Might not the culture taught the British hinds,
 - By Ceres' son, unfailing crops secure; [290]
 - Tho' neither dung nor fallowing lent their aid?
@@ -36,3 +36,5 @@ source: "1764 edition"
 ---
 
 >VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.
+
+---
