@@ -32,3 +32,5 @@ source: "1764 edition"
 ---
 
 > VER. 392. *solsaterre*\] Volcanos are called *sulphurs*, *or solsaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum in the solsaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+
+---
