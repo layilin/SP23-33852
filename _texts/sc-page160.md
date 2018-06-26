@@ -12,7 +12,7 @@ source: "1764 edition"
 - But, sunk in slumbers of immortal bliss,
 - To bards had listned on a fancied Thames!
 
-- ALL hail, old father Thames! tho' not far from [635]
+- ALL hail, old father Thames! tho' not from far [635]
 - Thy springing waters roll; nor countless streams,
 - Of name conspicuous, swell thy watery store;
 - Tho' thou, no Plata, to the sea devolve
@@ -35,3 +35,5 @@ source: "1764 edition"
 ---
 
 > VER. 638. *no Plata*,\] One of the largest rivers of South America.
+
+---
