@@ -29,5 +29,5 @@ source: "1764 edition"
 - As slaves were ever of the pilfering kind,
 - This from detection screens;—so conjurers swear. [405]
 
-- \'TILL morning dawn, and Lucifer withdraw
+- 'TILL morning dawn, and Lucifer withdraw
 - His beamy chariot; let not the loud bell
