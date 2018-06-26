@@ -9,7 +9,7 @@ source: "1764 edition"
 [150]()
 
 - THIS tract secure, with hedges or of limes, [465]
-- Or bush citrons, or the shapely tree
+- Or bushy citrons, or the shapely tree
 - That glows at once with aromatic blooms,
 - And golden fruit mature. To these be join'd,
 - In comely neighbourhood, the cotton shrub;
@@ -29,10 +29,12 @@ source: "1764 edition"
 - BUT let some antient, faithful slave erect
 - His sheltered mansion near; and with his dog,
 - His loaded gun, and cutlass, guard the whole:
-- Else negro-fugitives, who skulk \'mid rocks [485]
+- Else negro-fugitives, who skulk 'mid rocks [485]
 
 ---
 
 > VER. 466. *the shapely tree*\] The orange tree.
 
-> VER. 478. *thy mother nam'd*\] See Book. I. p. 43.
+> VER. 478. *thy mother nam'd*\] See Book I. p. 43.
+
+---
