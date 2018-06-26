@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: "1764 edition"
 ---
 
+
 [24]()
 
 - The task how difficult, to cull the best
@@ -18,7 +19,7 @@ source: "1764 edition"
 - Urge me to pluck, from Fancy's soaring wing, [305]
 - A plume to deck Experience' hoary brow.
 
-- ATTEND.—The son of Time and Truth declares;
+- ATTEND.——The son of Time and Truth declares;
 - Unless the low-hung clouds drop fatness down,
 - No bunching plants of vivid green will spring,
 - In goodly ranks, to fill the planter's eye. [310]
@@ -31,4 +32,6 @@ source: "1764 edition"
 
 - SHORT sudden rains, from Ocean's ruffled bed,
 - Driven by some momentary squalls, will oft
-- With frequent heavy bubbling drops, down-fall;    
+- With frequent heavy bubbling drops, down-fall;
+
+---
