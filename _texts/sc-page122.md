@@ -11,9 +11,11 @@ source: "1764 edition"
 - Of use to mortal man, life to prolong,
 - To soften, or adorn; what genuine joy,
 - What exultation of supreme delight, [650]
-- Will swell my rpatured bosom. Then, whend death
+- Will swell my raptured bosom. Then, when death
 - Shall call me hence, I'll unrepining go;
 - Nor envy conquerors their storied tombs,
 - Tho' not a stone point out my humble grave.
 
 - The END of BOOK III.
+
+---
