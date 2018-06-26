@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "page 85"
+title: "page 1i"
 editor: Lina Jiang
 source: "1764 edition"
 ---
 
 
-[85i]()
+[1i]()
 
----  
+---
 
 # THE
 
 # SUGAR-CANE.
 
 
-## BOOK III.  
+## BOOK I.
 
 ---

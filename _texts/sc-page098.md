@@ -32,3 +32,5 @@ source: "1764 edition"
 ---
 
 > VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds may be used for every purpose of life. Antigua is well fortified, and has a good militia.
+
+---

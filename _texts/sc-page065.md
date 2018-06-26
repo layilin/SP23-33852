@@ -35,3 +35,5 @@ source: "1764 edition"
 > VER. 205. *Tho' seasons*\] Without a rainy season, the Sugar-cane could not be cultivated to any advantage: For what Pliny the Elder writes of another plant may be applied to this, *Gaudet irriguis, et toto anno bibere amat*.
 
 > VER. 205. *this pestilence*\] It must, however, be confessed, that the blast is less frequent in lands naturally rich, or such as are made so by well-rotted manure.
+
+---

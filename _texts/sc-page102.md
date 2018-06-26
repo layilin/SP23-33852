@@ -33,4 +33,7 @@ source: "1764 edition"
 ---
 
 > VER. 282. *Karukera*\] The Indian name of Guadaloupe.
-> VER. 282. *Matanina*\] The Caribbean name of Martinico. The Havannah had not then been taken.
+
+> VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah had not then been taken.
+
+---

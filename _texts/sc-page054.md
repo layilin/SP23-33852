@@ -9,7 +9,7 @@ source: "1764 edition"
 [54]()  
 
 - Oft sees red lightning at the midnight-hour,  
-- When nods the watches, stream along the sky;  
+- When nod the watches, stream along the sky;  
 - Not innocent, as what the learned call  
 - The Boreal morn, which, through the azure air, [15]  
 - Flashes its tremulous rays, in painted streaks,  
@@ -32,3 +32,5 @@ source: "1764 edition"
 - SHENSTONE; my soft pipe, and my dittied song  
 - Should hush the hurricanes tremendous roar,  
 - And from each evil guard the ripening Cane!
+
+---

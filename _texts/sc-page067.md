@@ -32,3 +32,5 @@ source: "1764 edition"
 ---
 
 > VER. 231. *Eurus reigns*\] The East is the centre of the trade-wind in the West-Indies, which veers a few points to the North or South. What Homer says of the West-wind, in his islands of the blessed, may more aptly be applied to the trade-winds.
+
+---

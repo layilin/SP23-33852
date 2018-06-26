@@ -21,19 +21,25 @@ WITH NOTES.
 
 ---
 *Agredior primusque novis Helicona movere*
+
 *Cantibus, et viridi nutantes vertice sylvas;*
+
 *Hospita sacra ferens, nulli memorata priorum.* MANIL.
+
 ---
 
 By JAMES GRAINGER, M. D. &c.
 
-___
-___
+---
+
+---
 
 LONDON:
+
 Printed for R. and J. DODSLEY, in Pall-mall.
+
 ---
 MDCCLXIV.
-
-
 ---
+
+

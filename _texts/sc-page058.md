@@ -28,6 +28,8 @@ source: "1764 edition"
 
 ---
 
-> foul feeders, many of them greedily devouring the raw guts of fowls: They also feed on dead mules and horses; whose carcasses, therefore, should be buried deep, that the Negroes may not come at them. But the surest way is to burn them; otherwise, they will be apt, privily, to kill those useful animals, in order to feast on them.
+> neral, foul feeders, many of them greedily devouring the raw guts of fowls: They also feed on dead mules and horses; whose carcasses, therefore, should be buried deep, that the Negroes may not come at them. But the surest way is to burn them; otherwise, they will be apt, privily, to kill those useful animals, in order to feast on them.
 
 > VER. 76. *Nor thou their wayward*\] Pere Labat says that Cane-rats give those Negroes who eat them pulmonic disorders, but the good Jesuit was no physician. I have been told by those who have eat them, that they are very delicate food.
+
+---

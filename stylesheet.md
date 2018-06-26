@@ -54,7 +54,7 @@ The poetic lines will be followed by a horizontal break (make sure to include em
 ## Footnotes  
 1. Begin with `>` followed by a space and then the text of Grainger's footnote.
 2. Include a \ before the bracket of the footnote (this prevents the bracket from being confused as something else later)
-3. For footnotes that include more than one paragraph: once you complete the first paragraph, include two spaces after the period and then hit enter. This will start a line break rather than a new section. 
+3. For footnotes that include more than one paragraph: once you complete the first paragraph, include two spaces after the period and then hit enter. This will start a line break rather than a new section. Then include `>` and one space before continuing to transcribe the text.
 4. If you would like to add editorial footnotes, please include your initials in parentheses at the end of each footnote that you add.
 
 ## For title pages

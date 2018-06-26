@@ -11,7 +11,7 @@ source: "1764 edition"
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;
 - Breathless the royal palm-tree's airiest van;
-- While, o'er the panting isle, the daemon Head [295]
+- While, o'er the panting isle, the daemon Heat [295]
 - High hurls his flaming brand; vast, distant waves
 - The main drives furious in, and heaps the shore
 - With strange productions: Or, the blue serene
@@ -23,12 +23,14 @@ source: "1764 edition"
 - By turns, usurps the empire of the air
 - With quick inconstancy; [305]
 - Thy herds, as sapient of the coming storm,
-- (for beasts partake some portion of the sky,)
+- (For beasts partake some portion of the sky,)
 - In troops associate; and, in cold sweats bath'd,
 - Wild-bellowing, eye the pole. Ye seamen, now,
-- Ply to the southweard, if the changeful moon, [310]
+- Ply to the southward, if the changeful moon, [310]
 - Or, in her interlunar palace hid,
 
 ---
 
 > VER. 293. *stocks and mill-points:*\] The sails are fastened to the mill-points, as those are to the stocks. They should always be taken down before the hurricane-season.
+
+---

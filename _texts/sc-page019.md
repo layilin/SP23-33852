@@ -25,7 +25,7 @@ source: "1764 edition"
 - With spiry pomp, all bountifully rise. [210]
 - Thus Britain's flag, should discipline relent,
 - \'Spite of the native courage of her sons,
-- Would to the lily srike: ah, very far,
+- Would to the lily strike: ah, very far,
 - Far be that woful day: the lily then
 - Will rule wide ocean with resistless sway; [215]
 - And to old Gallia's haughty shore transport
@@ -35,5 +35,4 @@ source: "1764 edition"
 
 > VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
 
-
-
+---

@@ -31,4 +31,6 @@ source: "1764 edition"
 - And many a night shall feed thy crackling mills
 - With richest offerings: while thy far seen flames, [105]
 - Bursting thro' many a chimney, bright emblaze
-- The Ӕthiop-brow of night. And see, they pour
+- The AEthiop-brow of night. And see, they pour
+
+---

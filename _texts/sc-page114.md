@@ -5,13 +5,14 @@ editor: Elizabeth Cornell
 source: "1764 edition"
 ---
 
-[123]()
 
-- I spurn indignant, toil a pleasure seems. [500]
+[114]()
+
+- I spurn indignant; toil a pleasure seems. [500]
 - For not Marne's flowery banks, nor Tille's green bounds,
-- Where Ceres with the god of vintage reigns,
-- In happiest union, not Vigornian hills,
-- Pomona's lov'd abode, afford to an
+- Where Ceres with the God of vintage reigns,
+- In happiest union; not Vigornian hills,
+- Pomona's lov'd abode, afford to man
 - Goblets more priz'd, or laudable of taste, [505]
 - To slake parch'd thirst, and mitigate the clime.
 
@@ -30,5 +31,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 501. *Marne's flowery banks, nor Tille's*/] Two rivers in France, along whose banks the best Burgundy and Champagne-grapes grow.
-> VER. 510 *For her, fair Auth'ress!*/] Mrs. Lennox.
+> VER. 501. *Marne's flowery banks, nor Tille's*\] Two rivers in France, along whose banks the best Burgundy and Champagne-grapes grow.
+
+> VER. 510. *For her, fair Auth'ress!*\] Mrs. Lennox.

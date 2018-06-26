@@ -25,7 +25,7 @@ source: "1764 edition"
 - That stretch'd her speechless, o'er her lovely head
 - Had innocently roll'd.
 
-- MEAN while, impatient Junior lept ashore,
+- MEAN while, impatient Junio lept ashore,
 - Regardless of the Daemons of the storm.
 - Ah youth! what woes, too great for man to bear, [525]
 - Are ready to burst on thee? Urge not so
@@ -33,4 +33,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 509. *Tropic-bird*\] The French call this bird Fregate, on account of its swift flying. It is only to be met with in warm latitudes.
+> VER. 509. *Tropic-bird*\] The French call this bird Fregate, on account of its swift flying. It is only to be met with in the warm latitudes.
+
+---

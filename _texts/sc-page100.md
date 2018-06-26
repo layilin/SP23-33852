@@ -23,7 +23,7 @@ source: "1764 edition"
 - Fast flows the liquor thro' the lead-lin'd spouts;
 - And depurated by opposing wires,
 - In the receiver floats a limpid stream.
-- So twice five casks, with muscovado fill'd [255]
+- So twice five casks, with muscovado fill'd, [255]
 - Shall from thy staunchions drip, ere Day's bright god
 - Hath in the Atlantic six times cool'd his wheels.
 
@@ -33,3 +33,5 @@ source: "1764 edition"
 ---
 
 > VER. 259. *Raleigh's land*\] Sir Walter Raleigh gave the name of Virginia, in honour of Q. Elizabeth, to the whole of the north-east of North America, which Sebastian Cabot, a native of Bristol, \(though others call him a Venetian,\) first disco-
+
+---

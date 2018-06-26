@@ -11,7 +11,7 @@ source: "1764 edition"
 - Nor gently sloping side of breezy hill,
 - Nor streets, at distance due, imbower'd in trees;
 - Will half the health, or half the pleasure yield,
-- Unless some pitying naiad deign to lave [580]
+- Unless some pitying naiad deign to lave, [580]
 - With an unceasing stream, thy thirsty bounds.
 
 - ON festal days; or when their work is done; 
@@ -33,3 +33,5 @@ source: "1764 edition"
 ---
 
 > VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound. 
+
+---

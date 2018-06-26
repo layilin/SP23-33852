@@ -13,7 +13,7 @@ source: "1764 edition"
 - They wave their purple plumes; yet musical
 - The love-lorn cooing of the mountain-dove,
 - That woos to pleasing thoughtfulness the soul;
-- But chief the breeze, the murmurs through yon canes, [575]
+- But chief the breeze, that murmurs through yon canes, [575]
 - Enchants the ear with tunable delight.
 
 - WHILE such fair scenes adorn these blissful isles;
@@ -25,7 +25,7 @@ source: "1764 edition"
 - Here, crouching slaves, attendant wait your nod:
 - While there, unnoted, but for folly's garb,
 - For folly's jargon; your dull hours ye pass,
-- Exlips'd by titles, and superior weath. [585]
+- Eclips'd by titles, and superior wealth. [585]
 
 - DOES martial ardour fire your generous veins?
 - Fly to your native isles: Bellona, there,
@@ -33,5 +33,4 @@ source: "1764 edition"
 - Your strenuous arms demand; for ye are brave!
 - Nor longer to the lute and taber's sound [590]
 
-
-
+---

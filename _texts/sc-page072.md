@@ -11,7 +11,7 @@ source: "1764 edition"
 - Rushes the headlong sky; the city rocks;
 - The good man throws him on the trembling ground;
 - And dies the murderer in his inmost soul.—
-- Sullen the West withdraws his eager storms.—
+- Sullen the West withdraws his eager storms.——
 - Will not the tempest now his furies chain? [335]
 - As, no! as when in Indian forests, wild,
 - Barbaric armies suddenly retire
@@ -31,3 +31,5 @@ source: "1764 edition"
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
 - Men, oxen, Cane-lands to the billowy main.—
+
+---

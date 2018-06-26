@@ -9,7 +9,7 @@ source: "1764 edition"
 [129]()
 
 - Not prominent their belly; clean and strong
-- Their thighs and legs, in just proportion rife.
+- Their thighs and legs, in just proportion rise.
 - Such soon will brave the fervours of the clime;
 - And free from ails, that kill thy negroe-train,
 - A useful servitude will long support. [80]
@@ -29,5 +29,7 @@ source: "1764 edition"
 - For prey the forest; or, in war's dread ranks,
 - Their country's foes affront: while, in the field,
 - Their wives plant rice, or yams, or lofty maize,
-- Fell hunger to repel. Be these they choice: [95]
+- Fell hunger to repel. Be these thy choice: [95]
 - They, hardy, with the labours of the Cane
+
+---

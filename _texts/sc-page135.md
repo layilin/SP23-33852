@@ -16,18 +16,20 @@ source: "1764 edition"
 - Yet scarce, even then, are they allow'd to view [195]
 - The glorious God of day, of whom they beg,
 - With earnest hourly supplications, death;
-- Yet death slow comes, to torutre them the more!
+- Yet death slow comes, to torture them the more!
 
 - WITH these compar'd, ye sons of Afric, say,
 - How far more happy is your lot? Bland health, [200]
 - Of ardent eye, and limb robust, attends
-- Your custom'd labour; and, should thickness seize,
-- With what solicitude are ye not nurs'd!——
-- Ye Negroes, then, your pleasing talk pursue;
+- Your custom'd labour; and, should sickness seize,
+- With what solicitude are ye not nurs'd!—
+- Ye Negroes, then, your pleasing task pursue;
 - And, by your toil, deserve your master's care. [205]
 
 - WHEN first your Blacks are novel to the hoe;
 - Study their humours: Some, soft-soothing words;
-- Some presents; and some, menaces subdue;
-- ANd some I've known, so stubborn is their kind,
+- Some, presents; and some, menaces subdue;
+- And some I've known, so stubborn is their kind,
 - Whom blows, alas! could win alone to toil. [210]
+
+---

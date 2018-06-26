@@ -31,3 +31,5 @@ source: "1764 edition"
 ---
 
 > VER. 572. *yellow deaths*\] The yellow fever, to which Europeans of a sanguine habit of body, and who exceed in drinking or exercise, are liable on their arrival in the West Indies. The French call it *Maladie de Siame*, or more properly, *La Fievre des Matelots*. Those who have lived any time in the islands are no more subject to this disease than the Creoles, whence, however, some physicians have too hastily concluded, that it was of foreign extraction.
+
+---

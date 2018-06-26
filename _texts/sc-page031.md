@@ -31,3 +31,5 @@ source: "1764 edition"
 ---
 
 > VER. 418. *the mail'd anana*\] This is the pine-apple, and needs no description; the cherimoya, a South-American fruit, is by all, who have tasted both, allowed to surpass the pine, and is even said to be more wholesome. The botanical name of the pine-apple is *bromelia*. Of the wild pine-apple, or ananas bravo, hedges are made in South-America. It produces an inferior sort of fruit.
+
+---

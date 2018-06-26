@@ -30,4 +30,8 @@ source: "1764 edition"
 - In men of vulgar looks, and trivial air?) [110]
 - Such, planter, be not thou asham'd to save
 
+---
+
 > VER. 95. *'Tis safer then to mingle nightshade's juice*\] See the article *Solanum* in Newman's Chemistry published by Dr. Lewis. There is a species of East-India animal, called a *Mungoes*, which bears a natural antipathy to rats. Its introduction into the Sugar-Islands would, probably, effectuate the extirpation of this destructive vermin.
+
+---

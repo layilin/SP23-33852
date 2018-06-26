@@ -23,3 +23,5 @@ source: "1764 edition"
 - With Vulcan's aid, from Cane a spirit draws,  
 - Potent to quell the madness of despair. [10]  
 - Yet, oft, the range she walks, at shut of eve;  
+
+---

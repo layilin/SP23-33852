@@ -12,7 +12,7 @@ source: "1764 edition"
 - The planets thus withdraw their puny fires.  
 - And tho' untutor'd, then, thy Canes will shoot:  
 - Care meliorates their growth. The trenches fill  
-- With their collaterial mold; as in a town [660]  
+- With their collateral mold; as in a town [660]  
 - Which foes have long beleaguer'd, unawares  
 - A strong detachment sallies from each gate,  
 - And levels all the labours of the plain.  
@@ -28,4 +28,6 @@ source: "1764 edition"
 - And, spreading wide their reverential arms,  
 - Defend their parent from solstitial skies.  
 
-The END OF BOOK I.
+The END of BOOK I.
+
+---

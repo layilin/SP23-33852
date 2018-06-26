@@ -66,3 +66,5 @@ Ceiba, large tree, [internal] p. 7.
 Cassada-shrub, [internal] p. 41.  
 Cotton-shrub, [internal] p. 42.  
 Cacao-tree, [internal] p. 42.  
+
+---

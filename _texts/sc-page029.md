@@ -15,7 +15,7 @@ source: "1764 edition"
 - May lie in ambush!\) and whose shaggy sides, [380]  
 - Trees shade, of endless green, enormous size,  
 - Wondrous in shape, to botany unknown,  
-- Old as the deluge:—There, in secret haunts,  
+- Old as the deluge:——There, in secret haunts,  
 - The watery spirits ope their liquid court;  
 - There, with the wood-nymphs, link'd in festal band, [385]  
 - (Soft airs and Phoebus wing them to their arms)  
@@ -30,3 +30,5 @@ source: "1764 edition"
 ---
 
 > VER. 393. *Whose brow the fern-tree*\] This only grows in mountainous situations. Its stem shoots up to a considerable height, but it does not divide into branches, till near the summit, where it shoots out horizontally, like an umbrella, into leaves, which resemble those of the common fern. I know of no medical uses, whereto this singularly beautiful tree has been applied, and indeed its wood, being spungy, is seldom used to oeconomical purposes. It, however, serves well enough for building mountain-huts, and temporary fences for cattle.
+
+---

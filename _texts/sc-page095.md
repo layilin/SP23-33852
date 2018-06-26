@@ -17,7 +17,7 @@ source: "1764 edition"
 - Lead on his flock o'er crags, thro' bogs, and streams,
 - A tedious journey; yet not weary they,
 - Drawn by the enchantment of his artless song.
-- What cannot musick?——When brown Ceres asks [160]
+- What cannot musick?—When brown Ceres asks [160]
 - The reapers sickle; what like magic sound,
 - Puff'd from sonorous bellows by the squeeze
 - Of tuneful artist, can the rage disarm
@@ -31,4 +31,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 168. *off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.
+> VER. 168. *Off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.
+
+---

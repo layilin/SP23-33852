@@ -30,3 +30,5 @@ source: "1764 edition"
 > VER. 462. *Indian cale*\] This green, which is a native of the New World, equals any of the greens in the Old.
 
 > VER. 462. *calaloo*\] Another species of Indian pot-herb, no less wholesome than the preceding. These, with mezamby, and the Jamaica prickle-weed, yield to no esculent plants in Europe. This is an Indian name.
+
+---

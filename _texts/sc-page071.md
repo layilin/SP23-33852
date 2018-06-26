@@ -22,7 +22,7 @@ source: "1764 edition"
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
-- Canes, shrubs, trees, huts, are whirl'd aloft in air.—
+- Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
 - "Is hush as death."
 - Soon issues forth the West, with sudden burst;
@@ -30,4 +30,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despied his prognostics, put to sea, and was wrecked.
+> VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
+
+---

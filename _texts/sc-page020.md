@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: "1764 edition"
 ---
 
+
 [20]()
 
 - OF composts shall the Muse descend to sing,
@@ -32,4 +33,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 237. *That yams improve the soil*.\] The botanical name of this plant is *Dioscoria*. Its leaves, like those of the water-melon, or gourd, soon mantle over the ground where it is planted. It takes about eight months to come to perfection, and then is
+> VER. 237. *That yams improve the soil.*\] The botanical name of this plant is *Dioscoria*. Its leaves, like those of the water-melon, or gourd, soon mantle over the ground where it is planted. It takes about eight months to come to perfection, and then is
+
+---

@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: "1764 edition"
 ---
 
+
 [3]()
 
 ## THE SUGAR-CANE.
@@ -17,7 +18,7 @@ source: "1764 edition"
 - How the hot nectar best to christallize;
 - And Afric’s sable progeny to treat:
 - A Muse, that long hath wander’d in the groves [5]
-- Of myrtle–indolence attempts to sing.
+- Of myrtle-indolence, attempts to sing.
 
 - SPIRIT of Inspiration, that did'st lead 
 - Th’ Ascrean Poet to the sacred Mount,
@@ -26,3 +27,5 @@ source: "1764 edition"
 - To Fame’s eternal Dome, where Maro reigns; 
 - Where pastoral Dyer, where Pomona’s Bard,
 - And Smart and Sommerville in varying strains,
+
+---

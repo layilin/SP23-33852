@@ -12,7 +12,7 @@ source: "1764 edition"
 - More fam'd by gentle Waller's deathless strains,
 - Than for their cedars, which, insulting, fly
 - O'er the wide ocean; 'mid their rocks contain
-- A stone, which, when calcin'd, \(experience says,\) [405]
+- A stone, which, when calcin'd, (experience says,) [405]
 - Is only second to Sabrina's lime.
 
 - WHILE flows the juice mellifluent from the Cane,
@@ -31,3 +31,5 @@ source: "1764 edition"
 - While to far climes the fell destroyer, Death,
 - Wings his dark flight. Then seldom pray for rain: [420]
 - Rather for cloudless days thy prayers prefer;
+
+---

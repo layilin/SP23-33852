@@ -15,7 +15,7 @@ source: "1764 edition"
 - (The black rocks whiten, the vext shores resound;)
 - And yet, more rapid, distant they retire. [420]
 - Vast coruscations lighten all the sky,
-- With volumb'd flames; while thunder's awful voice,
+- With volum'd flames; while thunder's awful voice,
 - From forth his shrine, by night and horror girt,
 - Astounds the guilty, and appals the good:
 - For oft the best, smote by the bolt of heaven, [425]
@@ -28,6 +28,8 @@ source: "1764 edition"
 - Green Eton, soft abode of every Muse.
 - Each classic beauty soon he made his own;
 - And soon fam'd Isis saw him woo the Nine,
-- On her inspiring banks: Love tun'd his song
+- On her inspiring banks: Love tun'd his song;
 - For fair Theana was his only theme, [435]
 - Acasto's daughter, whom, in early youth,
+
+---

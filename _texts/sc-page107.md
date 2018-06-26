@@ -25,9 +25,11 @@ source: "1764 edition"
 - Thy marble-quarries claim the voice of praise, [370]
 - Which rich incrusts thy Avon's banks, sweet banks!
 - Tho' not to you young Shakespear, Fancy's child,
-- Ail-rudely warbled his first woodland notes;
-- Tho, not your caves, while terror stalk'd around,
+- All-rudely warbled his first woodland notes;
+- Tho' not your caves, while terror stalk'd around,
 - Saw him essay to clutch the ideal sword, [375]
 - With drops of blood distain'd: yet, lovely banks,
 - On you reclin'd, another tun'd his pipe;
 - Whom all the Muses emulously love,
+
+---

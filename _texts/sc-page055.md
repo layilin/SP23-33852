@@ -30,4 +30,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*, who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand poiunds *Sterling*'s worth of Canes every year.
+> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*, who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
+
+---

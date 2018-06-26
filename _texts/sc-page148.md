@@ -31,3 +31,5 @@ source: "1764 edition"
 > VER. 454. *angola*\] This is called *Pidgeon-pea*, and grows on a sturdy shrub, that will last for years. It is justly reckoned among the most wholesome legumens. The juice of the leaves, dropt into the eye, will remove incipient films. The botanic name is *Cytisus*.
 
 > VER. 456. *bonavist*\] This is the Spanish name of a plant, which produces an excellent bean. It is a parasitical plant. There are five sorts of bonavist, the green, the white, the
+
+---

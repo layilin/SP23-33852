@@ -16,7 +16,7 @@ source: "1764 edition"
 - Not nice-proportion'd, but of size immense,
 - Swells the wild fig-tree, and should claim her lay:
 - For, from its numerous bearded twigs proceed
-- A filial train, stupendous as their fire,
+- A filial train, stupendous as their sire,
 - In quick succession; and, o'er many a rood, [530]
 - Extend their uncouth limbs; which not the bolt
 - Of heaven can scathe; nor yet the all-wasting rage

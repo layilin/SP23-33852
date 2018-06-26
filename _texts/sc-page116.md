@@ -5,13 +5,14 @@ editor: Elizabeth Cornell
 source: "1764 edition"
 ---
 
+
 [116]()
 
-- Butt the young negroes, while their swarthy fires [535]
+- Butt the young negroes, while their swarthy sires, [535]
 - With ardent gladness wield the bill; and hark,
-- The crop is finish'd, how they rend the sky!——
+- The crop is finish'd, how they rend the sky!—
 
-- NOR, beauteous only shows the culture soil,
+- NOR, beauteous only shows the cultured soil,
 - From this cool station. No less charms the eye
 - That wild interminable waste of waves: [540]
 - While on the horizon's farthest verge are seen
@@ -22,13 +23,12 @@ source: "1764 edition"
 - Their airies build, a water spout descends,
 - And shakes mid ocean; and while there below,
 - That town, embowered in the different shade
-- Of tamrinds, panspans, and papaws, o'er which
+- Of tamarinds, panspans, and papaws, o'er which
 
 ---
 
-> VER. 549. *panspans*/] See the notes on Book II.
-> VER. 549. *papaws*/] This singular tree, whose fruits surround its summit immediately under the brances and leaves, like a necklace; grows quicker than almost any other in the West Indies. The wood is of no use, being spungy, hollow, and herbacious; however, the blossoms and fruit make excellent sweet-meats; but above all, the juice of the fruit being rubbed upon a spit, will intenerate new killed fowls, &c. a circumstance of great consequence in a climate, where the warmth soon renders whatever meats are attempted to be made tender by keeping, unfit for culinary purposes. Nor, will it only intenerate fresh meat; but being boiled with salted beef, will render it easily digestible. Its mily juice is sometimes use dto cure ringowrms. It
+> VER. 549. *panspans*\] See the notes on Book II.
+
+> VER. 549. *papaws*\] This singular tree, whose fruits surround its summit immediately under the branches and leaves, like a necklace; grows quicker than almost any other in the West Indies. The wood is of no use, being spungy, hollow, and herbacious; however, the blossoms and fruit make excellent sweet-meats; but above all, the juice of the fruit being rubbed upon a spit, will intenerate new killed fowls, *&c*. a circumstance of great consequence in a climate, where the warmth soon renders whatever meats are attempted to be made tender by keeping, unfit for culinary purposes. Nor, will it only intenerate fresh meat; but, being boiled with salted beef, will render it easily digestible. Its milky juice is sometimes used to cure ringworms. It
 
 ---
-
-

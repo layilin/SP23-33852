@@ -5,11 +5,12 @@ editor: Elizabeth Cornell
 source: "1764 edition"
 ---
 
+
 [117]()
 
 - A double Iris throws her painted arch, [550]
 - Shows commerce toiling in each crowded street,
-- And each throng'd fleet with limpid currents lav'd.
+- And each throng'd street with limpid currents lav'd.
 
 - WHAT tho' no bird of song, here charms the sense
 - With her wild minstrelsy; far, far beyond,
@@ -23,7 +24,7 @@ source: "1764 edition"
 - Of yon cool argent rill, which Phoebus gilds
 - With his first orient rays; yet musical, 
 - Those buxom airs that through the plantanes play,
-- And tear with wontonness their leafy scrolls; [565]
+- And tear with wantonness their leafy scrolls; [565]
 - Yet not unmusical the waves hoarse sound,
 - That dashes, sullen, on the distant shore;
 - Yet musical those little insects hum,
@@ -33,3 +34,4 @@ source: "1764 edition"
 
 > is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic. The botanical name is *Papaya*.
 
+---

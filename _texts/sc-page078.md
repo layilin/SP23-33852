@@ -31,3 +31,5 @@ source: "1764 edition"
 ---
 
 > VER. 441. *sappadillas*\] This is a pleasant-tasted fruit, somewhat resembling a bergamot-pear, in shape and colour. The tree which produces it, is large and shady. Its leaves are of a shining green; but the flowers, which are monopetalous, are of a palish white. The fruit is coronated when ripe, and contains, in its pulp, several longish black seeds. It is wholesome. Antigua produces the best sappadillas I ever tasted. The trivial name is Spanish. Botanists call it *Cainito*.
+
+---

@@ -17,7 +17,7 @@ source: "1764 edition"
 - Ere rosy Morn possess the ethereal plain, [360]
 - To pour on darkness the full flood of day.— 
 
-- NOR does the hurrican's all-wasting wrath
+- NOR does the hurricane's all-wasting wrath
 - Alone bring ruin on its founding wing:
 - Even calms are dreadful, and the fiery South
 - Oft reigns a tyrant in these fervid isles: [365]
@@ -26,8 +26,10 @@ source: "1764 edition"
 - Touch'd by its tainting vapour, shrivel'd, die.
 - The hardiest children of the rocks repine:
 - And all the upland Tropic-plants hang down [370]
-- Their drooping heads; shew arid, coil'd, adust.—
+- Their drooping heads; shew arid, coil'd, adust.——
 - The main itself seems parted into streams,
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
 - The sails hang idly, noiseless, from the mast. [375]
+
+---

@@ -17,8 +17,8 @@ source: "1764 edition"
 - The pillar'd flame, whose top hath reach'd the stars;
 - Seen rocky, molten fragments, flung in air
 - From AEtna's vext abyss; seen burning streams
-- Pour down its challen'd sides; tremendous scenes!—
-- Yet not vext Ætna's pillar'd flames, that strike [280]
+- Pour down its channel'd sides; tremendous scenes!——
+- Yet not vext AEtna's pillar'd flames, that strike [280]
 - The stars; nor molten mountains hurl'd on high;
 - Nor ponderous rapid deluges, that burn
 - Its deeply-channel'd sides: cause such dismay,
@@ -29,7 +29,7 @@ source: "1764 edition"
 - SOON as the Virgin's charms ingross the Sun;
 - And till his weaker flame the Scorpion feels;
 - But, chief, while Libra weighs the unsteddy year:
-- Planter, with mighty proprs thy dome support; [290]
+- Planter, with mighty props thy dome support; [290]
 - Each flaw repair; and well, with massy bars,
 
 ---

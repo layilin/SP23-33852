@@ -33,3 +33,5 @@ source: "1764 edition"
 ---
 
 > VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus, makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic, but this I do not know from experience.
+
+---

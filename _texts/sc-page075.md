@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [75]()
 
-- Or sends forth thick, blue suffocating steams;
+- Or sends forth thick, blue, suffocating steams;
 - Or shoots to temporary flame. A din,
 - Wild, thro' the mountain's quivering rocky caves, [395]
 - Like the dread crash of tumbling planets, roars.
@@ -28,6 +28,8 @@ source: "1764 edition"
 - Thy lowing herds forsake their grassy food,
 - And send forth frighted, woful, hollow sounds: [410]
 - The dog, thy trusty centinel of night,
-- Deserts his post assign'd; and, piteous, howls.—
-- Wide ocean feels:—
+- Deserts his post assign'd; and, piteous, howls.——
+- Wide ocean feels:——
 - The mountain-waves, passing their custom'd bounds,
+
+---
