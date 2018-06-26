@@ -34,6 +34,6 @@ source: "1764 edition"
 
 ---
 
-> VER. 192. *Amphitryte*\] A mixtue of sea water, is a real improvement in the distillation of rum.
+> VER. 192. *Amphitryte*\] A mixture of sea water, is a real improvement in the distillation of rum.
 
 ---
