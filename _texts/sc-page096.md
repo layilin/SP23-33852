@@ -29,3 +29,5 @@ source: "1764 edition"
 > Indeed the bare suspicion of such a piece of barbarity leaves a stain: and therefore authors cannot be too cautious of admitting into their writings, any insinuation that bears hard on the humanity of a people.
 
 > Daily observation affords but too many proofs, where domestic slavery does not obtain, of the fatal consequences of indulged passion and revenge; but where one man is the absolute property of another, those passions may perhaps receive additional activity: planters, therefore, cannot be too much on their guard against the first sallies of passion; as by indulgence, passion, like a favourite, will at last grow independently powerful.
+
+---
