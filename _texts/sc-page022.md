@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: "1764 edition"
 ---
 
+
 [22]()
 
 - IT not imports beneath what sign thy hoes
@@ -17,7 +18,7 @@ source: "1764 edition"
 - So shall a greener, loftier Cane arise,
 - And richest nectar in thy coppers foam. [265]
 
-- As art transforms the savage face of things,
+- AS art transforms the savage face of things,
 - And order captivates the harmonious mind;
 - Let not thy Blacks irregularly hoe: 
 - But, aided by the line, consult the site
