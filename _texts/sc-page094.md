@@ -20,7 +20,7 @@ source: "1764 edition"
 - Light-bandied round, but innocent of ill;
 - Nor choral song are wanting: eccho rings. [140]
 
-- NOR need the driver, Ӕthiop authoriz'd,
+- NOR need the driver, AEthiop authoriz'd,
 - Thence more inhuman, crack his horrid whip;
 - From such dire sounds the indignant muse averts
 - Her virgin-ear, where musick loves to dwell:
@@ -30,4 +30,4 @@ source: "1764 edition"
 - WHAT cannot song? all nature feels its power:
 - The hind's blithe whistle, as thro' stubborn soils
 - He drives the shining share; more than the goad,
-- His tardy steers impells.——The muse hath seen, [150]
+- His tardy steers impells.—The muse hath seen, [150]
