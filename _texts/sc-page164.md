@@ -17,7 +17,8 @@ Cathäy, [internal] p. 68.
 Cormantee Negroes, [internal] p. 129.  
 Chigres, small insect, [internal] p. 138.  
 Chirimoya, fruit, [internal] p. 152.  
-Congo Negroes, [internal] p. 130.  
+Congo Negroes, [internal] p. 127.
+Congaw Negroes, [internal] p. 130.
 Crickets, [internal] p. 146.  
 Cherry, [internal] p. 131.  
 Calm, effects of a,[internal]  p. 73.  
@@ -47,7 +48,7 @@ Dolphin, [internal] p. 81.
 Drave, river, [internal] p. 134.  
 Dorchestria, [internal] p. 20.  
 Dove, mountain, [internal] p. 60.  
-Discoria, a vine, [internal] p. 20.  
+Dioscoria, a vine, [internal] p. 20.  
 Death, yellow, [internal] p. 40.  
 
 E.
