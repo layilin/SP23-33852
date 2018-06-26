@@ -22,5 +22,4 @@ IN a West-India georgic, the mention of many indigenous remedies, as well as dis
 
 *Basseterre, Jan. 1763.*
 
-
 ---
