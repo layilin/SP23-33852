@@ -32,3 +32,5 @@ source: "1764 edition"
 ---
 
 > VER. 260. *gemmy tops;*\] The summit of the Cane being smaller-jointed as well as softer, and consequently having more gems, from whence the young sprouts shoot, is properer for planting than any other part of it. From one to four junks, each about a foot long, are put in every hole. Where too many junks are planted in one hole, the Canes may be numerous, but can neither become vigorous, nor yield such a quantity of rich liquor as they otherwise would. In case the young shoots do not appear above ground in four or five weeks, the deficiencies must be supplied with new tops.
+
+---
