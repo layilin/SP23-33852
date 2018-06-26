@@ -11,7 +11,7 @@ source: "1764 edition"
 - Gather'd by those, who drink the Volga's wave, [150]
 - (Prince of Europa's streams, itself a sea)
 - Equals your potency! Did planters know
-- But half your virtures; not the Cane itself,
+- But half your virtues; not the Cane itself,
 - Would they with greater, fonder pains preserve! 
 
 - STILL other maladies infest the Cane, [155]
@@ -27,7 +27,9 @@ source: "1764 edition"
 - Descend from far, and, ere bright morning dawn,
 - Astonish'd Afric sees her crop devour'd. [165]
 - Or, doth the Cane a proper nest afford,
-- And food adapted to the yellow fly?—
+- And food adapted to the yellow fly?——
 - The skill'd in Nature's mystic lore observe,
 - Each tree, each plant, that drinks the golden day, [170]
 - Some reptile life sustains: Thus cochinille
+
+---
