@@ -27,3 +27,5 @@ source: "1764 edition"
 - To Fame’s eternal Dome, where Maro reigns; 
 - Where pastoral Dyer, where Pomona’s Bard,
 - And Smart and Sommerville in varying strains,
+
+---
