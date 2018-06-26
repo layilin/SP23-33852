@@ -24,3 +24,9 @@ editor: Julie and Cristobal
 3.13 Smart. Christopher Smart (1722-1771), English poet, author of the georgic poem *The Hop-Garden* (1752).  
 
 3.13 Sommerville. William Somerville (1675-1742), English poet, author of the georgic poem *The Chace* (1735).  
+
+## New sample entry for footnoting a term within a Grainger footnote
+
+4.22n Lucan. FOOTNOTE TEXT.
+
+---
