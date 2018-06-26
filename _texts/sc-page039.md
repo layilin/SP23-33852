@@ -23,7 +23,8 @@ source: "1764 edition"
 - The wood-nymphs foster the contagious blast.  
 - Foes to the Dryads, they remorseless fell [560]  
 - Each shrub of shade, each tree of spreading root,  
-- That woo the first glad fannings of the breeze.  
+- That woo the first glad fannings of the breeze.
+- Far from the muse be such inhuman thoughts;
 - Far better recks she of the woodland tribes,  
 - Earth's eldest birth, and earth's best ornament. [565]  
 - Ask him, whom rude necessity compels  
@@ -33,3 +34,5 @@ source: "1764 edition"
 ---
 
 > VER. 559. *contagious blast.*\] So a particular species of blight is called in the West-Indies. See its description in the second book.
+
+---
