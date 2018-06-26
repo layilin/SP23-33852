@@ -12,10 +12,10 @@ source: "1764 edition"
 - The mountain-desert startl'd with his hum;  
 - Ere fire-flies trimm'd their vital lamps; and ere  
 - Dun Evening trod on rapid Twilight's heel: [645]  
-- His knell was rung;—  
+- His knell was rung;——  
 - And all the Cane-lands wept their father lost.  
 
-- MUSE, yet awhile indulge by rapid course;  
+- MUSE, yet awhile indulge my rapid course;  
 - And I'll unharness, soon, the foaming steeds.  
 
 - IF Jove descend, propitious to thy vows, [650]  
@@ -27,6 +27,10 @@ source: "1764 edition"
 
 ---
 
-> VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Cender*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans.* Nº 208.  
-> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadeloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribee, or Virgin-Islands.  
+> VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Condor*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans.* Nº 208.  
+
+> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadaloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribbee, or Virgin-Islands.  
+
 > VER. 645. *on rapid Twilight's heel:*\] There is little or no twilight in the West-Indies. All the year round it is dark before eight at night. The dawn is equally short.
+
+---
