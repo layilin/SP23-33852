@@ -30,9 +30,9 @@ WITH NOTES.
 
 By JAMES GRAINGER, M. D. &c.
 
-___
+---
 
-___
+---
 
 LONDON:
 
