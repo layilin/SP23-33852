@@ -24,3 +24,5 @@ source: "1764 edition"
 - Where dauntless thou the headlong torrent brav'st [10]
 - In search of gold, to brede thy wooly locks,
 - Or with bright ringlets ornament thine ears,
+
+---
