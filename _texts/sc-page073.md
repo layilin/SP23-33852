@@ -31,3 +31,5 @@ source: "1764 edition"
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
 - The sails hang idly, noiseless, from the mast. [375]
+
+---
