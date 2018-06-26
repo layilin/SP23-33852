@@ -5,6 +5,7 @@ editor: Elizabeth Cornell
 source: "1764 edition"
 ---
 
+
 [127]()
 
 - What care the jetty African requires? [35]
@@ -31,3 +32,5 @@ source: "1764 edition"
 - Will all thy care, and all thy gold repay.
 
 - BUT, if the labours of the field demand
+
+---
