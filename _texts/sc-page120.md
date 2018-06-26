@@ -30,3 +30,5 @@ source: "1764 edition"
 > VER. 613. *Barbuda*,] This is a low, and not large stock-island, belonging to the Codrington family. Part of this island, as also two plantations in Barbadoes, were left by Colonel Christopher Codrington, for building a college in Barbardoes, and converting Negroes to the Christian religion.
 
 > VER. 614. *Anguilla*,] This island is about thirty miles long and ten broad. Though not mountainous, it is rocky, and abounds with strong passes; so that a few of its inhabitants, who are indeed expert in the use of fire-arms, repulsed, with great slaughter, a considerable detachment of French, who made a descent thereon in the war preceding the last. Cotton and cattle are its chief commodities. Many of the inhabitants are rich; the captain-general of the Leeward-Islands nominates the governor and council. They have no assembly.
+
+---
