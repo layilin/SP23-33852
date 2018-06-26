@@ -15,6 +15,6 @@ source: "1764 edition"
 - ONE grave contains this hapless, faithful pair;
 - And still the Cane-isles tell their matchless love!
 
-The END Of BOOK II.
+The END of BOOK II.
 
 ---
