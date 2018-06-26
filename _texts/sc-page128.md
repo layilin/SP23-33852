@@ -21,7 +21,7 @@ source: "1764 edition"
 - And such the numerous tribes, that skirt the shore,
 - From rapid Volta to the distant Rey. [65]
 
-- BUT, planter, from what coast foe'er they sail,
+- BUT, planter, from what coast soe'er they sail,
 - Buy not the old: they ever sullen prove;
 - With heart-felt anguish, they lament their home;
 - They will not, cannot work; they never learn
