@@ -20,7 +20,7 @@ SUCH words as are not common in Europe, I have briefly explained: because an obs
 
 IN a West-India georgic, the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known. And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet.
 
-*Basseterre, Jan.* 1763.
+*Basseterre, Jan. 1763.*
 
 
 ---
