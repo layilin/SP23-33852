@@ -40,5 +40,6 @@ Printed for R. and J. DODSLEY, in Pall-mall.
 
 ---
 MDCCLXIV.
+---
 
 
