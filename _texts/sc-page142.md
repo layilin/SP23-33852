@@ -31,3 +31,5 @@ source: "1764 edition"
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
 - Far-distant kingdoms; endless storms in vain
+
+---
