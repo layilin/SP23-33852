@@ -15,7 +15,7 @@ source: "1764 edition"
 - The airy phantoms of their friends deceas'd
 - Joy'd to regale on.——Such their simple creed.
 - The tamarind likewise should adorn her theme,
-- With whole tart fruit the sweltering fever loves [510]
+- With whose tart fruit the sweltering fever loves [510]
 - To quench his thirst, whose breezy umbrage soon
 - Shades the pleas'd planter, shades his children long.
 - Nor, lofty cassia, should she not recount
@@ -29,8 +29,10 @@ source: "1764 edition"
 
 ---
 
-> *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The names is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. The botanical name is *Achras*.
+> *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. The botanical name is *Achras*.
 
 > VER. 509. *tamarind*\] See Book I. p. 44.
 
 > VER. 513. *cassia*,\] Both this tree and its mild purgative pulp are sufficiently known.
+
+---
