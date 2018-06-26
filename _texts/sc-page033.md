@@ -30,6 +30,8 @@ source: "1764 edition"
 - The tides; stern Neptune pays his court to thee;  
 - The winds, obedient at thy bidding shift,  
 - And tempests rise or fall; even lordly man,  
-- Thine energy controls.—Not so the Cane, [475]  
+- Thine energy controls.——Not so the Cane; [475]  
 - The Cane its independency may boast,  
 - Tho' some less noble plants thine influence own.
+
+---
