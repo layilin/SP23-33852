@@ -31,3 +31,5 @@ source: "1764 edition"
 - The midnight-hour, shall hear my constant vows [645]
 - To Nature; see me prostrate at her shrine!
 - And, O, if haply I may aught invent
+
+---
