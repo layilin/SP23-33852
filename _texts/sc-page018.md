@@ -5,6 +5,7 @@ editor: Steve Fragano
 source: 1764 edition
 ---
 
+
 [18]()
 
 - Mow down thy sugars: and tho' all thy mills,
@@ -16,14 +17,14 @@ source: 1764 edition
 - Thy cattle likewise, as they drag the wain,
 - Charg'd from the beach; in spite of whips and shouts,
 - Will stop, will pant, will sink beneath the load;
-- A better fate deserving.— [185]
+- A better fate deserving.—— [185]
 - Besides, thy land itself is insecure:
 - For oft the glebe, and all its waving load,
 - Will journey, forc'd off by the mining rain;
 - And, with its faithless burden, disarrange
-- Thy neighbor's vale. So Markley-hill of old, [190]
+- Thy neighbour's vale. So Markley-hill of old, [190]
 - As sung thy bard, Pomona, \(in these isles
-- Yet unadorn'd;) with all its spreading trees,
+- Yet unador'd;) with all its spreading trees,
 - Full fraught with apples, chang'd its lofty site.
 
 - BUT, as in life, the golden mean is best;
@@ -32,4 +33,6 @@ source: 1764 edition
 
 ---
 
-> VER. 179. *And highest temper,*\] Shell, or rather marble quick-lime, is so called by the planters: Without this, the juice of the Cane cannot be concreted into sugar, at least to advantage. See Book III. With quick-lime the French join ashes as a temper, and this mixture they call *Enyvrage*. It is hoped the Reader will pardon the introduction of the verb *saccharize*, as no other so emphatically expressed the Author's meaning; for some chemists define sugar to be a native salt, and others a soap.  
+> VER. 179. *And highest temper,*\] Shell, or rather marble quick-lime, is so called by the planters: Without this, the juice of the Cane cannot be concreted into sugar, at least to advantage. See Book III. With quick-lime the French join ashes as a temper, and this mixture they call *Enyvrage*. It is hoped the Reader will pardon the introduction of the verb *saccharize*, as no other so emphatically expressed the Author's meaning; for some chemists define sugar to be a native salt, and others a soap.
+
+---
