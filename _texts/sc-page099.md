@@ -22,7 +22,7 @@ source: "1764 edition"
 - And sun's intensest beam; the worm, that pest
 - Of mariners, which winds its fatal way
 - Through heart of British oak, reluctant leaves [235]
-- The closer calaba.——By transverse beams
+- The closer calaba.—By transverse beams
 - Secure the whole; and in the pillar'd frame,
 - Sink, artist, the vast bridge-tree's mortis'd form
 - Of ponderous hiccory; hiccory time defies:
@@ -30,4 +30,7 @@ source: "1764 edition"
 ---
 
 > VER. 227. *Hiccory*\] This is a lofty spreading tree, of very hard wood, excellently adapted to the purposes of the mill-wright. The nut, whose shell is thick, hard, and roughish, contains an agreeable and wholesome kernel. It grows in great abundance in St. Croix, Crab island, and Tobago.
+
 > VER. 227. *Calaba*\] This lofty tree is commonly called Mastic: it is a hard wood, and is found in the places where the Hiccory grows. The flowers are yellow, and are succeeded by a fruit, which bears a distant resemblance to a shrub.
+
+---
