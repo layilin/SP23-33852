@@ -29,3 +29,5 @@ source: "1764 edition"
 ---
 
 > blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic in inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea, the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
+
+---
