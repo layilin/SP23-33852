@@ -33,6 +33,6 @@ source: "1764 edition"
 
 ---
 
->a wholesome root, either boiled or roasted. They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.
+> a wholesome root, either boiled or roasted. They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.
 
 ---
