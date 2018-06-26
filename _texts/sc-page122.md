@@ -16,6 +16,6 @@ source: "1764 edition"
 - Nor envy conquerors their storied tombs,
 - Tho' not a stone point out my humble grave.
 
-- The END of BOOK III.
+The END of BOOK III.
 
 ---
