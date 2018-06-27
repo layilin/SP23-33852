@@ -29,6 +29,6 @@ editor: Julie and Cristobal
 
 ## New sample entry for footnoting a term within a Grainger footnote
 
-4.22n Lucan. FOOTNOTE TEXT.
+4.22n Lucan. Lucan (CE 39-65)...
 
 ---
