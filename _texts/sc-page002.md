@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "argument"
+title: "page 2"
 editor: Steve Fragano
 Source: "1764 edition"
 ---
