@@ -6,7 +6,7 @@ source: "1764 edition"
 ---
 
 
-<!--note last line: final 's' in St. Christophers may be inserted manually; also, no period appears; ck better copy-->
+<!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
 
 [v]()
 
