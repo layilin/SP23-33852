@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [9]()
 
-- \'Spite of the dog-star, shoots long yellow joints; [55]
+- 'Spite of the dog-star, shoots long yellow joints; [55]
 - Concocts rich juice, tho' deluges descend.
 - What if an after-offspring it reject?
 - This land, for many a crop, will feed his mills;
