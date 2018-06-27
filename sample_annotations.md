@@ -15,6 +15,8 @@ editor: Julie and Cristobal
 
 3.8 sacred Mount. Mt. Helicon.  
 
+3.9 swain. A country or farm laborer, a shepherd.
+
 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
 
 3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
