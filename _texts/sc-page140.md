@@ -18,7 +18,7 @@ source: "1764 edition"
 - They cause the wretch in solitude to pine;
 - Or frantic, bursting from the strongest chains,
 - To frown with look terrific, not his own.
-- Sometimes like Ague, with shivering mien, [300]
+- Sometimes like Ague, with a shivering mien, [300]
 - The teeth gnash fearful, and the blood runs chill:
 - Anon the ferment maddens in the veins,
 - And a false vigour animates the frame.
