@@ -28,7 +28,7 @@ source: "1764 edition"
 - SAY, to such various mimic forms of death;
 - What remedies shall puzzled art oppose?—
 - Thanks to the Almighty, in each path-way hedge,
-- Rank cow—itch grows, whose sharp unnumber'd stings,
+- Rank cow-itch grows, whose sharp unnumber'd stings,
 - Sheath'd in Melasses, from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
