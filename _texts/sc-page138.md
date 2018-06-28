@@ -20,7 +20,7 @@ source: "1764 edition"
 - The pest peculiar to the Aethiop-kind,
 - The yaw's infectious bane?—The infected far [265]
 - In huts, to leeward, lodge; or near the main.
-- Wth heartning food, with turtle, and which conchs;
+- With heartning food, with turtle, and which conchs;
 - The flowers of sulphur, and hard niccars burnt,
 
 
