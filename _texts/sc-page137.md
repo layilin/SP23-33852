@@ -16,7 +16,7 @@ source: "1764 edition"
 - Then laws, Oppression's scourge, fair Virtue's prop,
 - Offspring of Wisdom! should impartial reign, [240]
 - To knit the whole in well-accorded strife:
-- Servants, not slaves; of choice, and not compell'd
+- Servants, not slaves; of choice, and not compell'd;
 - The Blacks should cultivate the Cane-land isles.
 
 - SAY, shall the muse the various ills recount,
