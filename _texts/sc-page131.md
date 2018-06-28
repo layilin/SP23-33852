@@ -26,7 +26,7 @@ source: "1764 edition"
 - Their sea-worn appetites. Let gentle work,
 - Or rather playful exercise, amuse
 - The novel gang: and far be angry words;
-- Far ponderous chains; and far disheartning blows.——
+- Far ponderous chains; and far disheartning blows.—
 - From fruits restrain their eagerness; yet if [135]
 - The acajou, haply, in thy garden bloom,
 - With cherries, or of white or purple hue,
