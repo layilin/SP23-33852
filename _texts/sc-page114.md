@@ -34,3 +34,5 @@ source: "1764 edition"
 > VER. 501. *Marne's flowery banks, nor Tille's*\] Two rivers in France, along whose banks the best Burgundy and Champagne-grapes grow.
 
 > VER. 510. *For her, fair Auth'ress!*\] Mrs. Lennox.
+
+---
