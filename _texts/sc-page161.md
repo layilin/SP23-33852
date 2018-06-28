@@ -19,7 +19,7 @@ source: "1764 edition"
 - Must she, ah! must she, to her offspring crouch? [660]
 - Ah, must my Thames, old Ocean's favourite son,
 - Resign his trident to barbaric streams;
-- His banks neglected, and his waves unfought,
+- His banks neglected, and his waves unsought,
 - No bards to sing them, and no fleets to grace?——
 - Again the fleecy clouds amuse the eye, [665]
 - And sparkling stars the vast horizon gild—
