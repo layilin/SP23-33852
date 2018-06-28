@@ -35,6 +35,6 @@ source: "1764 edition"
 
 > VER. 466. *the shapely tree*\] The orange tree.
 
-> VER. 478. *thy mother nam'd*\] See Book I. p. 43.
+> VER. 478. *thy mother nam'd*\] See Book I p. 43.
 
 ---
