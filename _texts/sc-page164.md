@@ -17,8 +17,8 @@ Cathäy, [internal] p. 68.
 Cormantee Negroes, [internal] p. 129.  
 Chigres, small insect, [internal] p. 138.  
 Chirimoya, fruit, [internal] p. 152.  
-Congo Negroes, [internal] p. 127.
-Congaw Negroes, [internal] p. 130.
+Congo Negroes, [internal] p. 127.  
+Congaw Negroes, [internal] p. 130.  
 Crickets, [internal] p. 146.  
 Cherry, [internal] p. 131.  
 Calm, effects of a,[internal]  p. 73.  
