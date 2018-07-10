@@ -52,4 +52,4 @@ Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Po
 
 Examples of animal names: *Scomberomorus cavalla* (Cuvier, 1829), *Leontopithecus caissara* Lorini and Persson, 1990. Note that sometimes, the namer and date are in parentheses, and sometimes, they are not. Also, unlike plant names, animal names include dates.  
 
-If you cite the name of a family, it should be capitalized but not italicized. For example, see this example footnote: 
+If you cite the name of a family, it should be capitalized but not italicized. For example, see this example footnote: "117.558 herald-lark. Any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World."  
