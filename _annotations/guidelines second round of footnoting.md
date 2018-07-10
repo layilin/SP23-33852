@@ -48,7 +48,7 @@ The [internal] is something that Alex requested we add to any location where we 
 
 Use https://www.itis.gov/ to double-check scientific names for plants and animals. This is a comprehensive database with accepted names for plants and animals.  
 
-Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Poir. Note that sometimes, name abbreviations are in parentheses, and sometimes they are not. Also note that while the binomial is italicized, the name abbreviations for botanists are not. Also not that the genus is capitalized, and the species is not.  
+Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Poir. Note that sometimes, name abbreviations for botanists are in parentheses, and sometimes they are not. Also note that while the binomial is italicized, the name abbreviations for botanists are not. And while the genus is capitalized, the species is not.  
 
 Examples of animal names: *Scomberomorus cavalla* (Cuvier, 1829), *Leontopithecus caissara* Lorini and Persson, 1990. Note that sometimes, the namer and date are in parentheses, and sometimes, they are not. Also, unlike plant names, animal names include dates.  
 
