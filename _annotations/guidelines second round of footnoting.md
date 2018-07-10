@@ -12,7 +12,7 @@ Why is this footnote/information being included?
 
 Is this information necessary to include?  
 
-Is the footnote/information helping my reader better understand the poem?  
+Is this footnote/information helping my reader to understand the poem better?  
 
 ## See if you would add any footnotes to the ones the first person did
 
@@ -30,7 +30,7 @@ Don't be afraid to revise, make changes, or delete words, as Github saves all ve
 
 ## Make sure to include the term you/your partner are defining in your footnote, if it’s not exactly the term that Grainger uses
 
-For example, see this footnote that I wrote: "119.593 Sparta's. Sparta was a powerful city state in ancient Greece."  
+For example, see this footnote that I wrote: "119.593 Sparta's. Sparta was a powerful city-state in ancient Greece."  
 
 Since Grainger uses “Sparta’s,” I made sure to start the footnote with the word “Sparta.”  
 
@@ -52,4 +52,4 @@ Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Po
 
 Examples of animal names: *Scomberomorus cavalla* (Cuvier, 1829), *Leontopithecus caissara* Lorini and Persson, 1990. Note that sometimes, the namer and date are in parentheses, and sometimes, they are not. Also, unlike plant names, animal names include dates.  
 
-If you cite the name of a family, it should be capitalized but not italicized. For example, see this example footnote: "117.558 herald-lark. Any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World."  
+If you cite the name of a family, it should be capitalized but not italicized. For example, see this footnote: "117.558 herald-lark. Any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World."  
