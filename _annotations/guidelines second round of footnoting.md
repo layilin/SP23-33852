@@ -1,10 +1,10 @@
 ---
 layout: page
-title: guidelines for the second round of footnotes
+title: guidelines for the second round of footnoting
 editor: julie 
 ---
 
-# Guidelines for the second round of footnotes
+# Guidelines for the second round of footnoting
 
 Please pay attention to the below issues as you complete the second round of footnoting. Also keep the following questions in mind throughout the process:  
 
