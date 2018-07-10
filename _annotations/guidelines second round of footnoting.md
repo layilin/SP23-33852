@@ -12,7 +12,7 @@ Why is this footnote/information being included?
 
 Is this information necessary to include?  
 
-Is it helping my reader better understand the poem?  
+Is the footnote/information helping my reader better understand the poem?  
 
 ## See if you would add any footnotes to the ones the first person did
 
@@ -44,12 +44,12 @@ I say “for now” because this is something that might change (i.e., we might 
 
 The [internal] is something that Alex requested we add to any location where we would end up inserting a clickable link to take the reader to that other line within Grainger  
 
-## Double-check and standardize plant and animal names
+## Double-check and standardize plant and animal names (and references to families)
 
-Use https://www.itis.gov/ to double-check scientific names for plants and animals  
+Use https://www.itis.gov/ to double-check scientific names for plants and animals. This is a comprehensive database with accepted names for plants and animals.  
 
-Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Poir. (note that sometimes, name abbreviations are in parentheses, and sometimes they are not)  
+Examples of plant names: *Hura crepitans* L., *Passiflora tripartita* (Juss.) Poir. Note that sometimes, name abbreviations are in parentheses, and sometimes they are not. Also note that while the binomial is italicized, the name abbreviations for botanists are not. Also not that the genus is capitalized, and the species is not.  
 
-Examples of animal names: *Scomberomorus cavalla* (Cuvier, 1829), *Leontopithecus caissara* Lorini and Persson, 1990 (note that sometimes, the namer and date are in parentheses, and sometimes, they are not. Also, unlike plant names, animal names include dates)  
+Examples of animal names: *Scomberomorus cavalla* (Cuvier, 1829), *Leontopithecus caissara* Lorini and Persson, 1990. Note that sometimes, the namer and date are in parentheses, and sometimes, they are not. Also, unlike plant names, animal names include dates.  
 
----
+If you cite the name of a family, it should be capitalized but not italicized. For example, see this example footnote: 
