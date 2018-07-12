@@ -20,13 +20,17 @@ Go through the pages of the poem you have been assigned and see if there are any
 
 If there are, add those in (terms plus footnote content)  
 
-## Proofread, revise, and delete
+## Proofread, revise, combine, delete
 
 Proofread and correct footnotes for any errors in spelling, punctuation, grammar  
 
 Revise/rewrite any footnotes that are unclear or verbose  
 
-Don't be afraid to revise, make changes, or delete words, as Github saves all versions of a file (i.e., we can always find deleted text in an earlier version of the file and put it back in if we need to)  
+To reduce the total number of footnotes, think about using one footnote to define more than one term, if the terms appear in close succession and if it makes sense to describe them in conjunction
+
+Don't be afraid to revise or make any changes, including deletions, as Github saves all versions of a file (i.e., we can always find deleted text in an earlier version of the file and put it back in if we need to)  
+
+Remember again that we are writing for advanced undergraduates and educated readers. If a geographical or mythological term is in common usage (for example, Venus), don't footnote it.  
 
 ## Make sure to include the term you/your partner are defining in your footnote, if it’s not exactly the term that Grainger uses
 
