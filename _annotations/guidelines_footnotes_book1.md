@@ -33,7 +33,7 @@ In general, the first time a term appears is when it should be defined. All subs
 
 The most important thing for us to include in plant and animal footnotes is information about their uses and/or symbolic significance, especially for enslaved Africans and Amerindians. 
 
-Consult sources like Judith Carney's *In the Shadow of Slavery* and B. W. Higman's *Jamaican Food* to get this kind of information. Also consult primary sources like Patrick Browne's *Civil and Natural History of Jamaica* (1756). (The 1789 ed. of Browne's work is searchable on Google Books.) Another good place to look: the John Carter Brown Library's Archive of Early American Images at https://www.brown.edu/academics/libraries/john-carter-brown/jcb-online/image-collections/archive-early-american-images.  
+Consult sources like Judith Carney's *In the Shadow of Slavery* and B. W. Higman's *Jamaican Food* to get this kind of information. Also consult primary sources like Patrick Browne's *Civil and Natural History of Jamaica* (1756). (The 1789 ed. of Browne's work is searchable on Google Books.) Another good place to look: the John Carter Brown Library's [Archive of Early American Images](https://www.brown.edu/academics/libraries/john-carter-brown/jcb-online/image-collections/archive-early-american-images).  
 
 Also important to include: information about the geographic origin of the plant or animal. This information can be difficult to pin down: search various plant and animal databases and Oxford reference works to try to get a sense of where the plant or animal is from. Err on the side of caution, though, and don't include this information if you cannot find it in multiple, reliable sources.  
 
