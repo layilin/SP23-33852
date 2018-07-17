@@ -15,21 +15,23 @@ If two or more terms to be footnoted appear in close proximity to each other, an
 
 Make sure to include the term you are defining in your footnote, if it’s not exactly the term that Grainger uses. For example, "119.593 Sparta's. Sparta was a powerful city-state in ancient Greece."  Since Grainger uses “Sparta’s,” the footnote begins with the word “Sparta," the term actually being defined.    
 
-## Standardize internal citations
+## Standardize cross-references
 
-"Internal citation" means a reference to another footnote we’ve written for other lines of Grainger  
+A cross-reference is a reference to another footnote we’ve written for other lines of Grainger  
 
 For now, let’s go with this format: "See note for [internal] Book II, line 452."    
 
 The [internal] is something that we are adding to any location where we would end up inserting a clickable link to take the reader to that other line within Grainger 
 
-Do not cross-reference a term the second time it appears in the same book. Do cross-reference terms when they appear in different books.  
+Do not cross-reference a term the second time it appears in the same book. Do cross-reference terms when they appear in different books. 
+
+In general, the first time a term appears is when it should be defined. All subsequent references in other books will be cross-references. 
 
 ## Footnoting plants and animals
 
 The most important thing for us to include in plant and animal footnotes is information about their uses and/or symbolic significance, especially for enslaved Africans and Amerindians. 
 
-Consult sources like Judith Carney's *In the Shadow of Slavery* and B. W. Higman's *Jamaican Food* to get this kind of information. Also consult primary sources like Patrick Browne's *Civil and Natural History of Jamaica* (1756). (The 1789 ed. of Browne's work is searchable on Google Books.) 
+Consult sources like Judith Carney's *In the Shadow of Slavery* and B. W. Higman's *Jamaican Food* to get this kind of information. Also consult primary sources like Patrick Browne's *Civil and Natural History of Jamaica* (1756). (The 1789 ed. of Browne's work is searchable on Google Books.) Another good place to look: the John Carter Brown Library's (https://www.brown.edu/academics/libraries/john-carter-brown/jcb-online/image-collections/archive-early-american-images "Archive of Early American Images").  
 
 Also important to include: information about the geographic origin of the plant or animal. This information can be difficult to pin down: search various plant and animal databases and Oxford reference works to try to get a sense of where the plant or animal is from. Err on the side of caution, though, and don't include this information if you cannot find it in multiple, reliable sources.  
 
@@ -39,7 +41,11 @@ The binomial should always be italicized. The genus should always be capitalized
 
 If you cite the name of a family, it should be capitalized but not italicized. For example, see this footnote: "117.558 herald-lark. Any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World."  
 
-##Bibliography
+## Footnoting people and places
+
+
+
+## Bibliography
 
 Please add any primary or secondary works you consult as you are writing footnotes to the Zotero folder "Bibliography." We will use this folder to create a public bibliography for the project. Please make sure to include complete and accurate bibliographic information.  
 
@@ -47,7 +53,7 @@ In general, you do not need to include bibliographic information in footnotes (a
 
 If you quote from a source, however, include the bibliographic information for now (in general, you should avoid quoting from sources; try to use your own words when writing footnotes).   
 
-##Tags
+## Tags
 
 For footnotes that define plants, begin the footnote with the tag [plant]. For example, "[plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America."  
 
