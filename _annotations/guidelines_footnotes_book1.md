@@ -43,9 +43,15 @@ The binomial should always be italicized. The genus should always be capitalized
 
 If you cite the name of a family, it should be capitalized but not italicized. For example, see this footnote: "117.558 herald-lark. Any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World."  
 
-## Footnoting people and places
+## Footnoting Caribbean places
 
+When footnoting a place in the Caribbean that Grainger mentions, see where it is in relation to St. Kitts (or St. Christopher, as Grainger calls it). If it is in the Lesser Antilles, as St. Kitts is, mention that fact. For example, "98.222 Antigua. One of the Leeward Islands, the northern and more westerly part of the Lesser Antilles <!--Leeward Islands defined fully here because it is the first footnote Book III had on the Leeward Islands. Does not need to be defined fully in every footnote.-->. St. Kitts is also one of the Leeward Islands and lies just to the west of Antigua. <!--That St. Kitts is part of the Leeward Islands similarly only needs to be said once.--> Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda."
 
+Note that the entry for Antigua also includes information about its present-day political status (i.e., it's now part of the nation of Antigua and Barbuda). Include that information as well. 
+
+If there is no clear geographic connection between St. Kitts and the place mentioned, just go with a basic entry like the following: "99.226 Tobago. An island located northeast of Trinidad and southeast of Grenada. Now part of the Republic of Trinidad and Tobago."  
+
+Also, remember that sometimes, Grainger mentions places specifically because military and other events have happened there recently. For example, "102.282 Karukera's. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe" and "102.283 Matanina! boast of Albion's arms. The French colony of Martinique surrendered to British forces in February 1762." Grainger does tend to hint at these events in the poem's lines, so read carefully for allusion.  
 
 ## Bibliography
 
