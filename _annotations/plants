@@ -5,7 +5,7 @@ editor: julie and cristobal
 ---
 
 
-[plant] 3.1 Cane. 
+[plant] 3.1 Cane. *saccharum officinarum*. Tropical grass whose cultivation transformed the globe in the seventeenth and eighteenth centuries. Indigenous to Asia, profits from sugar cultivation and refinement in the Caribbean gave rise to the plantation complex and drove the African slave trade. Plantation monoculture had a major impact on local ecologies.
 
 [plant] 6.34 wild red cedar. Probably *Cedrela odorata*, a neotropical species found in Central and South America, as well as the Caribbean. An important timber tree, now considered vulnerable due to unsustainable levels of harvesting.  
 
@@ -15,22 +15,135 @@ editor: julie and cristobal
 
 [plant] 6.34n cedars cultivated in the Bermudas. The Bermuda cedar (*Juniperus bermudiana*). Endemic to Bermuda and used for building houses and other construction work. Also sustained a ship-building industry that denuded the island of most of its Bermuda cedars by the 1830s.  
 
-[plant] 7.36 cassia.
+[plant] 7.36 cassia. Large family of flowering and ornamental trees (*fabacea*), *cassia fistula* and *cassia grandis* werer both introduced to the Caribbean.
 
-[plant] 7.36 ceiba. 
+[plant] 7.36 ceiba. *Ceiba petandra*, also known as the silk cotton tree. Native to the Caribbean and important to pre-Columbian indigenous mythology <!-- follow up details on indigenous -->
 
-[plant] 7.37 guava. 
+[plant] 7.37 guava. Fruit tree from the *Salicacae* family native the the Caribbean.
 
-[plant] 7.37 guaiac.
+[plant] 7.37 guaiac. *Guiacum officinate*, or lignum vitae is a tree indigenous to the Caribbean. Guaicum was used medically as a treatment for syphilis in the seventeenth and eighteenth centuries (the "corrupted love" from line 42 below), and as an abortifacent. 
 
-[plant] 8.44 shaddoc.  
+[plant] 8.44 shaddoc.  *Citrus grandis*, likely imported from South Asia in the seventeenth century by a captain Shaddock <!--Higman 175-->
 
-[plant] 8.44 forbidden fruit. 
+[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct but perhaps exist in some parts of the Caribbean. Similar in taste to oranges and shaddocks, closely related to the grapefruit.  
 
-[plant] 8.45 acajou. 
+[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), indigenous to tropical America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. 
 
-[plant] 8.45 sabbaca. 
+[plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico and other parts of Central America. An important part of the diets of enslaved Africans who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
-[plant] 8.45n the pear named Lady's-thighs.  
+[plant] 8.45n the pear named Lady's-thighs. Also known as the Cuisse madame or jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation, a medium-sized fruit that has yellow-green skin with a reddish flush and some russetting.  
 
+[plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. 
+
+[plant] 14.126 guaiac. 
+
+[plant] 14.132 bearded fig. 
+
+[plant] 19.213 lily. France.
+
+20.234 provender. 
+
+[plant] 20.237 yams. 
+
+[plant] 20.237n water-melon, or gourd. 
+
+[plant] 26.337n cedar. Red cedar (*Cedrela odorata*) has a strong odor.  
+
+[plant] 27.342n mahoe-berry. 
+
+[plant] 29.378 wild fig. 
+
+[plant] 29.393 fern-tree shades. 
+
+[plant] 31.418 anana. Pineapple. 
+
+[plant] 31.420 avocato. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico and other parts of Central America. An important part of the diets of enslaved Africans who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
+
+[plant] 31.427 lemon, orange, and the lime. 
+
+[plant] 31.430 yellow plantanes.  
+
+[plant] 31.418n cherimoya. 
+
+[plant] 31.418n wild pine-apple, or ananas bravo. 
+
+[plant] 35.499 limes, with lemons. 
+
+[plant] 35.501 oranges. 
+
+[plant] 35.503 logwood-hedge. 
+
+[plant] 35.508 ricinus. 
+
+[plant] 36.510 acassee. acacia
+
+[plant] 36.515 privet.
+
+[plant] 36.520 carnation. 
+
+[plant] 36.520n senna.
+
+[plant] 37.536 prickly pear. 
+
+[plant] 38.538 wild liquorice. 
+
+[plant] 38.536n guava jellies. 
+
+[plant] 38.538n Jumbee Beeds.  
+
+[plant] 38.538n. pigeon-peas. 
+
+[plant] 38.538n black ebony. 
+
+[plant] 39.551 myrtle. 
+
+[plant] 39.556 citron. 
+
+[plant] 40.579 cedars. 
+
+[plant] 41.596 yams, cassada.
+
+[plant] 41.597 tanies. 
+
+[plant] 41.596n a species of cassada which may be eat with safety, without expressing the juice. 
+
+[plant] 41.596n one species of this plant which the Indians only use, and is by them called *Baccacoua*.
+
+[plant] 41.597n three species of tanies, the blue, the scratching, and that which is commonly roasted. 
+
+[plant] 42.598 soursop. 
+
+[plant] 42.599 ginger. 
+
+[plant] 42.599 Ralegh's pungent plant. Tobacco. 
+
+[plant] 42.601 cotton-shrub. 
+
+[plant] 42.605 cacao-walk. 
+
+[plant] 42.598n custard, star, and sugar-apples. 
+
+[plant] 42.598n guava. 
+
+[plant] 43.606 coffee. 
+
+[plant] 43.605n chocolate. 
+
+[plant] 43.605n vanellas. 
+
+[plant] 43.605n olive. 
+
+[plant] 43.605n cassada, or bananas. 
+
+[plant] 43.605n cucumber. 
+
+[plant] 43.605n That from the Caraccas is certainly the best. 
+
+[plant] 44.625 tamarind-vista. 
+
+[plant] 44.606n Arabian jasmine. 
+
+[plant] 44.606n senna. 
+
+[plant] 46.606n tea.  
 ---
