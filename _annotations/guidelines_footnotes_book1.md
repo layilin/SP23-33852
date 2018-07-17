@@ -5,13 +5,15 @@ editor: julie
 ---
 
 
-##Economize
+# Guidelines for footnoting Book I
+
+## Economize
 
 Remember again that we are writing for advanced undergraduates and educated readers. If a geographical or mythological term is in common usage (for example, Venus), don't footnote it. For example, "Venus" does not need to be footnoted.  
 
 If two or more terms to be footnoted appear in close proximity to each other, and if it makes sense to footnote them as a group, consider doing so. For example, "94.131 Lincoln-plains...Lincoln...Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Dyer was the rector of the parishes of Coningsby and Kirkby in Lincolnshire, a county in eastern England, when he died." Or "103.306-307 Kent...Gaul. Kent is a county in southeastern England facing France, which was part of the ancient region of Gaul."  
 
-##Define terms
+## Define terms
 
 Make sure to include the term you are defining in your footnote, if it’s not exactly the term that Grainger uses. For example, "119.593 Sparta's. Sparta was a powerful city-state in ancient Greece."  Since Grainger uses “Sparta’s,” the footnote begins with the word “Sparta," the term actually being defined.    
 
