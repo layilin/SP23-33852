@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "title page merge"
+title: "merge"
 editor: Cristobal Silva
 source: "1764 edition"
 ---
