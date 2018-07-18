@@ -42,12 +42,6 @@ Printed for R. and J. DODSLEY, in Pall-mall.
 MDCCLXIV.
 
 ---
----
-layout: page
-title: "page v"
-editor: Cristobal Silva
-source: "1764 edition"
----
 
 
 <!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
@@ -63,12 +57,6 @@ I CANNOT, indeed, say I have satisfied my own ideas in this particular: yet I mu
 IT must, however, be observed, that, though the general precepts are suited to every climate, where the Cane will grow; yet, the more minute rules are chiefly drawn from the practice of St. Christopher. Some selection was necessary; and I could adopt no
 
 ---
----
-layout: page
-title: "page vi"
-editor: Cristobal Silva
-source: "1764 edition"
----
 
 
 [vi]()
@@ -81,12 +69,6 @@ AND yet, except some scattered hints in Pere Labat, and other French travellers 
 
 IT must be confessed, that terms of art look awkward in poetry; yet didactic compositions cannot wholly dispense with them. Accordingly we find that Hesiod and Virgil, among the ancients, with Philips and Dyer, (not to mention some other poets now living in our own country); have been obliged to insert them in their poems. Their example is a sufficient apology for me, for in their steps I shall always be proud to tread.
 
----
----
-layout: page
-title: "page vii"
-editor: Cristobal Silva
-source: "1764 edition"
 ---
 
 
@@ -107,12 +89,6 @@ IN a West-India georgic, the mention of many indigenous remedies, as well as dis
 *Basseterre, Jan. 1763.*
 
 ---
----
-layout: page
-title: "page 1i"
-editor: Lina Jiang
-source: "1764 edition"
----
 
 
 [1i]()
@@ -127,12 +103,6 @@ source: "1764 edition"
 ## BOOK I.
 
 ---
----
-layout: page
-title: "page 2"
-editor: Steve Fragano
-Source: "1764 edition"
----
 
 
 [2]()
@@ -141,12 +111,6 @@ Source: "1764 edition"
 
 *Subject proposed. Invocation and address. What soils the Cane grows best in. The grey light earth. Praise of St. Christopher. The red brick mould. Praise of Jamaica, and of Christopher Columbus. The black soil mixed with clay and gravel. Praise of Barbados, Nevis, and Mountserrat. Composts may improve other soils. Advantages and disadvantages of a level plantation. Of a mountain-estate. Of a midland one. Advantages of proper cultivation. Of fallowing. Of compost. Of leaving the Woura, and penning cattle on the distant Cane-pieces. Whether yams improve the soil. Whether dung should be buried in each hole, or scattered over the piece. Cane-lands may be holed at any time. The ridges should be open to the trade-wind. The beauty of holing regularly by a line. Alternate holing, and the wheel-plough recommended to trial. When to plant. Wet weather the best. Rain often falls in the West-Indies, almost without any previous signs. The signs of rainy weather. Of fogs round the high mountains. Planting described. Begin to plant mountain-land in July: the low ground in November, and the subsequent months, till May. The advantage of changing tops in planting. Whether the Moon has any influence over the Cane-plant. What quantity of mountain and of low Cane-land may be annually planted. The last Cane-piece should be cut off before the end of July. Of hedges. Of stone inclosures. Myrtle hedges recommended. Whether trees breed the blast. The character of a good planter. Of weeding. Of moulding. Of stripping.*
 
----
----
-layout: poem
-title: "page 3"
-editor: Steve Fragano
-source: "1764 edition"
 ---
 
 
@@ -173,12 +137,6 @@ source: "1764 edition"
 - And Smart and Sommerville in varying strains,
 
 ---
----
-layout: poem
-title: "page 4"
-editor: Steve Fragano
-source: "1764 edition"
----
 
 
 [4]()
@@ -204,12 +162,6 @@ source: "1764 edition"
 > The industrious Naturalist says, *Saccharum et Arabia fert, sed laudatius India*; and the Greek Historian, in his *&#960;&#949;&#961;&#953;&#960;&#955;&#959;&#965;&#987;* of the Red-sea, tells us of a neighbouring nation who drank it also; his words are, *&#956;&#949;&#955;&#953; &#964;&#959; &#967;&#945;&#955;&#945;&#956;&#953;&#957;&#959;&#957; &#964;&#959; &#955;&#949;&#947;&#959;&#956;&#949;&#957;&#959;&#957; &#963;&#945;&#967;&#935;&#945;&#961;&#953;*. The Cane, however, as it was a native of the East, so has it been probably cultivated there time immemorial. The raw juice was doubtless first made use of; they afterwards boiled it into a syrup; and, in process of time, an inebriating spirit was prepared therefrom by fermentation. This conjecture is confirmed by the etymology, for the Arabic word &#1505;&#1499;&#1512; is evidently derived from the Hebrew &#1513;&#1499;&#1512;, which signifies an *intoxicating liquor*. When the Indians began to make the Cane-juice into sugar, I cannot discover; probably, it soon found its way into Europe in that form, first by the Red-sea, and afterwards through Persia, by the Black-sea and Caspian; but the plant itself was not known to Europe, till the Arabians introduced it into the southern parts of Spain, Sicily, and those provinces of France which bor-  
 
 ---
----
-layout: poem
-title: "page 5"
-editor: cristobal silva
-source: "1764 edition"
----
 
 
 [5]()
@@ -223,12 +175,6 @@ source: "1764 edition"
 
 > der on the Pyrenean mountains. It was also successfully cultivated in Egypt, and in many places on the Barbary-coast. From the Mediterranean, the Spaniards and Portuguese transported the Cane to the Azores, the Madeiras, the Canary and the Cape-Verd islands, soon after they had been discovered in the fifteenth century: and, in most of these, particularly Madeira, it throve exceedingly. Whether the Cane is a native of either the Great or Lesser Antilles cannot now be determined, for their discoverers were so wholly employed in searching after imaginary gold-mines, that they took little or no notice of the natural productions. Indeed the wars, wherein they wantonly engaged themselves with the natives, was another hindrance to physical investigation. But whether the Cane was a production of the West-Indies or not, it is probable, the Spaniards and Portuguese did not begin to cultivate it either there or in South America (where it certainly was found), till some years after their discovery. It is also equally uncertain whether Sugar was first made in the Islands or on the Continent, and whether the Spaniards or Portuguese were the first planters in the new world: it is indeed most likely that the latter erected the first sugar-works in Brazil, as they are more lively and enterprizing than the Spaniards. However they had not long the start of the latter; for, in 1506, Ferdinand the Catholic ordered the Cane to be carried from the Canaries to St. Domingo, in which island one Pedro de Atenca soon after built an *Ingenio de açucar*, for so the Spaniards call a Sugar-work. But, though they began thus early to turn their thoughts to sugar, the Portuguese far outstripped them in that trade; for Lisbon soon supplied most of Europe with that commodity; and, notwithstanding the English then paid the Portuguese at the rate of 4 *l. per C.* wt. for muscovado, yet that price, great as it may now appear, was probably much less than what the Sugar from the East-Indies had commonly been sold for. Indeed, so intent was the Crown of Portugal on extending their Brazil-trade, that that of the East-Indies began to be neglected, and soon after suffered a manifest decay. However, their sugar made them ample amends, in which trade they continued almost without a rival for upwards of a century. At last the Dutch, in 1623, drove the Portuguese out of all the northern part of Brazil; and, during the one and  twenty years they kept that conquest, those industrious republicans learned the art of making sugar. This probably inspired the English with a desire
 
----
----
-layout: poem
-title: "page 6"
-editor: Steve Fragano
-source: "1764 edition"
 ---
 
 
@@ -255,12 +201,6 @@ source: "1764 edition"
 > VER. 34. *Locust*\] This is also a lofty tree. It is of quick growth and handsome, and produces a not disagreeable fruit in a flat pod or legumen, about three inches long. It is a serviceable wood. In botanical books, I find three different names for the locust-tree; that meant here is the *Siliqua edulis*.
 
 ---
----
-layout: poem
-title: "page 7"
-editor: cristobal silva
-source: "1764 edition"
----
 
 
 [7]()
@@ -283,12 +223,6 @@ source: "1764 edition"
 
 > VER. 37. —*yet the guaiac spare;*\] The lignum-vitae, or pockwood-tree. The virtues of every part of this truly medical tree are too well known to be enumerated here. The hardness and incorruptibility of its timber make abundant amends for the great slowness of its growth, for of it are formed the best posts for houses against hurricanes, and it is no less usefully employed in building wind-mills and cattle-mills.
 
----
----
-layout: poem
-title: "page 8"
-editor: Steve Fragano
-source: "1764 edition"
 ---
 
 
@@ -314,12 +248,6 @@ source: "1764 edition"
 > VER. 45. *sabbaca:*\] This is the Indian name of the avocato, avocado, avigato, or, as the English corruptly call it, alligator-pear. The Spaniards in South-America name it *aguacate*, and under that name it is described by Ulloa. However, in Peru and Mexico, it is better known by the appellation of *palta* or *palto*. It is a sightly tree, of two species; the one bearing a green fruit, which is the most delicate, and the other a red, which is less esteemed, and grows chiefly in Mexico. When ripe, the skin peels easily off, and discovers a butyraceous, or rather a marrowy like substance, with greenish veins interspersed. Being eat with salt and pepper, or sugar and lime-juice, it is not only agreeable, but highly nourishing; hence Sir Hans Sloane used to stile it Vegetable marrow. The fruit is of the size and shape of the pear named Lady's-thighs, and contains a large stone, from whence the tree is propagated. These trees bear fruit but once a year. Few strangers care for it; but, by use, soon become fond of it. The juice of the kernel marks linen with a violet-colour. Its wood is soft, and consequently of little use. The French call it *Bois d'anise*, and the tree *Avocat*: the botanical name is *Persea*.
 
 ---
----
-layout: poem
-title: "page 9"
-editor: cristobal silva
-source: "1764 edition"
----
 
 
 [9]()
@@ -341,12 +269,6 @@ source: "1764 edition"
 
 > lies in seventeenth degree N. L. It was discovered by the great Christopher Columbus, in his second voyage, 1493, who was so pleased with its appearance, that he honoured it with his Christian name. Though others pretend, that appellation was given it from an imaginary resemblance between a high mountain in its centre, now called Mount Misery, to the fabulous legend of the Devil's carrying St. Christopher on his shoulders. But, be this as it will, the Spaniards soon after settled it, and lived in tolerable harmony with the natives for many years; and, as their fleets commonly called in there to and from America for provision and water, the settlers, no doubt, reaped some advantage from their situation. By Templeman's Survey, it contains eighty square miles, and is about seventy miles in circumference. It is of an irregular oblong figure, and has a chain of mountains, that run South and North almost from the one end of it to the other, formerly covered with wood, but now the Cane-plantations reach almost to their summits, and extend all the way, down their easy declining sides, to the sea. From these mountains some rivers take their rise, which never dry up; and there are many others which, after rain, run into the sea, but which, at other times, are lost before they reach it. Hence, as this island consists of mountain-land and valley, it must always make a midling crop; for when the low grounds fail, the uplands supply that deficiency; and, when the mountain canes are lodged (or become watery from too much rain) those in the plains yield surprisingly. Nor are the plantations here only seasonable, their Sugar sells for more than the Sugar of any other of his Majesty's islands; as
 
----
----
-layout: poem
-title: "page 10"
-editor: Steve Fragano
-source: "1764 edition"
 ---
 
 
