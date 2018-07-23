@@ -5,7 +5,7 @@ Annotations - *The Sugar-Cane* Book III
 
 
 
-<!--confirm page number for Advertisement --> William Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford.
+<!--confirm page number for Advertisement -->Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford.
 
 53.6 no circling mules. In addition to wind power, animals like mules and oxen were often used to run sugar mills.
 53.7 coppers. Copper pots used for boiling cane juice. 
