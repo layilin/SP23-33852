@@ -47,13 +47,17 @@ editor: julie and cristobal
 
 [plant] 20.234 provender. Generic term for dried cattle feed (e.g., hay).
 
-*[plant] 20.237 yams. One of many species of tubers from the *Dioscorea* family. Some are indigenous to the Caribbean, and others from various tropical regions. *Dioscorea trifido* eventually became the dominant species in the Caribbean. As a food source, it eventually replaced cassava <!--Higman, 73-74--> 
+[plant] 20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.   
+
+[plant] 21.237n boiled or roasted. One of the reasons yams became so important to the diets of enslaved Africans has to do with the fact that they can be prepared in numerous ways. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
+
+[plant] 21.237n They are a native of South-America, the West-Indies, and of most parts of Guinea. By Guinea, Grainger refers to a region on the west coast of Africa that bordered the Gulf of Guinea and served as a center of the Atlantic slave trade (Guinea is now the name of a country on the western coast of Africa). There is one South American species of yam named *Dioscorea trifida* that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, but there are no species of yam that originated in the Caribbean islands themselves. More important than *Dioscorea trifida*, however, to the diets of enslaved Africans were the Old World species of yam in West Africa. These species would have included *Dioscorea cayenensis*, which is native to West Africa. They also would have included *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century and then brought with slave traders to the Americas.  
 
 [plant] 20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
 
 [plant] 26.337n cedar. Red cedar (*Cedrela odorata*) has a strong odor.  
 
-*[plant] 27.342n mahoe-berry. 
+[plant] 27.342n mahoe-berry. Perhaps the berries from the blue mahoe (*Hibiscus elatus*), a tree native to Cuba and Jamaica and naturalized to other parts of the Caribbean. Now the national tree of Jamaica.  
 
 [plant] 29.378 wild fig. Also known as bearded fig or the wild banyan tree (*Ficus citrifolia*).  
 
@@ -77,13 +81,11 @@ editor: julie and cristobal
 
 [plant] 35.503 logwood-hedge. Logwood is the commercial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin.  
 
-*[plant] 35.508 ricinus. Physic-nut plant
-
-*[plant] 35.508n. It is generally divided into three kinds, the common, the French, and the Spanish, which differ...fruit or seeds. 
+[plant] 35.508 ricinus. Grainger refers here to the physic nut plant (*Jatropha curcas*), which is often conflated with the castor oil plant (*Ricinus communis*). The physic nut tree is native to the tropical Americas. It is toxic to human beings and livestock and was often used as a purgative in the eighteenth century.  
 
 [plant] 35.508n The plant from which the castor-oil is extracted is also called *Ricinus*. *Ricinus communis*, the castor oil plant.  
 
-[plant] 35.508n The species of it which bears red coral-like flowers...melancholy. 
+[plant] 35.508n The species of it which bears red coral-like flowers is named *Bellyach* by the Barbadians...melancholy. The bellyache bush (*Jatropha gossypiifolia*) is native to the tropical Americas.  
 
 [plant] 36.510 acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn.  
 
@@ -91,7 +93,7 @@ editor: julie and cristobal
 
 *[plant] 36.520 carnation. Poinciana, flower fence. *Caesalpinia pulcherrima*. Schiebinger. 
 
-*[plant] 36.520n senna. Grainger means a purgative plant, so he means various preparations of the dried fruits of certain shrubs of the genus *Cassia* that work as laxatives.  
+[plant] 36.520n senna kind. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
 *[plant] 37.536 prickly pear. Grainger refers to two kinds, one with sweet fruit and one with sour. He also references the *Opuntia* on which cochineal grows: this is probably *Opuntia ficus-indica*. Finally, he references an *Opuntia* growing in Spain: this could be...
 
@@ -101,57 +103,60 @@ editor: julie and cristobal
 
 [plant] 38.538n Jumbee Beeds. The plant *Abrus precatorius* is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. Also known as the rosary pea. The seeds are commonly used to make jewelry. The seeds also contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested. <!--Use in obeah?--> 
 
-[plant] 38.538n. pigeon-peas. *Cajanus cajan*. 
+[plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 B.C.E., it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
-[plant] 38.538n black ebony. 
+[plant] 38.538n black ebony. Ebony refers to various Asian and Africa trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.  
 
 [plant] 39.551 myrtle. See note for [internal] Book 1, p. 3. 
 
 [plant] 39.556 citron. Columbus brought citrons (*Citrus medica*) to the Caribbean.  
 
-[plant] 41.596 yams, cassada. 
+[plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
 
-[plant] 41.597 tanies. 
+*[plant] 41.596 cassada. 
 
-[plant] 41.596n plant?. a species of cassada which may be eat with safety, without expressing the juice. 
+*[plant] 41.597 tanies. 
 
-[plant] 41.596n plant?. one species of this plant which the Indians only use, and is by them called *Baccacoua*.
+*[plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. 
 
-[plant] 41.597n plant?. three species of tanies, the blue, the scratching, and that which is commonly roasted. 
+*[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. 
 
-[plant] 42.598 soursop. 
+*[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*.
 
-[plant] 42.599 ginger. 
+*[plant] 41.597n. three species of tanies, the blue, the scratching, and that which is commonly roasted. 
+
+*[plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. 
+
+[plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America. 
+
+[plant] 42.599 ginger. Ginger (*Zingiber officinale*) is probably native to India and was brought to the Caribbean by the Spanish in the sixteenth century.  
 
 [plant] 42.599 Ralegh's pungent plant. Tobacco (*Nicotiana tabacum*).  
 
 [plant] 42.601 cotton-shrub. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World.  
 
-[plant] 42.605 cacao-walk. 
+*[plant] 42.605 cacao-walk. 
 
-[plant] 42.598n custard, star, and sugar-apples. 
+[plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (the largest of the Caribbean island groups; includes Jamaica, Puerto Rico, Cuba, the Dominican Republic, Haiti, and the Cayman Islands). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
 [plant] 42.598n guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.   
 
 [plant] 43.606 coffee. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-[plant] 43.605n chocolate. 
+*[plant] 43.605n chocolate. 
 
-[plant] 43.605n vanellas. Genus *Vanilla*. 
+[plant] 43.605n the addtion of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees. For example, those with choleric (hot and dry) temperaments were supposed to avoid eating any foods also classified as hot or dry. The other humoral temperaments are sanguine (hot and moist), phlegmatic (cold and moist), and melancholic (cold and dry).  
 
-[plant] 43.605n olive. *Olea europaea*. 
+[plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean, as well as a symbol of wealth, abundance, power, and peace.   
 
-[plant] 43.605n cassada, or bananas. Cassava is *Manihot esculenta*. Bananas belong to the family Musaceae and are closely related to plantains. They formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
+*[plant] 43.605n cassada, or bananas. Cassava is *Manihot esculenta*. Bananas belong to the family Musaceae and are closely related to plantains. They formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
 
-[plant] 43.605n cucumber. *Cucumis sativus*. 
+[plant] 43.605n cucumber. The cucumber (*Cucumis sativus*) is native to South Asia, but it had spread to the Caribbean by the early eighteenth century. 
 
-[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the clour and goodness of their nuts. That from the Caraccas is certainly the best. 
+*[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the clour and goodness of their nuts. That from the Caraccas is certainly the best. 
 
-[plant] 44.625 tamarind-vista. *Tamarindus indica*. Native to Africa. 
+[plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
 
-[plant] 44.606n Arabian jasmine. *Jasminum sambac*. Native to the eastern Himalayas, naturalized to the Caribbean? Check period sources.  
+[plant] 44.606n tea. *Camellia sinensis* is the species from which commercially produced tea is derived. It is native to Southeast Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
-[plant] 44.606n senna. 
-
-[plant] 46.606n tea. *Camellia sinensis*. 
----
+[plant] 44.625n senna. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
