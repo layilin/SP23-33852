@@ -77,7 +77,7 @@ editor: julie and cristobal
 
 [plant] 35.499 limes, with lemons. Columbus brought limes (*Citrus aurantifolia*) to the Caribbean, and he probably also brought lemons (*Citrus limon*). 
 
-[plant] 35.501 oranges. Columbus brought sour oranges (*Citrus aurantium*) and sweet oranges (*Citrus sinensis*) to the Caribbean.  
+[plant] 35.501 oranges. Could be the sour orange (*Citrus aurantium*) or sweet orange (*Citrus sinensis*). Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the sour and sweet orange.  
 
 [plant] 35.503 logwood-hedge. Logwood is the commercial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin.  
 
@@ -133,7 +133,7 @@ editor: julie and cristobal
 
 [plant] 39.551 myrtle. See note for [internal] Book 1, p. 3. 
 
-[plant] 39.556 citron. Columbus brought citrons (*Citrus medica*) to the Caribbean.  
+[plant] 39.556 citron. *Citrus medica*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the citron.    
 
 [plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
 
