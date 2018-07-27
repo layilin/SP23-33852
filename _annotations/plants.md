@@ -109,21 +109,21 @@ editor: julie and cristobal
 
 36.520n Guinea. A region on the west coast of Africa that bordered the Gulf of Guinea and served as a center of the Atlantic slave trade.  Guinea is now the name of a country on the western coast of Africa.  
 
-[plant] 37.536 prickly pear. Opuntia. Cochineal grows on *Opuntia ficus-indica*.  
+[plant] 37.536 prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
 
-[plant] 38.538 wild liquorice. Perhaps *Abrus precatorius*. 
+[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry and good-luck charms, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.  
 
-38.536n two sorts of it, one whose fruit is roundish and sweet, the other, which has more the shape of a fig, is sour.  
+38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
 
 38.536n fucus. A paint or cosmetic for beautifying the skin, a wash or coloring for the face.  
 
-38.536n It grows naturally in some parts of Spain.  
+38.536n It grows naturally in some parts of Spain. *Opuntia ficus-indica* was introduced to Spain by Christopher Columbus upon his return from his first voyage.  
 
 [plant] 38.536n guava jellies. Refers to a jelly made from guava, a fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.
 
 38.536n scandent. Climbing, ascending.  
 
-[plant] 38.538n Jumbee Beeds. s
+[plant] 38.538n Jumbee Beeds. The plant *Abrus precatorius* is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry and good-luck charms, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.
 
 [plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 B.C.E., it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
@@ -137,19 +137,19 @@ editor: julie and cristobal
 
 [plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
 
-*[plant] 41.596 cassada. 
+[plant] 41.596 cassada. 
 
-*[plant] 41.597 tanies. 
+[plant] 41.597 tanies. 
 
-*[plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. 
+[plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. 
 
-*[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. 
+[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. 
 
-*[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*.
+[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*.
 
-*[plant] 41.597n. three species of tanies, the blue, the scratching, and that which is commonly roasted. 
+[plant] 41.597n. three species of tanies, the blue, the scratching, and that which is commonly roasted. 
 
-*[plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. 
+[plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. 
 
 [plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America. 
 
@@ -159,7 +159,7 @@ editor: julie and cristobal
 
 [plant] 42.601 cotton-shrub. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World.  
 
-*[plant] 42.605 cacao-walk. 
+[plant] 42.605 cacao-walk. 
 
 [plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (the largest of the Caribbean island groups; includes Jamaica, Puerto Rico, Cuba, the Dominican Republic, Haiti, and the Cayman Islands). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
@@ -167,7 +167,7 @@ editor: julie and cristobal
 
 [plant] 43.606 coffee. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-*[plant] 43.605n chocolate. 
+[plant] 43.605n chocolate. 
 
 [plant] 43.605n the addtion of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees. For example, those with choleric (hot and dry) temperaments were supposed to avoid eating any foods also classified as hot or dry. The other humoral temperaments are sanguine (hot and moist), phlegmatic (cold and moist), and melancholic (cold and dry).  
 
@@ -177,7 +177,7 @@ editor: julie and cristobal
 
 [plant] 43.605n cucumber. The cucumber (*Cucumis sativus*) is native to South Asia, but it had spread to the Caribbean by the early eighteenth century. 
 
-*[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the clour and goodness of their nuts. That from the Caraccas is certainly the best. 
+[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the clour and goodness of their nuts. That from the Caraccas is certainly the best. 
 
 [plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
 
