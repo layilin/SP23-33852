@@ -39,7 +39,7 @@ editor: julie, ami, lina, elizabeth
 
 91.84 Palaemon. See note for [internal] Book III, line 59.  
 
-[people] 92.107 AEthiop-brow. Aethiop and Aethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference and African inferiority based on skin color.  
+[people] 92.107 AEthiop-brow. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference and African inferiority based on skin color.  
 
 93.108 Phosphor. The morning star or the planet Venus when found in the sky before sunrise.  
 
