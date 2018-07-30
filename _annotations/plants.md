@@ -57,13 +57,13 @@ editor: julie and cristobal
 
 [plant] 26.337n cedar. Red cedar (*Cedrela odorata*) has a strong odor.  
 
-[plant] 27.342n mahoe-berry. Perhaps the berries from the blue mahoe (*Hibiscus elatus*), a tree native to Cuba and Jamaica and naturalized to other parts of the Caribbean. Now the national tree of Jamaica.  
+[plant] 27.342n mahoe-berry. May be the berries from the blue mahoe (*Hibiscus elatus*), a tree native to Cuba and Jamaica and naturalized to other parts of the Caribbean. Now the national tree of Jamaica.  
 
 [plant] 29.378 wild fig. Also known as bearded fig or the wild banyan tree (*Ficus citrifolia*).  
 
 [plant] 29.393 fern-tree shades. Tree ferns are primitive plants that belong to the order Cyatheales. Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to 9 meters tall.  
 
-[plant] 31.418 anana. The pineapple (*Ananas comosus*), which is native to eastern South America and brought by Amerindians to the Caribbean.  
+[plant] 31.418 anana. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.  
 
 [plant] 31.420 avocato. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico and other parts of Central America. An important part of the diets of enslaved Africans who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
@@ -91,7 +91,7 @@ editor: julie and cristobal
 
 [plant] 36.515 privet. Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia, commonly used for hedging. Some species are invasive.  
 
-[plant] 36.520 carnation. *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that the women used the plant to induce abortions because they did not want to give birth to children who would be enslaved. The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.    
+[plant] 36.520 carnation. *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that the women used the plant to induce abortions because they did not want to give birth to children who would be enslaved. The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.    
 
 [people] 36.520n Depoinci. General Philippe de Lonvilliers, chevalier de Poincy (1584-1660), governor of the French Antilles from 1647 to 1660.  
 
@@ -103,7 +103,7 @@ editor: julie and cristobal
 
 36.520n emmenagogue. Having the power to induce menstrual flow.  
 
-36.520n *Cauda pavonis*. Latin: peacock's tail.  
+36.520n *Cauda pavonis*. Peacock's tail (Latin).  
 
 36.520n *Flower Fence*. Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.  
 
@@ -111,7 +111,7 @@ editor: julie and cristobal
 
 [plant] 37.536 prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
 
-[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry and good-luck charms, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.  
+[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.  
 
 38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
 
@@ -123,7 +123,7 @@ editor: julie and cristobal
 
 38.536n scandent. Climbing, ascending.  
 
-[plant] 38.538n Jumbee Beeds. The plant *Abrus precatorius* is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry and good-luck charms, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.
+[plant] 38.538n Jumbee Beeds. The plant *Abrus precatorius* is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.
 
 [plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 B.C.E., it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
@@ -137,15 +137,15 @@ editor: julie and cristobal
 
 [plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
 
-[plant] 41.596 cassada. 
+[plant] 41.596 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era, subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava had advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads.  
 
 [plant] 41.597 tanies. 
 
-[plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. 
+[plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour.   
 
-[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. 
+[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There are reports from the colonial Caribbean of cassava being made into a drink called perino. Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
-[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*.
+[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America.  
 
 [plant] 41.597n. three species of tanies, the blue, the scratching, and that which is commonly roasted. 
 
