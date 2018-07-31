@@ -30,7 +30,7 @@ editor: julie
 127.52 ductile. Malleable; flexible.
 
 128.62 Golden Coast. One of the four major trading region defined by European nations on the coast of West Africa.  These included the Grain Coast (modern day Sierra Leone and Liberia), the Ivory Coast (modern Cote d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). These modern designations are approximations of eighteenth-century geographical regions. Certainly, people were enslaved from a much of the West African coast ranging at least from Senegal to Angola. <!-- Although I wrote it, this note makes me uncomfortable for all kinds of reasons CS -->  
-128.63 Papaws. Also Popo. West African in the region between Accra in modern day Ghana and Ouidah in Benin. <!--see Gilmore too-->
+128.63 Papaws. Also Popo. West African in the region between Accra in modern day Ghana and Ouidah in Benin. <!--see Gilmore too-->  
 128.65 Volta. Volta river in Ghana, which empties into the Atlantic Ocean northeast of Accra (in modern Ghana).  
 128.65 Rey. Likely the Rey (or Rio del Rey) estuary in modern day Cameroon. It is not clear whether Grainger means a specific river within this system.  
 128.71 oft by suicide. At every stage of the slave trade -- from kidnapping and embarkation in Africa to transportation across the Atlantic, sale, and forced labor in the Americas -- suicide was one of the greatest concerns expressed by enslavers from the seventeenth century through abolition in the nineteenth century.  
