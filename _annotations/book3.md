@@ -1,6 +1,6 @@
 ---
 layout: page
-title: book 3 footnotes
+title: footnotes for book 3
 editor: julie, ami, lina, elizabeth
 ---
 
