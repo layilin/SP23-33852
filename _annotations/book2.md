@@ -1,8 +1,8 @@
-
-
-
-Annotations - *The Sugar-Cane* Book II
-
+---
+layout: page
+title: footnotes for book 2
+editor: cristobal
+---
 
 
 <!--confirm page number for Advertisement --> Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford.  
