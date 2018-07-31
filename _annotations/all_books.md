@@ -1322,4 +1322,3 @@ editor: julie
 161.671-679 scepter'd sons... that lon'd for aera, hail!. Possibly a reference to Shakespeare's *Richard II*, Act II, scene 1, lines 40-70, when John of Gaunt proclaims that England has produced kings that have historically been feared around the world.
 
 162.680 the Patriot King. A reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1738), a treatise written for Frederick, Prince of Wales, on monarchy. It describes in idealized terms the policies and virtuous conduct of a Patriot King waiting in the wings, whose accession would end party-political conflicts.
----
