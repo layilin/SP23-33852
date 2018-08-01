@@ -49,25 +49,21 @@ editor: julie
  
 [place] 4.22n. Greater or Lesser Antilles. The Antilles refers to the Caribbean islands (often used as a substitute for the West Indies). The Greater Antilles were the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands of the West Indies that range from the Virgin Islands in the north to Grenada in the south. St. Christopher (or St. Kitts) is one of the Leeward Islands in the Lesser Antilles.
 
-4.22n. the wars. <!--the Carib wars? If so, need a source-->
+[people] 4.22n. Ferdinand the Catholic. King Ferdinand (1452-1516) V of Castile and León and II of Aragon, husband of Queen Isabella of Castille, patrons of Christopher Columbus's Atlantic expedition.
 
-[people] 4.22n. Ferdinand the Catholic. King Ferdinand (1452-1516) V of Castile and León and II of Aragon, husband of Queen Isabella of Castille, who began the Spanish Inquisition. Isabella funded Christopher Columbus' mission. (Brittanica)
+[place] 4.22n. St. Domingo. Hispanioloa, the island that includes the modern nations of Haiti and the Dominican Republic.
 
-[place] 4.22n. St. Domingo. Saint Domingue, the island that includes Haiti and the Dominican Republic.
+[people] 4.22n. Pedro de Atenca...*Ingenio de açucar*. Spanish for sugar mill <!--can't find any reference to this man--> 
 
-[people] 4.22n. Pedro de Atenca...*Ingenio de açucar*. <!--can't find any reference to this man--> <!--translation-->
+4.22n. *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately 40 days of wages for a skilled tradesman (see: http://www.nationalarchives.gov.uk/currency-converter/)
 
-4.22n. *4 l. per C.* wt. Four pounds per hundredweight. In modern currency (2017), worth £409.85. (National Arhives)
+[place] 4.22n. Guiana. Aggregate name for the colonies along the northern coast of South America between the mouth of the Orinoco river (in modern Venezuela) through the modern nations of Guyana, Surinam, and French Guyana, and the mouth of the Amazon (in modern Brazil). Colonizers included Portugal, France, the Netherlands, England, and Spain.
 
-6.28. Bay. <!--a specific bay?-->
+4.22n. treaty of Breda. The 1667 treaty that concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gained control of Surinam, and the French reclaimed Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Christopher.
 
-[place] 4.22n. Guiana. Now three countries: Guyana, Surinam, and French Guiana, this northeast region of South America was colonized by the French, Spanish, Dutch, and British.
+[place] 4.22n. Leeward Islands. Leeward is a nautical term meaning sheltered from the wind (or downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica. 
 
-4.22n. treaty of Breda. The treaty (1667) concluded the Anglo-Dutch War between England, the Dutch Republic, France, and Denmark. England assumed control over what is now New York and New Jersey, Antigua, Montserrat, and St. Kitts, while France gained control of Acadia. (Brittanica)
-
-[place] 4.22n. Leeward Islands. Include the modern-day United States and British Virgin Islands, Anguilla, Saint Martin, Saint Barthélemy, Saba, Sint Eustatius, Saint Kitts, Nevis, Antigua, Barbuda, Montserrat, and Guadeloupe. (Brittanica)
-
-[people] 4.22n. Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*.
+[people] 4.22n. Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer's uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
 [plant] 6.34 wild red cedar. Most likely *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. Now considered vulnerable due to unsustainable levels of harvesting.  
 
@@ -83,15 +79,13 @@ editor: julie
 
 [plant] 7.37 guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.   
 
-[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
+[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
 
 7.37n. diaphoretic. Having the property of inducing or promoting perspiration.
 
-7.37n worms. A parasite that breeds in the living human body and other animals.
+7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia as well as cognitive problems.
 
-7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian and missionary to the New World, chiefly known for his *Historia natural y moral de las Indias*, the earliest survey of the New World and its relation to the Old. His works, missionary and literary, mark the end of the period of the religious and scientific incorporation of the newly discovered lands into Western culture.
-
-7.37n cattle-mills. A mill powered by cattle.
+7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian and missionary to South America, chiefly known for his *Historia natural y moral de las Indias*, the earliest survey of the Indies. 
 
 [plant] 8.44 shaddoc. A citrus fruit *Citrus maxima* also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by a Captain Shaddock.  
 
@@ -99,23 +93,21 @@ editor: julie
 
 [plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. 
 
-[plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of enslaved Africans who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
+[plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of the enslaved who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
 8.44n Shaddoc. Captain Shaddock, An Englishman who allegedly brought the first seeds of a shaddock (a pomelo, which is a type of grapefruit) to Barbados. The story has long been considered a folk legend, but one scholarly source identifies the person as Captain Chaddock, a 17th-century West Indies trader. (Kumamoto, J., et al.)
 
-8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, and also an explorer, scientist, author, astronomer, and the first Spanish governor of Louisiana. 
+[person] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, and also an explorer, scientist, author, astronomer, and the first Spanish governor of Louisiana. 
 
 [plant] 8.45n two species; the one bearing a green fruit...and the other a red...and grows chiefly in Mexico. There are multiple varieties of avocado. The one that Grainger identifies as bearing a green fruit may be *Persea americana* var. *americana*, also known as the West Indian avocado. The one that Grainger identifies as growing chiefly in Mexico may be *Persea americana* var. *drymifolia*, also known as the Mexican avocado. 
 
 8.45n butyraceous. Of the nature of butter; buttery.
 
-8.45n Sir Hans Sloane. Sir Hans Sloane (1660–1753), an English baronet, physician, and collector. In 1687 Sloane sailed to Jamaica where he became the personal physician of Christopher Monck, second duke of Albemarle, and newly appointed governor of Jamaica until the duke's death in 1869. During his stay, Sloan made notes on the flora (which he also collected), weather, the topography, natural phenomena such as earthquakes.
+[people] 8.45n Sir Hans Sloane. Sir Hans Sloane (1660–1753), an English baronet, physician, and collector. In 1687 Sloane sailed to Jamaica where he became the personal physician of Christopher Monck, second duke of Albemarle, and newly appointed governor of Jamaica until the duke's death in 1869. During his stay, Sloan made notes on the flora (which he also collected), weather, the topography, natural phenomena such as earthquakes.
 
 [plant] 8.45n the pear named Lady's-thighs. Also known as the Cuisse madame or jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation.  
 
 [plant] 8.45n *Bois d'anise*. French: anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.    
-
-9.55 'Spite. Despite.
 
 9.55 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major (Latin for "the greater dog"). Sirius rises in conjunction with the sun, July 3 through August 11.
 
