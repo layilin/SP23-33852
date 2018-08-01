@@ -157,15 +157,15 @@ editor: julie
 
 [people]13.113 Iberian King. King Ferdinand II of Aragon.
 
-[people]13. 111n Sir Anthony Shirley. Count Sherley (1565-1636?), English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica.He later went to Persia to engineer an alliance against the Turks.
+[people]13.111n Sir Anthony Shirley. Count Sherley (1565-1636?), English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica.He later went to Persia to engineer an alliance against the Turks.
 
-[place]13. 111n St. Jago de la Vega. St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century. When the English conquered Jamaica as part of Oliver Cromwell's Great Western Design, they renamed the city "Spanish Town". It lies just west of Kingston.
+[place]13.111n St. Jago de la Vega. St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century. When the English conquered Jamaica as part of Oliver Cromwell's Great Western Design, they renamed the city "Spanish Town". It lies just west of Kingston.
 
-[people]13. 111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland was one of the leaders of the English Civil War, and a signatory of Charles I's death warrant. He established the Great Western Design with the intention of dislodging Spanish power in the Caribbean, and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658 but his remains were exhumed in 1661, at which time he was posthumously "executed".
+[people]13.111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland was one of the leaders of the English Civil War, and a signatory of Charles I's death warrant. He established the Great Western Design with the intention of dislodging Spanish power in the Caribbean, and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658 but his remains were exhumed in 1661, at which time he was posthumously "executed".
 
-[people]13. 111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados, and later Governor of Jamaica (1664-1669).
+[people]13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados, and later Governor of Jamaica (1664-1669).
 
-[people]13.111n King Charles. King Charles II (1630-1685).
+[people]13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland, son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell, and the restoration of British monarchy  in 1660.
 
 14.123 the Nine. The nine Muses.
 
@@ -179,35 +179,27 @@ editor: julie
 
 [place]14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.
 
-[place]15.133 Barbadoes. Also Barbados. The Spanish *barbados* means "bearded." The name was probably derived from the Indian fig trees. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.
+[place]15.133 Barbadoes. Also Barbados. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.
 
-[place]15.134 Nevis. a Caribbean island located near the northern end of the Lesser Antilles in the Leeward Islands. Nevis and Saint Kitts now constitute the country the Federation of Saint Kitts and Nevis.
+[place]15.135 Mountserrat. Montserrat, a British overseas territory in the Leeward Islands.
 
-[place]15.135 Mountserrat. Also Montserrat, a Caribbean island in the Leeward Islands.
+[people]15.132n the Earl of Carlisle. James Hay first earl of Carlisle (c.1580-1636), a Scottish courtier and diplomat who came to the English court with James I. Later, under Charles I, he obtained a grant for the Caribbean islands from Barbados to St Kitts in 1627, a highly lucrative affair. 
 
-[people]15.132n the Earl of Carlisle. James Hay first earl of Carlisle (c.1580-1636). He outmanoeuvred the earls of Marlborough and Montgomery and took possession of all the islands from Barbados and St Kitts. 
+[people]15.132n the Earl of Marlborough. James Ley, first earl of Marlborough (1550–1629), an English judge and politician and rival to the early of Carlisle for the English Caribbean islands.
 
-[people]15.132n the Earl of Marlborough. James Ley, first earl of Marlborough (1550–1629), judge and politician.
+15.132n Columbus’s second voyage, A. D. 1493. Columbus's second voyage (1493-1496) began in Cádiz, Spain.
 
-[people]15.132n King Charles II. Charles II (1630–1685), king of England, Scotland, and Ireland, son of Charles I (1600–1649). He became king after the rule of Oliver Cromwell, and the British monarchy returned in 1660. 
+[place]15.135n Antigua. One of the Leeward Islands. St. Kitts is also one of the Leeward Islands and lies just to the west of Antigua. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
 
-15.132n Columbus’s second voyage, A. D. 1493. Christopher Columbus left from Cádiz in Spain for his second voyage (1493-1496).
+[people]16.135n K. William and Q. Anne’s time. William III (1650–1702), king of England, Scotland, and Ireland, and prince of Orange. Queen Anne (1665-1714) was the Queen of England, Scotland and Ireland between 1702 and 1707. They ascended to the throne after the abdicaton of James II at the end of the Glorious Revolution.
 
-[place]15.135n Antigua. One of the Leeward Islands, the northern and more westerly part of the Lesser Antilles. St. Kitts is also one of the Leeward Islands and lies just to the west of Antigua. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
-
-[people]16.135n K. William and Q. Anne’s time. William III and II (1650–1702), king of England, Scotland, and Ireland, and prince of Orange. Queen Anne (1665-1714) was the Queen of England, Scotland and Ireland between 1702 and 1707.
-
-[people]16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), colonial governor and explorer in the Caribbean. He settled in St. Kitts and established a plantation.
-
-16.135n the treaty of Breda. Treaty of Breda, (July 31, 1667), treaty between England, the Dutch Republic, France, and Denmark, which brought to an end the second Anglo-Dutch War (1665–1667).
+[people]16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. He settled St. Kitts in 1624, where he established tobacco plantations, and formed an alliance with the French against the Caribs in 1626. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
 
 17.175 bill. Also bill-hook. Cutlass used for cutting cane.
 
-18.179 saccharize. To undergo saccharine fermentation, converting into sugar.
+18.179 saccharize. The process of converting cane syrup into sugar.
 
-18.191 Pomona. The Roman goddess of fruit.
-
-[plant] 19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.
+19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.
 
 [place]19.216 Gallia. France
 
