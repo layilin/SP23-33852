@@ -109,87 +109,75 @@ editor: julie
 
 [plant] 8.45n *Bois d'anise*. French: anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.    
 
-9.55 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major (Latin for "the greater dog"). Sirius rises in conjunction with the sun, July 3 through August 11.
+9.55 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun, July 3 through August 11.
 
-9.57 after-offspring.
+9.57 after-offspring. Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon-canes").
 
-9.60n green St. Christopher. Another name for St. Kitts, considered to be a very fertile island.
-
-9.61 Tempé. The proper name of a valley in Thessaly, located between Mounts Olympus and Ossa; used as a general name for a beautiful valley or rural spot.
+[place] 9.61 Tempé. The proper name of a valley in Thessaly, located between Mounts Olympus and Ossa; used as a general name for a beautiful valley or rural spot.
 
 9.61 Arcadian Pan. God of flocks and herds of Greek mythology, usually represented with the horns, ears, and legs of a goat on the body of a man. Pan lived in Arcadia, an idealized, utopian place in mythology and literature.
 
-9.60n "A precious stone set in the silver sea." William Shakespeare describes England as a "precious stone" in *King Richard II*, Act 2, scene 1.
+9.60n "A precious stone set in the silver sea." John of Gaunt describes England as a "A precious stone, set in the silver sear" in William Shakespeare's *Richard II* (II.i.46).
 
 9.60n seventeenth N.L. Seventeenth north latitude, the compass coordinates for St. Kitts.
 
-9.60n Mount Misery. Europeans referred to this volcanic mountain in St. Kitts as Mount Misery. It was renamed Liamuiga on the date of St. Kitts' independence, September 19, 1983. As Grainger notes at the end of 10.60n, Liamuiga is a native word that means "fertile land."
+[place] 9.60n Mount Misery. Mount Misery was the name used by Europeans for the main volcanic mountain on St. Kitts. Renamed Mt. Liamuga when St. Kitts and Nevis became independent on 19 September 1983.
 
-9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend of St. Christopher carrying a child across a river on his shoulders. 
+9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend of St. Christopher carrying a child across a river on his shoulders. <!--- copy version from book III--->
 
-9.60n Templeman's Survey. Grainger refers to Thomas Templeton's *A New Survey of the Globe: Or an Accurate Mensuration of All the Empires, Kingdoms, Islands in the World,* published around 1730.
+9.60n Templeman's Survey. Grainger cites Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of All the Empires, Kingdoms, ... and Islands in the World* (London, 1729?).
 
-9.60n his Majesty. Grainger refers to George III (1738-1820).
+[plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. Together, tobacco, indigo, coffee, and cotton were the four major agricultural commodities after sugar in the eighteenth-century Caribbean. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-[plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. In addition to sugar, tobacco, indigo, coffee, and cotton were major Caribbean agricultural commodities. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
+[place] 10.60n St.Kitts ... Nevis. Together, these islands form the modern Federation of St. Kitts and Nevis.
 
-10.60n St.Kitts ... Nevis. Islands that are part of the Leeward Islands.
+10.60n Solfaterre. A volcano.
 
-10.60n Solsaterre. See Grainger's note for 15.135, where he identifies a solsaterre as a volcano.
+[person] 10.60n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
 
-10.60n King James. James II and VII (1633–1701), king of England, Scotland, and Ireland. He abdicated in 1688, during the Glorious Revolution.
+10.60n treaty of Ryswick. Also Treaty of Rijswijk, signed in 1697 and named after the Dutch city in which it was signed. The treaty ended the Nine Years War (1689-1697), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
 
-10.60n treaty of Ryswick. Also Treaty of Rijswijk, signed in 1697, and named after the Dutch city in which it was signed. The treaty ended the Nine Years War (1689-97), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
+[place] 10.60n Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. It is an overseas department (département d'outre-mer) of France.
 
-10.60n Martinico. Spanish name for the island of Martinique, an island located in the Lesser Antilles.
+[place] 10.60n Hispaniola. The island that makes up the modern nations of Haiti and the Dominican Republic (known in the eighteenth century as St. Domingue and Santo Domingo).
 
-10.60n Hispaniola. An island located in the Greater Antilles.
-
-10.60n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of the Spanish Succession. One condition required Philip V of Spain to abandon his claim to the French throne and lose his other possessions in the Netherlands and Italy to the Emperor Charles VI, but he retained Spain and the West Indies.
+10.60n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession. The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included  the Spanish forfeiture of Gibraltar and Minorca to the British, the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in Northern Canada, and to St. Kitts in the Caribbean--also to the British. Finally, the British also received the Asiento, or monopoly of the Spanish Atlantic slave trade.
 
 11.66 Sicilian Proserpine. The Italian name for Persephone, queen of the underworld.
 
-11.71-72 she / Whom Pluto ravish'd. Pluto, another name for Hades, ruler of the underworld, carried Proserpine (Persephone) to the underworld to be his queen. 
+11.71-72 Pluto. Roman God of the underworld who who abducted Proserpine and made her his queen. 
 
 11.85 red brick-mould. Loose and clay-like soil beneficial for cultivation.
 
 11.86 marly beds. Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil. 
 
-11.86 renter. An individual who rents or leases land for profit.
+12.94 Daughters of Heaven. The Muses.
 
-12.94 DAUGHTERS of Heaven. The Muses.
+[people]12.97 Columbus. Christopher Columbus (?-1506), an Genoese-born explorer, who received a royal commission for the Atlantic voyage in 1492. His first voyage, whose purpose it was to discover a western route to Asia began from Palos on 3 August and from San Sebastián de la Gomera on 6 September. He set sight on the island of Guanahani (in the Bahamas) on 12 October. Columbus completed four voyages to the Americas during his lifetime.
 
-[people]12.97 COLUMBUS. Christopher Columbus (?-1506), an Genoese-born explorer, who completed four voyages to the Atlantic Ocean.
+[people]13.113 Iberian King. King Ferdinand II of Aragon.
 
-[people]13.113 Iberian King. <According to Gilmore, Iberian King is Ferdinand, King of Aragon?>
+[people]13. 111n Sir Anthony Shirley. Count Sherley (1565-1636?), English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica.He later went to Persia to engineer an alliance against the Turks.
 
-13.111n discovered, A. D. 1492, by Columbus, in his first voyage to America. Columbus received a royal commission for the Atlantic voyage in 1492 started his first voyage to the Americas and sailed from Palos on 3 August with the conscious purpose of discovering a western route to Asia. He departed from San Sebastián de la Gomera on 6 September 1492.
+[place]13. 111n St. Jago de la Vega. St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century. When the English conquered Jamaica as part of Oliver Cromwell's Great Western Design, they renamed the city "Spanish Town". It lies just west of Kingston.
 
-[people]13. 111n Sir Anthony Shirley. Count Sherley in the nobility of the Holy Roman empire (1565-1636?), adventurer and diplomat in the Persian service.
+[people]13. 111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland was one of the leaders of the English Civil War, and a signatory of Charles I's death warrant. He established the Great Western Design with the intention of dislodging Spanish power in the Caribbean, and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658 but his remains were exhumed in 1661, at which time he was posthumously "executed".
 
-[place]13. 111n St. Jago de la Vega. A Spanish town.
+[people]13. 111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados, and later Governor of Jamaica (1664-1669).
 
-[place]13. 111n the Leeward islands. the northern and more westerly part of the Lesser Antilles. St. Kitts is also one of the Leeward Islands and lies just to the west of Antigua.
-
-[people]13. 111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland. During the English Civil War, he became the leader of the New Model Army.
-
-[people]13. 111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), planter of Barbados and Governor of Jamaica (1664-1669).
-
-[people]13.111n King Charles. King Charles I (1600-1649).
-
-[people]14.119 the Prince. See note for [internal] Book I, line 113.
+[people]13.111n King Charles. King Charles II (1630-1685).
 
 14.123 the Nine. The nine Muses.
 
-[plant] 14.126 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
+[plant]14.126 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
 
-[plant] 14.132 bearded fig. *Ficus citrifolia*, also known as the wild banyan tree, is native to the tropical Americas. It is the national tree of Barbados. 
+[plant]14.132 bearded fig. *Ficus citrifolia*, also known as the wild banyan tree, is native to the tropical Americas. It is the national tree of Barbados. 
 
 [people]14.132n Q. Curtius. Quintus Curtius Rufus (1st century AD), a Roman historian, author of *Histories of Alexander the Great*.
 
-14.132n by Milton in the following lines. From John Milton's *Paradise Lost*, IX, 1101-1110.
+[people]14.132n Milton. John Milton (1606-1674), English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671), Grainger quotes here from *Paradise Lost*, IX.1101-1110.
 
-14.132n In Malabar and Decan spreads her arms. <???>
+[place]14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.
 
 [place]15.133 Barbadoes. Also Barbados. The Spanish *barbados* means "bearded." The name was probably derived from the Indian fig trees. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.
 
