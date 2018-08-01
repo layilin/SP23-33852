@@ -5,31 +5,31 @@ editor: julie
 ---
 
 
-[plant] 3.1 Cane. *Saccharum officinarum*. A large tufted perennial grass probably native to Southeast Asia and first carried to the Americas by Columbus. By the eighteenth century, widely cultivated on Caribbean plantations by enslaved African laborers so that European and North American consumers could enjoy sugar. 
+ 
 
 [plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
-3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon. Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
-
-3.8 sacred Mount. Mt. Helicon.  
+[people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
 3.9 swain. A country or farm laborer, a shepherd.
 
-3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
+[people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
 
-3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
+[people] 3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
 
-3.12 Pomona's Bard. John Philips (1676-1709), English poet, author of the georgic poem *Cyder* (1708). Pomona is the Roman goddess of fruit.  
+[people] 3.12 Pomona's Bard. John Philips (1676-1709), English poet, author of the georgic poem *Cyder* (1708). Pomona is the Roman goddess of fruit.  
 
-3.13 Smart. Christopher Smart (1722-1771), English poet, author of the georgic poem *The Hop-Garden* (1752).  
+[people] 3.13 Smart. Christopher Smart (1722-1771), English poet, author of the georgic poem *The Hop-Garden* (1752).  
 
-3.13 Sommerville. William Somerville (1675-1742), English poet, author of the georgic poem *The Chace* (1735).  
+[people] 3.13 Sommerville. William Somerville (1675-1742), English poet, author of the georgic poem *The Chace* (1735).  
 
-[people] 4.19 Aurelius. <!--the Roman emperor? Doesn't make sense given George relationship, but can't find contemporary-->
+[people] 4.19 Aurelius. Gilmore identifies Aurelius as George Thomas (c. 1694-1774) who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antigua colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
 
-[people] 4.20 Imperial George. George III (1738-1820) ruled as King of the United Kingdom from 1760 to 1820.
+[people] 4.20 Imperial George. George III (1738-1820) was king of Britain from 1760 to 1820.
 
-[people] 4.22n. Lucan...Pliny...Arrian...Pompey. Lucan or Marcus Annaeus Lucanus (39-65 AD), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 AD), the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 AD), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridaes, King of Pontus, and establishing military order in the eastern provinces of the Roman empire.
+[people] 4.22n. Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 AD), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 AD), the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 AD), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
+
+[people] 4.22n. Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus and established military order in the eastern provinces of the Roman empire.
 
 4.22n. *Dulces bibebant ex arundine succos*. <!--translation-->
 
@@ -39,17 +39,15 @@ editor: julie
 
 4.22n. &#1505;&#1499;&#1512...&#1513;&#1499;&#1512. <!--translations-->
 
-[place] 4.22n. Persia. Now Iran, the Persian empire which, at its height, spanned from Egypt through southwestern Asia to India.
+[place] 4.22n. Persia. Now known as the modern nation of Iran, the Persian empire spanned from Egypt through southwestern Asia to India at its height. Traditional antagonist of Ancient Greece.
 
-[people] 4.22n. Arabians. Inhabitants of the Arabian peninsula.
+[place] 4.22n. Pyrenean mountains. The Pyrenees are the mountain range between modern France and Spain.
 
-[place] 4.22n. Pyrenean mountains. The Pyrenees are the mountain range between Gaul (modern France) and Hispania (modern Spain).
+[place] 4.22n. Barbary-coast. Mediterranean coastline of North Africa.oastline that runs from Egypt to the Atlantic Ocean (more particularly, Morrocco, Algeria, Tunisia, and Libya).
 
-[place] 4.22n. Barbary-coast. Coastline that runs from Egypt to the Atlantic Ocean. The Canary Islands 
-
-[place] 4.22n. Azores...Madeiras...Canary...Cape-Verd Islands. The Azores and Madeiras are Portuguese island groups in the eastern Atlantic Ocean. The Canary Islands are Spanish territories off the western coast of north Africa. The Cape Verde islands (now the Republic of Cape Verde) were also Portuguese islands in the Atlantic.
+[place] 4.22n. Azores...Madeiras...Canary...Cape-Verd Islands. The Azores and Madeiras are Portuguese island groups in the eastern Atlantic Ocean; the Azores are directly west of Portugal, and the Madeiras are southeast of the Azores and closer to the coast of Morrocco. The Canary Islands are Spanish territories south of the Madeiras. The Cape Verde islands (now the Republic of Cape Verde) were also Portuguese islands situated off the coast of Senegal and Mauritania. All of these islands played important roles in the eighteenth-century Atlantic trade. The Madeiras, Canaries, and Cape Verde islands were often waypoints for European traders sailing to the coast of West Africa.
  
-[place] 4.22n. Greater or Lesser Antilles. The Antilles are the islands of the West Indies (excluding the Bahamas). The Greater Antilles refers to the larger, northwestern islands, while the Lesser Antilles refers to the smaller, southeastern islsands.
+[place] 4.22n. Greater or Lesser Antilles. The Antilles refers to the Caribbean islands (often used as a substitute for the West Indies). The Greater Antilles were the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands of the West Indies that range from the Virgin Islands in the north to Grenada in the south. St. Christopher (or St. Kitts) is one of the Leeward Islands in the Lesser Antilles.
 
 4.22n. the wars. <!--the Carib wars? If so, need a source-->
 
