@@ -205,41 +205,41 @@ editor: julie
 
 20.233 Dorchestria's plains. The Latinized name Dorchestria refers to the town of Dorchester in the English county of Dorset. (only source was Gilmore's endnote)  
 
-[plant] 20.234 provender. Generic term for dried cattle feed (e.g., hay).
+20.234 provender. Generic term for dried cattle feed (e.g., hay).
 
-[plant] 20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.   
+[plant]20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.   
 
-[plant] 20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
+[plant]20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
 
-[plant] 21.237n boiled or roasted. One of the reasons yams became so important to the diets of enslaved Africans has to do with the fact that they can be prepared in numerous ways. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
+[plant]21.237n boiled or roasted. One of the reasons yams became so important to the diets of enslaved Africans has to do with the fact that they can be prepared in numerous ways. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
 
 [plant] 21.237n They are a native of South-America, the West-Indies, and of most parts of Guinea. By Guinea, Grainger refers to a region on the west coast of Africa that bordered the Gulf of Guinea and served as a center of the Atlantic slave trade (Guinea is now the name of a country on the western coast of Africa). There is one South American species of yam named *Dioscorea trifida* that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, but there are no species of yam that originated in the Caribbean islands themselves. More important than *Dioscorea trifida*, however, to the diets of enslaved Africans were the Old World species of yam in West Africa. These species would have included *Dioscorea cayenensis*, which is native to West Africa. They also would have included *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century and then brought with slave traders to the Americas.
 
-22.270 demesnes. Demesne, a word of Anglo-Norman origin, signifies one's possession, chiefly of land or real estate. 
+22.270 demesnes. Domains. 
 
-24.313 Mantuan Bard. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Ecologues*, the *Georgics*, and the *Aeneid*. Born in the modern-day Italian provice of Mantua. 
+[people]24.313 Mantuan Bard. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Ecologues*, the *Georgics*, and the *Aeneid*. Born in the modern-day Italian provice of Mantua. 
 
-25.329 Amyntor. In Greek mythology, king of Thessalian Hellas and the father of Phoenix, who served as companion to Achilles.  
+25.329 Amyntor. King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.  
 
 25.330 Themis. The Greek goddess of wisdom and good counsel, often the personification of justice and the interpreter of the gods' will.
 
-25.Fn.Ver.334 Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
+[people]25.n Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
 26.339 Harpies. Creatures in Greek mythology, depicted as winged women or birds with women's faces. They personify the destructive potential of storms and/or wind. 
 
 [plant] 26.337n cedar. Red cedar (*Cedrela odorata*) has a strong odor.  
 
-27.342 black crabs. Grainger may be referring to *Gecarcinus ruricola*, a species of terrestrial crabs widespread throughout the Greater and Lesser Antilles and the Bahamas. *G. ruricola* is currently the most commonly exploited land crab for human consumption in the Caribbean. Richard Hartnoll, Mark Baine, Yolima Grandas, Jennifer James, and Helen Atkin, "Population Biology of the Black Land Crab, * Gecarcinus ruricola *, in the San Andres Archipelago, Western Caribbean," *Journal of Crustacean Biology* 26.3 (2006): 316-325.
+27.342 black crabs. Not clear which species Grainger means specifically, but perhaps *Gecarcinus ruricola*, the species of terrestrial crabs that is the most commonly exploited land crab for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs.<!---Richard Hartnoll, Mark Baine, Yolima Grandas, Jennifer James, and Helen Atkin, "Population Biology of the Black Land Crab, * Gecarcinus ruricola *, in the San Andres Archipelago, Western Caribbean," *Journal of Crustacean Biology* 26.3 (2006): 316-325.--->
 
-27.341n guana, or rather Iguana. A family of lizards (order Squamata, suborder Sauria). More than 700 species are identified today in the family, found principally in the temperate and tropical Americas; they are the New World counterparts of the Agamidae of the Old World, and often have a crest of spines running from the neck to the tail. Their flesh and eggs are valued for food.  
+27.341n guana, or rather Iguana. A family of crested lizards (order Squamata, suborder Sauria). More than 700 species are identified today in the family, found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-27.341n *Lues Venerea*. The term *lues venerea* was applied during the seventeenth century across Europe for all sexually transmitted diseases, often described as a single ailment. Leonardo Botallo of Paris used the term early on in 1563, as did Jean Fernel in 1579, to name syphilis, or the "French pox," and it remained the popular name for syphilis in the eighteenth century. Until the mid-eighteenth century, European medical thought commonly held that the *lues venerea* originated from a single virus. It was not until the nineteenth century that different kinds of sexually transmitted diseases were distinguished with specific names.
+27.341n *Lues Venerea*. *lues venerea* was the medical term usedfor syphilis (also commonly known by the British as the "French pox").
 
-27.342n *cholera morbus*. The term *cholera morbus* is used today for the disease caused by *Vibrio cholerae*, but in the eighteenth and nineteenth centuries it was applied to both cholera and cholera-like diseases. An acute diarrheal disease, symptoms of cholera include vomiting, dehydration, and abdominal pain. It is contracted from contaminated food or drinking water and feces.
+27.342n *cholera morbus*. *Cholera morbus* is used in modern medicine to describe the water-borne disease caused by *Vibrio cholerae*. However, in the eighteenth century, it described a variety of illnesses with symptoms like diarrhea, vomiting, dehydration, and abdominal pain. 
 
 [plant] 27.342n mahoe-berry. May be the berries from the blue mahoe (*Hibiscus elatus*), a tree native to Cuba and Jamaica and naturalized to other parts of the Caribbean. Now the national tree of Jamaica.  
 
-28.355 Naiads. Naiads are freshwater nymphs who dwell in springs, rivers, and lakes in Greek mythology.
+28.355 Naiads. Freshwater nymphs who dwell in springs, rivers, and lakes in Greek mythology.
 
 [plant] 29.378 wild fig. Also known as bearded fig or the wild banyan tree (*Ficus citrifolia*).  
 
@@ -247,11 +247,11 @@ editor: julie
 
 30.397 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra, and sometimes cited as the wife of Zephyrus the West Wind. Her name in Greek means "rainbow." The goddess Juno took her to serve as her handmaid.
 
-30.402 junk. Obsolete term. A gathering of stems or stalks.
+30.402 junk. A gathering of stems or stalks.
 
-30.407 the shield was forg'd for Peleus' Son. Achilles, the son of Peleus, king of Phthia, and Thetis, a sea goddess. In Homer's *Iliad*, the god Hephaestus (Greek, Hephaistos; Latin, Vulcan) forged an elaborate shield for Achilles after his armor was stripped from Patroclus by Hector. Classical tradition sometimes held that Cyclopes (sing. Cyclops, pl. Cyclopes), a clan of one-eyed giants, were craftsmen who assisted Hephaestus in his forge.  
+30.407 the shield was forg'd for Peleus' Son. Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Patroclus was killed by Hector.  
 
-31.416 While Procyon reigns yet. Procyon, Alpha Canis Minoris, the brightest star in the constellation Canis Minor.
+31.416 While Procyon reigns yet. Alpha Canis Minoris, the brightest star in the constellation Canis Minor.
 
 31.417 yet the fiery Sun in Leo rides. Leo, the zodiacal constellation between Cancer and Virgo, and the fifth sign of the Zodiac. The sun enters its sign around the 21 July, which lasts until 20-23 August.
 
@@ -259,13 +259,13 @@ editor: julie
 
 [plant] 31.420 avocato. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico and other parts of Central America. An important part of the diets of enslaved Africans who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
-31.425 the arrow's deadening power. Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow, popularly called "the Archer." Its name derives from *sagitta*, Latin for "arrow." Sagittarius also denotes the ninth sign of the zodiac in astrology, lasting from 22 November to 21 December. By "the arrow's deadening power," Grainger means the November cold.
+31.425 the arrow's deadening power. Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow, popularly called "the Archer." By "the arrow's deadening power," Grainger means the November cold.
 
 [plant] 31.427 lemon, orange, and the lime. Members of the genus *Citrus*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*).  
 
 [plant] 31.430 yellow plantanes. Plantain (family Musaceae), closely related to the banana. Plantains formed an important a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
 
-31.432 \'Till Capricorn command. Capricorn, the tenth sign of the zodiac, which the sun enters around 21-22 December. Its sign lasts approximately until 19 January.
+31.432 'Till Capricorn command. Capricorn, the tenth sign of the zodiac, which the sun enters around 21-22 December. Its sign lasts approximately until 19 January.
 
 31.433 moist Aquarius melt. Aquarius, the eleventh sign of the zodiac, which the sun enters around 21 January and exits around 18 February.
 
@@ -273,21 +273,19 @@ editor: julie
 
 [plant] 31.418n wild pine-apple, or ananas bravo. *Bromelia pinguin*. Found throughout Central America and the Caribbean. 
 
-32.443 What months relent, and which from rain are free. As the West Indies lie close to the equator, the sun is overhead twice a year and annual patterns in temperature and precipitation show double maxima. 
-
-33.472 stern Neptune. In Roman mythology, the god of the sea; also used as the name for a personification of the sea.
+33.472 stern Neptune. Roman god of the sea.
 
 34.483 from Aries to the Bull. Under the tropical zodiac, the sign of Aries lasts approximately from 20 March to 21 April; the Bull refers to the zodiacal sign of Taurus, which the sun enters around 21 April and exits around 21 May.
 
-34.484 the Virgin his hot beams inflame. The "Virgin" names Virgo, the zodiacal constellation between Leo and Libra, also the sixth sign of the zodiac. The sun enters its sign around 20-23 August.
+34.484 the Virgin his hot beams inflame. The "Virgin" names Virgo, the zodiacal constellation which the sun enters around 20-23 August.
 
-34.488 wondering daughters of the main. Sea nymphs. Chiefly used in poetry, "main" denotes the open sea.
+34.488 wondering daughters of the main. Sea nymphs. Chiefly used in poetry, "main" denotes the open sea. <!---Gilmore thinks wondering is correct and should not be read as wandering--->
 
 34.489 ere Libra weigh the year. Libra, the seventh sign of the zodiac. Its sign lasts approximately from 23 September to 23 October.
 
 34.495 Unfailing herbage to thy toiling herds. Cane stalks often provided cattle feed.
 
-34.482n *Seasons* in the West-Indies. See note for [internal] Book I, line 443.
+34.482n *Seasons* in the West-Indies. Unlike the temperate zones that experience four distinct seasons, the year was divided into wet and dry seasons in the Caribbean.
 
 [plant] 35.499 limes, with lemons. Columbus brought limes (*Citrus aurantifolia*) to the Caribbean, and he probably also brought lemons (*Citrus limon*). 
 
@@ -295,7 +293,7 @@ editor: julie
 
 [plant] 35.503 logwood-hedge. Logwood is the commercial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin.  
 
-35.505 the flux. Flux broadly refers to an abundant flow from an organ or cavity. Diarrhea, for example, is otherwise known as the alvine flux; in the eighteenth century, the gastrointestinal disorder dysentery was often known as the "bloody flux" or "red flux." Risk factors for dysentery include poor sanitation, contaminated water supplies, close living quarters, and malnutrition. Dysentery remained a major public health concern throughout the eighteenth and nineteenth centuries.
+35.505 the flux. General term for gastrointestinal disorders like dysentery (also known as the "bloody flux"). Dysentery remained a major public health concern throughout the eighteenth and nineteenth centuries.
 
 [plant] 35.508 ricinus. Grainger refers here to the physic nut plant (*Jatropha curcas*), which is often conflated with the castor oil plant (*Ricinus communis*). The physic nut tree is native to the tropical Americas. It is toxic to human beings and livestock and was often used as a purgative in the eighteenth century.  
 
@@ -307,7 +305,7 @@ editor: julie
 
 35.508n melancholy. Prior to the eighteenth century, melancholy was understood within the framework of the humoral theory of the body articulated by Aristotle, Galen, and Hippocrates, as a disease caused by an excess of "black bile" and characterized by negative emotions such as fear or sadness without explicit cause. Use of the term had expanded by the time of Grainger's writing to speak more generally of physiological disturbance, listlessness, or dejection.
 
-36.509. cholic. The contracting of hollow organs results in pain called colic.
+36.509. cholic. Painful stomach contractions.
 
 [plant] 36.510 acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn.  
 
@@ -315,9 +313,9 @@ editor: julie
 
 [plant] 36.515 privet. Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia, commonly used for hedging. Some species are invasive.  
 
-[place] 36.517. Grampia's piny hills. The Grampian Mountains in Scotland. (Brittanica)
+[place] 36.517. Grampia's piny hills. The Grampian Mountains in Scotland.
 
-[people] 36.510n. Tournefort. Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique*. (Brittanica)
+[people] 36.510n. Tournefort. Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique* (1694).
 
 [plant] 36.520 carnation. *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that the women used the plant to induce abortions because they did not want to give birth to children who would be enslaved. The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
 
@@ -334,24 +332,23 @@ editor: julie
 36.520n *Cauda pavonis*. Peacock's tail (Latin).  
 
 36.520n *Flower Fence*. Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.  
+36.520n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It didn't have exact borders, but covered a geographic region from Sierra Leone to Liberia, Cote d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea western coast of Africa.  
 
-36.520n Guinea. A region on the west coast of Africa that bordered the Gulf of Guinea and served as a center of the Atlantic slave trade.  Guinea is now the name of a country on the western coast of Africa.  
+37.526. humming bird. Birds of the family *Trochilidae*.
 
-37.526. humming bird. Birds of the family *Trochilidae*. (Brittanica)
-
-37.529. bird of Jove. An eagle (Need a source)
+37.529. bird of Jove. An eagle.
 
 [people] 37.534. Vitruvius. Vitruvius Pollio (1st century BCE), Roman architect.
 
 [plant] 37.536 prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
 
-[people] 37.526n. Edwards. <!--who is this?-->
+[people] 37.526n. Edwards. George Edwards(1694-1773), English artist and ornithologist, author of *A Natural History of Uncommon Birds* (1743-1751).
 
 [plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.  
 
 38.543. Vermeil. bright red color.
 
-38.544. Christobelle. <!--not sure who this is-->
+38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher". Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his February 29, 1766 letter to Bishop Thomas Percy.
 
 38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
 
@@ -359,9 +356,7 @@ editor: julie
 
 38.536n It grows naturally in some parts of Spain. *Opuntia ficus-indica* was introduced to Spain by Christopher Columbus upon his return from his first voyage.  
 
-[plant] 38.536n guava jellies. Refers to a jelly made from guava, a fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.
-
-38.536n. scymitar. A scimitar is a short, curved, single-edged sword.
+38.536n. scymitar. A scimitar is a short, curved, single-edged sword associated primarily with the middle east, the Arabian peninsula, and Persia.
 
 38.538n scandent. Climbing, ascending.  
 
@@ -371,17 +366,19 @@ editor: julie
 
 38.538n. emetic...pectoral. Emetics produce vomiting. Pectoral drinks aid in digestion.
 
-[plant] 38.538n black ebony. Ebony refers to various Asian and Africa trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.  
+[plant] 38.538n black ebony. Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.  
 
-[plant] 39.551 myrtle. See note for [internal] Book 1, p. 3. 
+[plant] 39.556 citron. *Citrus medica*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the citron. 
 
-[plant] 39.556 citron. *Citrus medica*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the citron. 39.560. Dryad. Wood-nymph.
+39.560. Dryad. Wood-nymph.
+
+39.564. recks. To pay attention.
 
 39.565. Earth's eldest birth. <!--I think this is a mythical allusion, but I'm not sure what it is-->
 
-39.559n. blight. Plant diseases caused by funghal parasites.
+39.559n. blight. Plant diseases caused by funghal parasites. <!---conform with book 2--->
 
-40.572. yellow death. Most often transmitted by mosquitos, occurs mostly in tropical climates, characterized by jaundice, fever, nausea or vomiting, and aches.
+40.572. yellow death. Yellow fever, a disease transmitted by the Aedes aegypti mosquito, occurs mostly in tropical climates, characterized by jaundice, fever, nausea or vomiting, and aches. This disease was extremely deadly to newcomers from Europe.
 
 40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter who he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, makes its argument on economic grounds.
 
@@ -413,9 +410,7 @@ editor: julie
 
 [plant] 42.605 cacao-walk. A grove of cacao trees. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
-[plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (the largest of the Caribbean island groups; includes Jamaica, Puerto Rico, Cuba, the Dominican Republic, Haiti, and the Cayman Islands). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
-
-[plant] 42.598n guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.
+[plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles. Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
 [place] 42.601n. Levant. Refers to the eastern Mediterrean Sea region, including the islands and bordering countries.
 
@@ -431,7 +426,7 @@ editor: julie
 
 43.607. Danae...Theodosia. Danaë is the mother of Perseus and daughter of Acrisius and Eurydice. <!--Theodosia??-->
 
-[plant] 43.605n the addtion of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees. For example, those with choleric (hot and dry) temperaments were supposed to avoid eating any foods also classified as hot or dry. The other humoral temperaments are sanguine (hot and moist), phlegmatic (cold and moist), and melancholic (cold and dry).  
+[plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees. For example, those with choleric (hot and dry) temperaments were supposed to avoid eating any foods also classified as hot or dry. The other humoral temperaments are sanguine (hot and moist), phlegmatic (cold and moist), and melancholic (cold and dry).  
 
 [plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean, as well as a symbol of wealth, abundance, power, and peace.   
 
