@@ -39,11 +39,11 @@ editor: julie
 
 4.22n. &#1505;&#1499;&#1512...&#1513;&#1499;&#1512. <!--translations-->
 
-[place] 4.22n. Persia. Now known as the modern nation of Iran, the Persian empire spanned from Egypt through southwestern Asia to India at its height. Traditional antagonist of Ancient Greece.
+[place] 4.22n. Persia. Now known as the modern nation of Iran, at its height the Persian empire spanned from Egypt through southwestern Asia to India. Traditional antagonist of Ancient Greece.
 
 [place] 4.22n. Pyrenean mountains. The Pyrenees are the mountain range between modern France and Spain.
 
-[place] 4.22n. Barbary-coast. Mediterranean coastline of North Africa.oastline that runs from Egypt to the Atlantic Ocean (more particularly, Morrocco, Algeria, Tunisia, and Libya).
+[place] 4.22n. Barbary-coast. Mediterranean coastline of North Africa that runs from Egypt to the Atlantic Ocean (more particularly, Morrocco, Algeria, Tunisia, and Libya).
 
 [place] 4.22n. Azores...Madeiras...Canary...Cape-Verd Islands. The Azores and Madeiras are Portuguese island groups in the eastern Atlantic Ocean; the Azores are directly west of Portugal, and the Madeiras are southeast of the Azores and closer to the coast of Morrocco. The Canary Islands are Spanish territories south of the Madeiras. The Cape Verde islands (now the Republic of Cape Verde) were also Portuguese islands situated off the coast of Senegal and Mauritania. All of these islands played important roles in the eighteenth-century Atlantic trade. The Madeiras, Canaries, and Cape Verde islands were often waypoints for European traders sailing to the coast of West Africa.
  
