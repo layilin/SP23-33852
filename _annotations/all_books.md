@@ -97,7 +97,7 @@ editor: julie
 
 8.44n Shaddoc. Captain Shaddock, An Englishman who allegedly brought the first seeds of a shaddock (a pomelo, which is a type of grapefruit) to Barbados. The story has long been considered a folk legend, but one scholarly source identifies the person as Captain Chaddock, a 17th-century West Indies trader. (Kumamoto, J., et al.)
 
-[person] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, and also an explorer, scientist, author, astronomer, and the first Spanish governor of Louisiana. 
+[person] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
 
 [plant] 8.45n two species; the one bearing a green fruit...and the other a red...and grows chiefly in Mexico. There are multiple varieties of avocado. The one that Grainger identifies as bearing a green fruit may be *Persea americana* var. *americana*, also known as the West Indian avocado. The one that Grainger identifies as growing chiefly in Mexico may be *Persea americana* var. *drymifolia*, also known as the Mexican avocado. 
 
