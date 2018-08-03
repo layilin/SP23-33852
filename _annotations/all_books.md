@@ -7,13 +7,13 @@ editor: julie
 
  
 
-[plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, a creole woman he met during his translatlantic voyage, soon after arriving in St. Christopher in 1759. Their daughter Louisa was born before he began composing the poem.
+[plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louisa was born before he began composing the poem.
 
 [people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
 3.9 swain. A country or farm laborer, a shepherd.
 
-[people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
+[people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Aeneid*, and the *Georgics*, a major influence on Grainger and other neo-georgic poets of the eighteenth century.    
 
 [people] 3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
 
@@ -23,11 +23,11 @@ editor: julie
 
 [people] 3.13 Sommerville. William Somerville (1675-1742), English poet, author of the georgic poem *The Chace* (1735).  
 
-[people] 4.19 Aurelius. Gilmore identifies Aurelius as George Thomas (c. 1694-1774) who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antigua colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
+[people] 4.19 Aurelius. Gilmore identifies Aurelius as George Thomas (c. 1694-1774), who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antiguan colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
 
 [people] 4.20 Imperial George. George III (1738-1820) was king of Britain from 1760 to 1820.
 
-[people] 4.22n. Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 AD), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 AD), the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 AD), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
+[people] 4.22n. Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 AD), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 AD), author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 AD), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
 
 [people] 4.22n. Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus and established military order in the eastern provinces of the Roman empire.
 
