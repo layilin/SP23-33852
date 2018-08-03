@@ -34,19 +34,19 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 56.61n Durante, who was physician to Pope Sixtus Quintus. Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V, author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).  
 
-56.61n straps fo cane-rats are publicly sold in the markets of Jamaica. 
+56.61n straps of cane-rats are publicly sold in the markets of Jamaica. Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not only the enslaved, ate rats.  
 
-57.69 mangrove-banks. Tropical mangroves of the *Rizophora* genus  <!--more? -->  
+57.69 mangrove-banks. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there. 
 
 57.69 Guayaquil. Gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas.
 
-57.72 gallinazo. Black vulture (*Coragyps atratus*) indigenous to Peru and Ecuador.  
+57.72 gallinazo. The American black vulture (*Coragyps atratus*), whose native range includes North, Central, and South America. 
 
-57.54 alligators <!-- need to note? -->  
+57.54 alligators. The American alligator, *Alligator mississippiensis*.  
 
 57.75 Ibbos. Also Ebo or Igbo.  <!-- careful with note -->  
 
-57.69n Ulloa <!--copy note -->  
+57.69n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
  
 58.83 Misnian arsenic. A chemical compound used as rat poison.  
 
