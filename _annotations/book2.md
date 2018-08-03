@@ -4,42 +4,35 @@ title: footnotes for book 2
 editor: cristobal
 ---
 
-Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford. 
-<!--confirm page number for Advertisement -->  
+Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and famed practitioner of landscape gardening, which he practiced on his estate, The Leasowes. <!--confirm page number for Advertisement -->  
 
-53.6 no circling mules press dulcet streams. In addition to wind power, animals like mules and oxen were often used to run sugar mills. 
+53.6 no circling mules press dulcet streams. Animals like mules, horses, and cattle were often used to power sugar mills.  
 
 53.7 coppers. Copper pots used for boiling cane juice.  
 
-53.9 Vulcan's aid. Vulcan, or Volcanus, Roman god of destructive fire. Vulcan is associated with fire that is man-made or made by natural means, e.g. lava from volcanoes. Here, Grainger refers to the use of fire in the process of distilling spirits from fermented molasses.
+53.9 Vulcan's aid. Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits from fermented molasses.
 
-54.15 The Boreal morn. Refers to the atmospheric phenomenon known as the aurora borealis, or Northern Lights.
+54.15 The Boreal morn. The aurora borealis or northern lights.
 
-54.23 Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford.  
-
-55.35 monkey-nation. Monkeys are not indigenous to St. Christopher. The Vervet or African Green monkey (*Chlorocebus pygerythrus*) was introduced to the island in the mid-seventeenth century--less than 100 years before Grainger wrote *The Sugar-Cane*. Considered vermin at the time, they are also known for their alcohol use.  
+55.35 monkey-nation. Monkeys are not indigenous to St. Kitts, but the vervet or African green monkey (*Cercopithecus aethiops*) had been introduced by the seventeenth or even sixteenth century. Vervets most likely arrived in the Caribbean via slave ships from Africa. They quickly came to be considered pests because they established themselves in large numbers on the island and traveled around it in troops, raiding colonists' crops. Today, the St. Kitts vervet population exceeds the human one, and vervets are still known for destroying farmers' crops (and stealing tourists' cocktails). Controversially, many of the vervets are now killed or trapped to serve in medical experiments. 
 
 55.38 gambols. Leaps or capers, as made in dancing or playing.  
 
 55.44 Indian crops. Sugar.  
 
-55.46 droles. 
+55.46 droles. Also droll, a buffoon or jester. 
 
-55.46 Liamuiga. Name for St. Kitts. 
+55.46 Liamuiga. St. Kitts. 
 
-55.46n Pere Labat. Jean Baptiste Labat (1663/1664-1738), French missionary of the Dominican order, served as priest and procurator in Martinique and Guadaloupe. Liberated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of Nouveau voyage aux Isles de l'Amerique.  
+55.46n Pere Labat. Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Liberated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).
 
-56.55 Gallic hosts. Hostile French forces.  Here Grainger makes an analogy between the Vervet monkeys and the French during the Seven Years' war.  
+56.55 Gallic hosts. Hostile French forces. Here, Grainger makes an analogy between the vervet monkeys and the French during the Seven Years' War (1756-1763), the first truly global war that resulted in the establishment of Britain as the preeminent maritime and colonial power.    
 
-56.59 Albion's martial sons. Albion is a Celtic or pre-Celtic name for the largest of the British Isles. Albion's martial sons therefore connotes the warlike inhabitants of the island of Britain.  
+56.59 Albion's martial sons. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
-56.62 whisker'd vermine-race. The black rat (*Rattus rattus*) and the brown rat (*Rattus norvegicus*) are invasive species. This section of the poem gave rise to one of the most famous (perhaps apocryphal) stories about the publication and reception of *The Sugar-Cane*. <!--fill in story-->  
+56.62 whisker'd vermine-race. Refers eiher to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two Old World species of rats that arrived in the Caribbean with colonization and are now considered invasive species. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. At a reading of a manuscript draft of the poem that took place at the home of Sir Joshua Reynolds, a well-known painter, the line, "Now Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger supposedly deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391).  
 
-56.67 savage cats <!-- can we determine what these are? -->  
-
-56.61n Durante <!--track down -->  
-
-56.61n Pope Sixtus Quintus. Pope Sixtus V (1520/1521-1590), leader of the Catholic Church from 24 April 1585 to 27 August 1590. He was involved in international politics within Europe, including his attempt to halt the spread of Protestantism in France and abate Spain's mounting dominance.
+56.61n Durante, who was physician to Pope Sixtus Quintus. Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V, author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).  
 
 56.61n straps fo cane-rats are publicly sold in the markets of Jamaica. 
 
