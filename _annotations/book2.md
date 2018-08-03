@@ -44,19 +44,17 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 57.54 alligators. The American alligator, *Alligator mississippiensis*.  
 
-57.75 Ibbos. Also Ebo or Igbo.  <!-- careful with note -->  
+57.75 Ibbos. Igbo refers to a language spoken in the Bight of Biafra (now the Bight of Bonny), a bay on the western Atlantic coast of Africa bounded by Nigeria, Cameroon, Equatorial Guinea, and northwestern Gabon. The Bight of Biafra was a major slave-trading port in the sixteenth through nineteenth centuries, and people who spoke Igbo came to be designated as Igbo by slave traders and planters. Some of these people may have thought of themselves as Igbo as well, while others may simply have accepted or been forced to accept the term as a designation, even though they would have identified themselves by their villages or districts of origin instead. Since many people who ended up at the Bight of Biafra and other ports on the western Atlantic coast had made long journeys from inland Africa and picked up various languages along the way, those who identified as Igbo may also have learned Igbo during the process and been participating in what is now sometimes called ethnogenesis or the formation and development of ethnic groupings.  
 
 57.69n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
  
 58.83 Misnian arsenic. A chemical compound used as rat poison.  
 
-58.84 cassada. <!--copy note?-->  
+58.84 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling.  
 
-58.87 unweeting. 
+58.87 unweeting. Unwitting, ignorant.  
 
-58.88 cates. Food; victuals.  
-
-58n Pere Labat <!--copy note-->  
+58.88 cates. Choice foods, viands, or delicacies.  
 
 59.95 nightshade. Plant from the genus *Solanum* (which include tomatoes and potatoes, among others). Here, Grainger likely refers specifically to Belladonna (*Atropa Belladonna*) a poisonous plant also called deadly nightshade.  
 
@@ -67,7 +65,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 59n.Ver.95 Newman's Chemistry published by Dr. Lewis. William Lewis (baptised 1708-died 1781), English physician and experimental chemist, practiced medicine and lectured on medical and pharmaceutical topics. Author of Chemical Works of Caspar Neumann (1759).  
 59n.Ver.95 Newman. Caspar Neumann (1683-1737) was a German chemist.  
 
-59n.Ver.95 East-India. Asia.  
+59n.Ver.95 East-India. The whole of Southeast Asia to the east of and including India.  
 
 59n.Ver.95 Mungoes. The Mongoose, member of the *Herpestidae* family. Not indigenous to the Caribbean, it would be imported to the region for rat abatement.  
 
