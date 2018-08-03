@@ -380,7 +380,7 @@ editor: julie
 
 40.572. yellow death. Yellow fever, a disease transmitted by the Aedes aegypti mosquito, occurs mostly in tropical climates, characterized by jaundice, fever, nausea or vomiting, and aches. This disease was extremely deadly to newcomers from Europe.
 
-40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter who he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, makes its argument on economic grounds.
+40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, makes its argument on economic grounds.
 
 [plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
 
@@ -398,7 +398,7 @@ editor: julie
 
 [plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. Because the leaves caused irritation to those who consumed them and had to be boiled for long periods to reduce the scratching effect, they were mainly consumed by enslaved Africans.  
 
-[people] 42.509. Raleigh. Sir Walter Raleigh (1552-1618) was an English privateer and courtier who persuaded Elizabeth I to support a colony at Roanoke. He was the the author of *Discoverie of Guiana*.
+[people] 42.599. Raleigh. Sir Walter Raleigh (1554-1618) was an English privateer and courtier who obtained a patent for and helped organize the expedition to Roanoke in 1585 and again in 1587. He set out for South America in 1595 and again in 1617 in search of the famed city of El Dorado before returning to England. He was executed for treason in 1618. Raleigh is the author of *Discoverie of large, Rich, and Beautiful Empire of Guiana* (1596), and is associated with the introduction of tobacco to England (his "pungent plant").
 
 [plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America. 
 
@@ -442,13 +442,13 @@ editor: julie
 
 [plant] 43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."
 
-43.606n. Persian. Now Iran, the Persian empire which, at its height, spanned from Egypt through southwestern Asia to India.
+43.606n. Persian. Now Iran, the Persian empire spanned from Egypt to southwestern Asia and India at its height.
 
 43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
 
 43.606n. Constantinople. Present-day Istanbul.
 
-44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus here used to refer to a general doctor. 
+[person] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus here used to refer to a general doctor. 
 
 [plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
 
@@ -457,6 +457,8 @@ editor: julie
 [plant] 44.625n senna. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
 45.629 Lion. Grainger uses Lion to refer to the zodiac sign Leo (23 July-22 August), elicited to describe the heat of these months.
+
+46.642 zumbadore. Literally, humming or buzzing. As Grainger explains in his note, he is referring here to the Andean condor (*Vultur gryphus*).
 
 <!--confirm page number for Advertisement -->Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and practitioner of landscape gardening. Graduate of Oxford.  
 
