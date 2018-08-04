@@ -23,11 +23,9 @@ source: "1764 edition"
 - So shall they not their vigorous prime destroy,
 - By distant journeys, at untimely hours,
 - When muffled midnight decks her raven-hair [610]
-- With the white plumage of the prickly vine,
+- With the white plumage of the prickly vine.
 
 - WOULD'ST thou from countless ails preserve thy gang;
-
----
 
 > VER. 611. *prickly vine*\] This beautiful white rosaceous flower is as large as the crown of one's hat, and only blows at midnight. The plant, which is prickly and attaches itself firmly to the sides of houses, trees, *&c.* produces a fruit, which some call *Wythe Apple*, and others with more propriety, *Mountain strawberry*. But though it resembles the large Chili-strawberry in looks and size; yet being inelegant of taste, it is seldom eaten. The botanical name is *Cereus scandens minor*. The rind of the fruit is here and there studded with tufts of small sharp prickles.
 
