@@ -112,11 +112,12 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 [people] 62.132 Maro. Virgil.  
 
-62.140 Halcyons. Birds generally associated with kingfishers, named for the Greek myth in which Halycon is turned into a bird after she finds the body of her husband, Ceyx, on the beach. "Halcyon days" designated the winter period during which the ocean was calm for their offspring to hatch. 
+62.140 Halcyons. Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. "Halcyon days" used to designate a fourteen-day period around the winter solciste that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.  
 
-62.141 poison'd fish. Probably not a specific species of fish, but referring to *ciguatera*, a tropical disease caused by eating large reef fish (like barracuda, snapper, grouper). While the poison does not affect these fish, it accumulates in their flesh when they eat smaller fish that feed on toxic algae. <!-- http://spo.nmfs.noaa.gov/mfr461/mfr4613.pdf -->  
+62.141 poison'd fish. Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of fish in the Caribbean. Ciguatera is caused by eating fish containing toxins produced by a marine microalgae called *Gambierdiscus toxicus*. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
 
-[plant] 62.148 vervain. Verbena officinalis. is an herbal shrub native to Europe. The dried plant is used to make tea. <!--normalize -->  
+[plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub native to the Old World and Australia.  
+
 [plant] 62.148 wild liquorice. Glycyrrhiza glabra L. is native to southern Europe, Russia, and southwest Asia. Grainger could also be referring to Glycyrrhiza lepidota Pursh, which refers to the species of wild liquorice that grows in North America.  
 
 62.149n *Donum Dei*. Gift of god. 
