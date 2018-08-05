@@ -34,7 +34,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 56.61n Durante, who was physician to Pope Sixtus Quintus. Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V, author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).  
 
-56.61n straps of cane-rats are publicly sold in the markets of Jamaica. Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not only the enslaved, ate rats.  
+56.61n straps of cane-rats are publicly sold in the markets of Jamaica. Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats.  
 
 57.69 mangrove-banks. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there. 
 
@@ -56,60 +56,61 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 58.88 cates. Choice foods, viands, or delicacies.  
 
-59.95 nightshade. Plant from the genus *Solanum* (which include tomatoes and potatoes, among others). Here, Grainger likely refers specifically to Belladonna (*Atropa Belladonna*) a poisonous plant also called deadly nightshade.  
+59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries could kill a human adult. Its native range extends from England to Iran.  
 
-59.104 thy little gang. Enslaved children.  
+59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were expected to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
 
-59.107 rich manure. Compost. Here Grainger advocates gathering weeds to produce compost.  
+59.107 rich manure. Compost.  
 
-59n.Ver.95 Newman's Chemistry published by Dr. Lewis. William Lewis (baptised 1708-died 1781), English physician and experimental chemist, practiced medicine and lectured on medical and pharmaceutical topics. Author of Chemical Works of Caspar Neumann (1759).  
-59n.Ver.95 Newman. Caspar Neumann (1683-1737) was a German chemist.  
+59.95n Newman's Chemistry published by Dr. Lewis. William Lewis (bap. 1708-d. 1781) was an English physician and experimental chemist. Author of *Chemical Works of Caspar Neumann, M.D.* (1759). Neumann (1683-1737) was a German chemist.  
 
 59n.Ver.95 East-India. The whole of Southeast Asia to the east of and including India.  
 
-59n.Ver.95 Mungoes. The Mongoose, member of the *Herpestidae* family. Not indigenous to the Caribbean, it would be imported to the region for rat abatement.  
+59n.Ver.95 Mungoes. The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. The mongoose was purposefully introduced to the Caribbean and Pacific islands in the late twentieth century to try and exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, however, it is contributing to the destruction of local biodiversity on those islands and is now considered an invasive species.  
 
-60.114 yellow thistle. *Centaurea Solstitialis* an invasive plant used as a purgative.  
+60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy, native to Mexico and Central America.  
 
-60.116 mountain-dove. 
+60.116 mountain-dove. May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean. 
 
-60.119 knotted grass. <!-- follow up; this one is complicated -->  
+60.119 knotted grass. Probably *Spigelia anthelmia*, a plant native to Mexico, Central America, South America, and the Caribbean that is known for its ability to rid the body of intestinal parasites, including tapeworms.  
 
-60.120 endemial ill. 
+60.120 endemial ill. An endemic disease, meaning one that is habitually prevalent in a certain country or locale.  
 
-60.123 cow-itch. Cowitch (*Mucuna Puriens) an invasive vine that produces severe itching after contact with skin. Was used for composting, cattle fodder, and in medicine as a vermifuge.  
+60.123 cow-itch. Cowitch (*Mucuna pruriens*) is a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
 
-60.114n dysenteric. Dysentery is a disease of the digestive system spread through food and water that causes diarrhea, bleeding, and pain.
+60.114n emetic. A medicine that excites vomiting.  
 
-[plant] 60.114n ipecacuan. Carapichea ipecacuanha is an herbal shrub native to central America and northern South America that, taken in larger doses, can be used as an emetic.  
+60.114n dysenteric. Having to do with dysentery or diarrhea.  
 
-60.119n vermifuge. Vermifuge, or anthelmintic drugs, are used to eliminate parasitic worms in the body.  
+[plant] 60.114n ipecacuan. Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha* an herbal shrub native to Central and South America.  
 
-60.119n *Setae*. 
+60.119n vermifuge. A substance having the power to expel worms from the intestines, an anthelmintic.
 
-60.119n English field-pea. 
+60.119n *Setae*. Bristles.  
 
-60.123n. melasses. Molasses, the by-product of refining sugar cane.  
+60.119n English field-pea. *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.   
 
-[plant] 61.128 chickweed. *Stellaria media* (*Alsine media* in Linnaean taxonomy). Originally from Europe and northern Asia, this plant now grows in temperate climates. Snakeweed, also known as bistort or Persicaria bistorta is a species of herbaceous knotweed native to Europe and Asia. <!-- check further -->
+60.123n. melasses. Molasses, the by-product of refining sugarcane.  
 
-[plant] 61.129 And that, which coyly flies the astonish'd grasp. sensitive plant.*Mimosa pudica*, a species of plant whose leaves fold when touched. Indigenous to the Americas, the sensitive plant was fascinating to Europeans.  
+[plant] 61.128 chickweed. *Stellaria media*, a plant native to Europe.  
 
-[people] 61.130 Pontus' King. Mithridates (132-63 BCE) ruled Pontus in modern-day Turkey from 120-63 BCE. His attempts to expand his empire led to three wars against the Roman army, led by Sulla, Lucullus, and Pompey. Following a mutiny by his troops, he committed suicide.  
+[plant] 61.129 And that, which coyly flies the astonish'd grasp. Grainger refers here to the sensitive plant (*Mimosa pudica*), the leaves of which fold up when touched. It is indigenous to the Americas and became an object of fascination to European naturalists.  
+
+[people] 61.130 Pontus' King. Mithridates (132-63 BCE) ruled Pontus in modern-day Turkey from 120-63 BCE. His attempts to expand his empire led to three wars against the Roman army. Following a mutiny by his troops, he committed suicide.  
 
 61.131 Median climes. Media was the location of hot springs that the Romans called the sacred waters of Hercules.  
 
-61.130n *Mithridatium*. Medicine long believed to be a universal antidote to poison.  
+61.128n Snakeweed. May be *Euphorbia hyssopifolia*, a plant native to the tropical and subtropical Americas.  
+
+61.130n *Mithridatium*. A medicine long believed to be a universal antidote to poison.  
 
 [people] 61.130n Pliny. Gaius Plinius Secundus or Pliny the Elder (23-79 AD), the author of Historia Naturalis.  
 
-61.130n electuary. medicine in the form of a paste or preserve.  
+61.130n electuary. Medicine in the form of a paste or preserve.  
 
-[people] 61.131n Virgil. Virgil or Publius Vergilius Maro (70-19 BCE), author of the Eclogues, the Georgics, and the Aeneid.  
+[people] 61.131n Virgil. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
 
-[people] 62.132 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the Eclogues, the Georgics, and the Aeneid.
-
-62.126. cruel stepdames.  
+[people] 62.132 Maro. Virgil.  
 
 62.140 Halcyons. Birds generally associated with kingfishers, named for the Greek myth in which Halycon is turned into a bird after she finds the body of her husband, Ceyx, on the beach. "Halcyon days" designated the winter period during which the ocean was calm for their offspring to hatch. 
 
