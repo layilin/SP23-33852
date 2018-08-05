@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: sample excerpt 2
-source: our edition
+source: pp 143-145
 editor: julie
 ---
 
