@@ -103,7 +103,7 @@ editor: julie
 
 8.45n butyraceous. Of the nature of butter; buttery.
 
-[people] 8.45n Sir Hans Sloane. Sir Hans Sloane (1660–1753), an English baronet, physician, and collector. In 1687 Sloane sailed to Jamaica where he became the personal physician of Christopher Monck, second duke of Albemarle, and newly appointed governor of Jamaica until the duke's death in 1869. During his stay, Sloan made notes on the flora (which he also collected), weather, the topography, natural phenomena such as earthquakes.
+[people] 8.45n Sir Hans Sloane. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also served as president of the Royal Society. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.  
 
 [plant] 8.45n the pear named Lady's-thighs. Also known as the Cuisse madame or jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation.  
 
