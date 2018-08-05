@@ -161,11 +161,13 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 66.225 gemmy. Gem-like, brilliant, glittering.  
 
-66.229 the ants' republic. Ant colonies were often represented as model republics because of their collaborative work. 
+66.229 the ants' republic. Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water, even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (Ligon 64).  
 
-66.218n jessamine. 
+66.231 vicegerent. A person appointed by a king or other ruler to act in his place.  
 
-67.231. Eurus. In Greek mythology, the East Wind.
+66.218n jessamine. Jasmine, plants of the genus *Jasminum* native to tropical and subtropical Eurasia, Australasia, and the Pacific islands. Valued for their scent.  
+
+
 
 67.232. Rhea. Titan goddess, daughter of Gaia, wife and sister to Kronos, and mother of Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 67.233. Auster. Latin name for the south wind.  
