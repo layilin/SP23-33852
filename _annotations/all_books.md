@@ -398,7 +398,8 @@ editor: julie
 
 [plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. Because the leaves caused irritation to those who consumed them and had to be boiled for long periods to reduce the scratching effect, they were mainly consumed by enslaved Africans.  
 
-[people] 42.599. Raleigh. Sir Walter Raleigh (1554-1618) was an English privateer and courtier who obtained a patent for and helped organize the expedition to Roanoke in 1585 and again in 1587. He set out for South America in 1595 and again in 1617 in search of the famed city of El Dorado before returning to England. He was executed for treason in 1618. Raleigh is the author of *Discoverie of large, Rich, and Beautiful Empire of Guiana* (1596), and is associated with the introduction of tobacco to England (his "pungent plant").
+[people] 42.599. Raleigh. Sir Walter Raleigh (1554-1618) English courtier during Queen Elizabeth I's reign, explorer, and author who obtained a patent for and helped organize the expedition to Roanoke in 1585 and again in 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of large, Rich, and Beautiful Empire of Guiana* (1596), and is associated with the introduction of tobacco to England (his "pungent plant").
+
 
 [plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America. 
 
