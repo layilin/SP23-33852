@@ -5,7 +5,7 @@ editor: julie
 ---
 
 
- 
+[plant] 3.1 Cane. *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first carried to the Americas by Columbus.  
 
 [plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louisa was born before he began composing the poem.
 
