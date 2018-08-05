@@ -118,35 +118,30 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 [plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub native to the Old World and Australia.  
 
-[plant] 62.148 wild liquorice. Glycyrrhiza glabra L. is native to southern Europe, Russia, and southwest Asia. Grainger could also be referring to Glycyrrhiza lepidota Pursh, which refers to the species of wild liquorice that grows in North America.  
+[plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested. 
 
 62.149n *Donum Dei*. Gift of god. 
 
-[plant] 62.149n rhubarb. Rheum rhabarbarum L. is an herb native to Asia.
+[plant] 62.149n rhubarb. *Rheum rhabarbarum*, a plant native to Asia. Traditionally used for indigestion and bowel complaints, now commonly used as a fruit.  
   
 [place] 63.150. Volga's wave. The Volga is a river in western Russia that connects to the Baltic, Moscow, and Black Seas before flowing into the Caspian Sea.  
 
-63.156. insect-tribe. Locusts (*Acrididae* family).  
+63.156. insect-tribe. Locusts, one of several species of acridids (family Acrididae) that are known for swarming and migrating and causing great damage to crops.    
 
-63.168 yellow fly. Yellow fly (*Diachlorus ferrugatus*) is a small biting fly indigenous to Central America and the Southern United States. (http://entnemdept.ufl.edu/creatures/livestock/yellow_fly.htm)  
+63.168 yellow fly. May be *Diachlorus ferrugatus*, a small biting fly indigenous to Central America and the southeastern United States.  
 
-63.171. cochinille. Cochineal (*Dactilopius* coccus). Small scaled insects indigenous to South and Central America. They lay there eggs on the fronds of prickly pear cacti, and dried bodies of the female cochineal produced a crimson dye. Most cochineal production was from Indigenous sources, and the dye became an important Atlantic commodity in the eighteenth century. The red coats of British officers were dyed with cochineal (see lines 174-174 below).  
+63.171. cochinille. The cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye made from the dried bodies of the female cochineal insects. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal (see lines 174-175 below).  
+[plant] 64.172. Indian fig. Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads of which are commonly consumed by human beings and animals as food.   
 
-[plant] 64.172. Indian fig. Prickly pear cactus (*Opuntia ficus-indica*) is native to the Americas. It was the food source for Dactilopius coccus.  
+[people] 64.175. British Wolf. James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
-[people] 64.175. British Wolf. James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite uprising (1745). Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French General Louis-Joseph, Marquis de Montcalm and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' war.   
+[people] 64.176. George. George III (1738-1820), king of Britain from 1760 to 1820.  
 
-[people] 64.176. George. George III (1738-1820) ruled from 1760 to 1820.  
+64.179. paricides. Father killer. Here Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants (in this case, the sugarcane) on which they feed. Grainger may be referring to the sugarcane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugarcane plants and do great damage on plantations.  
 
-64.177. won from haughty Gaul. A reference to Wolfes victory against the French on the Plains of Abraham.  
+64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of cleaning every leaf in a cane field with the labors of Hercules.  
 
-64.179. paricides. Literally, father killer.  Here Grainger refers to parasites that kill the plants (cane) on which they feed.  Perhaps the sugarcane borer (*Diatraea saccharalis*) indigenous to South and Central America. A species of moth whose larvae bore holes in cane plants, it is especially harmful to plantations. (http://entnemdept.ufl.edu/creatures/field/sugarcane_borer.htm)  
-
-64.186. Neptune's purifying stream.  Water.  
-
-64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned as one of his twelve labors by redirecting the Alpheus and Peneus rivers. (Brittanica) Here Grainger is comparing the labor of hand-cleaning every leaf in a cane field with the labors of Hercules.  
-
-64.171n. From volume two of Hans Sloane's A Voyage to the Islands Madera, Barbadoes, Nieves, St Christophers, and Jamaica (page 208).  
+64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also served as president of the Royal Society. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
 
 [place] 65.197 men of Kent. Kent is a county in England. <!--probably more to this-->  
 
