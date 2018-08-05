@@ -139,31 +139,27 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 64.179. paricides. Father killer. Here Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants (in this case, the sugarcane) on which they feed. Grainger may be referring to the sugarcane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugarcane plants and do great damage on plantations.  
 
-64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of cleaning every leaf in a cane field with the labors of Hercules.  
+64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.  
 
 64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also served as president of the Royal Society. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
 
-[place] 65.197 men of Kent. Kent is a county in England. <!--probably more to this-->  
+[place] 65.197 men of Kent. Kent is a county in southeastern England.   
 
-65.198 Eurus. In Greek mythology, the East Wind.  
+65.198 Eurus. In Greek mythology, the east wind.   
 
-65.199 Boreas. The North Wind in Greek mythology, which carries the cold.  
+65.199 Boreas. In Greek mythology, the north wind. 
 
-65.201 the blast. fungal pathogen. <!--fill in more-->  
+65.200 hop-grounds. According to Gilmore, Grainger refers in these lines to the arrival of the hop aphid or Damson hop aphid (*Phorodon humuli*) to Kentish hop fields. These flies traveled on the wind and caused great damage to crops.  
 
-65.207 nonage. 
+65.201 the blast. Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).  
 
-[people] 65.205n. For what Pliny the Elder writes. Pliny. Gaius Plinius Secundus or Pliny the Elder (23-79 AD), the author of Historia Naturalis.  
+65.207 nonage. Period of immaturity.  
 
-65.205n *gaudet irriguis, et toto anno bibere amat.*
+66.217 Virgin-isles. The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the Virgin Islands of the United States.  
 
-66.217 Virgin-isles. The Virgin islands are situated to the east of Puerto Rico and Northwest of St. Kitts.  
+[plant] 66.218 plumb-tree. Plum tree, which could refer to any number of plants of the genus *Prunus*. Plum trees are distributed widely across Asia, Europe, Africa, and the Americas.  
 
-[plant] 66.218 plumb-tree. Or, plum-tree, a plant of the genus Prunus, which includes several hundred species of plums. While most of the trees are native to Asia, they are also common in Europe and North America.  
-
-66.220 god of noon.  
-
-66.225 gemmy embryo. 
+66.225 gemmy. Gem-like, brilliant, glittering.  
 
 66.229 the ants' republic. Ant colonies were often represented as model republics because of their collaborative work. 
 
