@@ -277,7 +277,7 @@ editor: julie
 
 34.483 from Aries to the Bull. Under the tropical zodiac, the sign of Aries lasts approximately from 20 March to 21 April; the Bull refers to the zodiacal sign of Taurus, which the sun enters around 21 April and exits around 21 May.
 
-34.484 the Virgin his hot beams inflame. The "Virgin" names Virgo, the zodiacal constellation which the sun enters around 20-23 August.
+34.484 the Virgin his hot beams inflame. The "Virgin" names Virgo, the zodiacal constellation that the sun enters around 20-23 August each year.  
 
 34.488 wondering daughters of the main. Sea nymphs. Chiefly used in poetry, "main" denotes the open sea. <!---Gilmore thinks wondering is correct and should not be read as wandering--->
 
