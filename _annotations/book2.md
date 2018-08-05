@@ -56,7 +56,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 58.88 cates. Choice foods, viands, or delicacies.  
 
-59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries could kill a human adult. Its native range extends from England to Iran.  
+59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries could kill a human adult. It is native to Europe and Western Asia.  
 
 59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were expected to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
 
@@ -68,7 +68,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 59n.Ver.95 Mungoes. The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. The mongoose was purposefully introduced to the Caribbean and Pacific islands in the late twentieth century to try and exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, however, it is contributing to the destruction of local biodiversity on those islands and is now considered an invasive species.  
 
-60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy, native to Mexico and Central America.  
+60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to Mexico and Central America.  
 
 60.116 mountain-dove. May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean. 
 
@@ -76,7 +76,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 60.120 endemial ill. An endemic disease, meaning one that is habitually prevalent in a certain country or locale.  
 
-60.123 cow-itch. Cowitch (*Mucuna pruriens*) is a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
+60.123 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
 
 60.114n emetic. A medicine that excites vomiting.  
 
@@ -94,7 +94,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 [plant] 61.128 chickweed. *Stellaria media*, a plant native to Europe.  
 
-[plant] 61.129 And that, which coyly flies the astonish'd grasp. Grainger refers here to the sensitive plant (*Mimosa pudica*), the leaves of which fold up when touched. It is indigenous to the Americas and became an object of fascination to European naturalists.  
+[plant] 61.129 And that, which coyly flies the astonish'd grasp. Grainger refers to the sensitive plant (*Mimosa pudica*), the leaves of which fold up when touched. It is indigenous to the Americas and became an object of fascination to European naturalists.  
 
 [people] 61.130 Pontus' King. Mithridates (132-63 BCE) ruled Pontus in modern-day Turkey from 120-63 BCE. His attempts to expand his empire led to three wars against the Roman army. Following a mutiny by his troops, he committed suicide.  
 
@@ -104,7 +104,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 61.130n *Mithridatium*. A medicine long believed to be a universal antidote to poison.  
 
-[people] 61.130n Pliny. Gaius Plinius Secundus or Pliny the Elder (23-79 AD), the author of Historia Naturalis.  
+[people] 61.130n Pliny. Gaius Plinius Secundus or Pliny the Elder (23-79 AD), author of *Historia Naturalis*.  
 
 61.130n electuary. Medicine in the form of a paste or preserve.  
 
