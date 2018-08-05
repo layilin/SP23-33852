@@ -167,23 +167,22 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 66.218n jessamine. Jasmine, plants of the genus *Jasminum* native to tropical and subtropical Eurasia, Australasia, and the Pacific islands. Valued for their scent.  
 
+67.232. Rhea. Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 
-
-67.232. Rhea. Titan goddess, daughter of Gaia, wife and sister to Kronos, and mother of Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 67.233. Auster. Latin name for the south wind.  
 
-67.231n trade-wind. 
+67.231n trade-wind. A wind blowing steadily towards the equator from the northeast in the Northern Hemisphere or from the southeast in the Southern Hemisphere. The trade wind in the Northern Hemisphere facilitated the passage of ships from Europe and Africa to the Caribbean.  
 
-[people] 67.231n. Homer. Greek poet (8th century BCE), author of the Iliad and the Odyssey.  
+[people] 67.231n. Homer. Greek poet (8th century BCE), author of the *Iliad* and the *Odyssey*.  
 
-68.265. Cathäy. China.  
+68.265. Cathäy. The name by which China was known to medieval Europe.   
 
-69.273 welkin. 
+69.273 welkin. Sky, firmament.  
 
 [place] 69.278. AEtna. Etna, Europe's highest active volcano, located in Sicily.  
 
-68.287. the Virgin. Virgo, or the period from late August to late September.  
-
+68.287. the Virgin. Virgo, the zodiacal constellation that the sun enters around 20-23 August each year.  
+ 
 68.288. the Scorpion. Scorpio, or the period from late October to late November.  
 
 69.289. Libra. Libra, or the period from late September to late October. Together, these three periods denote peak hurricane season.
