@@ -286,9 +286,9 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range stretches from Norway to South Africa, including the Mediterranean and the Black Sea in the eastern Atlantic, and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
 
-*81.504 shark insnares.  
+81.504 shark insnares. Sharks were notorious for following slave ships across the Atlantic since slavers threw those individuals who died during the voyage overboard. There are hundreds of species of sharks, which belong to the clade Selachimorpha.  
 
-*81.505 nautilus. The Portuguese Man o' War (*Physalia physalis*). Highly toxic, tentacled jellyfish-like organism. It is called the Man o' War for its resemblance to an eighteenth-century warship under full sail (https://oceanservice.noaa.gov/facts/portuguese-man-o-war.html).  
+81.505 nautilus. The Portuguese man-of-war or man o' war (*Physalia physalis*), a highly toxic relative of the jellyfish. It is called the man-of-war for its resemblance to an eighteenth-century warship under full sail.  
 
 81.507 winged fishes. Flying fish, which are small fish of the *Exocoetidae* family that glide above the water to escape predators. The strongest fish can "fly" nearly 200 meters in one glide.  
 
