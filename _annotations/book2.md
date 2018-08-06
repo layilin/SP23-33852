@@ -141,7 +141,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.  
 
-64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also served as president of the Royal Society. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
+64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
 
 [place] 65.197 men of Kent. Kent is a county in southeastern England.   
 
@@ -185,53 +185,45 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
  
 68.288. the Scorpion. Scorpio, or the period from late October to late November.  
 
-69.289. Libra. Libra, or the period from late September to late October. Together, these three periods denote peak hurricane season.
+69.289. Libra. Libra, or the period from late September to late October. Together, these three periods denote peak hurricane season.  
 
-70.293 stocks and mill-points. 
+70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
 
-70.294. royal palm-tree.  
-
-70.299 louring. 
+70.299 louring. Scowling, angry-looking, gloomy.  
  
-70.306 sapient. Knowledgable.
+70.306 sapient. Knowledgable.  
 
-71.314-315 strange burs/Surround the stars. 
+70. the pole. Polaris, the pole star or North Star.  
 
-71.322 engineries. 
+71.314-315 strange burs/Surround the stars. A bur or burr is a circle of light surrounding the moon or a star.  
 
-71.327-328 "all the isle below is hush as death."
+71.322 engineries. Engines of war, artillery.  
+
+71.327-328 "all the isle below is hush as death." According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 72.341 welkin. Sky.  
 
-[people] 72.349. Theodorus. <!-- could be one of two people -->
+[people] 72.349 Theodorus. 
 
-73.356 corruscations. Lightning  
+72.353 main. The ocean.  
 
-73.364 fiery South. <!--the sun?-->  
+73.356 corruscations. Vibratory or quivering flashes of light; lightning.  
 
-73.367 Europe and Asia's vegetable sons. Plants native to Europe and Asia. Transplanting was vital to European colonial efforts, but it was often difficult for non-indigenous plants to survive in the Caribbean climate.  
-
-73.370 upland Tropic-plants. <!--unclear-->  
-
-73.372 the main. The ocean.  
-
-73.373 deadly scents. <!--unclear-->  
-
-74.383 Cane-lands. Sugar cane crops.  
+73.367-368 Europe and Asia's vegetable sons...die. Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange, which also involved the movement of plants, animals, and diseases from the New World to the Old. If the reader consults footnotes about individual plants, it will become apparent how many of the plants Grainger mentions are not native to the Caribbean.  
 
 74.388 Acescent. Sour; acidic.  
 
-74.392 Astonied. Astonished.  This is a typographical error that would be corrected in the 1766 London edition ("astonish'd"; II.392).  
+74.392 Astonied. Astonished. This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition.  
 
-74.392 Solfaterre. French: geological term for vents where sulfur deposits accumulate. In this case, Grainger means volcanoes.  
+74.392 Solfaterre. A vent where sulfur deposits accumulate. In this case, Grainger means volcanoes.  
 
-74.392n alum. 
+74.392n alum. An astringent mineral salt.  
 
-75.398 coco. The coconut palm (*cocos nucifera*).  
+75.398 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal, however, since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.  
 
-75.405 sea-disgorging womb. From lines 413-420, Grainger is describes a Tsunami, or tidal wave.  
+75.405 sea-disgorging womb. Grainger is describing a tsunami or tidal wave.  
 
-76.427 Theana. From here to the end of Book 2, Grainger tells the fictional love story of Junio and Theana. The story itself is conventional, borrowing  from William Shakespeare's *Romeo and Juliet* as well as the story of Inkle and Yarico first told by Richard Ligon in *A True and Exact History of the Island of Barbadoes* (1657) and retold as a sentimental tale in Richard Steele and James Addison's *The Spectator* (No. 11, March 13, 1711).  
+76.427 Theana. From here to the end of Book 2, Grainger tells the fictional love story of Junio and Theana. The story itself is conventional, borrowing from Shakespeare's *Romeo and Juliet*, as well as the story of Inkle and Yarico, first told by Richard Ligon in *A True and Exact History of the Island of Barbados* (1657) and retold as a sentimental tale in Joseph Addison and Richard Steele's *The Spectator* (No. 11, March 13, 1711).  
 
 76.429 His father sent him. It was not uncommon for British and Creole planters in the Caribbean to send their children back to the United Kingdom to be educated. Among other things, parents hoped their children would be properly refined and hoped as well that they would escape illnesses associated with the Caribbean (e.g. yellow fever, malaria).  
 
@@ -244,8 +236,6 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 76.433 the Nine. The nine muses of art, literature, and science.  
 
 76.436 Acasto's daughter. 
-
-77.438 coco. The coconut palm (*cocos nucifera*).  
 
 77.438n Torrid Zone. The tropics.  
 
@@ -271,7 +261,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry" (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. The *Reliques* contains a poem by Grainger titled "Bryan and Pereene, a West-Indian Ballad," a tragic love story whose theme mirrors that of Junio and Theana.  
 
-78.456 Hymen. Hymen or Hymenaeus. Roman god of marriage.  
+78.456 Hymen. Roman god of marriage.  
 
 68.441n Antigua. 
 
@@ -285,7 +275,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 79.476 Medicean Venus. First century BCE Greek sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late 17th century. The sculpture was widely admired across Western Europe, so Grainger's reference would have been understood by his contemporary readers.  
 
-80.483 Albion. Great Britain.  
+80.483 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
 80.485 Po. River in Northern Italy.  
 
@@ -306,9 +296,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 81.507 winged fishes. Small fish of the *exocoetidae* family that glides above the water to escape predators. These fish can "fly" nearly 200 m in one glide (https://www.britannica.com/animal/flying-fish).  
 
-81.508 dolphins. Dolphin, or Mahi-Mahi (*coryphaena hippurus*).
-
-81.504n Sloane. Hans Sloane (1660-1753). English physician, collector, naturalist, and successor to Sir Isaac Newton as President of the Royal Society in 1727. Author of [VOYAGE] (1707; 1725), one of the most influential eighteenth-century natural histories.  
+81.508 dolphins. Dolphin, or Mahi-Mahi (*coryphaena hippurus*).  
 
 81.504n Guinea. 
 
