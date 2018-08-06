@@ -286,7 +286,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range stretches from Norway to South Africa, including the Mediterranean and the Black Sea in the eastern Atlantic, and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
 
-81.504 shark insnares. Sharks were notorious for following slave ships across the Atlantic since slavers threw those individuals who died during the voyage overboard. There are hundreds of species of sharks, which belong to the clade Selachimorpha.  
+81.504 shark insnares. Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).  
 
 81.505 nautilus. The Portuguese man-of-war or man o' war (*Physalia physalis*), a highly toxic relative of the jellyfish. It is called the man-of-war for its resemblance to an eighteenth-century warship under full sail.  
 
