@@ -203,7 +203,7 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 72.341 welkin. Sky.  
 
-[people] 72.349 Theodorus. 
+[people] 72.349 Theodorus. Perhaps the Samian architect active c. 550–520 BCE.  
 
 72.353 main. The ocean.  
 
@@ -259,25 +259,25 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose theme mirrors that of the story of Junio and Theana.  
 
-78.456 Hymen. Roman god of marriage.  
+78.456 Hymen. Greek god of marriage.  
 
-68.441n Antigua. 
+68.441n Antigua. One of the Leeward Islands; colonized by the English in 1632. Now forms part of the nation of Antigua and Barbuda.  
 
-79.463 old Europe's letter'd climes. <!-- how to note -->  
+79.463 old Europe's letter'd climes. Educated or learned climes. Grainger is probably referring again to the fact that Caribbean planters sent their children to Britain for their education.  
 
 79.469 Gaul. France.  
 
-79.469 Saturn's reign. <!-- noted in Gilmore -->  
+79.469 Saturn's reign. A golden age in classical mythology.  
 
 79.471 Ausonia's clime. Southern Italy.  
 
-79.476 Medicean Venus. First century BCE Greek sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late 17th century. The sculpture was widely admired across Western Europe, so Grainger's reference would have been understood by his contemporary readers.  
+79.476 Medicean Venus. Also known as the Venus de' Medici; a first-century BCE marble sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late seventeenth century. The sculpture was widely admired across Western Europe.  
 
 80.483 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
-80.485 Po. River in Northern Italy.  
+80.485 Po. Gilmore identifies the *Po* as the ship that Grainger traveled on to reach St. Kitts in 1759.  
 
-80.487 Bay of Biscay. Bay south of the English channel between the west coast of France and the northern coast of Spain.  
+80.487 Bay of Biscay. Bay south of the English Channel between the west coast of France and the northern coast of Spain.  
 
 80.488 Charente. River in southwest France that empties into the Bay of Biscay near Rochefort, the site of an important French naval base.  
 80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean.  
@@ -294,20 +294,20 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 81.507 winged fishes. Small fish of the *exocoetidae* family that glides above the water to escape predators. These fish can "fly" nearly 200 m in one glide (https://www.britannica.com/animal/flying-fish).  
 
-81.508 dolphins. Dolphin, or Mahi-Mahi (*coryphaena hippurus*).  
+81.508 dolphins. The dolphin fish is also known as the dorado or mahi-mahi (*Coryphaena hippurus*).  
 
-81.504n Guinea. 
+81.504n salmon. 
+
+81.504n They have been known to follow a slave-ship from Guinea to the West Indies. 
 
 81.507n Albacores. Albacore Tuna (*thunnus alalonga*).  
 
-81.507n Garaiyo. <!--Frigate bird? -->  
+81.507n Garayio. <!--Frigate bird? -->  
 
-81.507n Barbadoes. 
+81.507n Barbadoes. One of the Lesser Antilles; colonized by the English in 1627. Gained independence from the United Kingdom in 1966.  
 
 82.509 Tropic-bird. <!-- Frigate bird? see 81.507n above -->  
 
-82.520 aetherial Bolt. Lightning. Here, Theana has been struck by lightning.  
+82.520 aethereal Bolt. Lightning. 
 
-82.527 courser. 
-
-84.552 One grave contains this hapless, faithful pair. <!-- I don't know if we want to note this or to remark on the similarity to Romeo & Juliet -->
+82.527 courser. A swift horse, a racer.  
