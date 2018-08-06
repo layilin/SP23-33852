@@ -225,41 +225,39 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 76.427 Theana. From here to the end of Book 2, Grainger tells the fictional love story of Junio and Theana. The story itself is conventional, borrowing from Shakespeare's *Romeo and Juliet*, as well as the story of Inkle and Yarico, first told by Richard Ligon in *A True and Exact History of the Island of Barbados* (1657) and retold as a sentimental tale in Joseph Addison and Richard Steele's *The Spectator* (No. 11, March 13, 1711).  
 
-76.429 His father sent him. It was not uncommon for British and Creole planters in the Caribbean to send their children back to the United Kingdom to be educated. Among other things, parents hoped their children would be properly refined and hoped as well that they would escape illnesses associated with the Caribbean (e.g. yellow fever, malaria).  
+76.429 His father sent him from these genial isles. It was common practice for planters to send their children to Britain for education. Many of the children who were sent there, however, never returned to the Caribbean.  
 
-76.430 old Thames. The Thames river. A synechdoche for Great Britain.  
+76.430 old Thames. The Thames river. Here, used to mean England.    
 
 76.431 Green Eton. Eton, a prestigious English boarding school for boys founded in the fifteenth century.  
 
-76.433 fam'd Isis. Egyption goddess associated with agriculture and marriage. Isis was eventually apropriated into Greek and Roman mythology, becoming a common figure in eighteenth-century British poetry. In the context of these lines, Isis is also used as a name for the Thames as it passes through Oxford. <!--a couple of dodgy sources, but this one might be the most reputable: https://www.britannica.com/place/Oxford-England -->   
+76.433 fam'd Isis. Egyptian goddess associated with agriculture and marriage. Isis was eventually apropriated into Greek and Roman mythology, becoming a common figure in eighteenth-century British poetry. In the context of these lines, Isis is used as a name for the Thames as it passes through Oxford.  
 
 76.433 the Nine. The nine muses of art, literature, and science.  
 
-76.436 Acasto's daughter. 
+77.438n Torrid Zone. A theoretical climatic zone lying between between the Tropic of Capricorn and the Tropic of Cancer; the tropics. The ancients believed that the torrid zone was uninhabitable. While the colonization of the Caribbean proved otherwise, many colonists, naturalists, and others in the eighteenth century continued to believe that the tropics could induce what they called degeneration or the degradation of their bodies and faculties. Furthermore, the fear of degeneration was intertwined with theories of geographic and racial difference, since it was usually argued that New World forms of nature, including human beings, were inferior to Old World ones and that Europeans hence would become inferior themselves by inhabiting the New World.  
 
-77.438n Torrid Zone. The tropics.  
+77.438n arrack. Also arak, an alcohol distilled from the fermented sap of the coconut palm (*Cocos nucifera*).  
 
-77.438n arrack. Alcohol brewed from the coconut palm.  
-
-77.438n Oronoko. The Oronoko river that passes through modern Colombia and Venezuala.  
+77.438n Oronoko. The Orinoco river, which passes through modern Colombia and Venezuala.  
 
 77.438n Chili. Chile.  
 
-77.438n Maldivy Islands. The Maldive archipelago in the Indian Ocean.   
+77.438n Maldivy Islands. The Maldives archipelago, which is in the Indian Ocean. Now the Republic of Maldives.  
 
-77.438n black sugar. Until the advent of refined white cane sugar, black or dark sugar was more common.  
+77.438n black sugar. Possibly jaggery, a coarse, dark brown sugar made by evaporation from the sap of various kinds of palm.  
 
-77.438n strong water. 
+77.438n strong water. Distilled liquor.  
 
-77.438n coco-nut tree. Grainger refers here to the coca plant (*erythroxylum novogranatense* or *erythroxylum coca*), a stimulant that is the source of cocaine.
+77.438n The coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca* and *Erythroxylum novogranatense*.  
 
-77.438n chocolate-tree.
+77.438n chocolate-tree. The cacao tree (*Theobroma cacao*), the seeds of which are made into chocolate. The cacao tree is native to Central and South America and has been cultivated by Amerindians for thousands of years. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
-78.441 sappadillas. Sapodillo. Tree from the *Sapotacea* family.  Grainger could be referring to the *manilkara zapota* which has a fruit as he describes here, or he could be referring to the *chrysophyllum cainito* (star apple).  
+78.441 sappadillas. The sapodilla (*Manilkara zapota*), also known as the nasebery or nispero, is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
-78.445 Sheen's royal walks. <!-- seems likely to the this: https://en.wikipedia.org/wiki/Richmond_Park -->  
+78.445 Sheen's royal walks. Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park.  
 
-78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry" (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. The *Reliques* contains a poem by Grainger titled "Bryan and Pereene, a West-Indian Ballad," a tragic love story whose theme mirrors that of Junio and Theana.  
+78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose theme mirrors that of the story of Junio and Theana.  
 
 78.456 Hymen. Roman god of marriage.  
 
