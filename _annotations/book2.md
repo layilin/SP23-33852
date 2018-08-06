@@ -277,36 +277,32 @@ Advertisement. William Shenstone. William Shenstone (1714-1763), English poet an
 
 80.485 Po. Gilmore identifies the *Po* as the ship that Grainger traveled on to reach St. Kitts in 1759.  
 
-80.487 Bay of Biscay. Bay south of the English Channel between the west coast of France and the northern coast of Spain.  
+80.487 Bay of Biscay. An inlet of the Atlantic Ocean to the west of France and the north of Spain; affected by strong currents and storms.  
 
-80.488 Charente. River in southwest France that empties into the Bay of Biscay near Rochefort, the site of an important French naval base.  
-80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean.  
+80.488 Charente. River in southwest France that empties into the Bay of Biscay near Rochefort; the site of an important French naval base.    
+80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important way-station for transatlantic voyages in the eighteenth century. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.   
 
-80.498n Madeira Islands. The Madeiras in the Atlantic Ocean. A Portuguese colony and an important way-station for transatlantic voyages.
+80.503 yard-arm. Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
 
-80.503 yard-arm. 
+81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range stretches from Norway to South Africa, including the Mediterranean and the Black Sea in the eastern Atlantic, and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
 
-81.504 Boneta. Atlantic Bonito (*sarda sarda*). Fish related to the tuna and mackerel.  
+*81.504 shark insnares.  
 
-81.504 shark insnares. 
+*81.505 nautilus. The Portuguese Man o' War (*Physalia physalis*). Highly toxic, tentacled jellyfish-like organism. It is called the Man o' War for its resemblance to an eighteenth-century warship under full sail (https://oceanservice.noaa.gov/facts/portuguese-man-o-war.html).  
 
-81.505 nautilus. Portuguese Man o' War (*physalia physalis*). Highly toxic, tentacled jellyfish-like organism. It is called the Man o' War for its resemblance to an eighteenth-century warship under full sail (https://oceanservice.noaa.gov/facts/portuguese-man-o-war.html).
+81.507 winged fishes. Flying fish, which are small fish of the *Exocoetidae* family that glide above the water to escape predators. The strongest fish can "fly" nearly 200 meters in one glide.  
 
-81.507 winged fishes. Small fish of the *exocoetidae* family that glides above the water to escape predators. These fish can "fly" nearly 200 m in one glide (https://www.britannica.com/animal/flying-fish).  
+81.508 dolphins. Refers to the dolphin fish, dorado, or mahi-mahi (*Coryphaena hippurus*), which is widespread in the Atlantic, Indian, Pacific Oceans, as well as the Mediterranean.  
 
-81.508 dolphins. The dolphin fish is also known as the dorado or mahi-mahi (*Coryphaena hippurus*).  
+81.504n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Roughly covered a geographic region that included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
-81.504n salmon. 
+81.507n Albacores. Albacore Tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
 
-81.504n They have been known to follow a slave-ship from Guinea to the West Indies. 
-
-81.507n Albacores. Albacore Tuna (*thunnus alalonga*).  
-
-81.507n Garayio. <!--Frigate bird? -->  
+81.507n Garayio. Perhaps the tropic bird (any seabird of the family Phaethontidae) or the frigate bird (any seabird of the family Fregatidae), both of which prey on flying fish.  
 
 81.507n Barbadoes. One of the Lesser Antilles; colonized by the English in 1627. Gained independence from the United Kingdom in 1966.  
 
-82.509 Tropic-bird. <!-- Frigate bird? see 81.507n above -->  
+82.509 Tropic-bird. Although he uses the term tropic bird, Grainger means the frigate bird, which was famed for its wide wingspan and ability to remain airborne for weeks.  
 
 82.520 aethereal Bolt. Lightning. 
 
