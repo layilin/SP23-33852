@@ -5,9 +5,11 @@ editor: julie
 ---
 
 
-125.1 Genius of Africk.  Spirit of Africa. 
+125.1 Genius of Africk. Grainger is using the term "genius" in the sense of a supernatural being or guardian spirit associated with a place, institution, or thing. "Genius of Africk" thus means something like the spirit of Africa.  
 
-[place]125.4 Niger. The Niger river. One of Africa's largest rivers, it's source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.  
+125.2 castled elephant. The combination of an elephant and a castle (often with the castle on the elephant's back) is an old heraldic sign.  
+
+[place] 125.4 Niger. The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.  
 
 [plant]125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.
 
@@ -17,7 +19,7 @@ editor: julie
 
 125.11 brede. Braid.  
 
-126.21 Caribbe's. The Caribbean's  
+126.21 Caribbe's. The Caribbean's.   
 
 126.22 parch'd Libya's wilds. Not the modern nation of Libya, but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
@@ -32,6 +34,8 @@ editor: julie
 [plant]126.31 myrtle. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
 127.35 jetty. Jet black. Seventeenth- and eighteenth-century British writers often used the term "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko, or the Royal Slave*, where the narrator describes Oroonoko: "his face was not of that brown, rusty black which most of that nation are, but a perfect ebony or polished jet."
+
+127.38-39 In mind, and aptitude for useful toil,/The negroes differ: muse that difference sing. Grainger is taking on the perspective of a slave trader. 
 
 [place]127.44 Congo's wide-extended plains. Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC). <!--Note to Julie: as part of the note on African peoples, we should try to distinguish between nation, kindgom, people, ethnic group, etc. I am not 100% sure of how to do this, but happy to talk about it -->
 
@@ -89,17 +93,27 @@ editor: julie
 
 [plant]130.136 acajou. The cashew or cashewnut tree (Anacardium occidentale), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note, the fruit of the cashew tree is caustic and is said to have been used by women as a chemical peel to remove freckles. See for example Maria Riddell, *Voyages to the Madeira, and Leeward Isles* (Edinburgh, 1792), 82-83.  
 
+[plant] 130.137 cherries. 
+
 132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold, but often thought by eighteenth-century physicians to lead to further (and more serious) illness.  
 
 132.141 dysenteric. Dysentery, a gastrointestinal disorder, remained a major public health concern throughout the eighteenth and nineteenth centuries. 
 
 132.142 hydrops. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema).
 
+132.148. leprosy's infectious bane. 
+
 [plant]132n Gum-Arabic. Edible sap from the Acacia tree used as a binder/stabilizer in foods and medicines. Not indigenous to the Caribbean.
 
 132.150 swallow dirt. Geophagy or Pica were the medical terms used for dirt eating. Eighteenth-century physicians and enslavers were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a mode of committing suicide, and thus a form of enslaved resistance.  There is an ongoing tradition of dirt eating in parts of West Africa.
 
 132.150 Chlorotic fair. Chlorosis (also called green sickness) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
+
+132.137n almond.
+
+132.137n long citron, or amber-coloured, is the best. 
+
+132.146 turtle. 
 
 133.151 cates. Food; victuals. Here Grainger uses it in the sense of "delicacies".
 
@@ -136,7 +150,7 @@ editor: julie
 
 136.213 possest large fertile fields, and slaves. The practice of slavery did exist in Africa, although it is clear that the Atlantic slave trade fundamentally altered how its practice. Grainger's reference to slavery in Africa is a conventional move of pro-slavery writers, who used it in an attempt to justify and excuse the plantation slave system.
 
-[place]136.215 Indus. Indus, a river in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
+[place] 136.215 Indus. Indus, a river in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
 
 136.229 these uninstructed swains. A country or farm laborer, a shepherd. They key figure in georgic poetry.  
 
@@ -160,7 +174,9 @@ editor: julie
 
 138.265 yaws. Yaws, or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved Africans, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, but can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. See Bejamin Moseley *A Treatise on Sugar* (1799).
 
-138.268 niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
+138.267 conchs.  
+
+138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -170,7 +186,7 @@ editor: julie
 
 139.282 defoedations. The action of contaminating, polluting, or infecting something, especially the blood or skin. In this case, the period eruption of yaw sores.
 
-[plant] 139.283 guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both Guaiacum officinale and Guaiacum sanctum are now endangered due to overexploitation and habitat loss.
+[plant] 139.283 turpentine and guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both Guaiacum officinale and Guaiacum sanctum are now endangered due to overexploitation and habitat loss.
 
 139.287 might not skill ingraft. Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual, and deliberately infecting him or her with pustulent matter from smallpox patient. Extremely dangerous by modern standards because the inoculee came down with smallpox, inoculation nevertheless had a much lower rate of mortality than being infected by smallpox in the "natural way." Inoculation did not work for inoculation.
 
@@ -200,6 +216,8 @@ editor: julie
 
 [people] 141.317n Strabo. Strabo (64 BCE - 21 CE), Greek geographer and historian whose work *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE - 14 CE).
 
+141.317n Phaenicians. 
+
 [place] 142.330 Enna. City and province in central Sicily, headquarters of a Sicilian slave revolt (134-132 BCE).
 
 [place] 142.330 Belgian fens. Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege. 
@@ -228,13 +246,37 @@ editor: julie
 
 144.381. sacred nine. The nine muses of art, literature, and science.
 
+144.370n Guinea. 
+
+144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination.  
+
+145.387 Fern root. 
+
+148.388-389 Old teeth...lizard's skeleton; a serpent's head. 
+
 145.391. phial...leach. A vessel for holding liquids. A physician.
+
+145.392-393 strange jargon, and wild circles forms. 
+
+145.394 Secure from poison; for to poison they are infamously prone:
+
+145.398-399 This, diseases fly; Diseases follow: such its wonderous power!
 
 145.406. Lucifer. Or Phosphorus. In Greek mythology, he brings the morning light.
 
 146.407. rushy couch. Beds made from stiff and hollow plants.
 
+146.410 broom-bush. 
+
+146.414 jalap.
+
+146.415 solanum. 
+
+146.416 crickets, snakes, and lizars 'gin their coil; 
+
 146.415n. Linnaeus...Dr. Stork. Carl Linnaeus (1707-1778), was a Swedish naturalist who established a new taxonomic system and was particularly renowned for his botanic knowledge. Author of *Species Plantarum*, *Genera Plantarum*, and *Systema Naturae*. <!--can't find Dr. Stork-->
+
+146.415n monopetalous flower. 
 
 [people] 147.424 Ethiop. Ethiop and Ethiopia (also Aethiop and Aethiopia) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about "washing the Ethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference and African inferiority based on skin color.  
 
@@ -340,7 +382,7 @@ editor: julie
 
 [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with the mammee apple and mammee sapota is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
-[plant] palmeto. *Palma Maxima*. See Grainger's footnote.
+[plant] 153.523 palmeto. *Palma Maxima*. See Grainger's footnote.
 
 [people] 153.524 Jones. Inigo Jones (1573-1652), English architect and theatre designer.
 
@@ -348,15 +390,31 @@ editor: julie
 
 [people] 153.525 Palladio. Andrea Palladio (1508-1580),  Italian architect.
 
+[plant] 153.527 wild fig-tree. 
+
+153.530 rood. 
+
 [people] 153.523n Daniel Mathew, Esq (1718-1777) a cousin of Grainger's wife.
 
-[place] 153.523n Palmyra. Also Tadmur, Tadmor, or Tudmur, ancient city in south-central Syria.
+[place] 153.523n Temple of the Sun at Palmyra. Also Tadmur, Tadmor, or Tudmur, ancient city in south-central Syria.
+
+153.523n cortical part...durable laths for houses. 
+
+153.523n There is a smaller species not quite so beautiful. 
 
 [plant] 154.534 anata. See Grainger's footnote. Also anatta, anatto. *Bixa orellana*, a low, shrubby tree cultivated in Jamaica. Its berries are often used for coloring foods.
 
+154.537-539 Northern-Ind, a fierce and wily race...with it they paint...face of war. 
+
 [plant] 154.543 granadillas. See Grainger's footnote.
 
-[plant] 155.544 water-lemon.
+154.534n apices.
+
+154.534n farina. 
+
+154.543n water-lemon, bell-apple, or honeysuckle. 
+
+154.534n viscid. 
 
 [plant] 155.558 coco.
 
@@ -368,17 +426,47 @@ editor: julie
 
 [plant] 156.572 plantanes. Also plantain.
 
+156.573 vans. 
+
 [plant] 156.563n *acini*. acinus.
 
-157.183 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
+156.563n astringent. 
+
+156.567 *Guinea-corn*...*Turkey wheat*. 
+
+156.580 naiad. 
+
+157.583 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
+
+157.584 wild banshaw's melancholy sound. 
+
+157.594 greensward. 
+
+158.602-605 let not thou the drum their mirth inspire;...vengeance they pursue. 
+
+158.607 wed their fellow slaves at home; 
+
+158.611 prickly vine. 
+
+158.611n Chili-strawberry. 
+
+159.613 candle-weed. 
 
 159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar.
 
 159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years. 
 
+159.618 Scotian loom. 
+
 159.621 sacred Nine. Nine goddesses or muses, the daughters of Zeus and Mnemosyne, who preside over the arts and sciences. In this stanza, Grainger lists their responsibilities.
 
-159.622 Gallic Lewis.
+159.622 Gallic Lewis. Louis...
+
+159.629 mild laws...tyrannic sway! Code noir. 
+
+159.613n narcissus. 
+
+159.613n diuretic. 
 
 159.625 rapine. The act or practice of seizing and taking away by force the property of others.
 
@@ -394,10 +482,18 @@ editor: julie
 
 160.638 Plata. Rio de la Plata (Silver River) is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America. 
 
+160.643 Columbus. 
+
+160.645 Alps. 
+
+160.651 The main. 
+
+161.658 Britannia, Neptune's favourite queen. 
+
 161.669 lacquaying winds. A poetic way to say "winds that follow," in this case, Fame's "winged navies."
 
 161.671 Her winged navies. Fame's messengers that broadcast England's power and superiority around the world.
 
-161.671-679 scepter'd sons... that lon'd for aera, hail!. Possibly a reference to Shakespeare's *Richard II*, Act II, scene 1, lines 40-70, when John of Gaunt proclaims that England has produced kings that have historically been feared around the world.
+161.671-679 scepter'd sons... that lon'd for aera, hail!. Possibly a reference to Shakespeare's *Richard II*, Act II, scene 1, lines 40-70, when John of Gaunt proclaims that England has produced kings that have historically been feared around the world.  
 
 162.680 the Patriot King. A reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1738), a treatise written for Frederick, Prince of Wales, on monarchy. It describes in idealized terms the policies and virtuous conduct of a Patriot King waiting in the wings, whose accession would end party-political conflicts.
