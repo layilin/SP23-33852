@@ -232,6 +232,8 @@ editor: julie, ami, lina, elizabeth
 
 [people] 106.357n A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time. Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679).  
 
+[people] 106.307n Charles II. King Charles II (1630-1685), king of England, Scotland, and Ireland, son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell, and the restoration of British monarchy in 1660.
+
 106.357n alcalescent. Also alkalescent. Tending to become alkaline (having a pH greater than 7).  
 
 [people] 107.359 Xantippe. Also Xanthippe. Wife of Socrates (5th–4th c. BCE), often described as bad-tempered.  
