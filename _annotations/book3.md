@@ -358,7 +358,7 @@ editor: julie, ami, lina, elizabeth
 
 [place] 120.612 Scotia's. Scotia is the Latin name for Scotland.  
 
-[plant] 120.612 thyme. Thyme, an aromatic garden herb of the mint family used in cooking, genus *Thymus*.  
+[plant] 120.612 thyme. Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeast tropical Africa.    
 
 [place] 120.613 Barbuda. A small island near Antigua and now part of the nation of Antigua and Barbuda.
 
