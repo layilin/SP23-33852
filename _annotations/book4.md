@@ -292,7 +292,7 @@ editor: julie
 
 [plant] 148.456 bonavist. A species of bean (*Lablab purpureus*) native to Cape Verde, tropical and southern Africa, Madagascar, and India.  
 
-[people] 148.449n Ogilvy's America. John Ogilby's *America: Being an accurate description of the New World* (1670). Ogilby (1600-1676), 
+[people] 148.449n Ogilvy's America. John Ogilby's *America: being the latest, and most accurate description of the New World* (1671). Ogilby (1600-1676) was a Scottish publisher and geographer.   
 
 [plant] 149.457-458 ochra...slimy pulp...help disdains. Okra (*Abelmoschus esculentus*) is native to tropical Africa and was one of the most commonly cultivated plants in the provision grounds and gardens of the enslaved. It possesses a glutinous or slimy pulp that was used as a thickener in stews called pepper pots, one of the most popular dishes in the colonial Caribbean.  
 
