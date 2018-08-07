@@ -6,7 +6,7 @@ editor: cristobal
 
 <!--Lets discuss briefly the use of "Old World" in the notes. It didn't stick out to me one way or another before this last pass, so I just want to make sure that it's not a shorthand that we should be avoiding-->
 
-[people] Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and famed practitioner of landscape gardening, which he practiced on his estate, The Leasowes. <!--confirm page number for Advertisement -->  
+[people] Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and famed practitioner of landscape gardening, which he practiced on his estate, The Leasowes. Grainger enclosed a draft of *The Sugar-Cane* in a 5 June 1762 letter to his friend Bishop Thomas Percy, asking he and Shenstone to read and comment on it. He added that "The second book you will see is addressed to our friend at the Leasowes; and I must tell you it is my favourite of the whole" (*Illustrations*, 279). <!--confirm page number for Advertisement -->  
 
 53.5 For she, poor exile! The opening lines of Book II parallel Grainger's experience in the Caribbean. Having married into a planter family, he felt isolated from his London friends, and he hoped one day to have a plantation of his own, though he never did. Writing to his friend Bishop Thomas Percy on 29 February 1766, Grainger lamented that "I am lost, murdered, for want of company" (*Illustrations*, 293).
 
@@ -134,7 +134,7 @@ editor: cristobal
 
 63.156. insect-tribe. Locusts, one of several species of acridids (family Acrididae) that are known for swarming and migrating and causing great damage to crops.    
 
-63.168 yellow fly. May be *Diachlorus ferrugatus*, a small biting fly indigenous to Central America and the southeastern United States.  
+63.168 yellow fly. May be *Diachlorus ferrugatus*, a small biting fly indigenous to Central America and the southeastern United States. 
 
 63.171. cochinille. The cochineal insect (*Dactylopius coccus*) is the source of a highly prized red dye made from the dried bodies of the female. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal (see lines 174-175 below).  
 
@@ -188,6 +188,8 @@ editor: cristobal
 
 [place] 68.265. Cathäy. The name by which China was known to medieval Europe.   
 
+69.271 hurricane. In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane*, and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send yo uthe whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (*Illustrations*, 278).
+
 69.273 welkin. Sky, firmament.  
 
 [place] 69.278. AEtna. Etna, Europe's highest active volcano, located in Sicily.  
@@ -197,6 +199,8 @@ editor: cristobal
 68.288. the Scorpion. Scorpio, or the period from late October to late November.  
 
 69.289. Libra. Libra, or the period from late September to late October. Together, these three periods denote peak hurricane season.  
+
+69.290. dome. House.
 
 [plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
 
@@ -220,11 +224,13 @@ editor: cristobal
 
 73.356 corruscations. Vibratory or quivering flashes of light; lightning.  
 
-73.367-368 Europe and Asia's vegetable sons...die. Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange, which also involved the movement of plants, animals, and diseases from the New World to the Old. If the reader consults footnotes about individual plants, it will become apparent how many of the plants Grainger mentions are not native to the Caribbean.  
+73.367-368 Europe and Asia's vegetable sons...die. Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange, and included the movement of plants, animals, and diseases in both directions across the Atlantic. If the reader consults footnotes about individual plants, it will become apparent how many of the plants Grainger mentions are not native to the Caribbean.  
+
+74.375 sails hang idly. The doldrums, also called intertropical convergence zones where prevailing (or trade) winds disappear, and ships become immobile for days on end.
 
 74.388 Acescent. Sour; acidic.  
 
-74.392 Astonied. Astonished. This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition.  
+74.392 Astonied. This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.  
 
 74.392 Solfaterre. A vent where sulfur deposits accumulate. In this case, Grainger means volcanoes.  
 
@@ -272,9 +278,9 @@ editor: cristobal
 
 78.456 Hymen. Greek god of marriage.  
 
-[place] 68.441n Antigua. One of the Leeward Islands; colonized by the English in 1632. Now forms part of the nation of Antigua and Barbuda.  
+[place] 78.441n Antigua. One of the Leeward Islands; colonized by the English in 1632. Now forms part of the nation of Antigua and Barbuda.  
 
-79.463 old Europe's letter'd climes. Educated or learned climes. Grainger is probably referring again to the fact that Caribbean planters sent their children to Britain for their education.  
+79.463 old Europe's letter'd climes. Educated or learned climes. In addition to the practice of Caribbean planters sending their children to Britain for their education, this moment describes the "grand tour" in which the British might complete their education by visiting mainland Europe's (and especially Italy's) cultural capitals.  
 
 [place] 79.469 Gaul. France.  
 
