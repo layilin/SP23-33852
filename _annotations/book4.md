@@ -93,7 +93,7 @@ editor: julie
 
 [plant]130.136 acajou. The cashew or cashewnut tree (Anacardium occidentale), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note, the fruit of the cashew tree is caustic and is said to have been used by women as a chemical peel to remove freckles. See for example Maria Riddell, *Voyages to the Madeira, and Leeward Isles* (Edinburgh, 1792), 82-83.  
 
-[plant] 130.137 cherries. 
+* [plant] 130.137 cherries. 
 
 132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold, but often thought by eighteenth-century physicians to lead to further (and more serious) illness.  
 
@@ -101,7 +101,7 @@ editor: julie
 
 132.142 hydrops. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema).
 
-132.148. leprosy's infectious bane. 
+* 132.148. leprosy's infectious bane. 
 
 [plant]132n Gum-Arabic. Edible sap from the Acacia tree used as a binder/stabilizer in foods and medicines. Not indigenous to the Caribbean.
 
@@ -109,11 +109,11 @@ editor: julie
 
 132.150 Chlorotic fair. Chlorosis (also called green sickness) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
 
-132.137n almond.
+* 132.137n almond.
 
-132.137n long citron, or amber-coloured, is the best. 
+* 132.137n long citron, or amber-coloured, is the best. 
 
-132.146 turtle. 
+* 132.146 turtle. 
 
 133.151 cates. Food; victuals. Here Grainger uses it in the sense of "delicacies".
 
@@ -174,9 +174,9 @@ editor: julie
 
 138.265 yaws. Yaws, or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved Africans, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, but can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. See Bejamin Moseley *A Treatise on Sugar* (1799).
 
-138.267 conchs.  
+* 138.267 conchs.  
 
-138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
+* 138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -206,7 +206,7 @@ editor: julie
 
 141.312 vermifuge. Vermifuge, or anthelmintic drugs, are used to eliminate parasitic worms in the body.
 
-141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
+* 141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
 
 [place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge.
 
@@ -216,7 +216,7 @@ editor: julie
 
 [people] 141.317n Strabo. Strabo (64 BCE - 21 CE), Greek geographer and historian whose work *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE - 14 CE).
 
-141.317n Phaenicians. 
+* 141.317n Phaenicians. 
 
 [place] 142.330 Enna. City and province in central Sicily, headquarters of a Sicilian slave revolt (134-132 BCE).
 
@@ -240,7 +240,7 @@ editor: julie
 
 <!-- CS stopped here 8/5/18 -->
 
-143.369-370 bewitch'd; and whom/In wrath, a conjurer's snake-mark'd staff hath struck!. A reference to obeah, a set of Afro-Caribbean medicinal and religious practices. Colonial descriptions of obeah vary from magic to superstition to folk medicine. (general outline drawn from *Atlantic Studies* vol. 12 no. 2 "Obeah: knowledge, power, and writing in the early Atlantic World"). Colonial writers describe enslaved persons using plants or herbs to heal sickness or bring the dead back to life as well as deploying charms to defend against bullets or death, among other uses. Most accounts register the rebellious nature of these practices, and Grainger's poem was published in the aftermath of a large, coordinated 1760 rebellion in Jamaica that involved approximately 1,500 enslaved persons in which obeah played a particularly important role. (see Vincent Brown's http://revolt.axismaps.com/project.html) 
+* 143.369-370 bewitch'd; and whom/In wrath, a conjurer's snake-mark'd staff hath struck!. A reference to obeah, a set of Afro-Caribbean medicinal and religious practices. Colonial descriptions of obeah vary from magic to superstition to folk medicine. (general outline drawn from *Atlantic Studies* vol. 12 no. 2 "Obeah: knowledge, power, and writing in the early Atlantic World"). Colonial writers describe enslaved persons using plants or herbs to heal sickness or bring the dead back to life as well as deploying charms to defend against bullets or death, among other uses. Most accounts register the rebellious nature of these practices, and Grainger's poem was published in the aftermath of a large, coordinated 1760 rebellion in Jamaica that involved approximately 1,500 enslaved persons in which obeah played a particularly important role. (see Vincent Brown's http://revolt.axismaps.com/project.html) 
 
 143.370n negroe-conjurers, or Obia-men. By calling the obeah men conjurers, Grainger casts doubt on their abilities. A conjurer could refer to a magician or wizard, but it also could refer to someone who was merely pretending to perform miracles.  
 
@@ -250,7 +250,7 @@ editor: julie
 
 [place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
-144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger admits that obeah men were not merely conjurers or individuals pretending to have special spiritual powers. Indeed, obeah men also and perhaps even primarily served as healers and thereby filled an important gap on plantations, where medical care was infrequently provided to the enslaved by planters themselves.    
+* 144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger admits that obeah men were not merely conjurers or individuals pretending to have special spiritual powers. Indeed, obeah men also and perhaps even primarily served as healers and thereby filled an important gap on plantations, where medical care was infrequently provided to the enslaved by planters themselves.    
 
 148. serpent's head. In addition to referring to a set of practices and beliefs, "obeah" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials, such as the one's listed here by Grainger, that were believed to have spiritual or sacred significance.  
 
@@ -436,8 +436,6 @@ editor: julie
 
 159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.  
 
-159.621 sacred Nine. The nine muses of art, literature, and science.  
-
 * 159.622 Gallic Lewis. Louis...
 
 * 159.629 mild laws...tyrannic sway! *Code noir*. 
@@ -457,8 +455,6 @@ editor: julie
 160.634 Thames. The Thames river.  
 
 160.638 Plata. Rio de la Plata is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America.  
-
-160.651 The main. The ocean.  
 
 * 161.658 Britannia, Neptune's favourite queen. 
 
