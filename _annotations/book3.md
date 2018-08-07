@@ -238,7 +238,7 @@ editor: julie, ami, lina, elizabeth
 
 109.412 make labour light. While Grainger recommends letting enslaved Africans drink the sugarcane juice, planters sometimes inflicted severe punishments for eating or consuming sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth. Douglas Hall, *In Miserable Slavery: Thomas Thistlewood in Jamaica, 1750-86* (London: Macmillan, 1989). See also line 99, above. <!--conform citation to our style-->  
 
-109.417 trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator, and blow northeasterly up the coast of North America and toward Europe.
+109.417 trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean, and blow northeasterly from Florida up the coast of North America and toward Europe. 
 
 110.434 coction. Boiling, cooking.  
 
