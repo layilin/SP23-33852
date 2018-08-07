@@ -176,7 +176,7 @@ editor: julie, ami, lina, elizabeth
 
 102.273 tabid. Also tabetic. Wasted by disease, corrupted.  
 
-102.274 cholic. Colic, 
+102.274 cholic. Colic, painful stomach contractions.
 
 102.278 Indesinent. Incessant.  
 
@@ -186,23 +186,25 @@ editor: julie, ami, lina, elizabeth
 
 [place] 102.283 Matanina! boast of Albion's arms. The French colony of Martinique surrendered to British forces in February 1762.  
 
-[place] 102.288 Liamuiga. The Indigenous name for the island of St. Kitts.
+[place] 102.288 Liamuiga. Indigenous name for the island of St. Kitts.
 
 [people] 102.289 Romney. George Brydges Rodney (1718-1792), English admiral who played a key role in the attack on Martinique.  
 
 [place] 102.283n Havannah. Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.  
 
-[plaec] 103.306-307 Kent...Gaul. Kent is a county in southeastern England facing France, which was part of the ancient region of Gaul.  
+103.304 palm of eloquence. Prize for speech. In the Ancient Greek Olympics, winners were awarded palm fronds.
+
+[place] 103.306-307 Kent...Gaul. Kent is a county in southeastern England facing France, which was part of the ancient region of Gaul.  
 
 104.315 boilers. Working conditions in the boiling house were extremely difficult, and only the strongest of the enslaved were assigned there. Tasks included stoking the fires to boil the sugarcane juice and skimming or removing the impurities that rose to the top of the boiling cane juice. Being a boiler was more than merely physical work, however: it also required considerable technical and practical knowledge about the process of sugar production and refinement, and enslavers depended heavily on their head refiners or boilers for good yields of sugar from their crops.  
 
 104.318 Cancer. A constellation seen in early in the Northern Hemisphere. Cancer is also a water sign and a cardinal sign of the Zodiac that indicates a change of season.  
 
-104.321 lave. To pour out.
+104.321 lave. To pour or ladle out.
 
 104.322 gelid. Cold.  
 
-104.323 chemist. The roots of chemistry go back millenia, but modern chemistry came into being betwee the late seventeenth and late eighteenth centuries. Grainger does not mean chemist in the way that a modern audience does, but someone who is skilled in the art of mixing compounds. Sugar production depended on precise technical knowledge about how much to heat the cane juice, at what temperature to do so, and when to add catalysts and additional ingredients.
+104.323 chemist. The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. Grainger does not mean chemist in the way that a modern audience might, but someone who is skilled in the art of mixing compounds. Sugar production depended on precise technical knowledge of how much to heat the cane juice, at what temperature to do so, and when to add catalysts and additional ingredients to ensure the final product was pure.
 
 105.334 dropsy. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema)  
 
@@ -210,11 +212,11 @@ editor: julie, ami, lina, elizabeth
 
 105.340 perflation. Ventilation provided by air blowing through a space.  
 
+105.343 experiment. Experience
+
 105.345 mucilage. a viscous liquid made from plant material
 
 105.347 essential salts. Eighteenth-century scientists studying the composition of plants posited that they contained essential salts or acids and minerals obtained by the crystallization of plant juices.  
-
-106.349 wins the palm. Wins the prize.  In the Ancient Greek Olympics, winners were awarded palm fronds.
 
 106.352 acor. Acidic or sour substance.  
 
