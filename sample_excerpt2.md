@@ -6,6 +6,21 @@ editor: julie
 ---
 
 
+# Obeah
+
+Although obeah appears briefly in works about the Caribbean before 1760, it was not until the outbreak of Tacky's Rebellion that year that obeah became a topic of pressing concern and interest to European and colonial authors. Tacky's Rebellion was...
+
+As a result, after the immediate threat of the rebellion had been quashed, Jamaican colonists set out to prevent its re-occurrence by banning any of the cultural practices that had enabled and provided cover for enslaved resistance. These practices included music and drumming and gathering at night. They also included obeah, which was outlawed because it was believed to have contributed in significant fashion to the rebellion...
+
+As a result of its new notoriety, obeah began appearing more and more in accounts of the Caribbean and indeed became a mainstay of texts seeking to represent it. These accounts also increasingly demonized the practice and became more and more lurid in their descriptions. Examples include...
+
+These representations have contributed to fundamental misunderstandings of obeah, which is still associated today with concepts like black magic and voodoo or poisoning. Yet obeah is actually more accurately described as a complex of religious and medical practices designed to alleviate some of the dangers and hardships of working and living on a plantation. Moreover, it was probably primarily considered by obeah men, a name given to its practitioners, and other enslaved persons on the plantation as beneficial, as directing supernatural or spiritual forces for the benefit of human beings. This benefit could be defined in ways that were harmful to planters, however, so this was in part responsible for planters' hysterical reactions. One person's benefit could be the downfall of the master and the plantation, after all. 
+
+Grainger's representation of obeah, excerpted below from Book IV, also portrays obeah in a negative way, yet interestingly, he makes no mention of Tacky's Rebellion or the uses to which obeah could possibly be put against the masters/planters/plantation. Perhaps since Grainger was writing in the immediate aftermath of Tacky's Rebellion, he did not yet have access to the more demonizing discourse that would arise later. Indeed, it's interesting to think about Grainger's poem as being a kind of transitional text located between the later demonizing discourse and an earlier discourse about obeah. This earlier discourse represented obeah also in a negative fashion, but rather than implying the possibilities of rebellion, it was concerned with debunking obeah with conjuring or fake medicine. This, too, was seen as harmful since it could result in the enslaved--and planters' labor force--being treated in deleterious ways. Nevertheless, it's important to remember that obeah men and the enslaved did actually have knowledge of local plants and how they could be used to alleviate complaints and illnesses. It's also important to remember that the rise of obeah and its flourishing as a religion and medical practice was enabled by the systematic neglect of the enslaved by planters, who rarely provided medical care on the plantations.  
+
+For further reading, see... (full citations in the bibliography).
+
+
 [143]()
 
 - NOR pine the Blacks, alone, with real ills, [365]
