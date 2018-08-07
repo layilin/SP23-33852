@@ -262,17 +262,19 @@ editor: julie, ami, lina, elizabeth
 
 109.412 make labour light. While Grainger recommends letting enslaved Africans drink the sugarcane juice, planters sometimes inflicted severe punishments for eating or consuming sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth. Douglas Hall, *In Miserable Slavery: Thomas Thistlewood in Jamaica, 1750-86* (London: Macmillan, 1989). See also line 99, above. <!--conform citation to our style-->  
 
+109.415 choral song <!--this one is complicated, but I feel like we should probably add a note about music/singing; it appears several times in book III-->
+
 109.417 trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean, and blow northeasterly from Florida up the coast of North America and toward Europe. 
 
 110.434 coction. Boiling, cooking.  
 
 110.428n melasses. Also molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
-111.441 noble wine. Rum.  
+111.441 noble wine. Rum.  <!-- not 100% sure about this; if they mean fermented but undistilled molasses drink, it isn't rum yet. can't find anything in the notes or in Gilmore, though-->
 
 [place] 111.443 Ganges. Also Ganga, a river that flows through India and Bangladesh.  
 
-112.457 fraudful. Grainger criticizes the French who doctor their sugar by adding sand to it and therefore increasing its weight at sale.
+112.457 fraudful. Grainger criticizes the French who doctor their sugar by adding sand to casks, thereby increasing their profits.
 
 112.463 Avaro's. A mean-spirited, rich man who appears as a character in Richard Steele's *The Tatler* (1709-1711). Avaro is Latin for greedy, or miserly. 
 
@@ -286,11 +288,11 @@ editor: julie, ami, lina, elizabeth
 
 114.500 toil a pleasure seems. The theme of pleasurable labor is central to the georgic. Here Grainger's narrator experiences labor as pleasurable after he has drunk rum which is an end product of enslaved labor. Contrast this to the ironic descriptions of pleasurable labor in Book IV.   
 
-[place] 114.501 Marne. French tributary of the Seine that flows through northeastern France. the Marne flows through the Champagne region, where wines have been made since the Roman era. Most Champagnes were still until the mid nineteenth century.
+[place] 114.501 Marne. French tributary of the Seine that flows through the Champagne region in northeastern France. Wines have been made there since the Roman era, but most Champagnes were still wines until the mid nineteenth century, when sparkling wines became popular.
 
 [place] 114.501 Tille. A river in Burgundy, a major wine-producing region in France.
 
-[place] 114.503 Vigornian. Vigornian is the Latin name for Worcester, England.  
+[place] 114.503 Vigornian. Vigornian is the Latin name for Worcester, a center of cider production in England.
 
 114.504 Pomona. Pomona, the Roman goddess of fruit.  
 
@@ -298,11 +300,11 @@ editor: julie, ami, lina, elizabeth
 
 [place] 114.508 Albion. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
-[people] 114.509 Johnson. Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. Works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). He made contributions to and edited various periodicals, including *The Gentlemans' Magazine* and the *Literary Magazine*. Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade (for Johnson's exact comment, see the note for [internal] Book IV, lines 74-77).
+[people] 114.509 Johnson. Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. Works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). He made contributions to and edited various periodicals, including *The Gentlemans' Magazine* and the *Literary Magazine*. Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. Johnson writes: "the poet talks of this ungenerous commerce without the least appearance of detestation ... [and] proceeds to direct these purchasers of their fellow-creatures with the same indifference a groom would give instructions for chusing a horse." For an example of the descriptiosn to which Johnson objected, see Book IV, lines 72-118 below.
 
 [people] 114.509 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*.
 
-[people] 114.509 White. The identity of White was confusing to eighteenth-century readers. In a letter dated May 9, 1801, written to Thomas Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes's *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811. *The Percy Letters: The Correspondence of Thomas Percy and Robert Anderson*, vol. 9, edited by W. E. K. Anderson, Yale University Press, 1944, at pp. 59, 67-68, 269.  <!--conform to citing convention-->
+[people] 114.509 White. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Thomas Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes's *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811. *The Percy Letters: The Correspondence of Thomas Percy and Robert Anderson*, vol. 9, edited by W. E. K. Anderson, Yale University Press, 1944, at pp. 59, 67-68, 269.  <!--conform to citing convention-->
 
 114.510 Calpe. Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar.  
 
@@ -310,9 +312,9 @@ editor: julie, ami, lina, elizabeth
 
 [people] 114.510n Mrs. Lennox. Charlotte Lennox (1730/1731?-1804), British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). A close friend of Samuel Johnson.
 
-115.519 rude lays. Unskilled poetry.
+115.519 rude lays. Unskilled or unrefined poetry.
 
-[plant] 115.522 sand-box shade. The sand-box (*Hura crepitans*), a tree native to tropical America. It gets its name from its seed pods which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall (100+ feet), the sand-box is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and when ripe, its seed pods open with loud explosive sound, flinging its seeds at over 100 mph.
+[plant] 115.522 sand-box shade. The sand-box (*Hura crepitans*) is a tree native to tropical America. It gets its name from its seed pods which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall (100+ feet), the sand-box is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and when ripe, its seed pods open with loud explosive sound, flinging its seeds at over 100 mph.
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
@@ -330,17 +332,17 @@ editor: julie, ami, lina, elizabeth
 
 116.549n intenerate. To make tender, soften.  
 
-116.549n ringworms. Ringworm, or tinea, is the name given to a fungal infection of the skin, scalp, or nails that produces lesions in the shape of partial or complete rings. It spreads by direct contact or through infected materials.  
+116.549n ringworms. Ringworm, or *tinea*, is the name given to a fungal infection of the skin, scalp, or nails that produces lesions in the shape of partial or complete rings. It spreads by direct contact or through infected materials.  
 
 117.550 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra, and sometimes cited as the wife of Zephyrus the West Wind. Her name in Greek means "rainbow." The goddess Juno took her to serve as her handmaid. 
 
 117.555 Hesperian throats. "Hesperian throats" refers to the Hesperides, the daughters of Night and Erebus who guarded the tree of golden apples given by Hera to earth, also renowned for their singing. Because the tree was popularly located beyond the Atlas mountains at the western border of the Ocean, Hesperian also means western. When referring to a specific geographic location, it designates Italy or Spain.
 
-117.556 vernal. Of or in the spring.
+117.556 vernal. Of the spring.
 
-117.558 herald-lark. Larks may name any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
+117.558 herald-lark. Larks may name any of several small birds of the family *Alaudidae*. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
 
-117.652 Phoebus. Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
+117.562 Phoebus. Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
 
 117.549n anthelmintic. Anthelmintic (also anthelminthic, antihelminthic) drugs are used to expel or kill parasitic worms, especially intestinal ones.  
 
@@ -350,11 +352,11 @@ editor: julie, ami, lina, elizabeth
 
 118.578 Why will their sons, ungrateful, roam abroad? Grainger refers here either to the common practice of absentee plantership, in which plantation owners lived in Britain and managed their plantations from afar, or to the equally common practice of sending children of planters to Britain for education.  
 
-118.585 Eclips'd by titles. Despite the practice of absentee plantership, Grainger notes that metropolitan British attitudes toward creoles was inevitably condescending, regardless of how wealthy a planter was.  It should be noted that Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Percy on 5 June 1762, Grainger noted that "reading ... is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (*Illustrations*, 278).
+118.585 Eclips'd by titles. Despite the practice of absentee plantership, Grainger notes that metropolitan British attitudes toward creoles was inevitably condescending, regardless of how wealthy a planter was.  It should be noted that Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Bishop Thomas Percy on 5 June 1762, Grainger noted that "reading, I assure you, is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (*Illustrations*, 278).
 
 118.587 Bellona. Bellona, the Roman goddess of war. Once again, Grainger is referencing the Seven Years' War.
 
-118.590 Taber. A one-handed snare drum often played as a military instrument
+118.590 Taber. A one-handed snare drum often played as a military instrument.
 
 [people] 119.592 heaven-favoured bard. Grainger's "heaven-favoured bard" alludes to Tyrtaeus, a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city.
 
@@ -400,6 +402,6 @@ editor: julie, ami, lina, elizabeth
 
 121.631 "Stage above stage, in various verdure drest." The source of this quotation is not clear.
 
-121.637 "For naught is useless made." Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe, and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests that the pursuit of knowledge is a good in its own right, and ought to supplant the more mundane pursuit of wealth.
+121.637 "For naught is useless made." Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe, and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests here that the pursuit of knowledge is a good in its own right, and ought to take precedence over the more mundane pursuit of wealth.
 
 ---
