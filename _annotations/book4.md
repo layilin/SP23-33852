@@ -344,25 +344,23 @@ editor: julie
 
 151.493 Flora's. Flora was the Roman goddess of springtime.  
 
-[plant] 151.498 anana. The pineapple (*Ananas comosus*), which is native to eastern South America and brought by Amerindians to the Caribbean. 
+[plant] 151.498 anana. The pineapple (*Ananas comosus*), which is native to eastern South America and brought by Amerindians to the Caribbean.  
 
 151.500 "Insuperable height of airiest shade". The origin of this quote is unclear.  
 
-[plant] 151.502 mammey. The mammee apple (*Mammea americana*) is a large fruit indigenous to Central America and the Caribbean.   
+[plant] 151.502 mammey. The mammee apple (*Mammea americana*) is a large fruit indigenous to Central America and the Caribbean.  
 
 151.502n ratafia. An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches.  
 
-[plant] [place] 151.502n. *Les apricots de St. Domingue*. The apricots of St. Domingue (French). St. Domingue was a French colony, renamed Haiti after a revolution carried out by enslaved and free Africans succeeded in overthrowing colonial rule in 1804.  
+[plant] [place] 151.502n. *Les apricots de St. Domingue*. The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution carried out by enslaved and free Africans succeeded in overthrowing colonial rule in 1804.  
 
-151.502n *l'eau de noiaux*, one of the best West-Indian cordials. L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits. 
+151.502n *l'eau de noiaux*, one of the best West-Indian cordials. L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
 
 151.502n aperient. Laxative.  
 
 151.502n sweet-meats. Preserved or candied fruits.  
 
-[people] 152.504 anthropophagi. A borrowing from Latin that signifies man-eaters or cannibals.  
-
-152.508 The airy phantoms of their friends deceas'd Joy'd to regale on. <!--Was the mammey associated with the deceased?-->
+[people] 152.504 anthropophagi. A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
 
 [plant] 152.512 tamarind...With those tart fruit the sweltering fever loves To quench his thirst, whose breezy umbrage soon Shades the pleas'd planter, shades his children long. The tamarind tree (*Tamarindicus indica*) was native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
@@ -370,122 +368,100 @@ editor: julie
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit originally from the South American highlands.  
 
-[plant] 152.519 anana. The pineapple (*Ananas comosus*), which is native to eastern South America and was brought by Amerindians to the Caribbean. 
-
 [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with the mammee apple and mammee sapota is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
-[plant] 153.523 palmeto. *Palma Maxima*. See Grainger's footnote.
+* [plant] 153.523 palmeto. *Palma Maxima*. See Grainger's footnote.
 
-[people] 153.524 Jones. Inigo Jones (1573-1652), English architect and theatre designer.
+[people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an  English architect, mathematician, and astronomer.  
 
-[people] 153.524 Wren. Sir Christopher Wren (1632-1723), English architect, mathematician, and astronomer.
+[people] 153.525 Palladio. Andrea Palladio (1508-1580), an Italian architect.  
 
-[people] 153.525 Palladio. Andrea Palladio (1508-1580),  Italian architect.
+[plant] 153.527 wild fig-tree. Also known as the bearded fig or wild banyan tree (*Ficus citrifolia*).
 
-[plant] 153.527 wild fig-tree. 
+153.530 rood. A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length.  
 
-153.530 rood. 
+[people] 153.523n Daniel Mathew, Esq. Mathew (1718-1777) was a cousin of Grainger's wife.  
 
-[people] 153.523n Daniel Mathew, Esq (1718-1777) a cousin of Grainger's wife.
+[place] 153.523n Temple of the Sun at Palmyra. Also known as the Temple of Bel in Palmyra, an ancient city in Syria. Destroyed in 2015 by the Islamic State in Iraq and Syria (ISIS).  
 
-[place] 153.523n Temple of the Sun at Palmyra. Also Tadmur, Tadmor, or Tudmur, ancient city in south-central Syria.
+153.523n cortical part...durable laths for houses. Grainger is saying its bark can be used to make laths or strips of wood used in building.  
 
-153.523n cortical part...durable laths for houses. 
+* 153.523n There is a smaller species not quite so beautiful. 
 
-153.523n There is a smaller species not quite so beautiful. 
+* [plant] 154.534 anata. See Grainger's footnote. Also anatta, anatto. *Bixa orellana*, a low, shrubby tree cultivated in Jamaica. Its berries are often used for coloring foods.
 
-[plant] 154.534 anata. See Grainger's footnote. Also anatta, anatto. *Bixa orellana*, a low, shrubby tree cultivated in Jamaica. Its berries are often used for coloring foods.
+* 154.537-539 Northern-Ind, a fierce and wily race...with it they paint...face of war. 
 
-154.537-539 Northern-Ind, a fierce and wily race...with it they paint...face of war. 
+* [plant] 154.543 granadillas. See Grainger's footnote.
 
-[plant] 154.543 granadillas. See Grainger's footnote.
+154.534n apices. Apexes.  
 
-154.534n apices.
+154.534n farina. Powdery substance, dust.  
 
-154.534n farina. 
+* 154.543n water-lemon, bell-apple, or honeysuckle. 
 
-154.543n water-lemon, bell-apple, or honeysuckle. 
+154.534n viscid. Sticky, adhesive.  
 
-154.534n viscid. 
+[plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
-[plant] 155.558 coco.
+* [plant] 155.563 bay-grape. 
 
-[plant] 155.563 bay-grape.
+* [plant] 156.567 Indian millet. See Grainger's footnote.
 
-[plant] 156.567 Indian millet. See Grainger's footnote.
+[plant] 156.569 bananas. Bananas belong to the family Musaceae and are closely related to plantains. Both bananas and plantains formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.
 
-[plant] 156.569 bananas plant.
+156.573 vans. Vantages, heights, summits.  
 
-[plant] 156.572 plantanes. Also plantain.
+* 156.567 *Guinea-corn*...*Turkey wheat*. 
 
-156.573 vans. 
+156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
-[plant] 156.563n *acini*. acinus.
+* 157.583 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
 
-156.563n astringent. 
+* 157.584 wild banshaw's melancholy sound. 
 
-156.567 *Guinea-corn*...*Turkey wheat*. 
+157.594 greensward. Grass-covered ground, turf.  
 
-156.580 naiad. 
+* 158.602-605 let not thou the drum their mirth inspire;...vengeance they pursue. 
 
-157.583 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
+* 158.607 wed their fellow slaves at home; 
 
-157.584 wild banshaw's melancholy sound. 
+* 158.611 prickly vine. 
 
-157.594 greensward. 
+* 158.611n Chili-strawberry. 
 
-158.602-605 let not thou the drum their mirth inspire;...vengeance they pursue. 
+* 159.613 candle-weed. 
 
-158.607 wed their fellow slaves at home; 
+* 159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar.
 
-158.611 prickly vine. 
+159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.  
 
-158.611n Chili-strawberry. 
+159.621 sacred Nine. The nine muses of art, literature, and science.  
 
-159.613 candle-weed. 
+* 159.622 Gallic Lewis. Louis...
 
-159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar.
+* 159.629 mild laws...tyrannic sway! *Code noir*. 
 
-159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years. 
+* 159.613n narcissus. 
 
-159.618 Scotian loom. 
+159.613n diuretic. A substance that promotes the excretion of urine.  
 
-159.621 sacred Nine. Nine goddesses or muses, the daughters of Zeus and Mnemosyne, who preside over the arts and sciences. In this stanza, Grainger lists their responsibilities.
-
-159.622 Gallic Lewis. Louis...
-
-159.629 mild laws...tyrannic sway! Code noir. 
-
-159.613n narcissus. 
-
-159.613n diuretic. 
-
-159.625 rapine. The act or practice of seizing and taking away by force the property of others.
+159.625 rapine. The act or practice of seizing and taking away by force the property of others.  
 
 159.626 chicane. A subterfuge, petty trick, quibble.
 
-159.627 Themis. Greek goddess of law and justice; hence, Law or Justice personified.
+159.627 Themis. Greek goddess of law and justice.
 
-159.629 Aethiop.
+159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
-159.630 Albion.
+160.634 Thames. The Thames river.  
 
-160.634 Thames. The name of the river on which London is situated.
+160.638 Plata. Rio de la Plata is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America.  
 
-160.638 Plata. Rio de la Plata (Silver River) is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America. 
+160.651 The main. The ocean.  
 
-160.643 Columbus. 
+* 161.658 Britannia, Neptune's favourite queen. 
 
-160.645 Alps. 
+161.669 lacquaying winds. A poetic way to suggest winds that follow or serve.  
 
-160.651 The main. 
-
-161.658 Britannia, Neptune's favourite queen. 
-
-161.669 lacquaying winds. A poetic way to say "winds that follow," in this case, Fame's "winged navies."
-
-161.671 Her winged navies. Fame's messengers that broadcast England's power and superiority around the world.
-
-161.671-679 scepter'd sons... that lon'd for aera, hail!. Possibly a reference to Shakespeare's *Richard II*, Act II, scene 1, lines 40-70, when John of Gaunt proclaims that England has produced kings that have historically been feared around the world.  
-
-162.680 the Patriot King. A reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1738), a treatise written for Frederick, Prince of Wales, on monarchy. It describes in idealized terms the policies and virtuous conduct of a Patriot King waiting in the wings, whose accession would end party-political conflicts.
+162.680 the Patriot King. A reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1749), a treatise written for Frederick, Prince of Wales (1707-1751), on monarchy. It describes in idealized terms the policies and virtuous conduct of a patriot king waiting in the wings. The patriot king's accession was supposed to end political conflicts.  
