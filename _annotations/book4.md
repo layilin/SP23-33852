@@ -240,43 +240,39 @@ editor: julie
 
 <!-- CS stopped here 8/5/18 -->
 
-143.369. bewitch'd. A reference to obeah, a set of Afro-Caribbean medicinal and religious practices. Colonial descriptions of obeah vary from magic to superstition to folk medicine. (general outline drawn from *Atlantic Studies* vol. 12 no. 2 "Obeah: knowledge, power, and writing in the early Atlantic World"). Colonial writers describe enslaved persons using plants or herbs to heal sickness or bring the dead back to life as well as deploying charms to defend against bullets or death, among other uses. Most accounts register the rebellious nature of these practices, and Grainger's poem was published in the aftermath of a large, coordinated 1760 rebellion in Jamaica that involved approximately 1,500 enslaved persons in which obeah played a particularly important role. (see Vincent Brown's http://revolt.axismaps.com/project.html) <!--how much would we like to include in a footnote if we are also writing an essay about obeah? Can definitely cite specific examples (Long, Sloane, Singleton, Moseley, etc.)-->
+143.369-370 bewitch'd; and whom/In wrath, a conjurer's snake-mark'd staff hath struck!. A reference to obeah, a set of Afro-Caribbean medicinal and religious practices. Colonial descriptions of obeah vary from magic to superstition to folk medicine. (general outline drawn from *Atlantic Studies* vol. 12 no. 2 "Obeah: knowledge, power, and writing in the early Atlantic World"). Colonial writers describe enslaved persons using plants or herbs to heal sickness or bring the dead back to life as well as deploying charms to defend against bullets or death, among other uses. Most accounts register the rebellious nature of these practices, and Grainger's poem was published in the aftermath of a large, coordinated 1760 rebellion in Jamaica that involved approximately 1,500 enslaved persons in which obeah played a particularly important role. (see Vincent Brown's http://revolt.axismaps.com/project.html) 
 
-[place] 144.370n. Guinea. Now the Republic of Guinea. Its name is derived from the Portuguese "akal n-iguinamen," or "land of the black men."
+143.370n negroe-conjurers, or Obia-men. By calling the obeah men conjurers, Grainger casts doubt on their abilities. A conjurer could refer to a magician or wizard, but it also could refer to someone who was merely pretending to perform miracles.  
 
-144.381. sacred nine. The nine muses of art, literature, and science.
+144.377 drowth. Dryness, thirst.  
 
-144.370n Guinea. 
+144.381. sacred nine. The nine muses of art, literature, and science.  
 
-144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination.  
+[place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
-145.387 Fern root. 
+144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger admits that obeah men were not merely conjurers or individuals pretending to have special spiritual powers. Indeed, obeah men also and perhaps even primarily served as healers and thereby filled an important gap on plantations, where medical care was infrequently provided to the enslaved by planters themselves.    
 
-148.388-389 Old teeth...lizard's skeleton; a serpent's head. 
+148. serpent's head. In addition to referring to a set of practices and beliefs, "obeah" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials, such as the one's listed here by Grainger, that were believed to have spiritual or sacred significance.  
 
-145.391. phial...leach. A vessel for holding liquids. A physician.
+148.391 phial. Vessel for holding liquid.  
 
-145.392-393 strange jargon, and wild circles forms. 
+148.391 leach. Physician.  
 
-145.394 Secure from poison; for to poison they are infamously prone:
+145.394-395 to poison they are infamously prone. While colonial accounts of obeah assume that the charms and potions made up by obeah men were meant to do harm, it is likely that obeah practitioners saw themselves as channeling supernatural or spiritual forces for beneficial ends, including healing or protection.  
 
-145.398-399 This, diseases fly; Diseases follow: such its wonderous power!
+145.406. Lucifer. Also known as Phosphorus. In Greek mythology, the bringer of morning light.
 
-145.406. Lucifer. Or Phosphorus. In Greek mythology, he brings the morning light.
-
-146.407. rushy couch. Beds made from stiff and hollow plants.
+146.407. rushy couch. A bed made from stiff and hollow plants.  
 
 146.410 broom-bush. 
 
-146.414 jalap.
+146.414 jalap, or marvel of Peru. *Mirabilis jalapa*. 
 
-146.415 solanum. 
+146.415 solanum. fire-weed, datura
 
 146.416 crickets, snakes, and lizars 'gin their coil; 
 
 146.415n. Linnaeus...Dr. Stork. Carl Linnaeus (1707-1778), was a Swedish naturalist who established a new taxonomic system and was particularly renowned for his botanic knowledge. Author of *Species Plantarum*, *Genera Plantarum*, and *Systema Naturae*. <!--can't find Dr. Stork-->
-
-146.415n monopetalous flower. 
 
 [people] 147.424 Ethiop. Ethiop and Ethiopia (also Aethiop and Aethiopia) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about "washing the Ethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference and African inferiority based on skin color.  
 
