@@ -4,25 +4,33 @@ title: footnotes for book 2
 editor: cristobal
 ---
 
+<!--Lets discuss briefly the use of "Old World" in the notes. It didn't stick out to me one way or another before this last pass, so I just want to make sure that it's not a shorthand that we should be avoiding-->
+
 [people] Advertisement. William Shenstone. William Shenstone (1714-1763), English poet and famed practitioner of landscape gardening, which he practiced on his estate, The Leasowes. <!--confirm page number for Advertisement -->  
 
-53.6 no circling mules press dulcet streams. Animals like mules, horses, and cattle were often used to power sugar mills.  
+53.5 For she, poor exile! The opening lines of Book II parallel Grainger's experience in the Caribbean. Having married into a planter family, he felt isolated from his London friends, and he hoped one day to have a plantation of his own, though he never did. Writing to his friend Bishop Thomas Percy on 29 February 1766, Grainger lamented that "I am lost, murdered, for want of company" (*Illustrations*, 293).
+
+53.6 no circling mules press dulcet streams. Animals like mules, horses, and cattle were used to power sugar mills if wind and water were not readily available.
 
 53.7 coppers. Copper pots used for boiling cane juice.  
 
-53.9 Vulcan's aid. Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits from fermented molasses.
+53.9 Vulcan's aid. Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits (rum) from fermented molasses.
 
 54.15 The Boreal morn. The aurora borealis or northern lights.
 
-55.35 monkey-nation. Monkeys are not indigenous to St. Kitts, but the vervet or African green monkey (*Cercopithecus aethiops*) had been introduced by the seventeenth or even sixteenth century. Vervets most likely arrived in the Caribbean via slave ships from Africa. They quickly came to be considered pests because they established themselves in large numbers on the island and traveled around it in troops, raiding colonists' crops. Today, the St. Kitts vervet population exceeds the human one, and vervets are still known for destroying farmers' crops (and stealing tourists' cocktails). Controversially, many of the vervets are now killed or trapped to serve in medical experiments. 
+54.29 "O were my pipe as soft, my dittied song." Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l. 86).
+
+55.35 monkey-nation. Monkeys are not indigenous to St. Kitts, but the vervet or African green monkey (*Cercopithecus aethiops*) had been introduced by the seventeenth (and perhaps as early as the sixteenth) century. Vervets most likely arrived in the Caribbean via slave ships from Africa. They quickly came to be considered pests because they established themselves in large numbers on the island and traveled around it in troops, raiding colonists' crops. Today, the St. Kitts vervet population exceeds the human one, and vervets are still known for destroying farmers' crops (and stealing tourists' cocktails). Controversially, many of the vervets are now killed or trapped to serve in medical experiments. 
 
 55.38 gambols. Leaps or capers, as made in dancing or playing.  
+
+55.41 thoughtless of to-morrow. Grainger warns that despite the fact that sugar plantations seemed like sure investments with guaranteed profits, they nevertheless required expert knowledge and labor to succeed. He wrote *The Sugar-Cane* in part to provide this knowledge.
 
 55.44 Indian crops. Sugar.  
 
 55.46 droles. Also droll, a buffoon or jester. 
 
-[place] 55.46 Liamuiga. St. Kitts. 
+[place] 55.46 Liamuiga. Indigenous name for St. Kitts. 
 
 [people] 55.46n Pere Labat. Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Liberated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).
 
@@ -30,11 +38,11 @@ editor: cristobal
 
 56.59 Albion's martial sons. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
-56.62 whisker'd vermine-race. Refers eiher to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two Old World species of rats that arrived in the Caribbean with colonization and are now considered invasive species. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. At a reading of a manuscript draft of the poem that took place at the home of Sir Joshua Reynolds, a well-known painter, the line, "Now Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger supposedly deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391).  
+56.62 whisker'd vermine-race. Refers either to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two Old World species of rats that arrived in the Caribbean with colonization and are now considered invasive species. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. In his *Life of Johnson*, James Boswell recalls a reading of a manuscript draft of the poem that took place at the home of painter Sir Joshua Reynolds. The line, "Now, Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391).  
 
-[people] 56.61n Durante, who was physician to Pope Sixtus Quintus. Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V, author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).  
+[people] 56.64n Durante, who was physician to Pope Sixtus Quintus. Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V, author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).  
 
-56.61n straps of cane-rats are publicly sold in the markets of Jamaica. Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats.  
+56.64n straps of cane-rats are publicly sold in the markets of Jamaica. Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats. Gilmore suggests that the rats in question may not have been an invasive species, but the now extinct Jamaican rice rat (*Oryzomys antillarum*).
 
 [plant] 57.69 mangrove-banks. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there. 
 
@@ -44,29 +52,29 @@ editor: cristobal
 
 57.54 alligators. The American alligator, *Alligator mississippiensis*.  
 
-57.75 Ibbos. Igbo refers to a language spoken in the Bight of Biafra (now the Bight of Bonny), a bay on the western Atlantic coast of Africa bounded by Nigeria, Cameroon, Equatorial Guinea, and northwestern Gabon. The Bight of Biafra was a major slave-trading port in the sixteenth through nineteenth centuries, and people who spoke Igbo came to be designated as Igbo by slave traders and planters. Some of these people may have thought of themselves as Igbo as well, while others may simply have accepted or been forced to accept the term as a designation, even though they would have identified themselves by their villages or districts of origin instead. Since many people who ended up at the Bight of Biafra and other ports on the western Atlantic coast had made long journeys from inland Africa and picked up various languages along the way, those who identified as Igbo may also have learned Igbo during the process and been participating in what is now sometimes called ethnogenesis or the formation and development of ethnic groupings.  
+57.75 Ibbos. Igbo refers to a language spoken in the Bight of Biafra (now the Bight of Bonny), a bay on the western Atlantic coast of Africa bounded by Nigeria, Cameroon, Equatorial Guinea, and northwestern Gabon. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and people who spoke Igbo came to be designated as Igbo by slave traders and planters. Some of these people may have thought of themselves as Igbo as well, while others may simply have accepted or been forced to accept the term as a designation, even though they would have identified themselves by their villages or districts of origin instead. Since many people who ended up at the Bight of Biafra and other ports on the western Atlantic coast had made long journeys from inland Africa and picked up various languages along the way, those who were identified as Igbo may also have learned Igbo during the process and been participating in what is now sometimes called ethnogenesis or the formation and development of ethnic groupings.  
 
-[people] 57.69n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
+[people] 57.74n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
  
 58.83 Misnian arsenic. A chemical compound used as rat poison.  
 
-[plant] 58.84 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling.  
+[plant] 58.84 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling.  
 
 58.87 unweeting. Unwitting, ignorant.  
 
 58.88 cates. Choice foods, viands, or delicacies.  
 
-[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries could kill a human adult. It is native to Europe and Western Asia.  
+[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. It is native to Europe and Western Asia.  
 
-59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were expected to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
+59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were forced to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
 
 59.107 rich manure. Compost.  
 
 [people] 59.95n Newman's Chemistry published by Dr. Lewis. William Lewis (bap. 1708-d. 1781) was an English physician and experimental chemist. Author of *Chemical Works of Caspar Neumann, M.D.* (1759). Neumann (1683-1737) was a German chemist.  
 
-[place] 59n.Ver.95 East-India. The whole of Southeast Asia to the east of and including India.  
+[place] 59.95n East-India. The whole of Southeast Asia to the east of and including India.  
 
-59n.Ver.95 Mungoes. The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. The mongoose was purposefully introduced to the Caribbean and Pacific islands in the late twentieth century to try and exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, however, it is contributing to the destruction of local biodiversity on those islands and is now considered an invasive species.  
+59.95n Mungoes. The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. The mongoose was purposefully introduced to the Caribbean and Pacific islands in the late twentieth century to exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, however, it has contributed to the destruction of local biodiversity on those islands and is considered an invasive species.  
 
 [plant] 60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to Mexico and Central America.  
 
@@ -86,11 +94,11 @@ editor: cristobal
 
 60.119n vermifuge. A substance having the power to expel worms from the intestines, an anthelmintic.
 
-60.119n *Setae*. Bristles.  
-
-[plant] 60.119n English field-pea. *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.   
+[plant] 60.123n English field-pea. *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.   
 
 60.123n. melasses. Molasses, the by-product of refining sugarcane.  
+
+60.123n *Setae*. Bristles.  
 
 [plant] 61.128 chickweed. *Stellaria media*, a plant native to Europe.  
 
@@ -108,17 +116,15 @@ editor: cristobal
 
 61.130n electuary. Medicine in the form of a paste or preserve.  
 
-[people] 61.131n Virgil. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.  
+[people] 62.132 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.
 
-[people] 62.132 Maro. Virgil.  
+62.140 Halcyons. Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. "Halcyon days" used to designate a fourteen-day period around the winter solstice that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.  
 
-62.140 Halcyons. Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. "Halcyon days" used to designate a fourteen-day period around the winter solciste that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.  
-
-62.141 poison'd fish. Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of fish in the Caribbean. Ciguatera is caused by eating fish containing toxins produced by a marine microalgae called *Gambierdiscus toxicus*. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
+62.141 poison'd fish. Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, becomes more concentrated as it rises in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
 
 [plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub native to the Old World and Australia.  
 
-[plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested. 
+[plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration when ingested. 
 
 62.149n *Donum Dei*. Gift of god. 
 
@@ -130,8 +136,9 @@ editor: cristobal
 
 63.168 yellow fly. May be *Diachlorus ferrugatus*, a small biting fly indigenous to Central America and the southeastern United States.  
 
-63.171. cochinille. The cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye made from the dried bodies of the female cochineal insects. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal (see lines 174-175 below).  
-[plant] 64.172. Indian fig. Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads of which are commonly consumed by human beings and animals as food.   
+63.171. cochinille. The cochineal insect (*Dactylopius coccus*) is the source of a highly prized red dye made from the dried bodies of the female. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal (see lines 174-175 below).  
+
+[plant] 64.172. Indian fig. Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads and fruit of which are commonly consumed by human beings and animals as food.   
 
 [people] 64.175. British Wolf. James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
@@ -141,7 +148,7 @@ editor: cristobal
 
 64.187. Augaean toil. Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.  
 
-[people] 64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
+[people] 64.171n. Sir Hans Sloane's Natural History of Jamaica. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in the second volume of his *Voyage* (208).  
 
 [place] 65.197 men of Kent. Kent is a county in southeastern England.   
 
@@ -153,6 +160,8 @@ editor: cristobal
 
 65.201 the blast. Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).  
 
+65.205n *Gaudet irriguis, et toto anno bibere amat*. <!--provide translation?-->
+
 65.207 nonage. Period of immaturity.  
 
 [place] 66.217 Virgin-isles. The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the Virgin Islands of the United States.  
@@ -161,17 +170,19 @@ editor: cristobal
 
 66.225 gemmy. Gem-like, brilliant, glittering.  
 
-66.229 the ants' republic. Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water, even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (Ligon 64).  
+66.229 the ants' republic. Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (64).  
 
 66.231 vicegerent. A person appointed by a king or other ruler to act in his place.  
 
 [plant] 66.218n jessamine. Jasmine, plants of the genus *Jasminum* native to tropical and subtropical Eurasia, Australasia, and the Pacific islands. Valued for their scent.  
 
+66.218n panspan <!--I haven't found this term, but it occurs later in book III as well -->
+
 67.232. Rhea. Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 
 67.233. Auster. Latin name for the south wind.  
 
-67.231n trade-wind. A wind blowing steadily towards the equator from the northeast in the Northern Hemisphere or from the southeast in the Southern Hemisphere. The trade wind in the Northern Hemisphere facilitated the passage of ships from Europe and Africa to the Caribbean.  
+67.231n trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean, and blow northeasterly from Florida up the coast of North America and toward Europe. 
 
 [people] 67.231n. Homer. Greek poet (8th century BCE), author of the *Iliad* and the *Odyssey*.  
 
