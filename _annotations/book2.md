@@ -219,7 +219,7 @@ editor: cristobal
 
 74.392n alum. An astringent mineral salt.  
 
-[plant] 75.398 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal, however, since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.  
+[plant] 75.398 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.  
 
 75.405 sea-disgorging womb. Grainger is describing a tsunami or tidal wave.  
 
