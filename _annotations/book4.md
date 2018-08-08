@@ -260,13 +260,13 @@ editor: julie
 
 146.407. rushy couch. A bed made from stiff and hollow plants.  
 
-146.410 broom-bush. Gilmore identifies the broom bush as possibly *Sida acuta*, a plant native to Central America with yellow flowers that open in the morning.  
+[plant] 146.410 broom-bush. Gilmore identifies the broom bush as possibly *Sida acuta*, a plant native to Central America with yellow flowers that open in the morning.  
 
-146.414 jalap, or marvel of Peru. *Mirabilis jalapa*. Also known as the four o'clock flower because its flowers open in the afternoon. Probably native to Mexico; used by the Aztecs as an ornamental. Sometimes believed to be native to the Peruvian Andes because it was exported from that region to Europe in the 1500s.  
+[plant] 146.414 jalap, or marvel of Peru. *Mirabilis jalapa*. Also known as the four o'clock flower because its flowers open in the afternoon. Probably native to Mexico; used by the Aztecs as an ornamental. Sometimes believed to be native to the Peruvian Andes because it was exported from that region to Europe in the 1500s.  
 
-146.415 solanum. *Datura stramonium*, also known as fireweed or jimsonweed. Probably native to the tropical regions of Central and South America.  
+[plant] 146.415 solanum. *Datura stramonium*, also known as fireweed or jimsonweed. Probably native to the tropical regions of Central and South America.  
 
-146.415n. Linnaeus...Dr. Stork. Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
+[people] 146.415n. Linnaeus...Dr. Stork. Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
 [people] 147.424 Ethiop. Ethiop and Ethiopia (also Aethiop and Aethiopia) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about "washing the Ethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.  
 
@@ -330,11 +330,11 @@ editor: julie
 
 [plant] 150.466n The orange tree. Could be the sour orange (*Citrus aurantium*) or sweet orange (*Citrus sinensis*). Columbus brought both of these fruits to the Caribbean.  
 
-[people] 150.485 negro-fugitives. Runaway or escaped slaves.  
+150.485 negro-fugitives. Runaway or escaped slaves.  
 
-[place] 151.488 Indian gardens. Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various crops were intercropped or cultivated together in ecologically sustainable fashion.  
+151.488 Indian gardens. Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various crops were intercropped or cultivated together in ecologically sustainable fashion.  
 
-[place] 151.489 Phaeacia's isle. Scheria, the island that Odysseus arrives at after his shipwreck, home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.  
+151.489 Phaeacia's isle. Scheria, the island that Odysseus arrives at after his shipwreck, home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.  
 
 151.492 Pomona's. Pomona was the Roman goddess of fruit.  
 
@@ -348,7 +348,7 @@ editor: julie
 
 151.502n ratafia. An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches.  
 
-[plant] [place] 151.502n. *Les apricots de St. Domingue*. The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution carried out by enslaved and free Africans succeeded in overthrowing colonial rule in 1804.  
+151.502n. *Les apricots de St. Domingue*. The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution carried out by enslaved and free Africans succeeded in overthrowing colonial rule in 1804.  
 
 151.502n *l'eau de noiaux*, one of the best West-Indian cordials. L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
 
@@ -356,7 +356,7 @@ editor: julie
 
 151.502n sweet-meats. Preserved or candied fruits.  
 
-[people] 152.504 anthropophagi. A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
+152.504 anthropophagi. A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
 
 [plant] 152.512 tamarind...With those tart fruit the sweltering fever loves To quench his thirst, whose breezy umbrage soon Shades the pleas'd planter, shades his children long. The tamarind tree (*Tamarindicus indica*) was native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
@@ -390,7 +390,7 @@ editor: julie
 
 154.534n farina. Powdery substance, dust.  
 
-154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
+[plant] 154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
 
 154.534n viscid. Sticky, adhesive.  
 
@@ -404,9 +404,9 @@ editor: julie
 
 156.573 vans. Vantages, heights, summits.  
 
-156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
+[plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
 
-156.567n turpentine tree. 
+[plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree native to the Caribbean, Central America, and northern South America.  
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
@@ -420,21 +420,21 @@ editor: julie
 
 * 158.607 wed their fellow slaves at home; 
 
-* 158.611 prickly vine. 
+[plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
 
-* 158.611n Chili-strawberry. 
+[plant] 158.611n Chili-strawberry. The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with another the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).  
 
-* 159.613 candle-weed. 
+[plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. It is native to Central and South America and the Caribbean.    
 
-* 159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar.
+159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits in mid-February.  
 
 159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.  
 
-* 159.622 Gallic Lewis. Louis...
+[people] 159.622 Gallic Lewis. Louis XIV (1638-1715), king of France from 1643-1715.  
 
-* 159.629 mild laws...tyrannic sway! *Code noir*. 
+159.629 mild laws...tyrannic sway! Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.  
 
-* 159.613n narcissus. 
+[plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. It is native to Europe, the Mediterranean, and Africa.  
 
 159.613n diuretic. A substance that promotes the excretion of urine.  
 
@@ -446,11 +446,11 @@ editor: julie
 
 159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
-160.634 Thames. The Thames river.  
+[place] 160.634 Thames. The Thames river.  
 
-160.638 Plata. Rio de la Plata is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America.  
+[place] 160.638 Plata. Rio de la Plata is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America.  
 
-* 161.658 Britannia, Neptune's favourite queen. 
+161.658 Britannia, Neptune's favourite queen. A reference to Britain's status as the premier naval power during the eighteenth century.  
 
 161.669 lacquaying winds. A poetic way to suggest winds that follow or serve.  
 
