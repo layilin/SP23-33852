@@ -240,31 +240,27 @@ editor: julie
 
 <!-- CS stopped here 8/5/18 -->
 
-* 143.369-370 bewitch'd; and whom/In wrath, a conjurer's snake-mark'd staff hath struck!. A reference to obeah, a set of Afro-Caribbean medicinal and religious practices. Colonial descriptions of obeah vary from magic to superstition to folk medicine. (general outline drawn from *Atlantic Studies* vol. 12 no. 2 "Obeah: knowledge, power, and writing in the early Atlantic World"). Colonial writers describe enslaved persons using plants or herbs to heal sickness or bring the dead back to life as well as deploying charms to defend against bullets or death, among other uses. Most accounts register the rebellious nature of these practices, and Grainger's poem was published in the aftermath of a large, coordinated 1760 rebellion in Jamaica that involved approximately 1,500 enslaved persons in which obeah played a particularly important role. (see Vincent Brown's http://revolt.axismaps.com/project.html) 
-
-143.370n negroe-conjurers, or Obia-men. By calling the obeah men conjurers, Grainger casts doubt on their abilities. A conjurer could refer to a magician or wizard, but it also could refer to someone who was merely pretending to perform miracles.  
+143.370 a conjurer's snake-mark'd staff hath struck!. This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
 
 144.377 drowth. Dryness, thirst.  
 
-144.381. sacred nine. The nine muses of art, literature, and science.  
+144.382 sacred nine. The nine muses of art, literature, and science.  
 
 [place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
-* 144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger admits that obeah men were not merely conjurers or individuals pretending to have special spiritual powers. Indeed, obeah men also and perhaps even primarily served as healers and thereby filled an important gap on plantations, where medical care was infrequently provided to the enslaved by planters themselves.    
+144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger seems to suggest that obeah men had skills that could benefit the plantation.  
 
-148. serpent's head. In addition to referring to a set of practices and beliefs, "obeah" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials, such as the one's listed here by Grainger, that were believed to have spiritual or sacred significance.  
-
-148.391 phial. Vessel for holding liquid.  
+148.391 in a phial pour'd. In addition to referring to a set of practices and beliefs, "obeah" or "obi" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials that were believed to have spiritual or sacred significance.  
 
 148.391 leach. Physician.  
 
-145.394-395 to poison they are infamously prone. While colonial accounts of obeah assume that the charms and potions made up by obeah men were meant to do harm, it is likely that obeah practitioners saw themselves as channeling supernatural or spiritual forces for beneficial ends, including healing or protection.  
+145.394-395 to poison they are infamously prone. Colonial and European accounts often associated obeah with poisoning to demonize and portray it as a threat.  
 
-145.406. Lucifer. Also known as Phosphorus. In Greek mythology, the bringer of morning light.
+145.406. Lucifer. Also known as Phosphorus. In Greek mythology, the bringer of morning light.  
 
 146.407. rushy couch. A bed made from stiff and hollow plants.  
 
-146.410 broom-bush. Gilmore identifies this as possibly *Sida acuta*, a plant with yellow flowers that open in the morning. Native to Central America.  
+146.410 broom-bush. Gilmore identifies the broom bush as possibly *Sida acuta*, a plant native to Central America with yellow flowers that open in the morning.  
 
 146.414 jalap, or marvel of Peru. *Mirabilis jalapa*. Also known as the four o'clock flower because its flowers open in the afternoon. Probably native to Mexico; used by the Aztecs as an ornamental. Sometimes believed to be native to the Peruvian Andes because it was exported from that region to Europe in the 1500s.  
 
@@ -370,7 +366,7 @@ editor: julie
 
 [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with the mammee apple and mammee sapota is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
-* [plant] 153.523 palmeto. *Palma Maxima*. See Grainger's footnote.
+[plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
 
 [people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an  English architect, mathematician, and astronomer.  
 
@@ -386,33 +382,31 @@ editor: julie
 
 153.523n cortical part...durable laths for houses. Grainger is saying its bark can be used to make laths or strips of wood used in building.  
 
-* 153.523n There is a smaller species not quite so beautiful. 
+[plant] 154.534 anata. Also anatta, anatto, or annatto. Refers either *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
 
-* [plant] 154.534 anata. See Grainger's footnote. Also anatta, anatto. *Bixa orellana*, a low, shrubby tree cultivated in Jamaica. Its berries are often used for coloring foods.
-
-* 154.537-539 Northern-Ind, a fierce and wily race...with it they paint...face of war. 
-
-* [plant] 154.543 granadillas. See Grainger's footnote.
+[plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. It is native to Mexico, Central America, and northwest South America south to Bolivia.  
 
 154.534n apices. Apexes.  
 
 154.534n farina. Powdery substance, dust.  
 
-* 154.543n water-lemon, bell-apple, or honeysuckle. 
+154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
 
 154.534n viscid. Sticky, adhesive.  
 
 [plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
-* [plant] 155.563 bay-grape. 
+[plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant native to Florida and the Caribbean, Central America, and northern South America.  
 
-* [plant] 156.567 Indian millet. See Grainger's footnote.
+[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that states, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
 [plant] 156.569 bananas. Bananas belong to the family Musaceae and are closely related to plantains. Both bananas and plantains formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.
 
 156.573 vans. Vantages, heights, summits.  
 
-* 156.567 *Guinea-corn*...*Turkey wheat*. 
+156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
+
+156.567n turpentine tree. 
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
