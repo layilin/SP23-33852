@@ -410,15 +410,13 @@ editor: julie
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
-* 157.583 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
-
-157.584 wild banshaw's melancholy sound. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas.   
+157.584 wild banshaw's melancholy sound. This stanza describes the dances that the enslaved participated in on days of rest and holidays. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). These songs now can be heard at www.musicalpassage.org, a site created by Laurent Dubois, David K. Garner, Mary Caton Lingold, and others. Although colonists may have understood the dances and music as entertainment, Dubois and others have argued that dance and music also helped the enslaved create spaces of autonomy for themselves, as they did something besides labor for the benefit of the plantation and as they moved and created sounds that hearkened back to the musical traditions of Africa.  
 
 157.594 greensward. Grass-covered ground, turf.  
 
-* 158.602-605 let not thou the drum their mirth inspire;...vengeance they pursue. 
+158.602-605 let not thou the drum their mirth inspire...vengeance they pursue. Various colonies throughout the Caribbean and North America outlawed the use of drums and horns, which had military uses in Africa and were feared to incite rebellion among the enslaved. St. Kitts passed laws banning drum and horn use in 1711 and 1722.  
 
-* 158.607 wed their fellow slaves at home; 
+158.607 untimely hours. Planters were often concerned about the enslaved marrying across plantations, since they believed such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence.  
 
 [plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
 
