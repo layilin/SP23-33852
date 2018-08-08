@@ -421,8 +421,6 @@ editor: julie
 
 [people] 42.601n. Martinus. <!--I think it's Theodoricus Martinus  but I can't confirm anywhere online-->
 
-[people] 42.601n. Martinus. <!--I think it's Theodoricus Martinus  but I can't confirm anywhere online-->
-
 [plant] 43.606 coffee. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
 43.607. Danae...Theodosia. Danaë is the mother of Perseus and daughter of Acrisius and Eurydice. <!--Theodosia??-->
