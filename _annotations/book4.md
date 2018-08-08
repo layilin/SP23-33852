@@ -11,89 +11,91 @@ editor: julie
 
 [place] 125.4 Niger. The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.  
 
-[plant]125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.
+[plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.
 
-[place]125.9 Rio Grandê. Major estuary in modern day Guinea-Bissau.  
+[place] 125.9 Rio Grandê. Major estuary in modern day Guinea-Bissau.  
 
-[place]125.9 Sanaga. Most likely the Senegal river, which empties into the Atlantic ocean at St. Louis on Senegal's northern border with Mauritania. There is a Sanaga river that empties into the Gulf of Guinea just south of Douala in modern Cameroon, but this appears to have been called the Cameroon or Camarones river prior to the mid nineteenth century.  
+[place] 125.9 Sanaga. Most likely the Senegal river, which empties into the Atlantic ocean at St. Louis on Senegal's northern border with Mauritania. There is a Sanaga river that empties into the Gulf of Guinea just south of Douala in modern Cameroon, but this appears to have been called the Cameroon or Camarones river prior to the mid-nineteenth century.  
 
 125.11 brede. Braid.  
 
 126.21 Caribbe's. The Caribbean's.   
 
-126.22 parch'd Libya's wilds. Not the modern nation of Libya, but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
+126.22 parch'd Libya's wilds. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
 126.23 bays. Laurel (bay leaf) crown, often associated with poetic achievement.
 
 126.24 Sylvan bard. Literally, poet from the wilderness. Here Grainger seems to be referring to himself insofar as he writing from the Caribbean rather than from metropolitan London.
 
-[person]126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession. During the Seven Years' War (1756-1763), he faught in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French, and being named governor of Grenada, the Grenadines, Tobago, Dominica, and St. Vincent in 1764. <!--Julie add something re: St. Vincent-->
+[person] 126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French, and being named governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.  
 
-126.28 indian wreath. Indian wreath further makes the point that the poem is a product of the Caribbean.  See notes on line 24 above as well as the preface, where Grainger emphasizes the local specificity of *The Sugar-Cane*, and refers to the poem as a West-India georgic.
+126.28 Indian wreath. Indian wreath further makes the point that the poem is a product of the Caribbean. See note about the "Sylvan bard" above (line 24), as well as the preface, where Grainger refers to the poem as a "West-India georgic."
 
-[plant]126.31 myrtle. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
+[plant] 126.31 myrtle. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
-127.35 jetty. Jet black. Seventeenth- and eighteenth-century British writers often used the term "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko, or the Royal Slave*, where the narrator describes Oroonoko: "his face was not of that brown, rusty black which most of that nation are, but a perfect ebony or polished jet."
+127.35 jetty. Jet black. Seventeenth- and eighteenth-century British writers often used the term "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko: Or, the Royal Slave* (1688), where the narrator describes Oroonoko as having skin of "perfect ebony or polished jet" (PAGE NUMBER).  
 
-127.38-39 In mind, and aptitude for useful toil,/The negroes differ: muse that difference sing. Grainger is taking on the perspective of a slave trader. 
+127.38-39 In mind, and aptitude for useful toil,/The negroes differ: muse that difference sing. Grainger indicates here that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader and/or buyer, who made judgments about Africans based on similar considerations.   
 
-[place]127.44 Congo's wide-extended plains. Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC). <!--Note to Julie: as part of the note on African peoples, we should try to distinguish between nation, kindgom, people, ethnic group, etc. I am not 100% sure of how to do this, but happy to talk about it -->
+[place] 127.44 Congo's wide-extended plains. Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC).  
 
-[place]127.45 long Zaire. Zaire or Congo river. The second longest river in Africa, it drains into the Atlantic Ocean on the coast of the DRC.
+[place] 127.45 long Zaire. Zaire or Congo river. The second longest river in Africa, it drains into the Atlantic Ocean on the coast of the DRC.  
 
-127.51 mechanic art. Here Grainger recommends that enslaved persons from the Congo be assigned specific trades rather than being forced to work as field laborers.  
+127.51 mechanic art. Grainger recommends that enslaved persons from the Congo be assigned specific trades rather than being forced to work as field laborers.  
 
-127.52 ductile. Malleable; flexible.
+127.52 ductile. Malleable; flexible.  
 
-[place]128.62 Golden Coast. Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Cote d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slaving ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin (Bight of Bonny), they followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the Slave Coast itself (ranging from at least Senegal to Angola).
+[place] 128.62 Golden Coast. Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slaving ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin (now the Bight of Bonny), they followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).  
 
-128.63 Papaws. Also Popo. Name of people from the region between Accra in modern Ghana and Ouidah in Benin.
+128.63 Papaws. Also Popo. Name of people from the region between Accra in modern Ghana and Ouidah in Benin.  
 
-[place]128.65 Volta. Volta river in Ghana, which empties into the Atlantic Ocean northeast of Accra.  
+[place] 128.65 Volta. Volta river in Ghana, which empties into the Atlantic Ocean northeast of Accra.  
 
-[place]128.65 Rey. Likely the Rey (or Rio del Rey) estuary in modern Cameroon. It is not clear whether Grainger means a specific river within this estuarial system. 
+[place] 128.65 Rey. Likely the Rey (or Rio del Rey) estuary in modern Cameroon. It is not clear whether Grainger means a specific river within this estuarial system.  
 
-128.71 oft by suicide. Suicide was prevalent in the Atlantic slave trade. From captivity in Africa to embarkation and transportation across the ocean, to sale and forced labor in the Americas, Europeans commented on and proposed theories about the cause of these suicides. In particular, physicians like Grainger often suggested that suicide by enslaved Africans was caused by physical illness or by melancholy. It should also be noted that European Christians generally considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern when it came to the enslaved was almost solely economic, as Grainger suggests in these and later lines. For more on suicide in the Atlantic slave trade, see Snyder (2015).
+128.71 oft by suicide. Suicide was prevalent in the Atlantic slave trade and occurred during various stages of the process of transportation. Europeans proposed various theories to explain these suicides. In particular, physicians like Grainger often suggested that suicide by the enslaved was caused by physical illness or by melancholy. European Christians generally considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern when it came to the enslaved was almost solely economic, as Grainger suggests in these and later lines.    
 
-128.72 gang. Gang was the general term used to designate groups of enslaved persons -- especially field laborers.
+128.72 gang. Gang was the general term used to designate groups of enslaved persons.  
 
-128.82 Cormantee. Name given to Fanti people embarked at Fort Kormantse in the modern nation of Ghana. By the mid eighteenth century, the name Cormantee was closely associated with warlike people who resisted enslavement—thus Grainger's warning in these lines. Indeed Grainger would have been most familiar with Tacky's Rebellion, a 1760 uprising led by Cormantee people in Jamaica. The uprising, which occurred less than a year after Grainger had arrived in St. Kitts loomed lage over the remainder of the century, and led to a number of increasingly repressive laws (see notes on obeah and drums, below). For more on Tacky's Rebellion specifically, see: http://revolt.axismaps.com/
+129.82 Cormantee. Name given to Fanti people embarked at Fort Kormantse in the modern nation of Ghana. By the mid-eighteenth century, the name Cormantee was closely associated with warlike people who resisted enslavement, thus explaining Grainger's warning in these lines. Indeed, Grainger would have been familiar with Tacky's Revolt, a 1760 uprising led by Coromantees in Jamaica. The uprising, which occurred less than a year after Grainger arrived in St. Kitts, loomed lage over the remainder of the century and led to a number of increasingly repressive laws (see "Obeah" on this site). Also see http://revolt.axismaps.com/ for more on Tacky's Revolt.  
 
-128.88 poinard. Dagger. 
+129.88 poinard. Dagger. 
+
+[plant] 129.90 tobacco. Tobacco (*Nicotiana tabacum*) is native to the Americas and was introduced to Africa in the 1500s.  
 
 128.91 clayey tubes. Pipes.  
 
-[plant]128.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice and yams were indigenous to the region. In the context of West African crops, maize either signified American corn *or* sorghum (also called Guinea corn and millet). <!--confirm; do we need scientific names here?-->  
+[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were indigenous to the region, maize or corn (*Zea mays*) was not. Maize was introduced to Africa around 1500, however. Grainger also could be referring to Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago.  
 
-[place]130.99 Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa, and a major stop in the Atlantic slave trade.  
+[place] 130.99 Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa and a major stop on the routes of the Atlantic slave trade.  
 
-130.102 Moco-nation. People from the region between Bonny Island and Calabar on the southeast coast of modern Nigeria. What Grainger calls the Moco-nation here, is in th same region as the Igbo or Ebo people. <!-- https://www.davidrumsey.com/luna/servlet/s/794d7o and near bonny here: https://www.davidrumsey.com/luna/servlet/s/41t1wo and here: https://jcb.lunaimaging.com/luna/servlet/s/r654yp--> 
+130.102 Moco-nation. People from the region between Bonny Island and Calabar on the southeastern coast of modern Nigeria. On some historical maps, the Moco nation appears in the same region as the Igbo or Ebo people. See https://www.davidrumsey.com/luna/servlet/s/794d7o, https://www.davidrumsey.com/luna/servlet/s/41t1wo, and https://jcb.lunaimaging.com/luna/servlet/s/r654yp.  
 
-130.103 worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia as well as cognitive problems.
+130.103 worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of human beings and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.  
 
-130.104 Mundingo. Mundingo, Mandingo, or Mandinka were people of the West African interior centering around the modern nation of Mali, but ranging as far as Senegal, Guinea, and Cote D'Ivoire. With respect to religion, the Mandinka are most closely associated with Islam.
+130.104 Mundingo. Mundingo, Mandingo, or Mandinka were people of the West African interior centering around the modern nation of Mali but also coming from Senegal, Guinea, and Côte D'Ivoire. With respect to religion, the Mandinka are most closely associated with Islam.  
 
-130.106 learned leach. Physician.
+130.106 learned leach. Physician.  
 
-130.108 Phoebus. Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun. 
+130.108 Phoebus. An alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun. 
 
 130.110 Elysium. Part of the Greek underworld reserved for heroes.  
 
-[place]130.113 Quanza. Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.
+[place] 130.113 Quanza. Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
 130.119 Ethiop. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well.
 
 130.121 Machaon. Greek physician and son of Asclepius, god of healing.  
 
-[plant]130.123 vervain...sempre-vive. *Verbena officinalis* is an herbal shrub native to Europe. *Sempervivum* ("always living"). Plant widely used in medicine, described here by Grainger as a laxative The dried plant is used to make tea. Gilmore notes that Grainger may not have been referring to European vervain, but to *Aloe vera*.
+[plant] 131.123-124 vervain...sempre-vive, Unload their bowels. Vervain (*Verbena officinalis*) is an herbal shrub native to Europe. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
 
-130.127 white eagle. Calomel, or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge.
+131.127 white eagle; deadly foe to worms. Calomel or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge or drug used to eliminate parasitic worms from the body.
 
-130.133 The novel gang. Enslaved Africans newly arrived in the Caribbean.
+131.133 The novel gang. Enslaved Africans newly arrived in the Caribbean.  
 
-[plant]130.136 acajou. The cashew or cashewnut tree (Anacardium occidentale), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note, the fruit of the cashew tree is caustic and is said to have been used by women as a chemical peel to remove freckles. See for example Maria Riddell, *Voyages to the Madeira, and Leeward Isles* (Edinburgh, 1792), 82-83.  
+[plant]131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note as well, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
 
-* [plant] 130.137 cherries. 
+* [plant] 131.137 cherries. 
 
 132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold, but often thought by eighteenth-century physicians to lead to further (and more serious) illness.  
 
