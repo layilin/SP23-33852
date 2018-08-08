@@ -199,13 +199,13 @@ editor: julie
 
 140.305 "melt with the minings of the hectic fire." Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
 
-[plant] 140.309 cow-itch. Cowitch (*Mucuna Puriens*) an invasive vine that produces severe itching after contact with skin. Was used for composting, cattle fodder, and in medicine as a vermifuge.
+[plant] 140.309 cow-itch. Cowitch (Mucuna pruriens), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
 
-140.310 melasses. Molasses, the by-product of refining sugar cane.
+140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
 * [plant] 141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
 
-[place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge.
+[place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge or .
 
 [place] 141.319 Tyrians. Inhabitants of Tyre, town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade between 2000 BCE through the Roman period.
 
