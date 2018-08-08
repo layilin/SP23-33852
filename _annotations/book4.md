@@ -93,35 +93,35 @@ editor: julie
 
 131.133 The novel gang. Enslaved Africans newly arrived in the Caribbean.  
 
-[plant]131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note as well, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
+[plant] 131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note as well, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
 
-* [plant] 131.137 cherries. 
+[plant] 131.137 cherries. The sweet cherry (*Prunus avium*) is native to Europe, northern Africa, and western Asia.  
 
-132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold, but often thought by eighteenth-century physicians to lead to further (and more serious) illness.  
+132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold but often thought by eighteenth-century physicians to lead to further (and more serious) illnesses.  
 
-132.141 dysenteric. Dysentery, a gastrointestinal disorder, remained a major public health concern throughout the eighteenth and nineteenth centuries. 
+132.141 dysenteric. Dysentery, a gastrointestinal disorder, remained a major public health concern throughout the eighteenth and nineteenth centuries.  
 
-132.142 hydrops. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema).
+132.142 hydrops. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy. The modern term is edema (or oedema).  
 
-* 132.148. leprosy's infectious bane. 
+132.148. leprosy's infectious bane. A chronic condition affecting the skin and nerves, caused by the microorganism *Mycobacterium leprae*.  
 
-[plant]132n Gum-Arabic. Edible sap from the Acacia tree used as a binder/stabilizer in foods and medicines. Not indigenous to the Caribbean.
+132.137n Gum-Arabic. Edible sap of some trees in the genus *Acacia*. Used as a binder or stabilizer in foods and medicines.  
 
-132.150 swallow dirt. Geophagy or Pica were the medical terms used for dirt eating. Eighteenth-century physicians and enslavers were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a mode of committing suicide, and thus a form of enslaved resistance.  There is an ongoing tradition of dirt eating in parts of West Africa.
+132.150 swallow dirt. Geophagy or pica are the medical terms used for the practice of eating dirt. Eighteenth-century physicians and planters were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a mode of committing suicide and thus a form of enslaved resistance.  
 
 132.150 Chlorotic fair. Chlorosis (also called green sickness) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
 
-* 132.137n almond.
+[plant] 132.137n almond. *Prunus dulcis*, native to western Asia.  
 
-* 132.137n long citron, or amber-coloured, is the best. 
+132.146 turtle. Probably refers to the green turtle (*Chelonia mydas*), the only species of turtle indigenous to the Caribbean that has served as a significant food source for human beings.  
 
-* 132.146 turtle. 
+133.151 cates. Choice foods, viands, or delicacies.  
 
-133.151 cates. Food; victuals. Here Grainger uses it in the sense of "delicacies".
+133.156 Paean. Greek god of healing.  
 
-133.156 Paean. Physician of the gods in ancient Greece. Also an alternate name for Apollo.
+133.160 provender. Dried cattle feed (e.g., hay).  
 
-133.160 provender. Food for cattle.  Especially hay and dried grains.
+
 
 133.162 made her annual progress. Here Grainger makes a specific recommendation about the "seasoning" process for newly transported enslaved Africans.  Seasoning was the general eighteenth-century term used to describe the period of aclimatization that every person went through when travelling great distances—and especially when moving between radically different climates.  Prevailing climatist medical theories posited a direct relation between health, character, and climate. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new places. This observation was broadly true, but not for reasons of climate; instead, travel across long distances often meant coming into contact with new and potentially fatal diseases. Seasoning was the period of time during which new arrivals were to avoid strenuous activity while they adapted to their new environments. Grainger's recommends that enslaved Africans be seasoned for a year, although this was clearly not a common practice.
 
@@ -131,10 +131,10 @@ editor: julie
 
 133.169 dark tartarean caves. Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. The rising demand for coal quickly exhausted accessible deposits, necessitating deeper mines that extended hundreds of feet into the earth.
 
-[place]134.178 Scotia. Scotia, a name for Scotland. Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland, who could be bound in serf-like bondage to employers by ancient custom. Such workers could be sold or leased with the undertaking of mining work and were accounted as a part of the inventory. Vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history and this vignette draws a deliberate connection bewteen enslaved Africans and the enslaved Scots to mitigate the violence of the African slave trade. It would not be until 1774 that an Emancipation Act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
+[place] 134.178 Scotia. Scotia, a name for Scotland. Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland, who could be bound in serf-like bondage to employers by ancient custom. Such workers could be sold or leased with the undertaking of mining work and were accounted as a part of the inventory. Vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history and this vignette draws a deliberate connection bewteen enslaved Africans and the enslaved Scots to mitigate the violence of the African slave trade. It would not be until 1774 that an Emancipation Act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
 134.180 palsies. Palsy, paralysis of the skeletal muscles.  
 
-[place]134.181 the rocky Drave. As Grainger's footnote to this line explains, the Drave, or Drava, is a river in central Europe. It forms the boundary between Croatia and Hungary. 
+[place] 134.181 the rocky Drave. As Grainger's footnote to this line explains, the Drave, or Drava, is a river in central Europe. It forms the boundary between Croatia and Hungary. 
 
 134.182 silver's fluent ore. Quicksilver or mercury, which, as Grainger notes, was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180 above) and loss of teeth (line 193 below).  
 
@@ -176,9 +176,7 @@ editor: julie
 
 138.265 yaws. Yaws, or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved Africans, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, but can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. See Bejamin Moseley *A Treatise on Sugar* (1799).
 
-* 138.267 conchs.  
-
-* 138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
+[plant] 138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -202,13 +200,11 @@ editor: julie
 
 140.305 "melt with the minings of the hectic fire." Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).
 
-140.309 cow-itch. Cowitch (*Mucuna Puriens*) an invasive vine that produces severe itching after contact with skin. Was used for composting, cattle fodder, and in medicine as a vermifuge.
+[plant] 140.309 cow-itch. Cowitch (*Mucuna Puriens*) an invasive vine that produces severe itching after contact with skin. Was used for composting, cattle fodder, and in medicine as a vermifuge.
 
 140.310 melasses. Molasses, the by-product of refining sugar cane.
 
-141.312 vermifuge. Vermifuge, or anthelmintic drugs, are used to eliminate parasitic worms in the body.
-
-* 141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
+* [plant] 141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
 
 [place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge.
 
@@ -218,7 +214,7 @@ editor: julie
 
 [people] 141.317n Strabo. Strabo (64 BCE - 21 CE), Greek geographer and historian whose work *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE - 14 CE).
 
-* 141.317n Phaenicians. 
+* [people] 141.317n Phaenicians. 
 
 [place] 142.330 Enna. City and province in central Sicily, headquarters of a Sicilian slave revolt (134-132 BCE).
 
@@ -226,11 +222,11 @@ editor: julie
 
 142.334 shake off the tyrannic yoke. The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession in the early eighteenth century. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.
 
-142.345 Sylvanus. Commonly spelled Silvanus, the Roman god of the countryside that is often associated with woodlands and agriculture.
+142.345 Sylvanus. Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
 
-142.346 Ceres. The Italo-Roman goddess of food growth, often worshipped in conjunction with the Earth goddess Tellus.
+142.346 Ceres. Italo-Roman goddess of growth and agriculture.  
 
-[place] 143.353. white Albion. Derived from the Latin word for white, Albion refers to Great Britain, potentially referencing the white cliffs of Dover.
+[place] 143.353. white Albion. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
 
 143.356. main. Main refers to the open sea. Here, Grainger refers to Britain as the ruler of the sea. See, for example, the eighteenth-century poem by James Thomson, "Rule, Britannia!"
 
