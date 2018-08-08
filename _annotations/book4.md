@@ -57,6 +57,8 @@ editor: julie
 
 128.72 gang. Gang was the general term used to designate groups of enslaved persons.  
 
+129.77 just proportion rise. Samuel Johnson (1709-1784), an acquaintance of Grainger and one of the most important writers of the eighteenth century, referred to this and the preceding three lines in a review of *The Sugar-Cane* that he published in the *Critical Review* (Oct 1764). While the review was largely positive, Johnson took issue with the fact that, here and in the stanzas that follow, Grainger is giving "instructions for the buying and choice" of the enslaved. As he further comments, "here we think that tenderness and humanity, with which the former part of the poem seems replete, is, in some measure, forgotten. The poet talks of this ungenerous commerce without the least appearance of detestation; but proceeds to direct these purchasers of their fellow-creatures with the same indifference that a groom would give instructions for chusing an horse" (276-277).  
+
 129.82 Cormantee. Name given to Fanti people embarked at Fort Kormantse in the modern nation of Ghana. By the mid-eighteenth century, the name Cormantee was closely associated with warlike people who resisted enslavement, thus explaining Grainger's warning in these lines. Indeed, Grainger would have been familiar with Tacky's Revolt, a 1760 uprising led by Coromantees in Jamaica. The uprising, which occurred less than a year after Grainger arrived in St. Kitts, loomed lage over the remainder of the century and led to a number of increasingly repressive laws (see "Obeah" on this site). Also see http://revolt.axismaps.com/ for more on Tacky's Revolt.  
 
 129.88 poinard. Dagger. 
