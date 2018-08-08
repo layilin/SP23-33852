@@ -301,8 +301,7 @@ editor: julie
 
 [plant] 36.510 acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn.  
 
-36.511. Jewry. Judaism.
-
+36.511. Jewry, stiff-neck'd race. The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32: 9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity. As such, it has anti-Semitic dimensions, in that it suggests that Judaism's followers are sinful and fundamentally flawed, as well as attached to an inferior religion.   
 [plant] 36.515 privet. Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia, commonly used for hedging. Some species are invasive.  
 
 [place] 36.517. Grampia's piny hills. The Grampian Mountains in Scotland.
