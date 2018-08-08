@@ -412,7 +412,7 @@ editor: julie
 
 * 157.583 choral dance. Dancing, along with music, were an important part of slave-laborers' lives. Dancing allowed them to express themselves for entertainment, spiritual, and political purposes. The "choral dance" Grainger describes in this section could have been for entertainment and courting.
 
-* 157.584 wild banshaw's melancholy sound. 
+157.584 wild banshaw's melancholy sound. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas.   
 
 157.594 greensward. Grass-covered ground, turf.  
 
