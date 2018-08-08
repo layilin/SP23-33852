@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: sample excerpt 2
+title: sample excerpt on obeah
 source: pp 143-145
 editor: julie
 ---
