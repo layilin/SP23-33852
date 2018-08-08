@@ -31,14 +31,6 @@ editor: julie
 
 [people] 4.22n. Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus and established military order in the eastern provinces of the Roman empire.
 
-4.22n. *Dulces bibebant ex arundine succos*. <!--translation-->
-
-4.22n. *Saccarum et Arabia fert, sed laudatius India*. <!--translation--> From Pliny's *Naturalis Historia*.
-
-[people] 4.22n. Greek Historian. Arrian. *&#956;&#949;&#955;&#953; &#964;&#959; &#967;&#945;&#955;&#945;&#956;&#953;&#957;&#959;&#957; &#964;&#959; &#955;&#949;&#947;&#959;&#956;&#949;&#957;&#959;&#957; &#963;&#945;&#967;&#935;&#945;&#961;&#953;*. <!--translation-->
-
-4.22n. &#1505;&#1499;&#1512...&#1513;&#1499;&#1512. <!--translations-->
-
 [place] 4.22n. Persia. Now known as the modern nation of Iran, at its height the Persian empire spanned from Egypt through southwestern Asia to India. Traditional antagonist of Ancient Greece.
 
 [place] 4.22n. Pyrenean mountains. The Pyrenees are the mountain range between modern France and Spain.
