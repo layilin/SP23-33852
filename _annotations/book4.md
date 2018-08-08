@@ -175,7 +175,7 @@ editor: julie
 
 138.265 yaws. Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
-* [plant] 138.268 The flowers of sulpher, and hard niccars. The Knicker nut (*Guilandina bonduc* or *Caesalpineae bonduc*) tropical flowering legume.  
+[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a tropical, flowering legume native to subtropical and tropical parts of the world.  
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -185,7 +185,7 @@ editor: julie
 
 139.282 defoedations. The action of contaminating, polluting, or infecting something, especially the blood or skin. In this case, the periodic eruption of yaw sores.
 
-* [plant] 139.283 turpentine and guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both Guaiacum officinale and Guaiacum sanctum are now endangered due to overexploitation and habitat loss.
+[plant] 139.283 guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as *lignum vitae* ("wood of life") becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.  
 
 139.287 might not skill ingraft. Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a smallpox patient. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox accidentally.  
 
@@ -203,39 +203,35 @@ editor: julie
 
 140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
-* [plant] 141.313 worm-grass. <!--Gilmore notes that this is knotted grass; copy from bk II when note is done-->
+[plant] 141.313 worm-grass. Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant native to Mexico, Central America, South America, and the Caribbean that is known for its ability to rid the body of intestinal parasites, including tapeworms.  
 
-[place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge or .
+[place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as a vermifuge.
 
-[place] 141.319 Tyrians. Inhabitants of Tyre, town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade between 2000 BCE through the Roman period.
+[place] 141.319 Tyrians. Inhabitants of Tyre, town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade from 2000 BCE through the Roman period.
 
 [place] 141.323 Attic's sterile land. Attica, the ancient district of east-central Greece, its chief city being Athens. Maritime trade far surpassed its agriculture.   
 
-[people] 141.317n Strabo. Strabo (64 BCE - 21 CE), Greek geographer and historian whose work *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE - 14 CE).
+[people] 141.317n Strabo. Strabo (64 BCE-21 CE), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
 
-* [people] 141.317n Phaenicians. 
+[place] 142.330 Enna. City and province in central Sicily and location of a Sicilian slave revolt (134-132 BCE).  
 
-[place] 142.330 Enna. City and province in central Sicily, headquarters of a Sicilian slave revolt (134-132 BCE).
+[place] 142.330 Belgian fens. Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege.  
 
-[place] 142.330 Belgian fens. Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege. 
-
-142.334 shake off the tyrannic yoke. The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession in the early eighteenth century. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.
+142.334 shake off the tyrannic yoke. The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession (1701-1714). After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
 142.345 Sylvanus. Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
 
 142.346 Ceres. Italo-Roman goddess of growth and agriculture.  
 
-[place] 143.353. white Albion. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
+[place] 143.353. white Albion. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
 143.356. main. Main refers to the open sea. Here, Grainger refers to Britain as the ruler of the sea. See, for example, the eighteenth-century poem by James Thomson, "Rule, Britannia!"
 
-143.359 Eurus. In Greek mythology, the East Wind.
+143.359 Eurus. In Greek mythology, the east wind.
 
-[people] 143.360. Columbus. Christopher Columbus (1450/1451-1506). Sailed to the Caribbean islands on a voyage thought to be a route to Asia sponsored by King Ferdinand II of Aragon and Queen Isabella of Castile. Columbus made three such voyages, establishing a colony at Hispaniola where he served as governor before he was briefly imprisoned for violent and incompetent governance.
+[people] 143.360. Columbus. Christopher Columbus (1450/1451-1506). Sailed to the Caribbean islands on a voyage thought to be a route to Asia sponsored by King Ferdinand II of Aragon and Queen Isabella of Castile. Columbus made three such voyages, establishing a colony at Hispaniola, where he served as governor before he was briefly imprisoned for violent and incompetent governance.  
 
-[place] 143.363. Lusitania's. A Roman province named for its inhabitants, the Lusitani. Modern-day Portugal.
-
-<!-- CS stopped here 8/5/18 -->
+[place] 143.363. Lusitania's. A Roman province named for its inhabitants, the Lusitani. Modern-day Portugal.  
 
 143.370 a conjurer's snake-mark'd staff hath struck!. This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
 
