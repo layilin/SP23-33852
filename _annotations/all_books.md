@@ -11,7 +11,7 @@ editor: julie
 
 [people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
-3.9 swain. A country or farm laborer, a shepherd.
+3.9 swain. A country or farm laborer, a shepherd. The key figure in georgic poetry.  
 
 [people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Aeneid*, and the *Georgics*, a major influence on Grainger and other neo-georgic poets of the eighteenth century.    
 
