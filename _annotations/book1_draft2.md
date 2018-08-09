@@ -374,7 +374,7 @@ editor: julie
 
 38.543. Vermeil. Bright red color.
 
-38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his February 29, 1766, letter to Bishop Thomas Percy (Nichols, *Illustrations of the
+* 38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his February 29, 1766, letter to Bishop Thomas Percy (Nichols, *Illustrations of the
 Literary History of the Eighteenth Century* PAGE NUMBERS).  
 
 38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
