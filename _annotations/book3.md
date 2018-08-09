@@ -152,6 +152,8 @@ editor: julie, ami, lina, elizabeth
 
 100.246 sweeps. Arms attached to and driving the central shaft of the mill.  
 
+100.252 thro'. The "Errata" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
+
 100.252 lead-lin'd spouts. Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (called dry gripes or colic).
 
 100.253 depurated. To depurate is to free from impurities or to cleanse.  
@@ -187,6 +189,8 @@ editor: julie, ami, lina, elizabeth
 [place] 102.282 Karukera's. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.  
 
 [place] 102.283 Matanina! boast of Albion's arms. The French colony of Martinique surrendered to British forces in February 1762.  
+
+102.285 thro'. The "Errata" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
 
 [place] 102.288 Liamuiga. Indigenous name for the island of St. Kitts.
 
@@ -267,6 +271,8 @@ editor: julie, ami, lina, elizabeth
 109.415 choral song <!--this one is complicated, but I feel like we should probably add a note about music/singing; it appears several times in book III-->
 
 109.417 trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean, and blow northeasterly from Florida up the coast of North America and toward Europe. 
+
+110.425 weighed. The "Errata" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
 
 110.434 coction. Boiling, cooking.  
 
