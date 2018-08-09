@@ -7,59 +7,65 @@ editor: julie
 
 [plant] 3.1 Cane. *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first carried to the Americas by Columbus.  
 
+3.2 Beneath what signs to plant. Planting by the signs, also known as agricultural astrology, is a food production method that advises planting, cultivating, and harvesting crops based on moon phases and the astrological calendar.  
+
+3.3 How the hot nectar best to christallize. The basic process of making sugar in the eighteenth century involved crushing raw sugar cane stalks to extract their juice, boiling the juice with chemical agents that would remove impurities, and then boiling it several more times to reduce it to a heavy syrup. When the syrup was close to crystallizing into sugar, it was poured into barrels or moulds that allowed liquid to drain off and the solid sugar crystals to remain behind.    
+
 [plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louisa was born before he began composing the poem.
 
 [people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
-3.9 swain. A country or farm laborer, a shepherd. The key figure in georgic poetry.  
+3.9 swain. A country or farm laborer, a shepherd. A key figure in georgic poetry.  
 
-[people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Aeneid*, and the *Georgics*, a major influence on Grainger and other neo-georgic poets of the eighteenth century.    
+[people] 3.11 Maro. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Aeneid*, and the *Georgics*. A major influence on Grainger and other neo-georgic poets of the eighteenth century.  
 
-[people] 3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
+[people] 3.12 Dyer. John Dyer (1699-1757), Welsh painter and poet. Author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).  
 
-[people] 3.12 Pomona's Bard. John Philips (1676-1709), English poet, author of the georgic poem *Cyder* (1708). Pomona is the Roman goddess of fruit.  
+[people] 3.12 Pomona's Bard. John Philips (1676-1709), English poet and author of the georgic poem *Cyder* (1708). Pomona is the Roman goddess of fruit.  
 
-[people] 3.13 Smart. Christopher Smart (1722-1771), English poet, author of the georgic poem *The Hop-Garden* (1752).  
+[people] 3.13 Smart. Christopher Smart (1722-1771), English poet and author of the georgic poem *The Hop-Garden* (1752).  
 
-[people] 3.13 Sommerville. William Somerville (1675-1742), English poet, author of the georgic poem *The Chace* (1735).  
+[people] 3.13 Sommerville. William Somerville (1675-1742), English poet and author of the georgic poem *The Chace* (1735).  
+
+4.17 weal. Well-being, happiness, prosperity.  
 
 [people] 4.19 Aurelius. Gilmore identifies Aurelius as George Thomas (c. 1694-1774), who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antiguan colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
 
 [people] 4.20 Imperial George. George III (1738-1820) was king of Britain from 1760 to 1820.
 
-[people] 4.22n. Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 AD), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 AD), author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 AD), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
+[people] 4.22n Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 CE), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE), author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 CE), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
 
-[people] 4.22n. Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus and established military order in the eastern provinces of the Roman empire.
+[people] 4.22n Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
-[place] 4.22n. Persia. Now known as the modern nation of Iran, at its height the Persian empire spanned from Egypt through southwestern Asia to India. Traditional antagonist of Ancient Greece.
+[place] 4.22n Persia. Now known as Iran. At its height, the Persian Empire extended from Egypt to southwestern Asia and India. It was the traditional antagonist of ancient Greece.  
 
-[place] 4.22n. Pyrenean mountains. The Pyrenees are the mountain range between modern France and Spain.
+5.26 joint. As sugar cane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugar cane.  
 
-[place] 4.22n. Barbary-coast. Mediterranean coastline of North Africa that runs from Egypt to the Atlantic Ocean (more particularly, Morrocco, Algeria, Tunisia, and Libya).
+[place] 5.22n Barbary-coast. Mediterranean coastline of North Africa that runs from modern-day Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.  
 
-[place] 4.22n. Azores...Madeiras...Canary...Cape-Verd Islands. The Azores and Madeiras are Portuguese island groups in the eastern Atlantic Ocean; the Azores are directly west of Portugal, and the Madeiras are southeast of the Azores and closer to the coast of Morrocco. The Canary Islands are Spanish territories south of the Madeiras. The Cape Verde islands (now the Republic of Cape Verde) were also Portuguese islands situated off the coast of Senegal and Mauritania. All of these islands played important roles in the eighteenth-century Atlantic trade. The Madeiras, Canaries, and Cape Verde islands were often waypoints for European traders sailing to the coast of West Africa.
+[place] 5.22n Azores...Madeiras...Canary...Cape-Verd Islands...throve exceedingly. Island groups in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
  
-[place] 4.22n. Greater or Lesser Antilles. The Antilles refers to the Caribbean islands (often used as a substitute for the West Indies). The Greater Antilles were the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands of the West Indies that range from the Virgin Islands in the north to Grenada in the south. St. Christopher (or St. Kitts) is one of the Leeward Islands in the Lesser Antilles.
+[place] 5.22n Greater or Lesser Antilles. "Antilles" refers to the islands of the Caribbean and is often used as a substitute for "West Indies." The Greater Antilles are the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
-[people] 4.22n. Ferdinand the Catholic. King Ferdinand (1452-1516) V of Castile and León and II of Aragon, husband of Queen Isabella of Castille, patrons of Christopher Columbus's Atlantic expedition.
+[people] 5.22n Ferdinand the Catholic. King Ferdinand V of Castile and León and II of Aragon (1452-1516), husband of Queen Isabella of Castille and patron with Isabella of Christopher Columbus' 1492 voyage.  
 
-[place] 4.22n. St. Domingo. Hispanioloa, the island that includes the modern nations of Haiti and the Dominican Republic.
+[place] 5.22n St. Domingo. Hispaniola, the island that includes the modern nations of Haiti and the Dominican Republic.  
 
-[people] 4.22n. Pedro de Atenca...*Ingenio de açucar*. Spanish for sugar mill <!--can't find any reference to this man--> 
+5.22n *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately 40 days of wages for a skilled tradesman (see: http://www.nationalarchives.gov.uk/currency-converter/)
 
-4.22n. *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately 40 days of wages for a skilled tradesman (see: http://www.nationalarchives.gov.uk/currency-converter/)
-
-[place] 4.22n. Guiana. Aggregate name for the colonies along the northern coast of South America between the mouth of the Orinoco river (in modern Venezuela) through the modern nations of Guyana, Surinam, and French Guyana, and the mouth of the Amazon (in modern Brazil). Colonizers included Portugal, France, the Netherlands, England, and Spain.
-
-4.22n. treaty of Breda. The 1667 treaty that concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gained control of Surinam, and the French reclaimed Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Christopher.
-
-[place] 4.22n. Leeward Islands. Leeward is a nautical term meaning sheltered from the wind (or downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica. 
-
-[people] 4.22n. Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer's uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
+5.22n East-Indies. The whole of Southeast Asia to the east of and including India.  
 
 [plant] 6.34 wild red cedar. Most likely *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. Now considered vulnerable due to unsustainable levels of harvesting.  
 
 [plant] 6.34 locust. The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey but now spread widely over the world. It is the source of carob, which is used in food applications, including as a chocolate substitute.  
+
+[place] 6.22n. Guiana. Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern-day Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of modern-day Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.  
+
+6.22n treaty of Breda. The 1667 treaty that concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gained control of Surinam, and the French reclaimed Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
+
+[place] 6.22n Leeward Islands. Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.  
+
+[people] 6.22n Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer's uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
 [plant] 6.34n white and red [cedar]. The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean.  
 
@@ -71,23 +77,21 @@ editor: julie
 
 [plant] 7.37 guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.   
 
-[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
+[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
 
 7.37n. diaphoretic. Having the property of inducing or promoting perspiration.
 
-7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia as well as cognitive problems.
+7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia, as well as cognitive problems.
 
-7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian and missionary to South America, chiefly known for his *Historia natural y moral de las Indias*, the earliest survey of the Indies. 
+7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
 
-[plant] 8.44 shaddoc. A citrus fruit *Citrus maxima* also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by a Captain Shaddock.  
+[plant] 8.44 shaddoc. A citrus fruit (*Citrus maxima*) also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
-[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct but perhaps still exist in some parts of the Caribbean. Similar in taste to oranges and shaddocks, closely related to the grapefruit.  
+[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct. Similar in taste to oranges and shaddocks, closely related to the grapefruit.  
 
-[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. 
+[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or cashew fruit was consumed during the eighteenth century as well. The fruit is also caustic and was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83). Also see Grainger's footnote on p. 132 of Book IV.  
 
 [plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of the enslaved who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
-
-8.44n Shaddoc. Captain Shaddock, An Englishman who allegedly brought the first seeds of a shaddock (a pomelo, which is a type of grapefruit) to Barbados. The story has long been considered a folk legend, but one scholarly source identifies the person as Captain Chaddock, a 17th-century West Indies trader. (Kumamoto, J., et al.)
 
 [person] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
 
@@ -95,21 +99,21 @@ editor: julie
 
 8.45n butyraceous. Of the nature of butter; buttery.
 
-[people] 8.45n Sir Hans Sloane. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the subject of *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725), his natural history of Jamaica. Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. 
+[people] 8.45n Sir Hans Sloane. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.  
 
-[plant] 8.45n the pear named Lady's-thighs. Also known as the Cuisse madame or jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation.  
+[plant] 8.45n the pear named Lady's-thighs. Also known as the jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation.  
 
-[plant] 8.45n *Bois d'anise*. French: anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.    
+[plant] 8.45n *Bois d'anise*. Anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.    
 
-9.55 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun, July 3 through August 11.
+9.55 dog-star. The dog star is another name for Sirius, the brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
 
-9.57 after-offspring. Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon-canes").
+9.57 after-offspring. Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon canes").
 
 [place] 9.61 Tempé. The proper name of a valley in Thessaly, located between Mounts Olympus and Ossa; used as a general name for a beautiful valley or rural spot.
 
 9.61 Arcadian Pan. God of flocks and herds of Greek mythology, usually represented with the horns, ears, and legs of a goat on the body of a man. Pan lived in Arcadia, an idealized, utopian place in mythology and literature.
 
-9.60n "A precious stone set in the silver sea." John of Gaunt describes England as a "A precious stone, set in the silver sear" in William Shakespeare's *Richard II* (II.i.46).
+9.60n "A precious stone set in the silver sea." John of Gaunt describes England as a "A precious stone, set in the silver sea" in Shakespeare's *Richard II* (2.1.46).
 
 9.60n seventeenth N.L. Seventeenth north latitude, the compass coordinates for St. Kitts.
 
