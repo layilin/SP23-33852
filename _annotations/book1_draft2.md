@@ -387,52 +387,39 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 38.538n scandent. Climbing, ascending.  
 
-[plant] 38.538n Jumbee Beeds. The plant *Abrus precatorius* is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdmonial cramping, diarrhea, and dehydration if ingested.
-
-[plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 B.C.E., it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade. 
+[plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade. 
 
 38.538n. emetic...pectoral. Emetics produce vomiting. Pectoral drinks aid in digestion.
 
 [plant] 38.538n black ebony. Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.  
 
-[plant] 39.556 citron. *Citrus medica*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the citron. 
+39.559 contagious blast. Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).  
 
 39.560. Dryad. Wood-nymph.
 
-39.564. recks. To pay attention.
+39.564. recks. Heeds, cares, minds, considers.  
 
-39.565. Earth's eldest birth. <!--I think this is a mythical allusion, but I'm not sure what it is-->
+40.572. yellow death. Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by jaundice, fever, nausea or vomiting, and aches. This disease was extremely deadly to newcomers from Europe.
 
-39.559n. blight. Plant diseases caused by funghal parasites. <!---conform with book 2--->
+40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
 
-40.572. yellow death. Yellow fever, a disease transmitted by the Aedes aegypti mosquito, occurs mostly in tropical climates, characterized by jaundice, fever, nausea or vomiting, and aches. This disease was extremely deadly to newcomers from Europe.
+* 40.572n Creoles.  
 
-40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, makes its argument on economic grounds.
+[plant] 41.596 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads.  
 
-[plant] 41.596 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.  
-
-[plant] 41.596 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era, subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava had advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads.  
-
-[plant] 41.597 tanies. Either *Xanthosoma sagittifolium* or *Colocasia esculenta*. The name tanie or tannia technically refers to *Xanthosoma sagittifolium*. *Xanthosoma sagittifolium* and *Colocasia esculenta* were often conflated, however. Both plants produce roots that were commonly consumed by enslaved Africans because they were easy to cultivate and had a high yield. In addition to being called tanie or tannia, *Xanthosoma sagittifolium* also went by the common name yautia and is native to Central and South America. *Colocasia esculenta*, also known as eddo, dasheen, or taro, is native to Asia but was being cultivated in Africa by 100 C. E. From there, it was brought to the Americas on slave ships, which stocked it as food. 
+[plant] 41.597 tanies. Tanies were roots commonly consumed by enslaved Africans because they were easy to cultivate and had a high yield. The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*), another common root crop cultivated by the enslaved. *Xanthosoma sagittifolium* is native to Central and South America. *Colocasia esculenta* is native to Asia but was being cultivated in Africa by 100 C. E. From there, it was brought to the Americas on slave ships, which stocked it as food.  
 
 [plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour.   
 
 [plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There are reports from the colonial Caribbean of cassava being made into a drink called perino. Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
-[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America.  
+41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America (now the name of the capital of French Guiana).  
 
-[plant] 41.597n. three species of tanies, the blue, the scratching, and that which is commonly roasted. There are many different varieties of *Xanthosoma sagittifolium* and *Colocasia esculenta*. By the scratching kind, Grainger refers to the fact that the leaves of both *Xanthosoma sagittifolium* and *Colocasia esculenta* contain needle-like crystals of calcium oxalate that irritate the mouth and throat when eaten. 
+41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. Tannia and taro leaves were primarily consumed by the enslaved because they contained needle-like crystals of calcium oxalate. These crystals irritated the mouth and throat when eaten, and the leaves had to be boiled for a long period of time to reduce what was known as the "scratching" effect.  
 
-[plant] 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. Because the leaves caused irritation to those who consumed them and had to be boiled for long periods to reduce the scratching effect, they were mainly consumed by enslaved Africans.  
+[people] 42.599. Raleigh's pungent plant. Sir Walter Raleigh (1554-1618), an English courtier during Queen Elizabeth I's reign, as well as an explorer and author who obtained a patent for and helped to organize the expeditions to Roanoke in 1585 and 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of the Large, Rich, and Bewtiful Empyre of Guiana* (1596) and is associated with the introduction of tobacco to England (his "pungent plant").  
 
-[people] 42.599. Raleigh. Sir Walter Raleigh (1554-1618) English courtier during Queen Elizabeth I's reign, explorer, and author who obtained a patent for and helped organize the expedition to Roanoke in 1585 and again in 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of large, Rich, and Beautiful Empire of Guiana* (1596), and is associated with the introduction of tobacco to England (his "pungent plant").
-
-
-[plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America. 
-
-[plant] 42.599 ginger. Ginger (*Zingiber officinale*) is probably native to India and was brought to the Caribbean by the Spanish in the sixteenth century.  
-
-[plant] 42.599 Ralegh's pungent plant. Tobacco (*Nicotiana tabacum*).  
+[plant] 42.598 soursop. The soursop (*Annona muricata*) is the fruit of a tree native Mexico, Central America, and South America.  
 
 [plant] 42.601 cotton-shrub. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World.  
 
@@ -440,41 +427,37 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles. Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
-[place] 42.601n. Levant. Refers to the eastern Mediterrean Sea region, including the islands and bordering countries.
+[place] 42.601n. Levant. Refers to the eastern Mediterrean Sea region, including the islands and bordering countries.  
 
-[place] 42.601n. Cayenne. French Guiana.
-
-[people] 42.601n. Pliny. Pliny. Gaius Plinius Secundus or Pliny the Elder (23-79 AD), the author of Historia Naturalis.
-
-[people] 42.601n. Martinus. <!--I think it's Theodoricus Martinus  but I can't confirm anywhere online-->
+[people] 42.601n. Martinus. According to Gilmore, Matthias Martinius (1572—1630), author of *Lexicon Philologicum* (1623).  
 
 [plant] 43.606 coffee. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-43.607. Danae...Theodosia. Danaë is the mother of Perseus and daughter of Acrisius and Eurydice. <!--Theodosia??-->
+* 43.607. Danae...Theodosia, thine. Gilmore suggests that these names reference Grainger's wife, whose first name was Daniel and whom Grainger called Danny.  
 
-[plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees. For example, those with choleric (hot and dry) temperaments were supposed to avoid eating any foods also classified as hot or dry. The other humoral temperaments are sanguine (hot and moist), phlegmatic (cold and moist), and melancholic (cold and dry).  
+[plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees.  
 
 [plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean, as well as a symbol of wealth, abundance, power, and peace.   
 
 [plant] 43.605n *Madre de Cacao*. *Gliricidia sepium*. Native to Central and South America, used as a shade tree for cacao and other plants.  
 
-[plant] 43.605n cassada, or bananas. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era, subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava had advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Bananas belong to the family Musaceae and are closely related to plantains. They formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
-
 [plant] 43.605n good pods. Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts.  
 
 [plant] 43.605n cucumber. The cucumber (*Cucumis sativus*) is native to South Asia, but it had spread to the Caribbean by the early eighteenth century. 
 
-[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the clour and goodness of their nuts. That from the Caraccas is certainly the best. There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
+[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the colour and goodness of their nuts. That from the Caraccas is certainly the best. There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
 
-[plant] 43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."
+[plant] 43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
 
-43.606n. Persian. Now Iran, the Persian empire spanned from Egypt to southwestern Asia and India at its height.
+[place] 43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
 
-43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
+[place] 43.606n. Constantinople. Present-day Istanbul.
 
-43.606n. Constantinople. Present-day Istanbul.
+44.611 well-fed, well-cloath'd. 
 
-[person] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus here used to refer to a general doctor. 
+44.616 glander-pest. 
+
+[person] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
 [plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
 
