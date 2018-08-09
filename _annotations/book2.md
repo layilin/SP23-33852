@@ -300,7 +300,7 @@ editor: cristobal
 
 [place] 80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important way-station for transatlantic voyages in the eighteenth century. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.   
 
-81.500 sky. The "Errata" list at the end of *The Sugar-Cane* indicates that "sky" should be replaced by "air."  
+81.500 sky. The "Errata" list at the end of *The Sugar-Cane* indicates that "sky" should read "air."  
 
 81.503 yard-arm. Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
 
