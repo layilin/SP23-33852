@@ -213,6 +213,8 @@ editor: julie
 
 18.179n marble quick-lime. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitates impurities.  
 
+19.198 The "Errata" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
+
 19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
 
 [place]19.216 Gallia. France.  
@@ -449,9 +451,11 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
 
-43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
+43.606n Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
 
-[place] 43.606n. Constantinople. Present-day Istanbul.
+[place] 43.606n Constantinople. Present-day Istanbul.
+
+43.606n eighty years. The "Errata" list at the end of *The Sugar-Cane* indicates that this should read "one hundred and fifty" instead.  
 
 44.611 well-fed. On line 430 of Book IV, Grainger admits that planters did not provide enslaved laborers with sufficient food for survival because they were more concerned with cutting the costs of plantation upkeep and maximizing sugar profits.  
 
