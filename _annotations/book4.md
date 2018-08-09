@@ -252,7 +252,7 @@ editor: julie
 
 144.385 laughing world. European descriptions of Obeah were often made with a mocking tone. This was in part a rhetorical strategy to defuse anxieties about the practice, and in part a strategy to represent European knowledge as empirical and therefore more serious. In light of comments about ignorance and fraud (line 384), chroniclers like Grainger set themselves up as the authorities who will debunk superstition 
 
-[place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.
 
 144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger seems to suggest that obeah men had skills that could benefit the plantation.  
 
