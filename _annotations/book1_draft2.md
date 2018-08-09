@@ -5,7 +5,7 @@ editor: julie
 ---
 
 
-[plant] 3.1 Cane. *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first carried to the Americas by Columbus.  
+[plant] 3.1 Cane. *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first brought to the Americas by Columbus.  
 
 3.2 Beneath what signs to plant. Planting by the signs, also known as agricultural astrology, is a food production method that advises planting, cultivating, and harvesting crops based on moon phases and the astrological calendar.  
 
@@ -13,7 +13,7 @@ editor: julie
 
 [plant] 3.6 myrtle-indolence. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louisa was born before he began composing the poem.
 
-[people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
+[people] 3.8 Ascrean Poet. Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
 3.9 swain. A country or farm laborer, a shepherd. A key figure in georgic poetry.  
 
@@ -33,17 +33,17 @@ editor: julie
 
 [people] 4.20 Imperial George. George III (1738-1820) was king of Britain from 1760 to 1820.
 
-[people] 4.22n Lucan...Pliny...Arrian...Lucan or Marcus Annaeus Lucanus (39-65 CE), nephew of Seneca the younger and author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE), author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 CE), author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
+[people] 4.22n Lucan...Pliny...Arrian. Lucan or Marcus Annaeus Lucanus (39-65 CE) was the nephew of Seneca the younger and the author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE) was the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 CE) was the author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*. 
 
-[people] 4.22n Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate; he defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
+[people] 4.22n Pompey. Pompey or Gnaeus Pompeius Magnus (106-48 BCE), member of the First Triumvirate. He defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
 [place] 4.22n Persia. Now known as Iran. At its height, the Persian Empire extended from Egypt to southwestern Asia and India. It was the traditional antagonist of ancient Greece.  
 
 5.26 joint. As sugar cane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugar cane.  
 
-[place] 5.22n Barbary-coast. Mediterranean coastline of North Africa that runs from modern-day Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.  
+[place] 5.22n Barbary-coast. Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.  
 
-[place] 5.22n Azores...Madeiras...Canary...Cape-Verd Islands...throve exceedingly. Island groups in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
+[place] 5.22n Azores...Madeiras...Canary...Cape-Verd Islands...throve exceedingly. The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
  
 [place] 5.22n Greater or Lesser Antilles. "Antilles" refers to the islands of the Caribbean and is often used as a substitute for "West Indies." The Greater Antilles are the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
@@ -51,7 +51,7 @@ editor: julie
 
 [place] 5.22n St. Domingo. Hispaniola, the island that includes the modern nations of Haiti and the Dominican Republic.  
 
-5.22n *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately 40 days of wages for a skilled tradesman (see: http://www.nationalarchives.gov.uk/currency-converter/)
+5.22n *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman (see http://www.nationalarchives.gov.uk/currency-converter/).  
 
 [place] 5.22n East-Indies. The whole of Southeast Asia to the east of and including India.  
 
@@ -59,13 +59,13 @@ editor: julie
 
 [plant] 6.34 locust. The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey but now spread widely over the world. It is the source of carob, which is used in food applications, including as a chocolate substitute.  
 
-[place] 6.22n. Guiana. Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern-day Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of modern-day Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.  
+[place] 6.22n. Guiana. Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.  
 
-6.22n treaty of Breda. The 1667 treaty that concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gained control of Surinam, and the French reclaimed Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
+6.22n treaty of Breda. The treaty of Breda (1667) concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gaining control of Surinam; and the French reclaiming Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.  
 
 [place] 6.22n Leeward Islands. Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.  
 
-[people] 6.22n Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer's uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
+[people] 6.22n Chaucer. Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
 [plant] 6.34n white and red [cedar]. The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean.  
 
@@ -81,15 +81,15 @@ editor: julie
 
 7.37n. diaphoretic. Having the property of inducing or promoting perspiration.
 
-7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia, as well as cognitive problems.
+7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.
 
 [people] 7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
 
 [plant] 8.44 shaddoc. A citrus fruit (*Citrus maxima*) also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
-[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct. Similar in taste to oranges and shaddocks, closely related to the grapefruit.  
+[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit.  
 
-[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or cashew fruit was consumed during the eighteenth century as well. The fruit is also caustic and was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83). Also see Grainger's footnote on p. 132 of Book IV.  
+[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or cashew fruit was consumed during the eighteenth century as well. The fruit is also caustic and was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83). Also see Grainger's footnote in Book IV, p. 132.  
 
 [plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of the enslaved who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
@@ -99,7 +99,7 @@ editor: julie
 
 8.45n butyraceous. Of the nature of butter; buttery.
 
-[people] 8.45n Sir Hans Sloane. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These collections served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.  
+[people] 8.45n Sir Hans Sloane. Hans Sloane (1660-1753), an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.  
 
 [plant] 8.45n the pear named Lady's-thighs. Also known as the jargonelle pear (*Pyrus communis* 'Jargonelle'). One of the oldest pears in cultivation.  
 
@@ -113,11 +113,11 @@ editor: julie
 
 9.61 Arcadian Pan. God of flocks and herds of Greek mythology, usually represented with the horns, ears, and legs of a goat on the body of a man. Pan lived in Arcadia, an idealized, utopian place in mythology and literature.
 
-9.60n "A precious stone set in the silver sea." John of Gaunt describes England as a "A precious stone, set in the silver sea" in Shakespeare's *Richard II* (2.1.46).
+9.60n "A precious stone set in the silver sea." John of Gaunt describes England as "A precious stone, set in the silver sea" in Shakespeare's *Richard II* (2.1.46).
 
 9.60n seventeenth N.L. Seventeenth north latitude, one of the coordinates for St. Kitts.
 
-[place] 9.60n Mount Misery. Mount Misery was the name used by Europeans for the main volcanic mountain on St. Kitts. Renamed Mt. Liamuiga when St. Kitts and Nevis became independent on September 19, 1983.
+[place] 9.60n Mount Misery. Mount Misery was the name used by Europeans for the main volcanic mountain on St. Kitts. Renamed Mt. Liamuiga when St. Kitts and Nevis became independent on 19 September 1983.
 
 9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.
 
@@ -131,7 +131,7 @@ editor: julie
 
 10.45n fugitive Negroes. Runaway or escaped slaves.  
 
-[plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. Together, tobacco, indigo, coffee, and cotton were the four major agricultural commodities after sugar in the eighteenth-century Caribbean. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
+[plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. Tobacco, indigo, coffee, and cotton also were major agricultural commodities in the eighteenth-century Caribbean. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
 [people] 10.45n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
 
@@ -139,9 +139,7 @@ editor: julie
 
 [place] 10.45n Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
 
-[place] 10.45n Hispaniola. The island that makes up the modern nations of Haiti and the Dominican Republic (known in the eighteenth century as St. Domingue and Santo Domingo).
-
-10.45n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish America with enslaved Africans.  
+10.45n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
 
 11.66 Sicilian Proserpine. The Italian name for Persephone, queen of the underworld.
 
@@ -169,9 +167,9 @@ editor: julie
 
 [people] 13.111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland (1653-1658). One of the leaders of the English Civil War and a signatory to Charles I's death warrant. In 1655, he launched what was known as the Western Design with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658, but his remains were exhumed in 1661, at which time he was posthumously "executed."  
 
-[people] 13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados and later Governor of Jamaica (1664-1669).
+[people] 13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters of Barbados. Later governor of Jamaica (1664-1669).
 
-[people] 13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland; son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of British monarchy in 1660.
+[people] 13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland. Son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of the British monarchy in 1660.
 
 14.123 the Nine. The nine muses of art, literature, and science.  
 
@@ -181,13 +179,13 @@ editor: julie
 
 [people] 14.132n Milton. John Milton (1606-1674), English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671). Grainger quotes here from *Paradise Lost* (9.1101-1110).  
 
-[place] 14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern-day Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.  
+[place] 14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.  
 
 [place] 15.133 Barbadoes. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.  
 
 [place] 15.135 Mountserrat. Montserrat, a British overseas territory in the Leeward Islands.
 
-[people] 15.132n the Earl of Carlisle. James Hay first earl of Carlisle (c. 1580-1636), a Scottish courtier and diplomat who came to the English court with James I. In 1627, he obtained a grant from Charles I for the Caribbean islands including and in between Barbados and St. Kitts.  
+[people] 15.132n the Earl of Carlisle. James Hay, first earl of Carlisle (c. 1580-1636), a Scottish courtier and diplomat who came to the English court with James I. In 1627, he obtained a grant from Charles I for all of the Caribbean islands ranging from Barbados to St. Kitts.  
 
 [people] 15.132n the Earl of Marlborough. James Ley, first earl of Marlborough (1550–1629), English judge and politician and rival to the earl of Carlisle for the English Caribbean islands.  
 
@@ -201,9 +199,9 @@ editor: julie
 
 16.149 glebes. Earth, lands.  
 
-[people] 16.135n K. William and Q. Anne’s time. William III (1650–1702), king of England, Scotland, and Ireland and prince of Orange. Queen Anne (1665-1714) was the Queen of England, Scotland and Ireland between 1702 and 1707. They ascended to the throne after the abdicaton of James II at the end of the Glorious Revolution (1688-1689).
+[people] 16.135n K. William and Q. Anne’s time. William III (1650–1702), king of England, Scotland, and Ireland and prince of Orange. Queen Anne (1665-1714) was the queen of England, Scotland and Ireland between 1702 and 1707. They ascended to the throne after the abdication of James II at the end of the Glorious Revolution (1688-1689).
 
-[people] 16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. He settled St. Kitts in 1624, where he established tobacco plantations and formed an alliance with the French against the Caribs in 1626. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
+[people] 16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. In 1624, he settled in St. Kitts, where he established tobacco plantations and formed an alliance with the French against the Caribs. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.  
 
 17.175 bill. Also bill-hook. Cutlass used for cutting cane.
 
@@ -219,15 +217,15 @@ editor: julie
 
 [place]19.216 Gallia. France.  
 
-[place] 20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the English county of Dorset.  
+[place] 20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the southern English county of Dorset.  
 
 20.234 provender. Dried cattle feed (e.g., hay).  
 
 [plant] 20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century.  
 
-[plant] 20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
+[plant] 20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa.   
 
-[plant] 21.237n boiled or roasted. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
+[plant] 21.237n boiled or roasted. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed by the enslaved. In the eighteenth-century Caribbean, enslaved persons also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
 
 22.260 gemmy. Gem-like, brilliant, glittering.  
 
@@ -239,21 +237,19 @@ editor: julie
 
 24.311 ken. Range of vision.  
 
-[people] 24.313 Mantuan Bard. Virgil was born in the modern-day Italian provice of Mantua.  
+[people] 24.313 Mantuan Bard. Virgil was born in the Italian provice of Mantua.  
 
 25.329 Amyntor. King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.  
 
-25.330 Themis. The Greek goddess of wisdom and good counsel, often the personification of justice and the interpreter of the gods' will.  
+25.330 Themis. The Greek goddess of wisdom and good counsel; often the personification of justice and the interpreter of the gods' will.  
 
-[people] 25.n Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.  
+[people] 25.334n Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.  
 
 26.339 Harpies. Creatures in Greek mythology depicted as winged women or birds with women's faces.  
 
-[plant] 26.337n cedar. Red cedar (*Cedrela odorata*) has a strong odor.  
-
 27.342 black crabs. Probably *Gecarcinus ruricola*, also known as the black land crab. One of several species of terrestrial or land crabs, the black land crab lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs.  
 
-27.341n guana, or rather Iguana. A family of crested lizards (order Squamata, suborder Sauria). More than 700 species have been identified; found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
+27.341n guana, or rather Iguana. A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
 27.341n *Lues Venerea*. *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
 
@@ -267,31 +263,31 @@ editor: julie
 
 [plant] 29.378 wild fig. Also known as bearded fig or the wild banyan tree (*Ficus citrifolia*). 
 
-29.386 Phoebus. Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
+29.386 Phoebus. An alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
 
 [plant] 29.393 fern-tree shades. Tree ferns are primitive plants that belong to the order Cyatheales. Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to 9 meters tall.  
 
 30.396 linen lightly wrapt. The enslaved generally were provided with a coarse brown linen known as osnaburg.  
 
-30.397 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra; sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid.  
+30.397 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra; she is sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid.  
 
-30.407 the shield was forg'd for Peleus' Son. Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Patroclus was killed by Hector.  
+30.407 the shield was forg'd for Peleus' Son. Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Hector killed Patroclus.    
 
-31.416 While Procyon reigns yet. Alpha Canis Minoris, the brightest star in the constellation Canis Minor.
+31.416 Procyon. Alpha Canis Minoris, the brightest star in the constellation Canis Minor.
 
-31.417 yet the fiery Sun in Leo rides. Leo, the zodiacal constellation between Cancer and Virgo, and the fifth sign of the Zodiac. The sun enters its sign in mid-July and exits in mid-August.  
+31.417 yet the fiery Sun in Leo rides. Leo is the fifth sign of the zodiac; the sun enters its sign in mid-July and exits in mid-August.  
 
 [plant] 31.418 anana. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.  
 
-31.425 the arrow's deadening power. Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow, popularly called "the Archer." By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the Zodiac; the sun enters its sign in mid-November and exits in mid-December.  
+31.425 the arrow's deadening power. Refers to Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow; popularly known as the Archer. By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the zodiac; the sun enters its sign in mid-November and exits in mid-December.  
 
 [plant] 31.427 lemon, orange, and the lime. Members of the genus *Citrus*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*).  
 
-[plant] 31.430 yellow plantanes. Plantain (family Musaceae), closely related to the banana. Plantains and bananas formed an important a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
+[plant] 31.430 yellow plantanes. Plantain (family Musaceae), closely related to the banana. Plantains and bananas formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
 
-31.432 'Till Capricorn command. Capricorn is the tenth sign of the zodiac; the sun entiers it in mid-December and exits in mid-January.  
+31.432 'Till Capricorn command. Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits in mid-January.  
 
-31.433 moist Aquarius melt. Aquarius is the eleventh sign of the zodiac; the sun enters in mid-January and exits in mid-February.  
+31.433 moist Aquarius melt. Aquarius is the eleventh sign of the zodiac; the sun enters it in mid-January and exits it in mid-February.  
 
 [plant] 31.418n cherimoya. *Annona cherimola*, a fruit originally from the South American highlands.  
 
