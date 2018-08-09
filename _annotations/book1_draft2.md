@@ -453,9 +453,9 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [place] 43.606n. Constantinople. Present-day Istanbul.
 
-44.611 well-fed, well-cloath'd. 
+44.611 well-fed. On line 430 of Book IV, Grainger admits that planters did not provide enslaved laborers with sufficient food for survival because they were more concerned with cutting the costs of plantation upkeep and maximizing sugar profits.  
 
-44.616 glander-pest. 
+44.616 glander-pest. Grainger is referring to the glanders, a contagious disease in horses.  
 
 [person] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
@@ -465,6 +465,6 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 44.625n senna. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
-45.629 Lion. Grainger uses Lion to refer to the zodiac sign Leo (23 July-22 August), elicited to describe the heat of these months.
+45.629 Lion. Refers to Leo, the fifth sign of the Zodiac; it enters the sun in mid-July and exits in mid-August. 
 
-46.642 zumbadore. Literally, humming or buzzing. As Grainger explains in his note, he is referring here to the Andean condor (*Vultur gryphus*).
+46.642 zumbadores. Buzzer (Spanish). As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*).  
