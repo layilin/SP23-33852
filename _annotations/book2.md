@@ -300,19 +300,23 @@ editor: cristobal
 
 [place] 80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important way-station for transatlantic voyages in the eighteenth century. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.   
 
-80.503 yard-arm. Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
+81.500 sky. The "Errata" list at the end of *The Sugar-Cane* indicates that "sky" should be replaced by "air."  
+
+81.503 yard-arm. Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
 
 81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range stretches from Norway to South Africa, including the Mediterranean and the Black Sea in the eastern Atlantic, and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
 
 81.504 shark insnares. Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).  
 
-81.505 nautilus. The Portuguese man-of-war or man o' war (*Physalia physalis*), a highly toxic relative of the jellyfish. It is called the man-of-war for its resemblance to an eighteenth-century warship under full sail.  
+81.506 nautilus...dances o'er the waves. The nautilus is the Portuguese man-of-war or man o' war (*Physalia physalis*), a highly toxic relative of the jellyfish. It is called the man-of-war for its resemblance to an eighteenth-century warship under full sail. Also, the "Errata" list for *The Sugar-Cane* indicates that lines 505 and 506 should read instead, "The fring'd urtica spreads her purple form/To catch the gale, and dances o'er the waves:".   
 
 81.507 winged fishes. Flying fish, which are small fish of the *Exocoetidae* family that glide above the water to escape predators. The strongest fish can "fly" nearly 200 meters in one glide.  
 
 81.508 dolphins. Refers to the dolphin fish, dorado, or mahi-mahi (*Coryphaena hippurus*), which is widespread in the Atlantic, Indian, Pacific Oceans, as well as the Mediterranean.  
 
 [place] 81.504n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Roughly covered a geographic region that included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
+
+81.505n *nautilus*. The "Errata" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
 
 81.507n Albacores. Albacore Tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
 
