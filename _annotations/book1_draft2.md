@@ -115,93 +115,111 @@ editor: julie
 
 9.60n "A precious stone set in the silver sea." John of Gaunt describes England as a "A precious stone, set in the silver sea" in Shakespeare's *Richard II* (2.1.46).
 
-9.60n seventeenth N.L. Seventeenth north latitude, the compass coordinates for St. Kitts.
+9.60n seventeenth N.L. Seventeenth north latitude, one of the coordinates for St. Kitts.
 
-[place] 9.60n Mount Misery. Mount Misery was the name used by Europeans for the main volcanic mountain on St. Kitts. Renamed Mt. Liamuga when St. Kitts and Nevis became independent on 19 September 1983.
+[place] 9.60n Mount Misery. Mount Misery was the name used by Europeans for the main volcanic mountain on St. Kitts. Renamed Mt. Liamuiga when St. Kitts and Nevis became independent on September 19, 1983.
 
-9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend of St. Christopher carrying a child across a river on his shoulders. <!--- copy version from book III--->
+9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.
 
-9.60n Templeman's Survey. Grainger cites Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of All the Empires, Kingdoms, ... and Islands in the World* (London, 1729?).
+9.60n Templeman's Survey. Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of all the...Countries...in the World* (1729).
+
+10.64 Enna. City and province in central Sicily.  
+
+[place] 10.45n St.Kitts ... Nevis. Together, these islands form the modern Federation of St. Kitts and Nevis.
+
+10.45n Solfaterre. A volcano.  
+
+10.45n fugitive Negroes. Runaway or escaped slaves.  
 
 [plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. Together, tobacco, indigo, coffee, and cotton were the four major agricultural commodities after sugar in the eighteenth-century Caribbean. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-[place] 10.60n St.Kitts ... Nevis. Together, these islands form the modern Federation of St. Kitts and Nevis.
+[person] 10.45n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
 
-10.60n Solfaterre. A volcano.
+10.45n treaty of Ryswick. Also Treaty of Rijswijk, signed in 1697 and named after the Dutch city in which it was signed. The treaty ended the Nine Years' War (1689-1697), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
 
-[person] 10.60n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
+[place] 10.45n Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
 
-10.60n treaty of Ryswick. Also Treaty of Rijswijk, signed in 1697 and named after the Dutch city in which it was signed. The treaty ended the Nine Years War (1689-1697), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
+[place] 10.45n Hispaniola. The island that makes up the modern nations of Haiti and the Dominican Republic (known in the eighteenth century as St. Domingue and Santo Domingo).
 
-[place] 10.60n Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. It is an overseas department (département d'outre-mer) of France.
-
-[place] 10.60n Hispaniola. The island that makes up the modern nations of Haiti and the Dominican Republic (known in the eighteenth century as St. Domingue and Santo Domingo).
-
-10.60n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession. The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included  the Spanish forfeiture of Gibraltar and Minorca to the British, the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in Northern Canada, and to St. Kitts in the Caribbean--also to the British. Finally, the British also received the Asiento, or monopoly of the Spanish Atlantic slave trade.
+10.45n treaty of Utrecht. The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish America with enslaved Africans.  
 
 11.66 Sicilian Proserpine. The Italian name for Persephone, queen of the underworld.
 
-11.71-72 Pluto. Roman God of the underworld who who abducted Proserpine and made her his queen. 
+11.71-72 Pluto. Roman God of the underworld who abducted Proserpine and made her his queen. 
 
 11.85 red brick-mould. Loose and clay-like soil beneficial for cultivation.
 
 11.86 marly beds. Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil. 
 
-12.94 Daughters of Heaven. The Muses.
+12.93 keel. Poetic term for a ship or vessel.  
 
-[people]12.97 Columbus. Christopher Columbus (?-1506), an Genoese-born explorer, who received a royal commission for the Atlantic voyage in 1492. His first voyage, whose purpose it was to discover a western route to Asia began from Palos on 3 August and from San Sebastián de la Gomera on 6 September. He set sight on the island of Guanahani (in the Bahamas) on 12 October. Columbus completed four voyages to the Americas during his lifetime.
+12.94 Daughters of Heaven. The Muses.  
 
-[people]13.113 Iberian King. King Ferdinand II of Aragon.
+[people] 12.97 Columbus. Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime. 
 
-[people]13.111n Sir Anthony Shirley. Count Sherley (1565-1636?), English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica.He later went to Persia to engineer an alliance against the Turks.
+13.111 And where the magnet first its aid declin'd. Refers to magnetic declination, the deviation of a compass needle from true north.  
 
-[place]13.111n St. Jago de la Vega. St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century. When the English conquered Jamaica as part of Oliver Cromwell's Great Western Design, they renamed the city "Spanish Town". It lies just west of Kingston.
+[people] 13.113 Iberian King. King Ferdinand II of Aragon.  
 
-[people]13.111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland was one of the leaders of the English Civil War, and a signatory of Charles I's death warrant. He established the Great Western Design with the intention of dislodging Spanish power in the Caribbean, and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658 but his remains were exhumed in 1661, at which time he was posthumously "executed".
+13.118 meed. Recompense, reward, gift.  
 
-[people]13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados, and later Governor of Jamaica (1664-1669).
+[people] 13.111n Sir Anthony Shirley. Count Sherley (1565-1635?), English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica. He later went to Persia to engineer an alliance against the Turks.  
 
-[people]13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland, son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell, and the restoration of British monarchy  in 1660.
+[place] 13.111n St. Jago de la Vega. St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century (the English renamed it "Spanish Town"). It lies just west of Kingston, the current capital of Jamaica.  
 
-14.123 the Nine. The nine Muses.
+[people] 13.111n Oliver Cromwell. Oliver Cromwell (1599–1658), lord protector of England, Scotland, and Ireland (1653-1658). One of the leaders of the English Civil War and a signatory to Charles I's death warrant. In 1655, he launched what was known as the Western Design with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658, but his remains were exhumed in 1661, at which time he was posthumously "executed."  
 
-[plant]14.126 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae (Latin for 'wood of life') becuase it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
+[people] 13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters on the English colony of Barbados and later Governor of Jamaica (1664-1669).
 
-[plant]14.132 bearded fig. *Ficus citrifolia*, also known as the wild banyan tree, is native to the tropical Americas. It is the national tree of Barbados. 
+[people] 13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland; son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of British monarchy in 1660.
 
-[people]14.132n Q. Curtius. Quintus Curtius Rufus (1st century AD), a Roman historian, author of *Histories of Alexander the Great*.
+14.123 the Nine. The nine muses of art, literature, and science.  
 
-[people]14.132n Milton. John Milton (1606-1674), English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671), Grainger quotes here from *Paradise Lost*, IX.1101-1110.
+[plant] 14.132 bearded fig. *Ficus citrifolia*, also known as the wild banyan tree, is native to the tropical Americas. It is the national tree of Barbados. 
 
-[place]14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.
+[people] 14.132n Q. Curtius. Quintus Curtius Rufus (1st century CE), Roman historian and author of *Histories of Alexander the Great*.
 
-[place]15.133 Barbadoes. Also Barbados. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.
+[people] 14.132n Milton. John Milton (1606-1674), English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671). Grainger quotes here from *Paradise Lost* (9.1101-1110).  
 
-[place]15.135 Mountserrat. Montserrat, a British overseas territory in the Leeward Islands.
+[place] 14.132n In Malabar and Decan spreads her arms. Malabar is a region on the southwest coast of India (modern-day Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala.  
 
-[people]15.132n the Earl of Carlisle. James Hay first earl of Carlisle (c.1580-1636), a Scottish courtier and diplomat who came to the English court with James I. Later, under Charles I, he obtained a grant for the Caribbean islands from Barbados to St Kitts in 1627, a highly lucrative affair. 
+[place] 15.133 Barbadoes. Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.  
 
-[people]15.132n the Earl of Marlborough. James Ley, first earl of Marlborough (1550–1629), an English judge and politician and rival to the early of Carlisle for the English Caribbean islands.
+[place] 15.135 Mountserrat. Montserrat, a British overseas territory in the Leeward Islands.
 
-15.132n Columbus’s second voyage, A. D. 1493. Columbus's second voyage (1493-1496) began in Cádiz, Spain.
+[people] 15.132n the Earl of Carlisle. James Hay first earl of Carlisle (c. 1580-1636), a Scottish courtier and diplomat who came to the English court with James I. In 1627, he obtained a grant from Charles I for the Caribbean islands including and in between Barbados and St. Kitts.  
 
-[place]15.135n Antigua. One of the Leeward Islands. St. Kitts is also one of the Leeward Islands and lies just to the west of Antigua. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
+[people] 15.132n the Earl of Marlborough. James Ley, first earl of Marlborough (1550–1629), English judge and politician and rival to the earl of Carlisle for the English Caribbean islands.  
 
-[people]16.135n K. William and Q. Anne’s time. William III (1650–1702), king of England, Scotland, and Ireland, and prince of Orange. Queen Anne (1665-1714) was the Queen of England, Scotland and Ireland between 1702 and 1707. They ascended to the throne after the abdicaton of James II at the end of the Glorious Revolution.
+[plant] 15.132n ginger. Ginger (*Zingiber officinale*) is probably native to India and was brought to the Caribbean by the Spanish in the sixteenth century.  
 
-[people]16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. He settled St. Kitts in 1624, where he established tobacco plantations, and formed an alliance with the French against the Caribs in 1626. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
+[place] 15.134n Bristol. City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there.  
+
+15.134n Columbus’s second voyage, A. D. 1493. Columbus's second voyage took place from 1493 to 1496.  
+
+[place]15.135n Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
+
+16.149 glebes. Earth, lands.  
+
+[people] 16.135n K. William and Q. Anne’s time. William III (1650–1702), king of England, Scotland, and Ireland and prince of Orange. Queen Anne (1665-1714) was the Queen of England, Scotland and Ireland between 1702 and 1707. They ascended to the throne after the abdicaton of James II at the end of the Glorious Revolution (1688-1689).
+
+[people] 16.135n Sir Thomas Warner. Sir Thomas Warner (c. 1580–1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. He settled St. Kitts in 1624, where he established tobacco plantations and formed an alliance with the French against the Caribs in 1626. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
 
 17.175 bill. Also bill-hook. Cutlass used for cutting cane.
 
 18.179 saccharize. The process of converting cane syrup into sugar.
 
-19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.
+18.182 wain. A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.  
 
-[place]19.216 Gallia. France
+18.179n marble quick-lime. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitates impurities.  
 
-20.233 Dorchestria's plains. The Latinized name Dorchestria refers to the town of Dorchester in the English county of Dorset. (only source was Gilmore's endnote)  
+19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
 
-20.234 provender. Generic term for dried cattle feed (e.g., hay).
+[place]19.216 Gallia. France.  
+
+20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the English county of Dorset.  
+
+20.234 provender. Dried cattle feed (e.g., hay).  
 
 [plant]20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.   
 
