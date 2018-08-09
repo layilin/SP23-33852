@@ -53,7 +53,7 @@ editor: julie
 
 5.22n *4 l. per C.* wt. Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately 40 days of wages for a skilled tradesman (see: http://www.nationalarchives.gov.uk/currency-converter/)
 
-5.22n East-Indies. The whole of Southeast Asia to the east of and including India.  
+[place] 5.22n East-Indies. The whole of Southeast Asia to the east of and including India.  
 
 [plant] 6.34 wild red cedar. Most likely *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. Now considered vulnerable due to unsustainable levels of harvesting.  
 
@@ -83,7 +83,7 @@ editor: julie
 
 7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing physical effects such as malnutrition and anemia, as well as cognitive problems.
 
-7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
+[people] 7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
 
 [plant] 8.44 shaddoc. A citrus fruit (*Citrus maxima*) also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
@@ -121,9 +121,9 @@ editor: julie
 
 9.60n Legend of the Devil's carrying St. Christopher on his shoulders. This may refer to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.
 
-9.60n Templeman's Survey. Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of all the...Countries...in the World* (1729).
+[people] 9.60n Templeman's Survey. Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of all the...Countries...in the World* (1729).
 
-10.64 Enna. City and province in central Sicily.  
+[place] 10.64 Enna. City and province in central Sicily.  
 
 [place] 10.45n St.Kitts ... Nevis. Together, these islands form the modern Federation of St. Kitts and Nevis.
 
@@ -133,7 +133,7 @@ editor: julie
 
 [plant] 10.45n tobacco, indigo, coffee, and cotton-plantations. Together, tobacco, indigo, coffee, and cotton were the four major agricultural commodities after sugar in the eighteenth-century Caribbean. Tobacco (*Nicotiana tabacum*) is native to the Americas. Indigo (genus *Indigofera*) is found in tropical regions throughout the world. Various species are used in the production of blue dye. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
 
-[person] 10.45n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
+[people] 10.45n King James. King James II of England and Ireland and James VII of Scotland (1633–1701). Son of Charles I, James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. He was succeeded by his daughter Mary II and her husband William III of Orange.
 
 10.45n treaty of Ryswick. Also Treaty of Rijswijk, signed in 1697 and named after the Dutch city in which it was signed. The treaty ended the Nine Years' War (1689-1697), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
 
@@ -197,7 +197,7 @@ editor: julie
 
 15.134n Columbus’s second voyage, A. D. 1493. Columbus's second voyage took place from 1493 to 1496.  
 
-[place]15.135n Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
+[place] 15.135n Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
 
 16.149 glebes. Earth, lands.  
 
@@ -217,15 +217,15 @@ editor: julie
 
 [place]19.216 Gallia. France.  
 
-20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the English county of Dorset.  
+[place] 20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the English county of Dorset.  
 
 20.234 provender. Dried cattle feed (e.g., hay).  
 
-[plant]20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century.  
+[plant] 20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century.  
 
-[plant]20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
+[plant] 20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
 
-[plant]21.237n boiled or roasted. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
+[plant] 21.237n boiled or roasted. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
 
 22.260 gemmy. Gem-like, brilliant, glittering.  
 
@@ -356,7 +356,7 @@ editor: julie
 
 36.520n *Flower Fence*. Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.
 
-36.520n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[place] 36.520n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 37.524 Juno's bird. Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae).  
 
@@ -413,7 +413,7 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There are reports from the colonial Caribbean of cassava being made into a drink called perino. Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
-41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America (now the name of the capital of French Guiana).  
+[plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America (now the name of the capital of French Guiana).  
 
 41.597n. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad. Tannia and taro leaves were primarily consumed by the enslaved because they contained needle-like crystals of calcium oxalate. These crystals irritated the mouth and throat when eaten, and the leaves had to be boiled for a long period of time to reduce what was known as the "scratching" effect.  
 
@@ -441,15 +441,15 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 43.605n *Madre de Cacao*. *Gliricidia sepium*. Native to Central and South America, used as a shade tree for cacao and other plants.  
 
-[plant] 43.605n good pods. Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts.  
+43.605n good pods. Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts.  
 
 [plant] 43.605n cucumber. The cucumber (*Cucumis sativus*) is native to South Asia, but it had spread to the Caribbean by the early eighteenth century. 
 
-[plant] 43.605n There are three or four sorts of cacao, which differ from one another in the colour and goodness of their nuts. That from the Caraccas is certainly the best. There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
+43.605n There are three or four sorts of cacao, which differ from one another in the colour and goodness of their nuts. That from the Caraccas is certainly the best. There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
 
-[plant] 43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
+43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
 
-[place] 43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
+43.606n. Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
 
 [place] 43.606n. Constantinople. Present-day Istanbul.
 
@@ -457,7 +457,7 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 44.616 glander-pest. Grainger is referring to the glanders, a contagious disease in horses.  
 
-[person] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
+[people] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
 [plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
 
