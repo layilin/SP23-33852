@@ -455,7 +455,7 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [place] 43.606n Constantinople. Present-day Istanbul.
 
-43.606n eighty years. The "Errata" list at the end of *The Sugar-Cane* indicates that this should read "one hundred and fifty" instead.  
+43.606n eighty years. The "Errata" list at the end of *The Sugar-Cane* indicates that "eighty" should read "one hundred and fifty."  
 
 44.611 well-fed. On line 430 of Book IV, Grainger admits that planters did not provide enslaved laborers with sufficient food for survival because they were more concerned with cutting the costs of plantation upkeep and maximizing sugar profits.  
 
