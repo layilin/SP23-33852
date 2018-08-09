@@ -221,23 +221,31 @@ editor: julie
 
 20.234 provender. Dried cattle feed (e.g., hay).  
 
-[plant]20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved Africans in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them.   
+[plant]20.237 yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century.  
 
 [plant]20.237n water-melon, or gourd. Watermelon (*Citrullus vulgaris*) is native to tropical Africa. Although eaten in the eighteenth-century Caribbean, some believed that its taste was too watery and that it could cause stomach problems and even worms.  
 
-[plant]21.237n boiled or roasted. One of the reasons yams became so important to the diets of enslaved Africans has to do with the fact that they can be prepared in numerous ways. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
+[plant]21.237n boiled or roasted. Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed during slavery. In the eighteenth-century Caribbean, enslaved Africans also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava.  
 
-[plant] 21.237n They are a native of South-America, the West-Indies, and of most parts of Guinea. By Guinea, Grainger refers to a region on the west coast of Africa that bordered the Gulf of Guinea and served as a center of the Atlantic slave trade (Guinea is now the name of a country on the western coast of Africa). There is one South American species of yam named *Dioscorea trifida* that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, but there are no species of yam that originated in the Caribbean islands themselves. More important than *Dioscorea trifida*, however, to the diets of enslaved Africans were the Old World species of yam in West Africa. These species would have included *Dioscorea cayenensis*, which is native to West Africa. They also would have included *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century and then brought with slave traders to the Americas.
+22.260 gemmy. Gem-like, brilliant, glittering.  
 
 22.270 demesnes. Domains. 
 
-[people]24.313 Mantuan Bard. Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Ecologues*, the *Georgics*, and the *Aeneid*. Born in the modern-day Italian provice of Mantua. 
+22.260n junks. A gathering of stems or stalks.  
+
+* 23.278 improvement.  
+
+24.311 ken. Range of vision.  
+
+[people] 24.313 Mantuan Bard. Virgil was born in the modern-day Italian provice of Mantua.  
 
 25.329 Amyntor. King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.  
 
 25.330 Themis. The Greek goddess of wisdom and good counsel, often the personification of justice and the interpreter of the gods' will.
 
-[people]25.n Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
+25.334 Mosquitos, sand-flies. 
+
+[people] 25.n Mr. Maupertuis. Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
 26.339 Harpies. Creatures in Greek mythology, depicted as winged women or birds with women's faces. They personify the destructive potential of storms and/or wind. 
 
