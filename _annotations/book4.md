@@ -49,6 +49,8 @@ editor: julie
 
 127.52 ductile. Malleable; flexible.  
 
+128.58 art. The "Errata" list at the end of *The Sugar-Cane* indicates that "art" should read "want."  
+
 [place] 128.62 Golden Coast. Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slaving ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).  
 
 128.63 Papaws. Also Popo. Name of people from the region between Accra in modern Ghana and Ouidah in Benin. (Not to be confused with Papaw/Papaya.)
@@ -109,17 +111,19 @@ editor: julie
 
 132.142 hydrops. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy. The modern term is edema (or oedema).  
 
+132.146 turtle. Probably refers to the green turtle (*Chelonia mydas*), the only species of turtle indigenous to the Caribbean that has served as a significant food source for human beings.  
+
 132.148. leprosy's infectious bane. A chronic condition affecting the skin and nerves, caused by the microorganism *Mycobacterium leprae*.  
 
 132.150 swallow dirt. Geophagy or pica are the medical terms used for the practice of eating dirt. Eighteenth-century physicians and planters were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a means of committing suicide and thus a form of enslaved resistance.  
 
 132.150 Chlorotic fair. Chlorosis (also called green sickness) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
 
+132.137n rhinds. The "Errata" list at the end of *The Sugar-Cane* indicates that "rhinds" should read "rinds."  
+
 132.137n Gum-Arabic. Edible sap of some trees in the genus *Acacia*. Used as a binder or stabilizer in foods and medicines.  
 
 [plant] 132.137n almond. *Prunus dulcis*, native to western Asia.  
-
-132.146 turtle. Probably refers to the green turtle (*Chelonia mydas*), the only species of turtle indigenous to the Caribbean that has served as a significant food source for human beings.  
 
 133.151 cates. Choice foods, viands, or delicacies.  
 
@@ -221,6 +225,8 @@ editor: julie
 [place] 141.323 Attic's sterile land. Attica, the ancient district of east-central Greece, its chief city being Athens. Maritime trade far surpassed its agriculture.   
 
 [people] 141.317n Strabo. Strabo (64 BCE-21 CE), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
+
+141.317n Κασσι τερον. The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
 
 [place] 142.330 Enna. City and province in central Sicily and location of a Sicilian slave revolt (134-132 BCE).  
 
