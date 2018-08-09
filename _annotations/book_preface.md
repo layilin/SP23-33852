@@ -5,7 +5,7 @@ editor: julie
 ---
 
 
-v could not fail to enrich poetry. Grainger explains that because the Caribbean landscape is so different from European landscapes, it can produce new forms of poetry. To the extent that he describes his goal in aesthetic terms (including "picturesque images"), note his reliance on economic language ("enrich poetry").
+v could not fail to enrich poetry. Grainger explains that because the Caribbean landscapes, flora, and faua are so different from those in Europe, the region can give rise to new forms of poetry. To the extent that he describes his goal in aesthetic terms (including "picturesque images"), note his reliance on economic language ("enrich poetry"). This is a tension that carries through the preface into the poem itself.
 
 v Genius. Grainger uses "genius" in the sense of poetic inspiration as opposed to truth.
 
