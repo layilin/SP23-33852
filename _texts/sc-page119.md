@@ -30,7 +30,7 @@ source: "1764 edition"
 
 > VER. 596. *The Man of Norfolk,*] The Honourable General George Townshend.
 
-> VER. 608. *Jew-Fish*] This, tho' a very large, is one of the most delicate fishes that swim; being preferable to caramaw, king-fish, or camaree: some even chuse it before turtle. The Jew-fish is often met with at Antigua, which enjoys the happiness of having on its coast few, if any, poisoned fishes.
+> VER. 608. *Jew-Fish*] This, tho' a very large, is one of the most delicate fishes that swim; being preferable to caramaw, king-fish,[^f119n7] or camaree: some even chuse it before turtle. The Jew-fish is often met with at Antigua, which enjoys the happiness of having on its coast few, if any, poisoned fishes.
 
 [^f119n1]: George Townshend, first Marquess Townshend (1724-1807), an English politician and caricaturist who also had a distinguished military career, serving as second in command to Major-General James Wolfe in Canada during the Seven Years' War and then as overall commander after Wolfe's death during the campaign to take French-held Quebec, which surrendered to British forces in 1759.
 
@@ -43,5 +43,7 @@ source: "1764 edition"
 [^f119n5]: Apicius, a name used for several Roman connoisseurs of luxury but especially Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (CE 14-37). He exhausted his fortune on feasts and committed suicide rather than economize. 
 
 [^f119n6]: Jew-fish, the Atlantic goliath grouper (*Epinephelus itajara*). A large sporting and food fish of warm coastal waters. Its range includes the Caribbean, the Atlantic, and the Pacific. Now a critically endangered species. Because it is not clear if the name "jewfish" invokes a history of anti-Semitic associations, it was officially changed in 2001 by the American Fisheries Society to "Atlantic goliath grouper." 
+
+[^f119n7]: Also known as the king mackerel (*Scomberomorus cavalla*), which is found in the western Atlantic from Massachusetts to Brazil. 
 
 ---
