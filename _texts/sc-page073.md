@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
-- Now brighter, vaster corruscations flash;
+- Now brighter, vaster corruscations flash;[^f73n1]
 - Deepens the deluge; nearer thunders roll;
 - Earth trembles; ocean reels; and, in her fangs,
 - Grim Desolation tears the shrieking isle,
@@ -23,7 +23,7 @@ source: "1764 edition"
 - Oft reigns a tyrant in these fervid isles: [365]
 - For, from its burning furnace, when it breathes,
 - Europe and Asia's vegetable sons,
-- Touch'd by its tainting vapour, shrivel'd, die.
+- Touch'd by its tainting vapour, shrivel'd, die.[^f73n2]
 - The hardiest children of the rocks repine:
 - And all the upland Tropic-plants hang down [370]
 - Their drooping heads; shew arid, coil'd, adust.——
@@ -31,5 +31,10 @@ source: "1764 edition"
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
 - The sails hang idly, noiseless, from the mast. [375]
+
+
+[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+
+[^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
 
 ---
