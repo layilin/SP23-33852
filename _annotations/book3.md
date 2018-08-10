@@ -124,7 +124,7 @@ editor: julie, ami, lina, elizabeth
 
 98.215 Lacquay. Also lackey, a footman.  
 
-[place] 98.222 Antigua. One of the Leeward Islands that lies just to the east of Saint Kitts. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda. Samuel Martin, whom Grainger praises in his preface to the poem, was an Antigua planter who published his *Essay on Plantership* around 1750.
+[place] 98.222 Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda. Samuel Martin, whom Grainger praises in his preface to the poem, was an Antiguan planter who published his *Essay on Plantership* around 1750.
 
 98.222n hogsheads. A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
 
