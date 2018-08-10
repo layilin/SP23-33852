@@ -22,7 +22,7 @@ source: "1764 edition"
 - But would'st thou see thy negroe-train encrease,
 - Free from disorders; and thine acres clad
 - With groves of sugar: every week dispense
-- Or English beans,[^f147n2] or Carolinian rice;
+- Or English beans, or Carolinian rice;[^f147n2]
 - Iërne's beef, or Pensilvanian flour;[^f147n3] [435]
 - Newfoundland cod,[^f147n4] or herrings from the main
 - That howls tempestuous round the Scotian isles!
