@@ -390,7 +390,7 @@ editor: julie
 
 39.559 contagious blast. Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).  
 
-39.560. Dryad. Wood nymph.  
+39.560. Dryad. Wood or tree nymph in Greek mythology.  
 
 39.564. recks. Heeds, cares, minds, considers.  
 
