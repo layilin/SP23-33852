@@ -22,6 +22,6 @@ source: "1764 edition"
 
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
-[^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.  
+[^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
 
 ---
