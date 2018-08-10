@@ -363,7 +363,7 @@ editor: julie
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit originally from the South American highlands.  
 
-[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
+[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean. 
 
 [plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
 
