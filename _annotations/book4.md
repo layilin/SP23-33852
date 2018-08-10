@@ -395,13 +395,13 @@ editor: julie
 
 [plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America.  
 
-[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
+[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
 [plant] 156.569 bananas. Bananas (family Musaceae) are closely related to plantains. Both formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
 156.573 vans. Vantages, heights, summits.  
 
-* [plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
+[plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
 
 * [plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree native to the Caribbean, Central America, and northern South America.  
 
