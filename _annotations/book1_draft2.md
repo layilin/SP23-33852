@@ -384,7 +384,7 @@ editor: julie
 
 [plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade. 
 
-38.538n. emetic...pectoral. Emetics produce vomiting. Pectoral drinks aid in digestion.
+38.538n. emetic...pectoral. An emetic is a medicine that excites vomiting. Pectoral drinks aid in digestion.
 
 [plant] 38.538n black ebony. Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.  
 
