@@ -30,7 +30,7 @@ source: "1764 edition"
 
 [^f44n1]: In Book IV, line 430, Grainger admits that planters did not always provide enslaved laborers with sufficient food for survival.  
 
-[^f44n2]: glander-pest. Grainger is referring to the glanders, a contagious disease in horses.  
+[^f44n2]: Grainger is referring to the glanders, a contagious disease in horses.  
 
 [^f44n3]: Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
