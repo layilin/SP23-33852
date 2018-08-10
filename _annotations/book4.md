@@ -95,7 +95,7 @@ editor: julie
 
 130.121 Machaon. Greek physician and son of Asclepius, god of healing.  
 
-[plant] 131.123-124 vervain...sempre-vive, Unload their bowels. Vervain (*Verbena officinalis*) is an herbal shrub native to Europe. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
+[plant] 131.123-124 vervain...sempre-vive, Unload their bowels. Vervain (*Verbena officinalis*) is an herbal shrub whose native range includes the Old World and Australia. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
 
 131.127 white eagle; deadly foe to worms. Calomel or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge or drug used to eliminate parasitic worms from the body.
 
