@@ -31,8 +31,6 @@ source: "1764 edition"
 - The earth must also wheel around the sun,
 - And half perform that circuit; ere the bill[^f17n1] [175]
 
----
-
 >VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
 
 [^f17n1]: Also bill-hook. Cutlass used for cutting cane.
