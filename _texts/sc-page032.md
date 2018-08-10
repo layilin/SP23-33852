@@ -30,7 +30,9 @@ source: "1764 edition"
 - May constantly bedew them: so shall they  
 - Avoid those ails, which else their manhood kill.  
 
-- SIX times the changeful moon must blunt her horns,  
+- SIX times the changeful moon must blunt her horns,[^f32n1]  
 - And fill with borrowed light her silvery urn;  
+
+[^f32n1]: The pointed ends of the crescent moon are sometimes referred to as its horns. Grainger thus means that six moons or months must pass.  
 
 ---
