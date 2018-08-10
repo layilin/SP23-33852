@@ -19,10 +19,12 @@ source: "1764 edition"
 - Hath long time wandered, fearful at each step,
 - Of tumbling cliffs, fell serpents, whelming bogs; [5]
 - At last, from some lone eminence, descries
-- Fair haunts of social life; wide-cultur'd plains,
+- Fair haunts of social life; wide-cultur'd plains,[^f87n1]
 - O'er which glad reapers pour; he chearly sings:
 - So she to sprightlier notes her pipe attunes,
 - Than e'er these mountains heard; to gratulate, [10]
 - With duteous carols, the beginning year.
+
+[^f87n1]: Cultivated fields. 
 
 ---
