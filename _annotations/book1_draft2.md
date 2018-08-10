@@ -283,7 +283,7 @@ editor: julie
 
 [plant] 31.427 lemon, orange, and the lime. Members of the genus *Citrus*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*).  
 
-[plant] 31.430 yellow plantanes. Plantain (family Musaceae), closely related to the banana. Plantains and bananas formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
+[plant] 31.430 yellow plantanes. Plantains (family Musaceae) are closely related to the banana, and they both formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).    
 
 31.432 'Till Capricorn command. Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits it in mid-January.  
 
@@ -454,7 +454,7 @@ editor: julie
 
 [people] 44.618 Celsus. Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
-[plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) produces a fruit with a sticky, acidic pulp that has been used as a food ingredient for thousands of years. It is probably native to tropical Africa and Madagascar, but it had spread to the Caribbean by the eighteenth century.  
+[plant] 44.625 tamarind-vista. The tamarind tree (*Tamarindus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
 
 [plant] 44.606n tea. *Camellia sinensis* is the species from which commercially produced tea is derived. It is native to Southeast Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
