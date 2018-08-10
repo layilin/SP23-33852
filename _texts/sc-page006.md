@@ -16,7 +16,6 @@ source: "1764 edition"
 - But let thy biting ax with ceaseless stroke
 - The wild red cedar,[^f6n1] the tough locust[^f6n2] fell:
 
----
 
 > of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical search after gold mines in Florida and Guiana,[^f6n3] settled themselves soon after at the mouth of the river Surinam, where they cultivated the Cane with such success, that when the colony was ceded to the Dutch by the treaty of Breda,[^f6n4] it maintained not less than 40,000 Whites, half that number of slaves, and employed one year with another 15,000 ton of shipping. This cession was a severe blow to the English-trade, which it did not recover for several years, though many of the Surinam Planters carried their art and Negroes to the Leeward Islands[^f6n5] and Jamaica, which then began to be the object of political consideration in England.  
 
@@ -24,7 +23,7 @@ source: "1764 edition"
 
 > VER. 29. *Muscovado,*\] The Cane-juice being brought to the consistence of syrup, and, by subsequent coction, granulated, is then called *muscovado* \(a Spanish word probably, though not to be found in Pineda) vulgarly brown Sugar; the French term it *sucre brut*.
 
-> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white and red, which differ from the cedars cultivated in the Bermudas: both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison. The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
+> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white[^f6n7] and red, which differ from the cedars cultivated in the Bermudas:[^f6n8] both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison. The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
 
 > VER. 34. *Locust*\] This is also a lofty tree. It is of quick growth and handsome, and produces a not disagreeable fruit in a flat pod or legumen, about three inches long. It is a serviceable wood. In botanical books, I find three different names for the locust-tree; that meant here is the *Siliqua edulis*.
 
@@ -40,4 +39,7 @@ source: "1764 edition"
 
 [^f6n6]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
+[^f6n7]: The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean.
+
+[^f6n8]: The Bermuda cedar (*Juniperus bermudiana*). Endemic to Bermuda and used for building houses and other construction work. Also sustained a ship-building industry that denuded the island of most of its Bermuda cedars by the 1830s.
 ---
