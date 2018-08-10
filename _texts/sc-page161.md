@@ -14,7 +14,7 @@ source: "1764 edition"
 - Imperfect swim!—See! in that flaming scroll, [655]
 - Which Time unfolds, the future germs bud forth,
 - Of mighty empires! independent realms!——
-- And must Britannia, Neptune's favourite queen,
+- And must Britannia, Neptune's favourite queen,[^f161n1]
 - Protect'ress of true science, freedom, arts;
 - Must she, ah! must she, to her offspring crouch? [660]
 - Ah, must my Thames, old Ocean's favourite son,
@@ -25,11 +25,16 @@ source: "1764 edition"
 - And sparkling stars the vast horizon gild—
 - She shall not crouch; if Wisdom guide the helm,
 - Wisdom that bade loud Fame, with justest praise,
-- Record her triumphs! bade the lacquaying winds
+- Record her triumphs! bade the lacquaying winds[^f161n2]
 - Transport, to every quarter of the globe, [670]
 - Her winged navies! bade the scepter'd sons
 - Of earth acknowledge her pre-eminence!—
 - She shall not crouch; if these Cane ocean-isles,
 - Isles which on Britain for their all depend,
 
-___
+
+[^f161n1]: A reference to Britain's status as the premier naval power during the eighteenth century. 
+
+[^f161n2]: Winds that follow or serve.
+
+---
