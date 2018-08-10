@@ -33,7 +33,7 @@ source: "1764 edition"
 - But, now, what clouds of white smoke load the sky!
 - How strong, how rapid the combustion pours!
 
-[^f90n1]: labour in a round revolves. Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
+[^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
 [^f90n2]: A country or farm laborer, a shepherd. A key figure in georgic poetry.  
 
