@@ -4,23 +4,24 @@ title: footnotes for book 3
 editor: julie, ami, lina, elizabeth
 ---
 
-87.7 wide-cultured plains. Cultivated fields; a sign of society after an extended period in the wilderness.
+
+87.7 wide-cultured plains. Cultivated fields.  
 
 88.12 eldest birth of Time. January.  
 
 88.24 Dryads. Wood or tree nymphs in Greek mythology.  
 
-[plant] 88.25 broad-leaf'd china. The china-root plant, *Smilax china*, which is native to China and valued for its medicinal properties. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear, however. The genus *Smilax* today contains approximately 350 species, which are sometimes difficult to distinguish from each other. Moreover, recent studies of the *Smilax* genus in the Caribbean do not show the presence of *Smilax china*, although the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
+[plant] 88.25 broad-leaf'd china. The china-root plant, *Smilax china*, which is native to China and valued for its medicinal properties. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear, however. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
 
-88.17n a giant, of that appellation, carrying our Saviour, in the form of a child. A reference to the legend that St. Christopher, whose name means 'Christ-carrier,' was a giant who once carried Jesus in the form of a child across a river.  
+88.17n a giant, of that appellation, carrying our Saviour, in the form of a child. A reference to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.  
 
-[plant] 88.25n sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, commonly known as "Jamaica sarsaparilla."  
+[plant] 88.25n sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
 
-[plant] 88.25n lignum vitae. The hard, dense wood of the guaiacum tree (*Guaiacum officinale*) used in the treatment of syphilis and yaws.
+[plant] 88.25n lignum vitae. The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean). Lignum vitae ("wood of life") was used to treat a variety of diseases, including syphilis and yaws.  
 
-89.30 January, Hail! The new year was generally considered crop-time, a period of intense activity when cane was harvested and milled, the cane syrup boiled, the sugar crystallized and prepared for export.
+89.30 January, Hail! The new year was generally considered crop time, a period of intense activity when cane was harvested, milled, and prepared for export.  
 
-[people] 89.31 M * * * . Colonel Samuel Martin (1694/5-1776), Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750. Published in at least a dozen editions before the end of the eighteenth century, the *Essay* contains Martin's recommendations for plantation management, which included the regulation and management of enslaved labor, the planting and harvesting of cane, and methods for making plantations more efficient. The *Essay* is written in prose, but it served as an important source for Grainger. <!---Not clear that this is Martin; Gilmore suggests that it could be Mathew, Grainger's brother-in-law--->  
+[people] 89.31 M * * * . Colonel Samuel Martin (1694/5-1776), Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750. Published in at least a dozen editions before the end of the eighteenth century, the *Essay* contained Martin's recommendations for plantation management and covered topics ranging from the regulation and management of enslaved labor to the planting and harvesting of cane. The *Essay* is written in prose, but it served as an important source for Grainger.  
 
 89.33 spleen. Bad temper or a melancholy temperament.  
 
@@ -36,17 +37,15 @@ editor: julie, ami, lina, elizabeth
 
 89.38 sylvan school. Informal education provided by experience in nature or the wilderness, rather than in the classroom.
 
-90.46 labour in a round revolves. Cane cultivation is a year-round affair which nevertheless has distinct rhythms. This is due in large part to the fact that cane itself can take 15-24 months to mature.
+90.46 labour in a round revolves. Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-90.48 swains. A country of farm laborer, a shepherd. The key figure in the georgic. Contrast with IV.229, where Grainger refers to enslaved laborers as swains.
+90.48 swains. A country or farm laborer, a shepherd. A key figure in georgic poetry.  
 
-90.54 nor hand of malice. Arson. Grainger does not specify who the arsonists might be, but this is one of the places where he hints at moments of enslaved resistance on Caribbean plantations. Note also Book II line 60n, where Grainger observes that enslaved Africans would sometimes rather set fire to cane fields than work in fields that have been infested with cowitch.
+90.54 nor hand of malice. A reference to arson. Grainger does not specify who the arsonists might be, but this is one of the places where he hints at moments of enslaved resistance on Caribbean plantations.  
 
 90.59 Palaemon's fate. Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
-90.61 hydra. A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task. Grainger uses it here to describe the difficulty of putting out fire once it breaks out. 
-
-91.80 cypress-roofs <!--clearly some kind of thatched roof, but not sure if it's actual cypress; Gilmore thinks no-->
+90.61 hydra. A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
 
 91.81n Bagasse. The crushed stalks that are the byproduct of milling sugar-cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
 
@@ -54,55 +53,53 @@ editor: julie, ami, lina, elizabeth
 
 92.94 coppers. Copper pots used for boiling cane juice.
 
-92.99 dare now deprive them of the luscious cane. In his prose *Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved Africans "should not only be allowed to drink what quantity of the cane-juice they think proper, but even be obliged to drink it" during crop time. However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth. Douglas Hall, *In Miserable Slavery: Thomas Thistlewood in Jamaica, 1750-86* (London: Macmillan, 1989). See line 412 below. <!--109.412 also has a note to this effect. Technically, we should use this one, unless there's a strong preference for doubling the note or using the later one-->
+* 92.99 dare now deprive them of the luscious cane. In his prose *Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved Africans "should not only be allowed to drink what quantity of the cane-juice they think proper, but even be obliged to drink it" during crop time. However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
 
-92.103 wanes. a Wane (or Wain) is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.
+92.103 wanes. A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.
 
-92.103 many a day, And many a night. Cane juice begins to spoil as soon as the plant is cut, so planters preferred to run their mills and boiling houses 24-hours-a-day during crop time. Grainger's reference to "cheerful toil" in line 101 is ironic under any circumstance, but especially during crop time, which was considered by many to be the most laborious and difficult time of the year. <!--could add a reference to Matthew Lewis here -->
+92.103 many a day, And many a night. Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses 24 hours per day during crop time.  
 
-92.107 AEthiop-brow. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference and African inferiority based on skin color.  
+92.107 AEthiop-brow. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.  
 
 93.108 Phosphor. The morning star or the planet Venus when found in the sky before sunrise.  
 
-93.112 yellow jointed canes. Sugarcane turns yellow when it is ripe.
+93.112 yellow jointed canes. Sugar cane turns yellow when it is ripe.
 
-93.118 eyes. Sugar-cane buds. To produce new sugar-cane, sugar-cane stalks with buds on them (called ratoons) were planted in the ground.  
+93.118 eyes. Sugar-cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
 
-93.127 junks. Stems or stalks, a gathering of stalks.  
+93.127 junks. A gathering of stems or stalks.  
 
-[place][people] 94.131 Lincoln-plains...Lincoln...Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Lincoln was a center of wook production, and the Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.
+[place][people] 94.131 Lincoln-plains...Lincoln...Dyer. John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Lincoln was a center of wool production, and the Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.
 
-94.135 impress upon their captive sides, their master's cypher. The practice of branding sheep. Though he does not make i explicity, this passge of Graingers parallels a plantation discipline wherein enslaved persons were branded with their enslavers mark<!--Gilmore attributes this to Thomas Doring, whom we can add to the bibliography-->
+94.135 impress upon their captive sides, their master's cypher. The practice of branding sheep. Alhough he does not make an explicit comparison between the treatment of animals and human beings, this passage recalls the fact that enslaved persons were branded with the marks of their enslavers. See Gilmore, who credits Tobias Döring with this insight.  
 
 94.143 from such dire sounds. The sound of the whip cracking. This is one of several places in the poem where Grainger shrinks from the violence of plantation slavery.  
 
-94.146 laughing, labouring, singing throng. Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and Grainger and other colonists tended to view them as beneficial tools for psychologically lightening the burden of the labor being performed. In short, they saw music and singing as helping to ensure compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see "Song of slaves in Barbados" at https://www.gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/). A recording of the song by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, as well as its sorrowful and tragic dimensions (see https://www.gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3).  
+94.146 laughing, labouring, singing throng. Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and planters also saw them as helping to lighten the burden of the labor being performed. In short, they saw music and singing as making work more pleasant and thereby ensuring compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see "Song of slaves in Barbados" at https://www.gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/). A recording of the song by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, which imbues it with a sorrowful and tragic dimension (see https://www.gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3).  
 
-94.148 hind's blithe whistle. A hind is a farm servant or agricultural laborer. Instead of describing the singing of the enslaved directly, Grainger invokes the whistling of a standard georgic figure.  
+94.148 hind's blithe whistle. A hind is a farm servant or agricultural laborer.  
 
-[place] 95.153 Annan's pastoral hills. The Annan is a river in Dumfries and Galloway, a unitary council area in southern Scotland near the border with England. During the 1332 Battle of Annan at the outset of the Second war of Scottish independence, Sir Archibald Douglas attacked Edward Balliol and his army at Annan. Escaping just before being captured, Balliol is said to have fled naked to England.
+[place] 95.153 Annan's pastoral hills. The Annan is a river in Dumfries and Galloway, a unitary council area in southern Scotland near the border with England. During the 1332 Battle of Annan at the outset of the Second War of Scottish Independence (1332-1357), Sir Archibald Douglas attacked Edward Balliol and his army at Annan. Escaping just before being captured, Balliol is said to have fled naked to England.
 
-95.160 Ceres. Italo-Roman goddess of growth and agriculture.
+95.160 Ceres. Italo-Roman goddess of growth and agriculture.  
 
-95.162 sonorous bellows. Bagpipes.
+95.162 sonorous bellows. Bagpipes.  
 
-95.164 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major (Latin for "the greater dog"). Sirius rises in conjunction with the sun, July 3 through August 11.
+95.164 dog-star. The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
 
 95.167 steel-cas'd cylinder. Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.
 
-95.168 off the member snapt. As Grainger describes, milling cane was a dangerous activity and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be cut off without delay, thus preventing further injury.
+95.168 off the member snapt. Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be cut off without delay.  
 
-95.168n put out of the wind. To put a windmill "out of the wind" is to stop the mill by turning the sails so they no longer catch the wind.
+95.168n put out of the wind. To put a windmill "out of the wind" is to stop the mill by turning the sails so they no longer catch the wind.  
 
-96.173 manumit. To free from slavery. Here Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandonned to care for themselves.
+96.173 manumit. To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
 
 [people] 96.168n Pere Labat. Jean Baptiste Labat (1663-1738), Dominican missionary who worked in Guadeloupe for several years and authored the *Nouveau voyage aux isles de l'Amerique* (1722).  
 
-96.168n domestic slavery. Refers to slavery within Africa.  <!--I'm not sure that this is right, given the context. cs -->
+97.183 the least admixture. The contamination of good cane juice with spoiled juice.  
 
-97.183 the least admixture. The contamination of good cane juice with spoiled juice.
-
-97.189 in huge casks steept. Grainger speaks of adding milled cane, which still contains residual sugar, to fermentation vats before being sent to compost.
+97.189 in huge casks steept. Grainger speaks of adding milled cane, which still contains residual sugar, to fermentation vats before sending them to compost.
 
 97.191 Vulcan's aid. Vulcan, the Roman god of fire. Grainger refers to flame being used in the distillation of rum.
 
@@ -112,39 +109,37 @@ editor: julie, ami, lina, elizabeth
 
 97.197 Polydamna. Wife of Thone, an Egyptian king. In Homer's *Odyssey*, Polydamna gives Helen nepenthe.  
 
-97.198 Jove. Alternate name for Jupiter, Roman god of Thunder.
+97.198 Jove. Alternate name for Jupiter, Roman god of thunder.
 
-97.198 Helen. Said to be the most beautiful woman in Ancient Greece, Paris abducted her from King Menelaus, thus leading to the siege of Troy.
+97.198 Helen. Said to be the most beautiful woman in Ancient Greece. Paris abducted her from King Menelaus, thus leading to the siege of Troy.
 
-97.203 Less-bellying canvas. A sail designed so that it does not overfill with wind. Here Grainger returns to the image of the windmill from line 81, above.
+97.203 Less-bellying canvas. A sail designed so that it does not overfill with wind.  
 
-[plant] 98.205 coco. The coconut palm (*Cocos nucifera*).  
+[plant] 98.205 coco. The coconut palm (Cocos nucifera), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.  
 
-98.209 "Informer of the planetary train." The informer is the sun and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as George Thomson *The Seasons*.
+98.209 "Informer of the planetary train." The informer is the sun, and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as James Thomson's *The Seasons* (1730).  
 
-98.215 Lacquay. Also lackey, a footman.  
+98.215 Lacquay. Lackey, footman.  
 
-[place] 98.222 Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda. Samuel Martin, whom Grainger praises in his preface to the poem, was an Antiguan planter who published his *Essay on Plantership* around 1750.
+[place] 98.222 Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.  
 
-98.222n hogsheads. A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
+98.222n hogsheads. A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.  
 
 [place] 98.222n body-ponds. A watershed in Antigua.  
 
 [place] 99.226 Tobago. An island located northeast of Trinidad and southeast of Grenada. Now part of the Republic of Trinidad and Tobago.  
 
-[plant] 99.227 calaba. *Calophyllum antillanum*, formerly *Calophyllum calaba*, is a hardwood tree native to the Caribbean.   
+[plant] 99.227 calaba. *Calophyllum antillanum* is a hardwood tree native to the Caribbean.   
 
 99.229 cubit. An ancient measurement of length derived from the forearm, usually about 18-22 inches.  
 
-99.233 worm. *Teredo navalis* or the naval shipworm is a mollusc that burrows into underwater timbers on piers and ships.  
-
-[plant] 99.235 British oak. Also English oak (*Quercus robur*) long used in British shipbuilding. The naval shipworm was particularly destructive to oak, and therefore the bane of the British navy.
+[plant] 99.233-236 worm...British oak...The closer calaba. The naval shipworm (*Teredo navalis*) is a mollusc that burrows into underwater timbers on piers and ships. It was particularly destructive to the British or English oak (*Quercus robur*), which was long used in shipbuilding, including by the British navy.    
 
 99.238 bridge-tree. An adjustable beam that supports the spindle of the runner or upper stone in a grain mill.  
 
 99.238 mortis'd. Mortised. To be fixed in or joined together closely and firmly.  
 
-[place] 99.227n St. Croix. An island that now forms part of the United States Virgin Islands.  
+[place] 99.227n St. Croix. An island that now forms part of the US Virgin Islands.  
 
 [place] 99.227n Crab island. Isla de Vieques, a part of Puerto Rico that lies immediately east of the main island.    
 
@@ -154,19 +149,17 @@ editor: julie, ami, lina, elizabeth
 
 100.252 thro'. The "Errata" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
 
-100.252 lead-lin'd spouts. Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (called dry gripes or colic).
+100.252 lead-lin'd spouts. Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
 
 100.253 depurated. To depurate is to free from impurities or to cleanse.  
 
-100.255 muscovado. A dark brown, unrefined sugar that was typically the end product of the boiling process in the Caribbean. Often described as unrefined since it was usually processed further and lightened in color before being sold to consumers in Britain.  
+100.255 muscovado. A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Britain and lightened in color before being sold to consumers.  
 
-100.256 staunchions.  Also stanchion, an upright bar, stay, prop, or support.  
+100.256 staunchions. Also stanchion, an upright bar, stay, prop, or support.  
 
-100.256 Day's bright god. The sun.  
+[people] 100.259n. Sir Walter Ralegh. Sir Walter Raleigh (1554-1618) was an English courtier during Queen Elizabeth I's reign, as well as an explorer and author who obtained a patent for and helped to organize the expeditions to Roanoke in 1585 and 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of the Large, Rich, and Bewtiful Empyre of Guiana* (1596) and is associated with the introduction of tobacco to England.  
 
-[place] [people] 100.259n. Virginia. Sir Walter Raleigh (1554-1618) English courtier during Queen Elizabeth I's reign, explorer, and author who obtained a patent for and helped organize the expedition to Roanoke in 1585 and again in 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of large, Rich, and Beautiful Empire of Guiana* (1596), and is associated with the introduction of tobacco to England.
-
-[people] 100.259n Sebastian Cabot. Sebastian Cabot (c. 1481/2–1557), Venetian navigator and cartographer who explored the north Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. Also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, Grainger repeats the claim (made by Cabot himself late in life) that he was born in Bristol.
+[people] 100.259n Sebastian Cabot. Sebastian Cabot (c. 1481/2–1557), Venetian navigator and cartographer who explored the north Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. Also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).  
 
 [people] 101.259n King Henry VII. Henry VII (1457-1509) was the first Tudor king of England. He succeeded Richard III, ending the Wars of the Roses, and was himself followed by his son, Henry VIII.
 
@@ -174,13 +167,13 @@ editor: julie, ami, lina, elizabeth
 
 101.266 strowed. Past tense of strow or strew; to scatter or spread loosely.  
 
-[people] 101.272 Machaon. Greek physician and son of Asclepius, god of healing.  
+[people] 101.272 Machaon. Greek physician and son of Asclepius; god of healing.  
 
 102.273 farcy. A disease of animals, especially of horses.  
 
 102.273 tabid. Also tabetic. Wasted by disease, corrupted.  
 
-102.274 cholic. Colic, painful stomach contractions.
+102.274 cholic. Colic or painful stomach contractions.
 
 102.278 Indesinent. Incessant.  
 
@@ -194,25 +187,25 @@ editor: julie, ami, lina, elizabeth
 
 [place] 102.288 Liamuiga. Indigenous name for the island of St. Kitts.
 
-[people] 102.289 Romney. George Brydges Rodney (1718-1792), English admiral who played a key role in the attack on Martinique.  
+[people] 102.289 Romney. According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla, the heiress of the St. Kitts planter Charles Pym.  
 
 [place] 102.283n Havannah. Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.  
 
-103.304 palm of eloquence. Prize for speech. In the Ancient Greek Olympics, winners were awarded palm fronds.
+103.304 palm of eloquence. Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
 
 [place] 103.306-307 Kent...Gaul. Kent is a county in southeastern England facing France, which was part of the ancient region of Gaul.  
 
-104.315 boilers. Working conditions in the boiling house were extremely difficult, and only the strongest of the enslaved were assigned there. Tasks included stoking the fires to boil the sugarcane juice and skimming or removing the impurities that rose to the top of the boiling cane juice. Being a boiler was more than merely physical work, however: it also required considerable technical and practical knowledge about the process of sugar production and refinement, and enslavers depended heavily on their head refiners or boilers for good yields of sugar from their crops.  
+104.315 boilers. Working conditions in the boiling house were extremely difficult, and only the strongest of the enslaved were assigned there. Tasks included stoking the fires to boil the sugarcane juice and skimming or removing the impurities that rose to the top. Being a boiler was more than merely physical work, however: it also required considerable technical and practical knowledge about the process of sugar production and refinement, and enslavers depended heavily on their head refiners or boilers for good yields of sugar from their crops.  
 
-104.318 Cancer. A constellation seen in early in the Northern Hemisphere. Cancer is also a water sign and a cardinal sign of the Zodiac that indicates a change of season.  
+104.318 Cancer. Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign of the zodiac that indicates a change of season.  
 
-104.321 lave. To pour or ladle out.
+104.321 lave. To pour or ladle out.  
 
 104.322 gelid. Cold.  
 
-104.323 chemist. The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. Grainger does not mean chemist in the way that a modern audience might, but someone who is skilled in the art of mixing compounds. Sugar production depended on precise technical knowledge of how much to heat the cane juice, at what temperature to do so, and when to add catalysts and additional ingredients to ensure the final product was pure.
+104.323 chemist. The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and additional ingredients to the cane juice to rid it of impurities.  
 
-105.334 dropsy. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema)  
+105.334 dropsy. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema).  
 
 105.334 pulmonic ails. Lung infections/diseases
 
