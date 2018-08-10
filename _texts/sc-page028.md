@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
-- The coyest Naiads quit their rocky caves, [355]
+- The coyest Naiads[^f28n1] quit their rocky caves, [355]
 - And, with delight, run brawling to the main;
 - While those, who love still visible to glad
 - The thirsty plains from never-ceasing urns,
@@ -31,5 +31,7 @@ source: "1764 edition"
 - Which, with their fragrant scents, perfume the air,
 - Burst into being; while the Canes put on
 - Glad Nature's liveliest robe, the vivid green. [375]
+
+[^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
 
 ---
