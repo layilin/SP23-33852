@@ -11,7 +11,7 @@ editor: julie
 
 [place] 125.4 Niger. The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.  
 
-[plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its native range extends from southern Mexico to Venezuela.  
+[plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela.  
 
 [place] 125.9 Rio Grandê. Major estuary in modern Guinea-Bissau.  
 
@@ -95,7 +95,7 @@ editor: julie
 
 130.121 Machaon. Greek physician and son of Asclepius, god of healing.  
 
-[plant] 131.123-124 vervain...sempre-vive, Unload their bowels. Vervain (*Verbena officinalis*) is an herbal shrub whose native range includes the Old World and Australia. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
+[plant] 131.123-124 vervain...sempre-vive, Unload their bowels. Vervain (*Verbena officinalis*) is an herbal shrub whose native range is the Old World and Australia. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
 
 131.127 white eagle; deadly foe to worms. Calomel or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge or drug used to eliminate parasitic worms from the body.
 
@@ -183,7 +183,7 @@ editor: julie
 
 138.265 yaws. Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
-[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range includes the subtropical and tropical parts of the world.  
+[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range is the subtropical and tropical parts of the world.  
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -209,7 +209,7 @@ editor: julie
 
 140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
-[plant] 141.313 worm-grass. Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range includes the tropical and subtropical Americas.  
+[plant] 141.313 worm-grass. Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.  
 
 [place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
 
@@ -305,7 +305,7 @@ editor: julie
 
 [plant] 149.462n mezamby. Gilmore identifies mezamby as probably *Cleome gynandra*, a plant whose native range is the tropical and subtropical Old World.  
 
-[plant] 149.462n Jamaica prickle-weed. Might refer to *Amaranthus spinosus*, a plant sometimes known as prickly callaloo. Its native range includes Mexico and the tropical Americas.   
+[plant] 149.462n Jamaica prickle-weed. Might refer to *Amaranthus spinosus*, a plant sometimes known as prickly callaloo. Its native range is Mexico and the tropical Americas.   
 
 149.462n esculent. Suitable for food, edible.  
 
