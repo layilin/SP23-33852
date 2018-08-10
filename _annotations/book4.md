@@ -205,7 +205,7 @@ editor: julie
 
 140.305 "melt with the minings of the hectic fire." Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
 
-[plant] 140.309 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
+[plant] 140.309 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
 
 140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
