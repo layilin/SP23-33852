@@ -246,7 +246,7 @@ editor: julie
 
 [people] 143.360. Columbus. Christopher Columbus (1450/1451-1506). Sailed to the Caribbean islands on a voyage thought to be a route to Asia sponsored by King Ferdinand II of Aragon and Queen Isabella of Castile. Columbus made four such voyages, establishing a colony at Hispaniola, where he served as governor before he was briefly imprisoned for violent and incompetent governance.  
 
-[place] 143.363. Lusitania's. A Roman province named for its inhabitants, the Lusitani. Modern-day Portugal.  
+[place] 143.363. Lusitania's. Lusitania (now modern Portugal) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.  
 
 143.367 imaginary woes. Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real -- and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as "fixed melancholy" in the latter half of the eighteenth century. Often associated with longing for friends and for family, physicians diagnosed many enslaved Africans with fixed melancholy, and expressed concern that the illness would lead to suicide. Here Grainger suggests a link between the symptoms and the practice of Obeah.
 
