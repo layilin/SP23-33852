@@ -49,6 +49,4 @@ source: "1764 edition"
 
 [^f130n8]: Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
-
-
 ---
