@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [15]()
 
-- Prince of the forest, gave Barbadoes[^f15.1] name:
+- Prince of the forest, gave Barbadoes [^f15.1] name:
 - Chief Nevis, justly for its hot baths fam'd:
 - And breezy Mountserrat, whose wonderous springs [135]
 
@@ -17,8 +17,6 @@ source: "1764 edition"
 >VER. 134. *Chief Nevis,*\] This island, which does not contain many fewer square miles than St. Christopher, is more rocky, and almost of a circular figure. It is separated from that island by a channel not above one mile and an half over, and lies to windward. Its warm bath possesses all the medical properties of the hot well at Bristol, and its water, being properly bottled, keeps as well at sea, and is no less agreeable to the palate. It was for many years the capital of the Leeward Island government; and, at that period, contained both more Whites and Blacks than it does at present, often mustering 3000 men. The English first settled there *A. D.* 1628. Sixty-two years aftewards, the chief town was almost wholly destroyed by an earthquake; and, in 1706, the planters were well-nigh ruined by the French, who carried off their slaves contrary to capitulation. It must have been discovered in Columbus's second voyage, *A. D.* 1493.
 
 >VER. 135. *And breezy Mountserrat,*\] This island, which lies 30 miles to the south-west of Antigua, is not less famous for its solfaterre (or volcano), and hot petrifying spring, than for the goodness of its sugars. Being almost circular in its 
-
----
 
 [^f15.1]: Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.  
 
