@@ -9,8 +9,8 @@ source: "1764 edition"
 [138]()
 
 - NOR only is the dragon worm[^f138n1] to dread:
-- Fell, winged insects, which the visual ray
-- Scarcely discerns,[^f138n2] their sable[^f138n3] feet and hands
+- Fell, winged insects,[^f138n2] which the visual ray
+- Scarcely discerns, their sable[^f138n3] feet and hands
 - Oft penetrate; and, in the fleshy nest,
 - Myriads of young produce; which soon destroy [260]
 - The parts they breed in; if assiduous care,
