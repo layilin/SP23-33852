@@ -366,7 +366,7 @@ editor: julie
 
 [people] 37.526n. Edwards. George Edwards (1694-1773), English artist and ornithologist. Author of *A Natural History of Uncommon Birds* (1743-1751).  
 
-[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration.  
+[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
 38.543. Vermeil. Bright red color.
 
