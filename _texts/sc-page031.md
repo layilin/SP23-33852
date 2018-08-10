@@ -39,6 +39,6 @@ source: "1764 edition"
 [^f31n7]: Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits it in mid-January.  
 [^f31n8]: Aquarius is the eleventh sign of the zodiac; the sun enters it in mid-January and exits it in mid-February.  
 [^f31n9]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
-[^31n10]: *Bromelia pinguin*. Its native range is Mexico and the tropical Americas.  
+[^f31n10]: *Bromelia pinguin*. Its native range is Mexico and the tropical Americas.  
 
 ---
