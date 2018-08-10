@@ -275,17 +275,17 @@ editor: julie
 
 31.416 Procyon. Alpha Canis Minoris, the brightest star in the constellation Canis Minor.
 
-31.417 yet the fiery Sun in Leo rides. Leo is the fifth sign of the zodiac; the sun enters its sign in mid-July and exits in mid-August.  
+31.417 yet the fiery Sun in Leo rides. Leo is the fifth sign of the zodiac; the sun enters it in mid-July and exits it in mid-August.  
 
 [plant] 31.418 anana. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.  
 
-31.425 the arrow's deadening power. Refers to Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow; popularly known as the Archer. By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the zodiac; the sun enters its sign in mid-November and exits in mid-December.  
+31.425 the arrow's deadening power. Refers to Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow; popularly known as the Archer. By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the zodiac; the sun enters it in mid-November and exits it in mid-December.  
 
 [plant] 31.427 lemon, orange, and the lime. Members of the genus *Citrus*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*).  
 
 [plant] 31.430 yellow plantanes. Plantain (family Musaceae), closely related to the banana. Plantains and bananas formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
 
-31.432 'Till Capricorn command. Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits in mid-January.  
+31.432 'Till Capricorn command. Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits it in mid-January.  
 
 31.433 moist Aquarius melt. Aquarius is the eleventh sign of the zodiac; the sun enters it in mid-January and exits it in mid-February.  
 
