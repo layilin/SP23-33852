@@ -37,10 +37,10 @@ source: "1764 edition"
 
 [^f90n2]: A country or farm laborer, a shepherd. A key figure in georgic poetry.  
 
-[^f90n4]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of the places where he hints at moments of enslaved resistance on Caribbean plantations.  
+[^f90n3]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of the places where he hints at moments of enslaved resistance on Caribbean plantations.  
 
-[^f90n5]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
+[^f90n4]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
-[^f90n6]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
+[^f90n5]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
 
 ---
