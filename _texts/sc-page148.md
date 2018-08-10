@@ -15,7 +15,7 @@ source: "1764 edition"
 - Some mountain-ground: or, if waste broken land
 - To thee belong, that broken land divide.
 - This let them cultivate, one day, each week;[^f148n1]
-- And there raise yams,[^148n2] and there cassada's root:[^f148n3]
+- And there raise yams,[^f148n2] and there cassada's root:[^f148n3]
 - From a good daemon's staff cassada sprang, [450]
 - Tradition says, and Caribbees believe;
 - Which into three the white-rob'd genius broke,
