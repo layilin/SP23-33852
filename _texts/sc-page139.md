@@ -27,7 +27,7 @@ source: "1764 edition"
 - Total remove, and give the blood its balm. [285]
 
 - SAY, as this malady but once infests
-- The sons of Guinea, might not skill ingraft[^f139n4]
+- The sons of Guinea, might not skill ingraft[^f139n5]
 - (Thus, the small-pox are happily convey'd;)
 - This ailment early to thy Negroe-train?
 
