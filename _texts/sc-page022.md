@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - IT not imports beneath what sign thy hoes
 - The deep trough sink, and ridge alternate raise:
-- If this from washes guard thy gemmy [^f22n1] tops; [260]
+- If this from washes guard thy gemmy[^f22n1] tops; [260]
 - And that arrest the moisture these require.
 
 - YET, should the site of thine estate permit,
