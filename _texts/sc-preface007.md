@@ -18,8 +18,16 @@ Yet, like them too, I have generally preferred the way of description, wherever 
 
 SUCH words as are not common in Europe, I have briefly explained: because an obscure poem affords both less pleasure and profit to the reader.—For the same reason, some notes have been added, which, it is presumed, will not be disagreeable to those who have never been in the West-Indies.
 
-IN a West-India georgic, the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known. And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet.
+IN a West-India georgic,[^fviin1] the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known.[^fviin2] And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet.[^fviin3]
 
-*Basseterre, Jan. 1763.*
+*Basseterre, Jan. 1763.*[^fviin4]
+
+[^fviin1]: A term of Grainger's invention. Building on his opening claim that the Caribbean would transform the face of poetry, Grainger simultaneously leans on a traditional mode (the georgic) and imagines a new form for it (West-India). It is worth considering what specifically about this poem makes it West Indian or Caribbean.
+
+[^fviin2]: Grainger's mention of indigenous remedies refers in part to the knowledge possessed by indigenous peoples of the Caribbean, but it also refers to the local knowledge that African and European transplants to the Caribbean developed as they learned about the new environment. In particular, Grainger uses the poem to display his knowledge of husbandry, medicine, and natural history. We have tried in our notes to identify the origins of the natural entities, and especially plants, named by Grainger. While some of these plants do originate from the Caribbean and the Americas, others come from Africa, Europe, Asia, and other parts of the world. In many cases, these foreign plants were brought to the Caribbean purposefully, as individuals sought to transform their new homes by importing crops and commodities that could help them survive and profit.  
+
+[^fviin3]: Born in Scotland, Grainger was trained as a physician in Edinburgh, but he had significant literary ambitions dating back at least to the mid-1750s, when he settled in London. The phrase that closes his preface has long fascinated critics because it suggests a certain ambivlanece about the aims and the form of the poem. Certainly, Grainger was aware that the inclusion of local knowledge and the proliferation of footnotes were unusual, and he anticipated criticism of his choices.  
+
+[^fviin4]: Basseterre is the capital of St. Kitts.  
 
 ---
