@@ -10,10 +10,19 @@ source: "1764 edition"
 
 modes of planting, with such propriety, as those I had seen practiced in that island, where it has been my good fortune chiefly to reside since I came to the West-Indies.
 
-I HAVE often been astonished, that so little has been published on the cultivation of the Sugar-Cane, while the press has groaned under folios on every other branch of rural oeconomy. It were unjust to suppose planters were not solicitous for the improvement of their art, and injurious to assert they were incapable of obliging mankind with their improvements.
+I HAVE often been astonished, that so little has been published on the cultivation of the Sugar-Cane, while the press has groaned under folios on every other branch of rural oeconomy.[^fvin1] It were unjust to suppose planters were not solicitous for the improvement of their art, and injurious to assert they were incapable of obliging mankind with their improvements.[^fvin2] 
 
-AND yet, except some scattered hints in Pere Labat, and other French travellers in America; an Essay, by Colonel Martyn of Antigua, is the only piece on plantership I have seen deserving a perusal. That gentleman's pamphlet is, indeed, an excellent performance; and to it I own myself indebted.
+AND yet, except some scattered hints in Pere Labat, and other French travellers in America; an Essay, by Colonel Martyn of Antigua, is the only piece on plantership I have seen deserving a perusal. That gentleman's pamphlet is, indeed, an excellent performance; and to it I own myself indebted.[^fvin3] 
 
-IT must be confessed, that terms of art look awkward in poetry; yet didactic compositions cannot wholly dispense with them. Accordingly we find that Hesiod and Virgil, among the ancients, with Philips and Dyer, (not to mention some other poets now living in our own country); have been obliged to insert them in their poems. Their example is a sufficient apology for me, for in their steps I shall always be proud to tread.
+IT must be confessed, that terms of art look awkward in poetry; yet didactic compositions cannot wholly dispense with them. Accordingly we find that Hesiod and Virgil, among the ancients, with Philips and Dyer, (not to mention some other poets now living in our own country); have been obliged to insert them in their poems.[^fvin4] Their example is a sufficient apology for me, for in their steps I shall always be proud to tread.
+
+
+[^fvin1] Agriculture, farming.
+
+[^fvin2] The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Enlightenment.
+
+[^fvin3] Here, Grainger is crediting the authors who have influenced him the most. Jean Baptiste Labat (1663-1738) was a French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. He liberated the island of Martinique from British control in 1703. Later, he served as a professor of philosophy and mathematics in Nancy, France, and authored the *Nouveau voyage aux isles de l'Amerique* (1722). Samuel Martin (1694/5-1776) was an Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750. Published in at least a dozen editions before the end of the eighteenth century, the *Essay* contained Martin's recommendations for plantation management and covered topics ranging from the regulation and management of enslaved labor to the planting and harvesting of cane. 
+
+[^fvin4] Grainger lists prior authors of classical and eighteenth-century georgic poems who have influenced him. Virgil or Publius Vergilius Maro (70-19 BCE) authored the *Eclogues*, the *Aeneid*, and the *Georgics*, which was a major influence on all neo-georgic poets of the eighteenth century. Hesiod (c. 700 BCE) was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon. He was a contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*. John Philips (1676-1709) was an English poet and author of the georgic poem *Cyder* (1708). John Dyer (1699-1757) was a Welsh painter and poet and author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).
 
 ---
