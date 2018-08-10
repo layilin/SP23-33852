@@ -18,6 +18,8 @@ source: "1764 edition"
 
 >VER. 135. *And breezy Mountserrat,*\] This island, which lies 30 miles to the south-west of Antigua, is not less famous for its solfaterre (or volcano), and hot petrifying spring, than for the goodness of its sugars. Being almost circular in its 
 
+---
+
 [^f15.1]: Barbados was settled by the English in 1627, and it became a British colony in 1652. Barbados gained independence in 1966.  
 
 ---
