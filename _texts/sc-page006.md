@@ -28,16 +28,16 @@ source: "1764 edition"
 
 > VER. 34. *Locust*\] This is also a lofty tree. It is of quick growth and handsome, and produces a not disagreeable fruit in a flat pod or legumen, about three inches long. It is a serviceable wood. In botanical books, I find three different names for the locust-tree; that meant here is the *Siliqua edulis*.
 
-[^f6.1]: Most likely *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. Now considered vulnerable due to unsustainable levels of harvesting.
+[^f6n1]: Most likely *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. Now considered vulnerable due to unsustainable levels of harvesting.
 
-[^f6.2]: The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey but now spread widely over the world. It is the source of carob, which is used in food applications, including as a chocolate substitute.
+[^f6n2]: The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey but now spread widely over the world. It is the source of carob, which is used in food applications, including as a chocolate substitute.
 
-[^f6.3]: Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.
+[^f6n3]: Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.
 
-[^f6.4]: The treaty of Breda (1667) concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gaining control of Surinam; and the French reclaiming Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
+[^f6n4]: The treaty of Breda (1667) concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gaining control of Surinam; and the French reclaiming Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
 
-[^f6.5]: Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.
+[^f6n5]: Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.
 
-[^f6.6]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
+[^f6n6]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
 ---
