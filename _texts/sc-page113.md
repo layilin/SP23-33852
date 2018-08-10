@@ -9,9 +9,9 @@ source: "1764 edition"
 [113]()
 
 - Serves needful purposes. Are barbecues
-- The cates thou lov'st? What like rich skimmings feed [480]
+- The cates[^f113n1] thou lov'st? What like rich skimmings feed [480]
 - The grunting, bristly kind? Your labouring mules
-- They soon invigorate: Give old Baynard these,
+- They soon invigorate: Give old Baynard[^f113n2] these,
 - Untir'd he trudges in his destin'd round;
 - Nor need the driver crack his horrid lash.
 
@@ -31,5 +31,9 @@ source: "1764 edition"
 - Which dripping coolness spreads her umbrage round;
 - With hardest, whitest sugar, thrice refin'd;
 - Dilates my soul with genuine joy; low care
+
+[^f113n1]: Choice foods, viands, or delicacies.
+
+[^f113n2]: Also bayard. A bay horse or mule.
 
 ---
