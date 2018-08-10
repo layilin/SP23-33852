@@ -81,7 +81,7 @@ editor: julie
 
 7.37n. diaphoretic. Having the property of inducing or promoting perspiration.
 
-7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.
+7.37n worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracts of humans and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.
 
 [people] 7.37n Acosta. José de Acosta (1539-1600), Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
 
