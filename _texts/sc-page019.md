@@ -31,8 +31,6 @@ source: "1764 edition"
 - And to old Gallia's[^f19n3] haughty shore transport
 - The lessening crops of these delicious isles.
 
----
-
 > VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
 
 [^f19n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
