@@ -371,7 +371,7 @@ editor: julie
 
 [people] 153.525 Palladio. Andrea Palladio (1508-1580), an Italian architect.  
 
-[plant] 153.527 wild fig-tree. Also known as the bearded fig or wild banyan tree (*Ficus citrifolia*).
+[plant] 153.527 wild fig-tree. Also known as the bearded fig or wild banyan tree (*Ficus citrifolia*). It is the national tree of Barbados, and its native range includes Florida and the tropical Americas.  
 
 153.530 rood. A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length.  
 
