@@ -18,13 +18,13 @@ source: "1764 edition"
 
 - NOT less inhuman, than unthrifty those;
 - Who, half the year's rotation round the sun,
-- Deny subsistence to their labouring slaves. [430]
+- Deny subsistence to their labouring slaves.[^f147n1] [430]
 - But would'st thou see thy negroe-train encrease,
 - Free from disorders; and thine acres clad
 - With groves of sugar: every week dispense
-- Or English beans, or Carolinian rice;
-- Iërne's beef, or Pensilvanian flour; [435]
-- Newfoundland cod, or herrings from the main
+- Or English beans,[^f147n2] or Carolinian rice;
+- Iërne's beef, or Pensilvanian flour;[^f147n3] [435]
+- Newfoundland cod,[^f147n4] or herrings from the main
 - That howls tempestuous round the Scotian isles!
 
 - YET some there are so lazily inclin'd,
@@ -32,5 +32,13 @@ source: "1764 edition"
 - Would'st thou preserve them from the jaws of death; [440]
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
+
+[^f147n1]: Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
+
+[^f147n2]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
+
+[^f147n3]: Iërne is a term for Ireland, which supplied Caribbean plantations with salted beef and other provisions. Beef also came from the North American colonies, as did flour. 
+
+[^f147n4]: The waters off the coast of Newfoundland in the North Atlantic constituted one of the major fisheries of the world for the Atlantic cod (*Gadus morhua*) in the eighteenth century. Planters imported cod for enslaved laborers, who needed protein, but they imported what came to be known as "West India cod," which was salted cod of the poorest quality. 
 
 ---
