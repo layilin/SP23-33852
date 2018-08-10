@@ -73,7 +73,7 @@ editor: julie
 
 [plant] 7.36 cassia. Most likely *Cassia fistula*, commonly used as a purgative. It is most likely native to India and Sri Lanka, and its native range may also include other parts of South and Southeast Asia.  
 
-[plant] 7.36 ceiba. *Ceiba pentandra*, also known as the kapok or silk-cotton tree. The ceiba, whose native range includes Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds.  
+[plant] 7.36 ceiba. *Ceiba pentandra*, also known as the kapok or silk-cotton tree. The ceiba, whose native range is Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds.  
 
 [plant] 7.37 guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.   
 
@@ -291,7 +291,7 @@ editor: julie
 
 [plant] 31.418n cherimoya. *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
-[plant] 31.418n wild pine-apple, or ananas bravo. *Bromelia pinguin*. Its native range includes Mexico and the tropical Americas.  
+[plant] 31.418n wild pine-apple, or ananas bravo. *Bromelia pinguin*. Its native range is Mexico and the tropical Americas.  
 
 32.453 moon must blunt her horns. The pointed ends of the crescent moon are sometimes referred to as its horns. Grainger thus means that six moons or months must pass.  
 
@@ -420,7 +420,7 @@ editor: julie
 
 [plant] 42.605 cacao-walk. A grove of cacao trees. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
-[plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree whose native range extends from Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
+[plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree whose native range is Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
 [place] 42.601n. Levant. Refers to the eastern part of the Mediterranean; includes modern Turkey, Syria, Lebanon, Jordan, Israel, and Egypt.    
 
@@ -430,7 +430,7 @@ editor: julie
 
 [plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Mexico and Belize, as well as other spices, including chili peppers (genus *Capsicum*), which have a native range that includes Mexico and the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry.  
 
-[plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean.  
+[plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years.    
 
 [plant] 43.605n *Madre de Cacao*. *Gliricidia sepium*. Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
 
