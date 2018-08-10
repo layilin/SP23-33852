@@ -63,7 +63,7 @@ editor: cristobal
 
 58.88 cates. Choice foods, viands, or delicacies.  
 
-[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. It is native from England through central and southern Europe to Iran.  
+[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. Its native range is England to central and southern Europe to Iran.  
 
 59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were forced to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
 
@@ -79,7 +79,7 @@ editor: cristobal
 
 60.116 mountain-dove. May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean. 
 
-[plant] 60.119 knotted grass. Probably *Spigelia anthelmia*, a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range includes the tropical and subtropical Americas.   
+[plant] 60.119 knotted grass. Probably *Spigelia anthelmia*, a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.   
 
 60.120 endemial ill. An endemic disease, meaning one that is habitually prevalent in a certain country or locale.  
 
@@ -89,7 +89,7 @@ editor: cristobal
 
 60.114n dysenteric. Having to do with dysentery or diarrhea.  
 
-[plant] 60.114n ipecacuan. Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range extends from southeastern Nicaragua to Brazil.   
+[plant] 60.114n ipecacuan. Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.   
 
 60.119n vermifuge. A substance having the power to expel worms from the intestines; an anthelmintic.
 
@@ -107,7 +107,7 @@ editor: cristobal
 
 61.131 Median climes. Media was the location of hot springs that the Romans called the sacred waters of Hercules.  
 
-[plant] 61.128n Snakeweed. May be *Euphorbia hyssopifolia*, a plant whose native range includes the tropical and subtropical Americas.  
+[plant] 61.128n Snakeweed. May be *Euphorbia hyssopifolia*, a plant whose native range is the tropical and subtropical Americas.  
 
 61.130n *Mithridatium*. A medicine long believed to be a universal antidote to poison.  
 
@@ -121,7 +121,7 @@ editor: cristobal
 
 62.141 poison'd fish. Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
 
-[plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range includes the Old World and Australia.  
+[plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range is the Old World and Australia.  
 
 [plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
@@ -193,7 +193,7 @@ editor: cristobal
 
 69.290. dome. House.  
 
-[plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.  
+[plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.  
 
 70.299 louring. Scowling, angry-looking, gloomy.  
  
@@ -257,7 +257,7 @@ editor: cristobal
 
 77.438n strong water. Distilled liquor.  
 
-[plant] 77.438n The coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range includes western South America, and *Erythroxylum novogranatense*, whose native range extends from Colombia to northwestern Venezuela and Peru.  
+[plant] 77.438n The coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range is western South America, and *Erythroxylum novogranatense*, whose native range is Colombia to northwestern Venezuela and Peru.  
 
 [plant] 77.438n chocolate-tree. The cacao tree (*Theobroma cacao*), the seeds of which are made into chocolate. The cacao tree is native to Central and South America and has been cultivated by Amerindians for thousands of years. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
