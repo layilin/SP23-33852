@@ -13,33 +13,33 @@ editor: julie
 
 [plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.
 
-[place] 125.9 Rio Grandê. Major estuary in modern day Guinea-Bissau.  
+[place] 125.9 Rio Grandê. Major estuary in modern Guinea-Bissau.  
 
 [place] 125.9 Sanaga. Most likely the Senegal river, which empties into the Atlantic ocean at St. Louis on Senegal's northern border with Mauritania. There is a Sanaga river that empties into the Gulf of Guinea just south of Douala in modern Cameroon, but this appears to have been called the Cameroon or Camarones river prior to the mid-nineteenth century.  
 
 125.11 brede. Braid.  
 
-126.14 a muse that pities thy distressful state. Despite the fact that *The Sugar-Cane* is unequivocally pro-slavery, Grainger affects a tone of regret and sympathy for the enslaved in these opening lines of Book IV. Note how these sentiments clash with Grainger's drive to promote sugar cultivation, and how he attempts to resolve them in the final pages of the poem.
+126.14 a muse that pities thy distressful state. Despite the fact that *The Sugar-Cane* is unequivocally pro-slavery, Grainger affects a tone of regret and sympathy for the enslaved in these opening lines of Book IV.  
 
-126.16 wishes freedom to the race of man. By invoking a singular "race of man," Grainger seems to promote a theory of *monogenesis* -- a theory consistent with the creation story of Genesis that all humans descend from a common ancestor. An alternate theory -- of *polygenesis* -- argued that the different races represented different species, each descended from different ancestors. In the eighteenth century, olygenesis was often used to argue the relative superiority and inferiority of races, and to support slavery. Despite Grainger's claim here and on lines 236-238 below, he spends the next 100 lines of the poem arguing for distinctions between various African peoples.
+126.16 wishes freedom to the race of man. By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races and to support slavery.  
 
-126.21 Caribbe's. The Caribbean's.   
+126.21 Caribbe's. The Caribbean's.  
 
 126.22 parch'd Libya's wilds. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
 126.23 bays. Laurel (bay leaf) crown, often associated with poetic achievement.
 
-126.24 Sylvan bard. Literally, poet from the wilderness. Here Grainger seems to be referring to himself insofar as he writing from the Caribbean rather than from metropolitan London.
+126.24 Sylvan bard. Literally, poet from the wilderness. Here Grainger seems to be referring to himself insofar as he was writing from the Caribbean rather than from metropolitan London.
 
-[person] 126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French, and being named governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.  
+[person] 126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French and then governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.  
 
-126.28 Indian wreath. Indian wreath further makes the point that the poem is a product of the Caribbean. See note about the "Sylvan bard" above (line 24), as well as the preface, where Grainger refers to the poem as a "West-India georgic."
+126.28 Indian wreath. Grainger's invocation of an Indian wreath further makes the point that the poem is a product of the Caribbean.  
 
 [plant] 126.31 myrtle. Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.  
 
-127.35 jetty. Jet black. Seventeenth- and eighteenth-century British writers often used the term "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko: Or, the Royal Slave* (1688), where the narrator describes Oroonoko as having skin of "perfect ebony or polished jet" (PAGE NUMBER).  
+127.35 jetty. Jet black. Seventeenth- and eighteenth-century British writers often used the terms "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko: Or, the Royal Slave* (1688), where the narrator describes Oroonoko as having skin of "perfect Ebony, or polish'd Jett" (Behn 13).  
 
-127.38-39 In mind, and aptitude for useful toil,/The negroes differ: muse that difference sing. Grainger indicates here that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader and/or buyer, who made judgments about Africans based on similar considerations. The national and ethnic categories Grainger uses in making these comparisons loosely mimic the classificatory principles of taxonomy that were just being developed by botanists and natural historias like Carl Linnaeus (1707-1778). 
+127.38-39 In mind, and aptitude for useful toil,/The negroes differ: muse that difference sing. Grainger indicates that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader and/or buyer, who made judgments about Africans based on similar considerations.  
 
 [place] 127.44 Congo's wide-extended plains. Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC).  
 
@@ -47,25 +47,25 @@ editor: julie
 
 127.51 mechanic art. Grainger recommends that enslaved persons from the Congo be assigned specific trades rather than being forced to work as field laborers.  
 
-127.52 ductile. Malleable; flexible.  
+127.52 ductile. Malleable, flexible.  
 
 128.58 art. The "Errata" list at the end of *The Sugar-Cane* indicates that "art" should read "want."  
 
 [place] 128.62 Golden Coast. Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slaving ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).  
 
-128.63 Papaws. Also Popo. Name of people from the region between Accra in modern Ghana and Ouidah in Benin. (Not to be confused with Papaw/Papaya.)
+128.63 Papaws. Also Popo. Name of people from the region between Accra in modern Ghana and Ouidah in Benin.  
 
 [place] 128.65 Volta. Volta river in Ghana, which empties into the Atlantic Ocean northeast of Accra.  
 
 [place] 128.65 Rey. Likely the Rey (or Rio del Rey) estuary in modern Cameroon. It is not clear whether Grainger means a specific river within this estuarial system.  
 
-128.71 oft by suicide. Suicide was prevalent in the Atlantic slave trade and occurred during various stages of the process of transportation. Europeans proposed various theories to explain these suicides. In particular, physicians like Grainger often suggested that suicide by the enslaved was caused by physical illness or by fixed melancholy. European Christians considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern when it came to the enslaved was almost solely economic, as Grainger suggests in these and later lines.    
+128.71 oft by suicide. Suicide was prevalent in the Atlantic slave trade and occurred during various stages of the process of transportation. Europeans proposed various theories to explain these suicides. In particular, physicians like Grainger often suggested that suicide by the enslaved was caused by physical illness or by a disease known as fixed melancholy. European Christians considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern when it came to the enslaved was almost solely economic, as Grainger suggests in these and later lines.    
 
 128.72 gang. Gang was the general term used to designate groups of enslaved persons.  
 
 129.77 just proportion rise. Samuel Johnson (1709-1784), an acquaintance of Grainger and one of the most important writers of the eighteenth century, referred to this and the preceding three lines in a review of *The Sugar-Cane* that he published in the *Critical Review* (Oct 1764). While the review was largely positive, Johnson took issue with the fact that, here and in the stanzas that follow, Grainger is giving "instructions for the buying and choice" of the enslaved. As he further comments, "here we think that tenderness and humanity, with which the former part of the poem seems replete, is, in some measure, forgotten. The poet talks of this ungenerous commerce without the least appearance of detestation; but proceeds to direct these purchasers of their fellow-creatures with the same indifference that a groom would give instructions for chusing an horse" (276-277).  
 
-129.82 Cormantee. Name given to Fanti people embarked at Fort Kormantse in the modern nation of Ghana. By the mid-eighteenth century, the name Cormantee was closely associated with warlike people who resisted enslavement, thus explaining Grainger's warning in these lines. Indeed, Grainger would have been familiar with Tacky's Revolt, a 1760 uprising led by Coromantees in Jamaica. The uprising, which occurred less than a year after Grainger arrived in St. Kitts, loomed lage over the remainder of the century and led to a number of increasingly repressive laws (see "Obeah" on this site). Also see http://revolt.axismaps.com/ for more on Tacky's Revolt.  
+129.82 Cormantee. Also Coromantin. Name given to Fanti people embarked at Fort Kormantse in the modern nation of Ghana. By the mid-eighteenth century, the name Cormantee was closely associated with warlike people who resisted enslavement, thus explaining Grainger's warning in these lines. Indeed, Grainger would have been familiar with Tacky's Revolt, a 1760 uprising led by Coromantins in Jamaica. The uprising, which occurred less than a year after Grainger arrived in St. Kitts, loomed large over the remainder of the century and led to a number of increasingly repressive laws. For more information about Tacky's Revolt, see http://revolt.axismaps.com/.  
 
 129.88 poinard. Dagger. 
 
@@ -73,13 +73,13 @@ editor: julie
 
 128.91 clayey tubes. Pipes.  
 
-[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were indigenous to the region, maize or corn (*Zea mays*) was not. However,Maize was introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago.  
+[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago.  
 
 [place] 130.99 Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa and a major stop on the routes of the Atlantic slave trade.  
 
-130.102 Moco-nation. People from the region between Bonny Island and Calabar on the southeastern coast of modern Nigeria. On some historical maps, the Moco nation appears in the same region as the Igbo or Ebo people. The reference to suicide in this line ("they themselves destroy") matches a well-worn steroetype that the Ebo were especially liable to taking their lives.
+130.102 Moco-nation. People from the region between Bonny Island and Calabar on the southeastern coast of modern Nigeria. On some historical maps, the Moco nation appears in the same region as the Igbo or Ebo people. The reference to suicide in this line ("they themselves destroy") matches a well-worn steroetype that the Igbo were especially liable to taking their lives.
 
-130.103 worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracks of human beings and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.  
+130.103 worms. Grainger is referring to parasitic worms (helminths) that live in the digestive tracts of human beings and other animals. There are many such parasites, including tapeworms and roundworms. Worms were a major health concern in the eighteenth century, producing such physical effects as malnutrition and anemia, as well as cognitive problems.  
 
 130.104 Mundingo. Mundingo, Mandingo, or Mandinka were people of the West African interior centering around the modern nation of Mali but also coming from Senegal, Guinea, and Côte D'Ivoire. With respect to religion, the Mandinka are most closely associated with Islam.  
 
@@ -91,7 +91,7 @@ editor: julie
 
 [place] 130.113 Quanza. Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
-130.119 Ethiop. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well.
+130.119 Ethiop. Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.  
 
 130.121 Machaon. Greek physician and son of Asclepius, god of healing.  
 
@@ -102,8 +102,6 @@ editor: julie
 131.133 The novel gang. Enslaved Africans newly arrived in the Caribbean.  
 
 [plant] 131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note as well, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
-
-[plant] 131.137 cherries. The sweet cherry (*Prunus avium*) is native to Europe, northern Africa, and western Asia.  
 
 132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold but often thought by eighteenth-century physicians to lead to further (and more serious) illnesses.  
 
@@ -131,17 +129,17 @@ editor: julie
 
 133.160 provender. Dried cattle feed (e.g., hay).  
 
-133.159 Extremes are dangerous. Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was the term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new places. This observation was broadly true for those who were new to the Caribbean, but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal pathogens. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a regime would have been uncommon.  
+133.159 Extremes are dangerous. Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new places. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal pathogens. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
 
 133.163 conch. Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
 
 133.165 Nor, Negroe. This and the following forty lines are the only ones in the poem where the narrator addresses the enslaved directly. Despite this direct address, the passage is framed by a set of rhetorical questions that help the planter justify his actions to himself. The justifications that follow were standard to pro-slavery tracts.  
 
-133.169 dark tartarean caves. Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here, Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. Deeper coal mines, sometimes extending hundreds of feet into the earth, were necessary because the rising demand for coal quickly exhausted accessible deposits.  
+133.169 dark tartarean caves. Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here, Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. Deep mines, sometimes extending hundreds of feet into the earth, were necessary because the rising demand for coal quickly exhausted accessible deposits.  
 
 [place] 134.178 Scotia. Scotland.  
 
-134.179 fatal lead. Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be bound in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an Emancipation Act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
+134.179 fatal lead. Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
 
 134.180 palsies. Paralysis of the skeletal muscles.  
 
@@ -149,19 +147,15 @@ editor: julie
 
 134.182 silver's fluent ore. Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
 
-134.185 Incas. The Incan empire extended from modern Ecuador to Chile in the early sixteenth century when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Inca at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (present-day Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists expanded the extant mining work of the indigenous Americans in both scale and productivity.  
+134.185 Incas. The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
 
 134.188 proud insulting tyrants. The Spanish conquistadors.  
 
-135.204 your pleasing task. The georgic mode is invested in describing the benefits of healthful agricultural labor. It is entirely conventional to describe that labor as "pleasing," but here, *The Sugar-Cane* runs into its central ideological paradox: even as Grainger compares plantation slavery favorably to Scottish, Hungarian, and Incan mining, the fact remains that enslaved labor--and enslaved labor on sugar plantations in particular--was especially difficult and dangerous. The georgic convention thus appears highly stylized and even ridiculous.  
-
-135.205 by your toil deserve your master's care. In a stark and ironic reversal, Grainger claims that enslavers take good care of the enslaved on their plantations, and ought to be repaid for that care with diligent labor.
+135.204 your pleasing task. The georgic mode is invested in describing the benefits of healthful agricultural labor. It is entirely conventional to describe that labor as "pleasing," but here, *The Sugar-Cane* runs into its central ideological paradox: even as Grainger compares plantation slavery favorably to Scottish, Hungarian, and Incan mining, the fact remains that enslaved labor---and enslaved labor on sugar plantations in particular---was especially difficult and dangerous. The georgic convention thus appears highly stylized and even ridiculous.  
 
 135.207 humours. Moods.  
 
 136.211 let humanity prevail. From here to the end of *The Sugar-Cane*, Grainger settles on a strategy of amelioration for dealing with the problem of slavery. This strategy involves accepting the continuation of slavery as an institution but advocating for the humane treatment of the enslaved as an economically prudent measure. Note that his recommendations mirror the actions of Montano at the end of Book I.  
-
-136.212 his native land. As in so many other places in the text, Grainger is imagining a fictional person in a generic African space. The repetition of "perhaps" here and in the next ten lines is intended to invoke sympathy in the reader or planter.  
 
 136.213 possest large fertile fields, and slaves. Slavery did exist in Africa, although it is clear that the Atlantic slave trade fundamentally altered how it was practiced and the number of people who experienced enslavement. Grainger's reference to slavery in Africa is a conventional move of pro-slavery writers, who invoked it in an attempt to justify and excuse slavery in American plantations.  
 
@@ -171,38 +165,37 @@ editor: julie
 
 136.232 Oh, did the tender muse possess. Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See for example Nathaniel Appleton's *Considerations on Slavery* (1767).  
 
-137.235 Tyrannic sway. An open acknowledgment of the tyranny of slavery. "Tyranny" would become an increasingly important word in the Age of Revolutions, and it fits into Book IV of *The Sugar-Cane* as part of a trajectory (from lines 188 to 235, 291, 334, and 629) in which tyranny is gradually shifted from British acts of enslavement to the natural world.
+137.235 Tyrannic sway. An open acknowledgment of the tyranny of slavery. Note that tyranny, an increasingly discussed topic during the late eighteenth-century Age of Revolutions, appears several more times in Book IV.  
 
 137.242 Servants, not slaves. Grainger claims that even after they were freed, formerly enslaved Africans would continue to work on sugar plantations by choice, but this sentiment was a pro-slavery fantasy that was not borne out by reality after emancipation.  
 
 137.244 Say, shall the muse. The abrubt shift in tone marks Grainger's turn away from his abolitionist fantasy and toward a policy of amelioration, in which physicians like himself were to play a central role. Recall his words at the end of the preface: "I beg leave to be understood as a physician, and not as a poet." See also Steven Thomas' "Doctoring Ideology."  
 
-137.246 worm. Guinea worm or the dragon worm (*Dracunculus medinensis*) is a parasitic nematode acquired by drinking water contaminated by the water flea (genus *Cyclops*), which carries the worm's larvae. The larvae break through the stomach lining and enter the bloodstream, growing to full size within a year. A pregnant female worm lives in connective tissues beneath the skin and eventually will release its larvae into a large blister, usually on the legs or arms. The worm's migration produces such symptoms as itching, giddiness, breathing difficulties, vomiting, and diarrhea. The worm may come out spontaneously with the released larvae, but typically treatment involves attaching the worm to the end of a stick and winding it slowly out of the opening in the skin over the course of several days (the "leaden cylinder" that Grainger mentions in line 252 refers to this form of treatment). A broken worm causes an extreme allergic reaction that can be fatal, and blisters on the skin may ulcerate and become infected, resulting in an abscess and the "annual lameness" of which Grainger warns in line 255. Today the worm may also be treated through anthelmintics.  
+137.246 worm. Guinea worm or the dragon worm (*Dracunculus medinensis*) is a parasitic nematode acquired by drinking water contaminated by the water flea (genus *Cyclops*), which carries the worm's larvae. The larvae break through the stomach lining and enter the bloodstream, growing to full size within a year. A pregnant female worm lives in connective tissues beneath the skin and eventually will release its larvae into a large blister, usually on the legs or arms. The worm's migration produces such symptoms as itching, giddiness, breathing difficulties, vomiting, and diarrhea. The worm may come out spontaneously with the released larvae, but treatment typically involves attaching the worm to the end of a stick and winding it slowly out of the opening in the skin over the course of several days (the "leaden cylinder" that Grainger mentions in line 252 refers to this form of treatment). A broken worm causes an extreme allergic reaction that can be fatal, and blisters on the skin may ulcerate and become infected, resulting in an abscess and the "annual lameness" of which Grainger warns in line 255. Today, the worm may also be treated through anthelmintics.  
 
-137.255 Moor. Moor, a name for a native or inhabitant of Mauretania in North Africa (present-day Morocco and Algeria -- not Mauritania).  
+137.255 Moor. Moor, a name for a native or inhabitant of Mauretania in North Africa (modern Morocco and Algeria versus Mauritania).  
+
 138.256 dragon worm. *Dracunculus medinensis* (see note to line 246).  
 
-138.257 fell, winged insects. Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such important description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, March 13, 1711), and adapted for the stage later in the century.  
+138.257 fell, winged insects. Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such important description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, March 13, 1711).  
 
 138.258 sable. Black.  
 
 138.265 yaws. Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
-[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a tropical, flowering legume native to subtropical and tropical parts of the world.  
+[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume native to subtropical and tropical parts of the world.  
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
 139.271 ichor. In Greek mythology, the ethereal fluid believed to have flowed through the veins of the gods. Here, Grainger means fluid from yaw lesions.
 
-139.276 live-silver. Mercury (or quicksilver) when taken as mercuric chloride (calomel). An important purgative in eighteenth-century medicine. Could also cause excessive salivation (as in line 277).   
+139.276 live-silver. Mercury (or quicksilver) when taken as mercuric chloride (calomel). An important purgative in eighteenth-century medicine. Could also cause excessive salivation.   
 
 139.282 defoedations. The action of contaminating, polluting, or infecting something, especially the blood or skin. In this case, the periodic eruption of yaw sores.
 
-[plant] 139.283 guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as *lignum vitae* ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.  
+[plant] 139.283 guaiac pods. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.  
 
-139.287 might not skill ingraft. Because Yaws, like smallpox, seemed to infect a person only once in life, Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a life smallpox sore. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with a case of smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox accidentally. 
-
-140.291 worms tyrannize. Grainger's use of the term "tyrannize" is an echo of lines 188, 235, 334, and 629. Here, however, Grainger displaces the earlier tyranny of slavery onto the insect world, which thus becomes the primary tyrannical foe of the enslaved and enslavers alike.
+139.287 might not skill ingraft. Because yaws, like smallpox, seemed to infect a person only once in life, Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a live smallpox sore. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with a case of smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox naturally.  
 
 140.291 Proteus-like. In Greek mythology, Proteus, an old man and shepherd on the island of Pharos near Egypt, was able to shape-shift. The worms' ability to cause multiple maladies and symptoms is equated to Proteus's shape-shifting abilities.
 
@@ -212,7 +205,7 @@ editor: julie
 
 140.305 "melt with the minings of the hectic fire." Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
 
-[plant] 140.309 cow-itch. Cowitch (Mucuna pruriens), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
+[plant] 140.309 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
 
 140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
@@ -220,9 +213,9 @@ editor: julie
 
 [place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
 
-[place] 141.319 Tyrians. Inhabitants of Tyre, town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade from 2000 BCE through the Roman period.
+[place] 141.319 Tyrians. Inhabitants of Tyre, a town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade from 2000 BCE through the Roman period.
 
-[place] 141.323 Attic's sterile land. Attica, the ancient district of east-central Greece, its chief city being Athens. Maritime trade far surpassed its agriculture.   
+[place] 141.323 Attic's sterile land. Attica, the ancient district of east-central Greece, its chief city being Athens. Maritime trade far surpassed its agriculture.  
 
 [people] 141.317n Strabo. Strabo (64 BCE-21 CE), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
 
@@ -244,31 +237,21 @@ editor: julie
 
 143.359 Eurus. In Greek mythology, the east wind.
 
-[people] 143.360. Columbus. Christopher Columbus (1450/1451-1506). Sailed to the Caribbean islands on a voyage thought to be a route to Asia sponsored by King Ferdinand II of Aragon and Queen Isabella of Castile. Columbus made four such voyages, establishing a colony at Hispaniola, where he served as governor before he was briefly imprisoned for violent and incompetent governance.  
+[people] 143.360. Columbus. Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime.  
 
 [place] 143.363. Lusitania's. Lusitania (now modern Portugal) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.  
 
-143.367 imaginary woes. Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real -- and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as "fixed melancholy" in the latter half of the eighteenth century. Often associated with longing for friends and for family, physicians diagnosed many enslaved Africans with fixed melancholy, and expressed concern that the illness would lead to suicide. Here Grainger suggests a link between the symptoms and the practice of Obeah.
+143.367 imaginary woes. Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as "fixed melancholy" in the latter half of the eighteenth century. Often associated with longing for friends and family, fixed melancholy became a common diagnosis for the enslaved, and physicians expressed concern that the illness would lead to suicide.  
 
-143.370 a conjurer's snake-mark'd staff hath struck!. This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
+143.370 a conjurer's snake-mark'd staff hath struck!. This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see [internal] "Obeah" on this site.  
 
 144.377 drowth. Dryness, thirst.  
 
 144.382 sacred nine. The nine muses of art, literature, and science.  
 
-144.385 laughing world. European descriptions of Obeah were often made with a mocking tone. This was in part a rhetorical strategy to defuse anxieties about the practice, and in part a strategy to represent European knowledge as empirical and therefore more serious. In light of comments about ignorance and fraud (line 384), chroniclers like Grainger set themselves up as the authorities who will debunk superstition 
-
-[place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.
-
-144.370n they can also do good on a plantation, provided they are kept by the white people in proper subordination. Interestingly, Grainger seems to suggest that obeah men had skills that could benefit the plantation.  
-
-145.387 old teeth extracted from a white man's skull, a lizard's skeleton, a serpent's head. If the image of teeth taken from a white man's skull carries with it an implicit threat of rebellion and murder, descriptions such as these were nevertheless intended to mock obi and the practice of obeah by placing disaparate and seemingly trivial objects alongside one another. Nevertheless, in the wake of Tacky's revolt, colonial governments were concerned with the threats posed by obeah, and therefore regulated objects like the ones listed by Grainger. On 13 December 1760, the Jamaican Assembly outlawed obeah on pain of death "Any Negro or other Slave, who shall pretend to any Supernatural Power, and be detected in making use of any Blood, Feathers, Parrots Beaks, Dogs Teeth, Alligators Teeth, Broken Bottles, Grave Dirt, Rum, Egg-Shells, or any other Materials relative to the Practice of Obeah or Witchcraft, in Order to delude and impose on the Minds of others, shall upon Conviction thereof, before two Magistrates and three Freeholders, suffer Death or Transportation" (qtd. in Aravamudan 18)
+[place] 144.370n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 145.391 in a phial pour'd. In addition to referring to a set of practices and beliefs, "obeah" or "obi" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials that were believed to have spiritual or sacred significance.  
-
-145.391 leach. Physician.  
-
-145.394-395 to poison they are infamously prone. Colonial and European accounts often associated obeah with poisoning to demonize it and portray it as a threat to the entire plantation system.  
 
 145.406. Lucifer. Also known as Phosphorus. In Greek mythology, the bringer of morning light.  
 
@@ -282,9 +265,9 @@ editor: julie
 
 [people] 146.415n. Linnaeus...Dr. Stork. Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
-147.430 Deny subsistence to their labouring slaves. Grainger addresses the fact that in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize how much fertile land was dedicated to sugar crops, so they did not engage in the large-scale cultivation of provision crops, either. As a result, in addition to the full-time work of producing sugar and other commodity crops, enslaved laborers were frequently required to cultivate provision gardens or plots of land to supplement their nutritional requirements. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil. 
+147.430 Deny subsistence to their labouring slaves. Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
 
-[plant] 147.434 English beans, or Carolinian rice. Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally  have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens, but it was never a major source of subsistence.  
+[plant] 147.434 English beans, or Carolinian rice. Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
 
 147.435 Iërne's beef, or Pensilvanian flour;. Iërne is a term for Ireland, which supplied Caribbean plantations with salted beef and other provisions. Beef also came from the North American colonies, as did flour. 
 
@@ -292,11 +275,11 @@ editor: julie
 
 148.448 This let them cultivate, one day, each week. Enslaved laborers were generally required to go to their provision grounds one day per week to tend them. In certain colonies, however, an internal marketing system gradually emerged that may have encouraged some to spend extra time cultivating their provision grounds. For instance, in Jamaica, those who participated in the system were able to sell or trade their provisions for other goods and currency. They were also able to supplement the inadequate diet provided to them by planters, although those individuals who cultivated provision grounds did not enjoy, on average, better health or longer lifespans than those dependent primarily on imported rations. Still, the provision grounds did offer their cultivators some control over what they ate, as they were responsible for choosing what plants to cultivate, and, in limited cases, they also offered some degree of economic autonomy. They also laid the foundation for agricultural production in the British Caribbean in the years following emancipation. Eschewing the model of industrial agriculture represented by the plantation, the newly freed turned instead to small-scale farming.  
 
-[plant] 148.449 And there raise yams. Yams, one of many species of tuber within the *Dioscorea* genus, were widely cultivated in provision grounds, in part because they did not require regular care to thrive. There are several other reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as importantly, yams formed an important part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. 
+[plant] 148.449 And there raise yams. One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as crucially, yams formed a part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century. 
 
 [plant] 148.449 and there cassada's root. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. It was one of the most important food sources for Amerindians during the precolonial era and subsequently adopted by Africans and Europeans in the Caribbean as well, although it was not as important a food source as the yam. Nevertheless, it still appeared in provision grounds because it is an easy crop to cultivate: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. These advantages offset cassava's toxic nature: its roots, which are the parts of the plant prepared for consumption, contain cyanide, and the raw roots are poisonous to human beings. The poison can be neutralized by proper processing, however: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads.  
 
-[plant] 148.454-455 There let angola's bloomy bush supply, For many a year, with wholesome pulse their board. Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 B.C.E., it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
+[plant] 148.454-455 There let angola's bloomy bush supply, For many a year, with wholesome pulse their board. Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
 [plant] 148.456 bonavist. A species of bean (*Lablab purpureus*) native to Cape Verde, tropical and southern Africa, Madagascar, and India.  
 
@@ -308,7 +291,7 @@ editor: julie
 
 [plant] 149.461 eddas. Edda or eddo commonly referred to taro (*Colocasia esculenta*). It also sometimes referred to yautia (*Xanthosoma sagittifolium*), however. Both plants produce roots that were commonly consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* is native to Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* is native to Central and South America.  
 
-[plant] 149.462 Indian cale, and foodful calaloo. The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant native to the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they are a hardy and reliable source of food.  
+[plant] 149.462 Indian cale, and foodful calaloo. The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant native to the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they were a hardy and reliable source of food.  
 
 [plant] 149.463 mint. Plants of the genus *Mentha*, distributed around the world.  
 
@@ -316,7 +299,7 @@ editor: julie
 
 [plant] 149.463 balm. The name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
-149.456n papilionaceous. Butterfly shaped flowers of a legume subspecies.
+149.456n papilionaceous. Butterfly-shaped.
 
 149.459n The juice of each may be made into a pleasant cool drink; and, being distilled, yield an excellent spirit. Mobby or mobbie, an alcoholic drink made from the sweet potato. The origin of the drink's name is Carib.  
 
@@ -338,9 +321,9 @@ editor: julie
 
 150.475 Tho' years, and heat, and moisture they require. Cacao trees take several years to produce pods that can be harvested.  
 
-150.476 Ere the stone grind them to the food of health. Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is also possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food (Hughes, *The American Physitian* 131).    
+150.476 Ere the stone grind them to the food of health. Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131).    
 
-[plant] 150.478-479 And that kind sheltering tree, thy mother nam'd, With crimson flowerets prodigally grac'd;. Madre de Cacao (*Gliricidia sepium*). Native to Central and South America, used as a shade tree for cacao and other plants.  
+[plant] 150.478-479 And that kind sheltering tree, thy mother nam'd, With crimson flowerets prodigally grac'd;. Madre de Cacao (*Gliricidia sepium*). Native to Central and South America; used as a shade tree for cacao and other plants.  
 
 150.485 negro-fugitives. Runaway or escaped slaves.  
 
@@ -348,7 +331,7 @@ editor: julie
 
 151.488 Indian gardens. Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.  
 
-151.489 Phaeacia's isle. Scheria, the island that Odysseus arrives at after his shipwreck, home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.  
+151.489 Phaeacia's isle. Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.  
 
 151.492 Pomona's. Pomona was the Roman goddess of fruit.  
 
@@ -380,11 +363,11 @@ editor: julie
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit originally from the South American highlands.  
 
-[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with the mammee apple and mammee sapota is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
+[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
 [plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
 
-[people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an  English architect, mathematician, and astronomer.  
+[people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an English architect, mathematician, and astronomer.  
 
 [people] 153.525 Palladio. Andrea Palladio (1508-1580), an Italian architect.  
 
@@ -392,13 +375,13 @@ editor: julie
 
 153.530 rood. A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length.  
 
-[people] 153.523n Daniel Mathew, Esq. Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's cayon-estate was in Saint Mary's parish on the western shore of St. Kitts.
+[people] 153.523n Daniel Mathew, Esq. Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts.  
 
 [place] 153.523n Temple of the Sun at Palmyra. Also known as the Temple of Bel in Palmyra, an ancient city in Syria. Destroyed in 2015 by the Islamic State in Iraq and Syria (ISIS).  
 
 153.523n cortical part...durable laths for houses. Grainger is saying its bark can be used to make laths or strips of wood used in building.  
 
-[plant] 154.534 anata. Also anatta, anatto, or annatto. Refers either *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
+[plant] 154.534 anata. Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
 
 [plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. It is native to Mexico, Central America, and northwest South America south to Bolivia.  
 
@@ -414,7 +397,7 @@ editor: julie
 
 [plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant native to Florida and the Caribbean, Central America, and northern South America.  
 
-[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that states, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
+[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
 [plant] 156.569 bananas. Bananas belong to the family Musaceae and are closely related to plantains. Both bananas and plantains formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.
 
@@ -426,17 +409,17 @@ editor: julie
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
-157.584 wild banshaw's melancholy sound. This stanza describes the dances that the enslaved participated in on days of rest and holidays. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). These songs now can be heard at www.musicalpassage.org, a site created by Laurent Dubois, David K. Garner, Mary Caton Lingold, and others. Although colonists may have understood the dances and music as entertainment, Dubois and others have argued that dance and music also helped the enslaved create spaces of autonomy for themselves, as they did something besides labor for the benefit of the plantation and as they moved and created sounds that hearkened back to the musical traditions of Africa.  
+157.584 wild banshaw's melancholy sound. This stanza describes the dances that the enslaved participated in on days of rest and holidays. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). These songs can be heard at www.musicalpassage.org, a site created by Laurent Dubois, David K. Garner, Mary Caton Lingold, and others. Although colonists may have understood the dances and music as entertainment, Dubois and others have argued that dance and music helped the enslaved create spaces of autonomy for themselves, as they moved and created sounds that hearkened back to the performance traditions of Africa.  
 
 157.594 greensward. Grass-covered ground, turf.  
 
-158.602-605 let not thou the drum their mirth inspire...vengeance they pursue. Various colonies throughout the Caribbean and North America outlawed the use of drums and horns, which had military uses in Africa and were feared to incite rebellion among the enslaved. St. Kitts passed laws banning drum and horn use in 1711 and 1722.  
+158.602-605 let not thou the drum their mirth inspire...vengeance they pursue. Various colonies throughout the Caribbean and North America outlawed the use of drums and horns, which had military uses in Africa and were believed to be capable of inciting rebellion among the enslaved. St. Kitts passed laws banning drum and horn use in 1711 and 1722.  
 
-158.607 untimely hours. Planters were often concerned about the enslaved marrying across plantations, since they believed such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence.  
+158.607 untimely hours. Planters were often concerned about the enslaved marrying across plantations, since they believed that such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence.  
 
 [plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
 
-[plant] 158.611n Chili-strawberry. The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with another the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).  
+[plant] 158.611n Chili-strawberry. The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).  
 
 [plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. It is native to Central and South America and the Caribbean.    
 
@@ -448,19 +431,19 @@ editor: julie
 
 159.625 rapine. The act or practice of seizing and taking away by force the property of others.  
 
-159.626 chicane. A subterfuge, petty trick, quibble.
+159.626 chicane. A subterfuge, petty trick, or quibble.
 
 159.627 Themis. Greek goddess of law and justice.
 
 159.629 mild laws...tyrannic sway! Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.  
 
-159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
+159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
 [plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. It is native to Europe, the Mediterranean, and Africa.  
 
 159.613n diuretic. A substance that promotes the excretion of urine.  
 
-[place] 160.635 Thames. The Thames river. Compare the last fifty lines of the poem to the end of Alexander Pope's *Windsor Forest* (1713), a poem that celebrates Britain's history and culminates with the triumphal image of the Thames spreading across the world, carrying peace and liberty with it.
+[place] 160.635 Thames. The Thames river. Compare the last fifty lines of the poem to the end of Alexander Pope's *Windsor Forest* (1713), a poem that celebrates Britain's history and culminates with the triumphal image of the Thames, symbolizing British commerce, spreading across the world, carrying peace and liberty with it.  
 
 [place] 160.638 Plata. Rio de la Plata is an estuary formed by the confluence of the Uruguay and the Paraná rivers in South America.  
 
@@ -468,8 +451,6 @@ editor: julie
 
 161.658 Britannia, Neptune's favourite queen. A reference to Britain's status as the premier naval power during the eighteenth century. 
 
-161.659 protectress of true science, freedom, arts. A common trope of eighteent-century liberalism, there is nevertheless a great irony in the poem ending with a great nationalist celebration of freedom after 650 lines on the enslavement and treatment of other humans.
+161.669 lacquaying winds. Winds that follow or serve.  
 
-161.669 lacquaying winds. A poetic way to suggest winds that follow or serve.  
-
-162.680 the Patriot King. A reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1749), a treatise written for Frederick, Prince of Wales (1707-1751), on monarchy. It describes in idealized terms the policies and virtuous conduct of a patriot king waiting in the wings. The patriot king's accession was supposed to end political conflicts.  
+162.680 the Patriot King. Perhaps a reference to Henry St. Bolingbroke's *The Idea of a Patriot King* (1749), a treatise written for Frederick, Prince of Wales (1707-1751), on monarchy. It describes in idealized terms the policies and virtuous conduct of a patriot king waiting in the wings. The patriot king's accession was supposed to end political conflicts.  
