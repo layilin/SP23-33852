@@ -313,11 +313,11 @@ editor: julie
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
-[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas both belong to the family Musaceae and are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
+[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas (family Musaceae) are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish.  
 
 115.522n emetic. A medicine that excites vomiting.  
 
-[plant] 116.549 tamarinds. The tamarind tree (*Tamarindus indica*), native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
+[plant] 116.549 tamarinds. The tamarind tree (*Tamarindus indica*), which is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
 [plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.  
 
