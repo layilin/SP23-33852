@@ -173,7 +173,7 @@ editor: cristobal
 
 [plant] 66.218n jessamine. Jasmine, plants of the genus *Jasminum* native to tropical and subtropical Eurasia, Australasia, and the Pacific islands. Valued for their scent.  
 
-66.218n panspan <!--I haven't found this term, but it occurs later in book III as well -->
+* 66.218n panspan <!--I haven't found this term, but it occurs later in book III as well -->
 
 67.232. Rhea. Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 
@@ -181,29 +181,25 @@ editor: cristobal
 
 67.231n trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe. 
 
-[people] 67.231n. Homer. Greek poet (8th century BCE), author of the *Iliad* and the *Odyssey*.  
+[people] 67.231n. Homer. Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.  
 
 [place] 68.265. Cathäy. The name by which China was known to medieval Europe.   
 
-69.271 hurricane. In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane*, and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send yo uthe whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (*Illustrations*, 278).
+69.271 hurricane. In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
 
 69.273 welkin. Sky, firmament.  
 
 [place] 69.278. AEtna. Etna, Europe's highest active volcano, located in Sicily.  
 
-68.287. the Virgin. Virgo, the zodiacal constellation that the sun enters around 20-23 August each year.  
- 
-68.288. the Scorpion. Scorpio, or the period from late October to late November.  
+69.289 the unsteddy year. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Together, these three periods denote peak hurricane season.  
 
-69.289. Libra. Libra, or the period from late September to late October. Together, these three periods denote peak hurricane season.  
-
-69.290. dome. House.
+69.290. dome. House.  
 
 [plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
 
 70.299 louring. Scowling, angry-looking, gloomy.  
  
-70.306 sapient. Knowledgable.  
+70.306 sapient. Knowledgeable.  
 
 70. the pole. Polaris, the pole star or North Star.  
 
@@ -221,15 +217,15 @@ editor: cristobal
 
 73.356 corruscations. Vibratory or quivering flashes of light; lightning.  
 
-73.367-368 Europe and Asia's vegetable sons...die. Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange, and included the movement of plants, animals, and diseases in both directions across the Atlantic. If the reader consults footnotes about individual plants, it will become apparent how many of the plants Grainger mentions are not native to the Caribbean.  
+73.367-368 Europe and Asia's vegetable sons...die. Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic. If the reader consults footnotes about individual plants, it will become apparent how many of the plants Grainger mentions are not native to the Caribbean.  
 
-74.375 sails hang idly. The doldrums, also called intertropical convergence zones where prevailing (or trade) winds disappear, and ships become immobile for days on end.
+74.375 sails hang idly. Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
 
-74.388 Acescent. Sour; acidic.  
+74.388 Acescent. Sour, acidic.  
 
 74.392 Astonied. This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.  
 
-74.392 Solfaterre. A vent where sulfur deposits accumulate. In this case, Grainger means volcanoes.  
+74.392 Solfaterre. Volcano.  
 
 74.392n alum. An astringent mineral salt.  
 
@@ -263,7 +259,7 @@ editor: cristobal
 
 77.438n strong water. Distilled liquor.  
 
-[plant] 77.438n The coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca* and *Erythroxylum novogranatense*.  
+[plant] 77.438n The coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range includes western South America, and *Erythroxylum novogranatense*, whose native range extends from Colombia to northwestern Venezuela and Peru.  
 
 [plant] 77.438n chocolate-tree. The cacao tree (*Theobroma cacao*), the seeds of which are made into chocolate. The cacao tree is native to Central and South America and has been cultivated by Amerindians for thousands of years. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
@@ -271,13 +267,13 @@ editor: cristobal
 
 [place] 78.445 Sheen's royal walks. Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park.  
 
-[people] 78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger's, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose theme mirrors that of the story of Junio and Theana.  
+[people] 78.452 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose theme mirrors that of the story of Junio and Theana.  
 
 78.456 Hymen. Greek god of marriage.  
 
-[place] 78.441n Antigua. One of the Leeward Islands; colonized by the English in 1632. Now forms part of the nation of Antigua and Barbuda.  
+[place] 78.441n Antigua. One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda. 
 
-79.463 old Europe's letter'd climes. Educated or learned climes. In addition to the practice of Caribbean planters sending their children to Britain for their education, this moment describes the "grand tour" in which the British might complete their education by visiting mainland Europe's (and especially Italy's) cultural capitals.  
+79.463 old Europe's letter'd climes. Educated or learned climes. In addition to describing the practice of Caribbean planters sending their children to Britain for their education, this moment refers to the "grand tour," during which individuals would complete their education by visiting mainland Europe's (and especially Italy's) cultural capitals.  
 
 [place] 79.469 Gaul. France.  
 
@@ -285,9 +281,9 @@ editor: cristobal
 
 [place] 79.471 Ausonia's clime. Southern Italy.  
 
-79.476 Medicean Venus. Also known as the Venus de' Medici; a first-century BCE marble sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late seventeenth century. The sculpture was widely admired across Western Europe.  
+79.476 Medicean Venus. Also known as the Venus de' Medici, a first-century BCE marble sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late seventeenth century. The sculpture was widely admired across Western Europe.  
 
-[place] 80.483 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.  
+[place] 80.483 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
 80.485 Po. Gilmore identifies the *Po* as the ship that Grainger traveled on to reach St. Kitts in 1759.  
 
@@ -295,13 +291,13 @@ editor: cristobal
 
 [place] 80.488 Charente. River in southwest France that empties into the Bay of Biscay near Rochefort; the site of an important French naval base.  
 
-[place] 80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important way-station for transatlantic voyages in the eighteenth century. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.   
+[place] 80.498 Porto Santo. One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important waystation for transatlantic voyages. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.   
 
 81.500 sky. The "Errata" list at the end of *The Sugar-Cane* indicates that "sky" should read "air."  
 
 81.503 yard-arm. Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
 
-81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range stretches from Norway to South Africa, including the Mediterranean and the Black Sea in the eastern Atlantic, and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
+81.504 Boneta. Atlantic Bonito (*Sarda sarda*). Fish related to the tuna and mackerel whose range extends from Norway to South Africa in the eastern Atlantic (including the Mediterranean and the Black Sea) and from Nova Scotia to the northern Gulf of Mexico in the western Atlantic.  
 
 81.504 shark insnares. Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).  
 
@@ -309,17 +305,17 @@ editor: cristobal
 
 81.507 winged fishes. Flying fish, which are small fish of the *Exocoetidae* family that glide above the water to escape predators. The strongest fish can "fly" nearly 200 meters in one glide.  
 
-81.508 dolphins. Refers to the dolphin fish, dorado, or mahi-mahi (*Coryphaena hippurus*), which is widespread in the Atlantic, Indian, Pacific Oceans, as well as the Mediterranean.  
+81.508 dolphins. Refers to the dolphin fish, dorado, or mahi-mahi (*Coryphaena hippurus*), which is widespread in the Atlantic, Indian, and Pacific Oceans, as well as in the Mediterranean.  
 
 [place] 81.504n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. Roughly covered a geographic region that included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 81.505n *nautilus*. The "Errata" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
 
-81.507n Albacores. Albacore Tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
+81.507n Albacores. Albacore tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
 
 81.507n Garayio. Perhaps the tropic bird (any seabird of the family Phaethontidae) or the frigate bird (any seabird of the family Fregatidae), both of which prey on flying fish.  
 
-[place] 81.507n Barbadoes. One of the Lesser Antilles; colonized by the English in 1627. Gained independence from the United Kingdom in 1966.  
+[place] 81.507n Barbadoes. One of the Lesser Antilles; colonized by the English in 1627. Gained independence in 1966.  
 
 82.509 Tropic-bird. Although he uses the term tropic bird, Grainger means the frigate bird, which was famed for its wide wingspan and ability to remain airborne for weeks.  
 
