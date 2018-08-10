@@ -19,7 +19,7 @@ vi West-Indies. Historically, the West Indies is the region that includes the no
 
 vi rural oeconomy.  Agriculture, farming.
 
-vi improvement. The idea of improvement has long legal and philosophical roots. For the legal context in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central ethos of the Englightenment.    
+vi improvement. The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Englightenment.  <!--Cristobal, please keep as is if possible: I have copied this into a Bk 1 footnote. Julie--> 
 
 vi Pere Labat. Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Liberated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).
 
