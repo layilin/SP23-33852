@@ -37,7 +37,7 @@ source: "1764 edition"
 
 [^f89n3]: Colonel Samuel Martin (1694/5-1776), Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750. Published in at least a dozen editions before the end of the eighteenth century, the *Essay* contained Martin's recommendations for plantation management and covered topics ranging from the regulation and management of enslaved labor to the planting and harvesting of cane. The *Essay* is written in prose, but it served as an important source for Grainger.  
 
-[^f89n4]: 89.38 sylvan school. Informal education provided by experience in nature or the wilderness, rather than in the classroom.
+[^f89n4]: Informal education provided by experience in nature or the wilderness, rather than in the classroom.
 
 [^f89n5]: Bad temper or a melancholy temperament.  
 
