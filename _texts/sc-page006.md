@@ -23,7 +23,7 @@ source: "1764 edition"
 
 > VER. 29. *Muscovado,*\] The Cane-juice being brought to the consistence of syrup, and, by subsequent coction, granulated, is then called *muscovado* \(a Spanish word probably, though not to be found in Pineda) vulgarly brown Sugar; the French term it *sucre brut*.
 
-> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white[^f6n7] and red, which differ from the cedars cultivated in the Bermudas[^f6n8]: both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison. The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
+> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white[^f6n7] and red, which differ from the cedars cultivated in the Bermudas[^f6n8] : both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison. The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
 
 > VER. 34. *Locust*\] This is also a lofty tree. It is of quick growth and handsome, and produces a not disagreeable fruit in a flat pod or legumen, about three inches long. It is a serviceable wood. In botanical books, I find three different names for the locust-tree; that meant here is the *Siliqua edulis*.
 
