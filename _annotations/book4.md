@@ -23,15 +23,15 @@ editor: julie
 
 126.16 wishes freedom to the race of man. By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races and to support slavery.  
 
-126.21 Caribbe's. The Caribbean's.  
+[place] 126.21 Caribbe's. The Caribbean's.  
 
-126.22 parch'd Libya's wilds. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
+[place] 126.22 parch'd Libya's wilds. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
 126.23 bays. Laurel (bay leaf) crown, often associated with poetic achievement.
 
 126.24 Sylvan bard. Literally, poet from the wilderness. Here Grainger seems to be referring to himself insofar as he was writing from the Caribbean rather than from metropolitan London.
 
-[person] 126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French and then governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.  
+[people] 126.25 Melvil. Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French and then governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.  
 
 126.28 Indian wreath. Grainger's invocation of an Indian wreath further makes the point that the poem is a product of the Caribbean.  
 
