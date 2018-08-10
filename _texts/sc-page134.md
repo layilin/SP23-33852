@@ -36,9 +36,9 @@ source: "1764 edition"
 
 [^f134n2]: Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
 
-[^f134n3] Paralysis of the skeletal muscles.  
+[^f134n3]: Paralysis of the skeletal muscles.  
 
-[^f134n4] A river in central Europe that forms the boundary between Croatia and Hungary. 
+[^f134n4]: A river in central Europe that forms the boundary between Croatia and Hungary. 
 
 [^f134n5]: Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
 
