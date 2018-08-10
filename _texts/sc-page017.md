@@ -29,10 +29,12 @@ source: "1764 edition"
 - Yet will winds lodge them, ravening rats destroy,
 - Or troops of monkeys thy rich harvest steal.
 - The earth must also wheel around the sun,
-- And half perform that circuit; ere the bill [175]
+- And half perform that circuit; ere the bill[^f17n1] [175]
 
 ---
 
 >VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
+
+[^f17n1]: Also bill-hook. Cutlass used for cutting cane.
 
 ---
