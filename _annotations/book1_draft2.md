@@ -71,13 +71,13 @@ editor: julie
 
 [plant] 6.34n cedars cultivated in the Bermudas. The Bermuda cedar (*Juniperus bermudiana*). Endemic to Bermuda and used for building houses and other construction work. Also sustained a ship-building industry that denuded the island of most of its Bermuda cedars by the 1830s.  
 
-[plant] 7.36 cassia. Most likely *Cassia fistula*, a tree native to India, Malaysia, and Southeast Asia that was being cultivated in the Caribbean by the early sixteenth century. Used as a purgative.  
+[plant] 7.36 cassia. Most likely *Cassia fistula*, commonly used as a purgative. It is most likely native to India and Sri Lanka, and its native range may also include other parts of South and Southeast Asia.  
 
-[plant] 7.36 ceiba. *Ceiba pentandra*, also known as the kapok or silk-cotton tree. Native to Central and South America, the ceiba can achieve a height of 50 meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds.  
+[plant] 7.36 ceiba. *Ceiba pentandra*, also known as the kapok or silk-cotton tree. The ceiba, whose native range includes Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds.  
 
 [plant] 7.37 guava. Fruit from the small tree *Psidium guajava*, probably native to Central and South America but naturalized throughout the Caribbean by the eighteenth century.   
 
-[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
+[plant] 7.37 guaiac. Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.   
 
 7.37n. diaphoretic. Having the property of inducing or promoting perspiration.
 
@@ -87,9 +87,9 @@ editor: julie
 
 [plant] 8.44 shaddoc. A citrus fruit (*Citrus maxima*) also known as the pomelo or pummelo. Native to Southeast Asia and known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
-[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit.  
+[plant] 8.44 forbidden fruit. Refers to species of *Citrus* (family Rutaceae) that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit (Kumamoto et al., Bowman et al., Higman 180).   
 
-[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or cashew fruit was consumed during the eighteenth century as well. The fruit is also caustic and was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83). Also see Grainger's footnote in Book IV, p. 132.  
+[plant] 8.45 acajou. The cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83). Also see Grainger's footnote in Book IV, p. 132.  
 
 [plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of the enslaved who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
