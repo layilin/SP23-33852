@@ -361,9 +361,9 @@ editor: julie
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
-* [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean. 
+[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
 
-[plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
+[plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
 
 [people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an English architect, mathematician, and astronomer.  
 
@@ -379,23 +379,23 @@ editor: julie
 
 153.523n cortical part...durable laths for houses. Grainger is saying its bark can be used to make laths or strips of wood used in building.  
 
-* [plant] 154.534 anata. Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
+[plant] 154.534 anata. Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
 
-* [plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. It is native to Mexico, Central America, and northwest South America south to Bolivia.  
+[plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. Its native range is Panama to Venezuela and Peru.  
 
 154.534n apices. Apexes.  
 
-* [plant] 154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
+[plant] 154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil.  
 
 154.534n viscid. Sticky, adhesive.  
 
 155.549 Basons. Basins.
 
-* [plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
+[plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
-* [plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant native to Florida and the Caribbean, Central America, and northern South America.  
+[plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America.  
 
-* [plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
+[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
 [plant] 156.569 bananas. Bananas (family Musaceae) are closely related to plantains. Both formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
