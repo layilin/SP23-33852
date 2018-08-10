@@ -11,7 +11,7 @@ source: "1764 edition"
 - Brigade and squadron, whiten on the sight;
 - And fill spectators with an awful joy.
 
-- PLANTER, improvement is the child of time;
+- PLANTER, improvement[^f23n1] is the child of time;
 - What your sires knew not, ye their offspring know:
 - But hath your art receiv'd Perfection's stamp? [280]
 - Thou can'st not say.——Unprejudic'd, then learn
@@ -33,8 +33,10 @@ source: "1764 edition"
 - The meetest season to commit thy tops, [295]
 - With best advantage, to the well-dug mould.
 
----
+
 
 >VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.
+
+[^f23n1]: The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Englightenment.
 
 ---

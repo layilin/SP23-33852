@@ -23,9 +23,9 @@ source: "1764 edition"
 - Unless the low-hung clouds drop fatness down,
 - No bunching plants of vivid green will spring,
 - In goodly ranks, to fill the planter's eye. [310]
-- Let then Sagacity, with curious ken,
+- Let then Sagacity, with curious ken,[^f24n1] 
 - Remark the various signs of future rain.
-- The signs of rain, the Mantuan Bard hath sung
+- The signs of rain, the Mantuan Bard[^f24n2]  hath sung
 - In loftiest numbers; friendly to thy swains,
 - Once fertile Italy: but other marks [315]
 - Portend the approaching shower, in these hot climes.
@@ -33,5 +33,9 @@ source: "1764 edition"
 - SHORT sudden rains, from Ocean's ruffled bed,
 - Driven by some momentary squalls, will oft
 - With frequent heavy bubbling drops, down-fall;
+
+[^f24n1]: Range of vision.
+
+[^f24n2]:  Virgil was born in the Italian provice of Mantua.
 
 ---
