@@ -30,11 +30,13 @@ source: "1764 edition"
 - The main itself seems parted into streams,
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
-- The sails hang idly, noiseless, from the mast. [375]
+- The sails hang idly, noiseless, from the mast.[^f73n3] [375]
 
 
 [^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
 
 [^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
+
+[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
 
 ---
