@@ -93,7 +93,7 @@ editor: julie
 
 [plant] 8.45 sabbaca. Avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. An important part of the diets of the enslaved who had access to it: they likely harvested it from woodlands, versus growing it in provision grounds or gardens.  
 
-[person] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
+[people] 8.45n Ulloa. Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
 
 [plant] 8.45n two species; the one bearing a green fruit...and the other a red...and grows chiefly in Mexico. There are multiple varieties of avocado. The one that Grainger identifies as bearing a green fruit may be *Persea americana* var. *americana*, also known as the West Indian avocado. The one that Grainger identifies as growing chiefly in Mexico may be *Persea americana* var. *drymifolia*, also known as the Mexican avocado. 
 
@@ -215,7 +215,7 @@ editor: julie
 
 19.213 lily. Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
 
-[place]19.216 Gallia. France.  
+[place] 19.216 Gallia. France.  
 
 [place] 20.233 Dorchestria's plains. According to Gilmore, a Latinized name that refers to the town of Dorchester in the southern English county of Dorset.  
 
@@ -370,13 +370,13 @@ editor: julie
 
 38.543. Vermeil. Bright red color.
 
-* 38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his 25 March 1765 letter to Bishop Thomas Percy (Nichols 288).  
+38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his 25 March 1765 letter to Bishop Thomas Percy (Nichols 288).  
 
 38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
 
 38.536n fucus. A paint or cosmetic for beautifying the skin; a wash or coloring for the face.  
 
-38.536n It grows naturally in some parts of Spain. *Opuntia ficus-indica* was introduced to Spain by Christopher Columbus upon his return from his first voyage.  
+[plant] 38.536n It grows naturally in some parts of Spain. *Opuntia ficus-indica* was introduced to Spain by Christopher Columbus upon his return from his first voyage.  
 
 38.536n. scymitar. A scimitar is a short, curved, single-edged sword associated primarily with Turkey or the Middle East.  
 
@@ -426,7 +426,7 @@ editor: julie
 
 [people] 42.601n. Martinus. According to Gilmore, Matthias Martinius (1572—1630), author of *Lexicon Philologicum* (1623).  
 
-* 43.607. Danae...Theodosia, thine. Gilmore suggests that these names reference Grainger's wife, whose first name was Daniel ("Daniel" sounds like "Danae").  
+43.607. Danae...Theodosia, thine. Gilmore suggests that these names reference Grainger's wife, whose first name was Daniel ("Daniel" sounds like "Danae").  
 
 [plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry.  
 
