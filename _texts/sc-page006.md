@@ -42,4 +42,5 @@ source: "1764 edition"
 [^f6n7]: The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean.
 
 [^f6n8]: The Bermuda cedar (*Juniperus bermudiana*). Endemic to Bermuda and used for building houses and other construction work. Also sustained a ship-building industry that denuded the island of most of its Bermuda cedars by the 1830s.
+
 ---
