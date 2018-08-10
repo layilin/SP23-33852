@@ -7,6 +7,8 @@ editor: julie
 
 [place] v West-Indies. Historically, the West Indies is the region that includes the northern coast of South America, Central America, Mexico, Florida, the Bahamas, and the Greater and Lesser Antilles. We use the term Caribbean throughout this site to refer to the islands from Grenada through Cuba.  
 
+[plant] v Sugar-Cane. *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first brought to the Americas by Christopher Columbus.  
+
 v could not fail to enrich poetry. Grainger explains that because the Caribbean landscapes, flora, and fauna are so different from those of Europe, the region can give rise to new forms of poetry.
 
 v Genius. Grainger uses "genius" in the sense of poetic inspiration.
@@ -15,7 +17,7 @@ v instructing the reader. the georgic is a didactic mode, meaning that its princ
 
 v every writer who wishes to be thought a good man. Despite the fact that sugar was a major eighteenth-century cash crop and that the implicit goal of this poem is to help planters profit from their investments, Grainger makes an appeal for the disinterested nobility of his poetic labor.  
 
-[place] v St. Christophers. Grainger left England for St. Christophers in 1759. Known as the Federation of St. Kitts and Nevis since it gained independence from Great Britain in 1983, the island was called Liamuiga by the indigenous Caribs who lived there. We use "St. Kitts" throughout this site to refer to what used to be known as St. Christophers or Liamuiga. In 1493, Christopher Columbus claimed St. Kitts for Spain, and it was partitioned between the French and the English in the early seventeenth century. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger arrived during the Seven Years' War (1756-1763). St. Kitts began as a tobacco colony but turned to sugar production in the mid-eighteenth century.  
+[place] v St. Christophers. Grainger left England for St. Christophers in 1759. Known as the Federation of St. Kitts and Nevis since it gained independence from Great Britain in 1983, the island was called Liamuiga by the indigenous Caribs who lived there. We use "St. Kitts" throughout this site to refer to what used to be known as St. Christophers or Liamuiga. In 1493, Columbus claimed St. Kitts for Spain, and it was partitioned between the French and the English in the early seventeenth century. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger arrived during the Seven Years' War (1756-1763). St. Kitts began as a tobacco colony but turned to sugar production in the mid-eighteenth century.  
 
 vi rural oeconomy. Agriculture, farming.
 
