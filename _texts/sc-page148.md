@@ -24,7 +24,7 @@ source: "1764 edition"
 - For many a year, with wholesome pulse their board. [455]
 - There let the bonavist,[^f148n5] his fringed pods
 
-> VER. 449. *cassada*\] To an antient Carribean, bemoaning the savage uncomfortable life of his countrymen, a deity clad in white apparel appeared, and told him, he would have come sooner to have taught him the ways of civil life, had he been addressed before. He then showed him sharp-cutting stones to fell trees and build houses; and bade him cover them with the palm leaves. Then he broke his staff in three; which, being planted, soon after produced cassada. See Ogilvy's America.[^148n6]
+> VER. 449. *cassada*\] To an antient Carribean, bemoaning the savage uncomfortable life of his countrymen, a deity clad in white apparel appeared, and told him, he would have come sooner to have taught him the ways of civil life, had he been addressed before. He then showed him sharp-cutting stones to fell trees and build houses; and bade him cover them with the palm leaves. Then he broke his staff in three; which, being planted, soon after produced cassada. See Ogilvy's America.[^f148n6]
 
 > VER. 454. *angola*\] This is called *Pidgeon-pea*, and grows on a sturdy shrub, that will last for years. It is justly reckoned among the most wholesome legumens. The juice of the leaves, dropt into the eye, will remove incipient films. The botanic name is *Cytisus*.
 
