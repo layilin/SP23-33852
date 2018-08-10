@@ -35,6 +35,8 @@ source: "1764 edition"
 
 ---
 
-> VER. 81. *And where thy dried Canes*\] The Cane-stalks which have been ground, are called *Magoss*; probably a corruption of the French word *Bagasse*, which signifies the same thing. They make an excellent fewel.
+> VER. 81. *And where thy dried Canes*\] The Cane-stalks which have been ground, are called *Magoss*; probably a corruption of the French word *Bagasse*,[^f91n1] which signifies the same thing. They make an excellent fewel.
+
+[^f91n1]: The crushed stalks are the byproduct of milling sugar-cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
 
 ---
