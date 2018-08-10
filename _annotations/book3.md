@@ -319,7 +319,7 @@ editor: julie
 
 [plant] 116.549 tamarinds. The tamarind tree (*Tamarindus indica*), which is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
-[plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.  
+[plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its native range extends from southern Mexico to Venezuela.  
 
 116.549n sweet-meats. Preserved or candied fruits.  
 
