@@ -18,7 +18,7 @@ source: "1764 edition"
 
 [^f10n2]: Together, these islands form the modern Federation of St. Kitts and Nevis.
 
-[^f10n3] Volcano.
+[^f10n3]: Volcano.
 
 [^f10n4]: Runaway or escaped slaves.
 
