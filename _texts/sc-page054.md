@@ -11,7 +11,7 @@ source: "1764 edition"
 - Oft sees red lightning at the midnight-hour,  
 - When nod the watches, stream along the sky;  
 - Not innocent, as what the learned call  
-- The Boreal morn, which, through the azure air, [15]  
+- The Boreal morn,[^f54n1] which, through the azure air, [15]  
 - Flashes its tremulous rays, in painted streaks,  
 - While o'er night's veil her lucid tresses flow:  
 - Nor quits the Muse her walk, immers'd in thought,  
@@ -27,10 +27,13 @@ source: "1764 edition"
 - Yes, thou wilt weep: thine own distress thou bear'st  
 - Undaunted; but another's melts thy soul.  
 
-- \"O WERE my pipe as soft, my dittied song\"  
+- \"O WERE my pipe as soft, my dittied song\"[^f54n2]  
 - As smooth as thine, my too too distant friend, [30]  
 - SHENSTONE; my soft pipe, and my dittied song  
 - Should hush the hurricanes tremendous roar,  
 - And from each evil guard the ripening Cane!
+
+[^f54n1]: The aurora borealis or northern lights.  
+[^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86).  
 
 ---
