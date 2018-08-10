@@ -295,17 +295,17 @@ editor: julie
 
 32.453 moon must blunt her horns. The pointed ends of the crescent moon are sometimes referred to as its horns. Grainger thus means that six moons or months must pass.  
 
-33.459 alien. Belonging to another person, place, or family; not of one's own; from elsewhere, foreign.  
+33.459 alien. Belonging to another person, place, or family; from elsewhere, foreign.  
 
 33.472 stern Neptune. Roman god of the sea.  
 
-34.483 from Aries to the Bull. Aries is the first sign of the zodiac; the sun enters it in mid-March and exits in mid-April. The "Bull" refers to the zodiacal sign of Taurus, which is the second sign of the zodiac; the sun enters in in mid-April and exits in mid-May.  
+34.483 from Aries to the Bull. Aries is the first sign of the zodiac; the sun enters it in mid-March and exits it in mid-April. The Bull refers to the zodiacal sign of Taurus, which is the second sign of the zodiac; the sun enters it in mid-April and exits it in mid-May.  
 
-34.484 the Virgin his hot beams inflame. The "Virgin" names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits in mid-September.  
+34.484 the Virgin his hot beams inflame. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September.  
 
 34.488 wondering daughters of the main. Sea nymphs. Chiefly used in poetry, "main" denotes the ocean.  
 
-34.489 ere Libra weigh the year. Libra is the seventh sign of the zodiac; it enters the sun in mid-September and exits in mid-October.  
+34.489 ere Libra weigh the year. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October.  
 
 34.495 Unfailing herbage to thy toiling herds. Cane stalks often provided cattle with feed.  
 
@@ -313,13 +313,11 @@ editor: julie
 
 [plant] 35.503 logwood-hedge. Logwood is the commercial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin, which produces blue, red, and purple colors.  
 
-35.505 the flux...Endemial ail. General term for gastrointestinal disorders like dysentery (also known as the "bloody flux"). Dysentery remained a major public health concern throughout the eighteenth and nineteenth centuries. "Endemial" means endemic or habitually present in a certain country or area.  
+35.505 the flux...Endemial ail. The flux is a general term for gastrointestinal disorders like dysentery (also known as the "bloody flux"). Dysentery remained a major public health concern throughout the eighteenth and nineteenth centuries. Endemial means endemic or habitually present in a certain country or area.  
 
 35.500n Saracens. Among the later Greeks and Romans, a name for the nomadic peoples of the Syro-Arabian desert; also used as a synonym for Arab and Muslim peoples.  
 
 [plant] 35.508 ricinus. Grainger refers here to the physic nut plant (*Jatropha curcas*), which is often conflated with the castor oil plant (*Ricinus communis*). The physic nut tree is native to the tropical Americas. It is toxic to human beings and livestock and was often used as a purgative in the eighteenth century.  
-
-[plant] 35.508n The plant from which the castor-oil is extracted is also called *Ricinus*. *Ricinus communis*, the castor oil plant.  
 
 [people] 35.508n Ray. John Ray (1627-1705), English naturalist and botanist. Author of *Historia plantarum* (1686-1704), a three-volume encyclopedia of plants cataloging 18,600 species.
 
@@ -327,7 +325,7 @@ editor: julie
 
 35.508n melancholy. Prior to the eighteenth century, melancholy was understood within the framework of humoral theories of the body (articulated by Aristotle, Galen, and Hippocrates) as a disease caused by an excess of "black bile" and characterized by such emotions as fear or sadness without explicit cause. Use of the term had expanded by the time of Grainger's writing to speak more generally of physiological disturbance, listlessness, or dejection.  
 
-36.509. cholic. Painful stomach contractions.
+36.509. cholic. Also colic or painful stomach contractions.
 
 [plant] 36.510 acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn.  
 
@@ -338,7 +336,7 @@ editor: julie
 
 [people] 36.510n. Tournefort. Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique* (1694).
 
-[plant] 36.520 carnation. *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that the women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
+[plant] 36.520 carnation. *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
 
 [people] 36.520n Depoinci. General Philippe de Lonvilliers, chevalier de Poincy (1584-1660), governor of the French Antilles from 1647 to 1660.  
 
@@ -350,11 +348,11 @@ editor: julie
 
 36.520n emmenagogue. Having the power to induce menstrual flow.  
 
-36.520n *Cauda pavonis*. Peacock's tail (Latin).  
+36.520n *Cauda pavonis*. Peacock's tail.  
 
 36.520n *Flower Fence*. Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.
 
-[place] 36.520n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[place] 36.520n Guinea. A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 37.524 Juno's bird. Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae).  
 
@@ -366,14 +364,13 @@ editor: julie
 
 [plant] 37.536 prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
 
-[people] 37.526n. Edwards. George Edwards (1694-1773), English artist and ornithologist; author of *A Natural History of Uncommon Birds* (1743-1751).  
+[people] 37.526n. Edwards. George Edwards (1694-1773), English artist and ornithologist. Author of *A Natural History of Uncommon Birds* (1743-1751).  
 
-[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration.  
+[plant] 38.538 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration.  
 
 38.543. Vermeil. Bright red color.
 
-* 38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his February 29, 1766, letter to Bishop Thomas Percy (Nichols, *Illustrations of the
-Literary History of the Eighteenth Century* PAGE NUMBERS).  
+* 38.544. Christobelle. Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his 25 March 1765 letter to Bishop Thomas Percy (Nichols 288).  
 
 38.536n The former is sometimes eaten, but the other seldom. The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals.  
 
@@ -381,11 +378,11 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 38.536n It grows naturally in some parts of Spain. *Opuntia ficus-indica* was introduced to Spain by Christopher Columbus upon his return from his first voyage.  
 
-38.536n. scymitar. A scimitar is a short, curved, single-edged sword associated primarily with Turkey and the Middle East.  
+38.536n. scymitar. A scimitar is a short, curved, single-edged sword associated primarily with Turkey or the Middle East.  
 
 38.538n scandent. Climbing, ascending.  
 
-[plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of enslaved Africans because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade. 
+[plant] 38.538n. pigeon-peas. *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade. 
 
 38.538n. emetic...pectoral. Emetics produce vomiting. Pectoral drinks aid in digestion.
 
@@ -393,15 +390,15 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 39.559 contagious blast. Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).  
 
-39.560. Dryad. Wood-nymph.
+39.560. Dryad. Wood nymph.  
 
 39.564. recks. Heeds, cares, minds, considers.  
 
-40.572. yellow death. Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by jaundice, fever, nausea or vomiting, and aches. This disease was extremely deadly to newcomers from Europe.
+40.572. yellow death. Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by jaundice, fever, nausea or vomiting, and aches. This urban disease was extremely deadly to newcomers from Europe.
 
 40.580. Montano. Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
 
-* 40.572n Creoles.  
+40.572n Creoles. In the eighteenth century, the term creole was used to refer to individuals born in the Americas, regardless of ancestry.  
 
 [plant] 41.596 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads.  
 
@@ -409,7 +406,7 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 41.596n. a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*. Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour.   
 
-[plant] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There are reports from the colonial Caribbean of cassava being made into a drink called perino. Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
+[people] 41.596n. A wholesome drink is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There are reports from the colonial Caribbean of cassava being made into a drink called perino. Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
 [plant] 41.596n. one species of this plant which the Indians only use, and is by them called *Baccacoua*. Jean Antoine Bruletout de Préfontaine's *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763) also mentions a kind of cassava called Baccacoua that is consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America (now the name of the capital of French Guiana).  
 
@@ -425,19 +422,17 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 42.598n custard, star, and sugar-apples. Custard apple (*Annona reticulata*) is the fruit of a tree native to Mexico, Central America, and South America. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles. Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
-[place] 42.601n. Levant. Refers to the eastern Mediterrean Sea region, including the islands and bordering countries.  
+[place] 42.601n. Levant. Refers to the eastern part of the Mediterranean; includes modern Turkey, Syria, Lebanon, Jordan, Israel, and Egypt.    
 
 [people] 42.601n. Martinus. According to Gilmore, Matthias Martinius (1572—1630), author of *Lexicon Philologicum* (1623).  
 
-[plant] 43.606 coffee. Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.  
+* 43.607. Danae...Theodosia, thine. Gilmore suggests that these names reference Grainger's wife, whose first name was Daniel ("Daniel" sounds like "Danae").  
 
-* 43.607. Danae...Theodosia, thine. Gilmore suggests that these names reference Grainger's wife, whose first name was Daniel and whom Grainger called Danny.  
+[plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry.  
 
-[plant] 43.605n the addition of vanellas and other hot ingredients. The Aztecs flavored their chocolate with vanilla (*Vanilla planifolia*), which is native to Central America, and other spices, including chili peppers (genus *Capsicum*), which are native to the tropical Americas. Grainger was not necessarily thinking of the spiciness of ingredients when he referred to them as "hot," however. He may instead have meant that vanilla, pepper, and other spices were hot in a humoral sense: according to humoral theories of health, all foods possessed elemental qualities that reflected some combination of heat, moisture, coldness, or dryness. These foods could, in turn, impart those qualities to those who ate them and thus needed to be regulated to complement the humoral properties of consumers' bodies, which also were hot, cold, moist, or dry to varying degrees.  
+[plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean.  
 
-[plant] 43.605n olive. The olive tree (*Olea europaea*) is widely distributed across the Mediterranean region, Africa, and Asia and has been cultivated in the Mediterranean for over five thousand years. It is a symbol of the Mediterranean, as well as a symbol of wealth, abundance, power, and peace.   
-
-[plant] 43.605n *Madre de Cacao*. *Gliricidia sepium*. Native to Central and South America, used as a shade tree for cacao and other plants.  
+[plant] 43.605n *Madre de Cacao*. *Gliricidia sepium*. Native to Central and South America; used as a shade tree for cacao and other plants.  
 
 43.605n good pods. Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts.  
 
@@ -445,15 +440,15 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 43.605n There are three or four sorts of cacao, which differ from one another in the colour and goodness of their nuts. That from the Caraccas is certainly the best. There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
 
-43.605n This word is Indian. "Cacao" derives from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
+43.605n This word is Indian. "Cacao" is derived from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
 
-43.606n Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
+[place] 43.606n Arabia Felix. The name Ptolemy gave to the south and southwest of Arabia because of its fertile landscape.
 
 [place] 43.606n Constantinople. Present-day Istanbul.
 
 43.606n eighty years. The "Errata" list at the end of *The Sugar-Cane* indicates that "eighty" should read "one hundred and fifty."  
 
-44.611 well-fed. On line 430 of Book IV, Grainger admits that planters did not provide enslaved laborers with sufficient food for survival because they were more concerned with cutting the costs of plantation upkeep and maximizing sugar profits.  
+44.611 well-fed. In Book IV, line 430, Grainger admits that planters did not always provide enslaved laborers with sufficient food for survival.  
 
 44.616 glander-pest. Grainger is referring to the glanders, a contagious disease in horses.  
 
@@ -463,8 +458,8 @@ Literary History of the Eighteenth Century* PAGE NUMBERS).
 
 [plant] 44.606n tea. *Camellia sinensis* is the species from which commercially produced tea is derived. It is native to Southeast Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
-[plant] 44.625n senna. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
+45.629 Lion. Refers to Leo, the fifth sign of the Zodiac; the sun enters it in mid-July and exits it in mid-August. 
 
-45.629 Lion. Refers to Leo, the fifth sign of the Zodiac; it enters the sun in mid-July and exits in mid-August. 
+46.642 zumbadores. Means buzzer in Spanish. As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*).  
 
-46.642 zumbadores. Buzzer (Spanish). As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*).  
+---
