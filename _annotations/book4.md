@@ -323,7 +323,7 @@ editor: julie
 
 150.476 Ere the stone grind them to the food of health. Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131).    
 
-[plant] 150.478-479 And that kind sheltering tree, thy mother nam'd, With crimson flowerets prodigally grac'd;. Madre de Cacao (*Gliricidia sepium*). Native to Central and South America; used as a shade tree for cacao and other plants.  
+[plant] 150.478-479 And that kind sheltering tree, thy mother nam'd, With crimson flowerets prodigally grac'd;. Madre de Cacao (*Gliricidia sepium*). Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
 
 150.485 negro-fugitives. Runaway or escaped slaves.  
 
