@@ -351,7 +351,7 @@ editor: julie, ami, lina, elizabeth
 
 118.590 Taber. A one-handed snare drum often played as a military instrument.
 
-[person] 119.596 man of Norfolk. George Townshend, first Marquess Townshend (1724-1807), an English politician and caricaturist who also had a distinguished military career, serving as second in command to Major-General James Wolfe in Canada during the Seven Years' War and then as overall commander after Wolfe's death during the campaign to take French-held Quebec, which surrendered to British forces in 1759.
+[people] 119.596 man of Norfolk. George Townshend, first Marquess Townshend (1724-1807), an English politician and caricaturist who also had a distinguished military career, serving as second in command to Major-General James Wolfe in Canada during the Seven Years' War and then as overall commander after Wolfe's death during the campaign to take French-held Quebec, which surrendered to British forces in 1759.
 
 [people][place] 119.600 Tyrtaeus gain'd of yore. Tyrtaeus was a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city. Sparta was a powerful city-state in ancient Greece.  
 
