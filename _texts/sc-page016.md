@@ -22,7 +22,7 @@ source: "1764 edition"
 - May be solicited, by wily ways, 
 - To draw her humid train, and, prattling, run
 - Down the reviving slopes? Or shall she say
-- What glebes ungrateful to each other art,
+- What glebes[^f16n1] ungrateful to each other art,
 - Their genial treasures ope to fire alone? [150]
 - Record the different composts; which the cold
 - To plastic gladness warm? The torrid, which
@@ -31,6 +31,10 @@ source: "1764 edition"
 
 ---
 
-> shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time, they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner, *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.
+> shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time,[^f16n2] they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner,[^f16n3] *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.
+
+[^f16n1]: Earth, lands.  
+[^f16n2]: William III (1650-1702), king of England, Scotland, and Ireland and prince of Orange. Queen Anne (1665-1714) was the queen of England, Scotland, and Ireland between 1702 and 1707. They ascended to the throne after the abdication of James II at the end of the Glorious Revolution (1688-1689).  
+[^f16n3]: Sir Thomas Warner (c.1580-1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. In 1624, he settled in St. Kitts, where he established tobacco plantations and formed an alliance with the French against the Caribs. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
 
 ---
