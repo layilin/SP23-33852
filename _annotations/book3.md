@@ -53,7 +53,7 @@ editor: julie, ami, lina, elizabeth
 
 92.94 coppers. Copper pots used for boiling cane juice.
 
-* 92.99 dare now deprive them of the luscious cane. In his prose *Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved Africans "should not only be allowed to drink what quantity of the cane-juice they think proper, but even be obliged to drink it" during crop time. However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
+92.99 dare now deprive them of the luscious cane. In his prose *Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved Africans "should not only be allowed to drink what quantity of the cane-juice they think proper, but even be obliged to drink it" during crop time. However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
 
 92.103 wanes. A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.
 
