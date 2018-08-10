@@ -233,7 +233,7 @@ editor: julie
 
 22.260n junks. A gathering of stems or stalks.  
 
-23.278 improvement.  
+23.278 improvement. The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Englightenment.  
 
 24.311 ken. Range of vision.  
 
