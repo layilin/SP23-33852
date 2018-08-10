@@ -9,7 +9,7 @@ source: "1764 edition"
 [19]()
 
 - PLANTER, if thou with wonder wouldst survey
-- Redundant harvests, load thy willing soil;
+- Redundant harvests,[^f19n1] load thy willing soil;
 - Let sun and rain mature thy deep-hoed land,
 - And old fat dung co-operate with these. [200]
 - Be this great truth still present to thy mind;
@@ -25,14 +25,18 @@ source: "1764 edition"
 - With spiry pomp, all bountifully rise. [210]
 - Thus Britain's flag, should discipline relent,
 - \'Spite of the native courage of her sons,
-- Would to the lily strike: ah, very far,
+- Would to the lily[^f19n2] strike: ah, very far,
 - Far be that woful day: the lily then
 - Will rule wide ocean with resistless sway; [215]
-- And to old Gallia's haughty shore transport
+- And to old Gallia's[^f19n3] haughty shore transport
 - The lessening crops of these delicious isles.
 
 ---
 
 > VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
+
+[^f19n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
+[^f19n2]: Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
+[^f19n3]: France.
 
 ---
