@@ -283,3 +283,303 @@ IN a West-India georgic, the mention of many indigenous remedies, as well as dis
 > their produce cannot be refined to the best advantage, without a mixture of St. Kitts' muscovado. In the barren part of the island, which runs out towards Nevis, are several ponds, which in dry weather crystallize into good salt; and below Mount Misery is a small Solfaterre and collection of fresh water, where fugitive Negroes often take shelter, and escape their pursuers. Not far below is a large plain which affords good pasture, water, and wood; and, if the approaches thereto were fortified, which might be done at a moderate expence, it would be rendered inaccessible. The English, repulsing the few natives and Spaniards, who opposed them, began to plant tobacco here *A.D.* 1623. Two years after, the French landed in St. Christopher on the same day that the English-settlers received a considerable reinforcement from their mother-country; and, the chiefs of both nations, being men of sound policy, entered into an agreement to divide the island between them: the French retaining both extremities, and the English possessing themselves of the middle parts of the island. Some time after both nations erected sugar-works, but there were more tobacco, indigo, coffee, and cotton-plantations, than Sugar ones, as these require a much greater fund to carry them on, than those other. All the planters, however, lived easy in their circumstances; for, though the Spaniards, who could not bear to be spectators of their thriving condition, did repossess themselves of the island, yet they were soon obliged to retire, and the colony succeeded better than ever. One reason for this was, that it had been agreed between the two nations, that they should here remain neutral whatever wars their mother-countries might wage against each other in Europe. This was a wise regulation for an infant settlement; but, when King James abdicated the British throne, the French suddenly rose, and drove out the unprepared English by force of arms. The French colonists of St. Christopher had soon reason, however, to repent their impolitic breach of faith; for the expelled planters, being assisted by their countrymen from the neighbouring isles, and supported by a formidable fleet, soon recovered, not only their lost plantations, but obliged the French totally to abandon the island. After the treaty of Ryswick, indeed, some few of those among them, who had not obtained settlements in Martinico and Hispaniola, returned to St. Christopher: but the war of partition soon after breaking out, they were finally expelled, and the whole island was ceded in Sovereignty to the crown of Great Britain, by the treaty of Utrecht. Since that time, St. Christopher has gradually improved, and it is now at the height of perfection. The Indian name of St. Christopher is *Liamuiga*, or the Fertile Island.
 
 ---
+
+
+[11]()
+
+- Strow'd with each fruit of taste, each flower of smell, [65]
+- Sicilian Proserpine, delighted, sought; 
+- Can vie, blest Isle, with thee.—Tho' no soft sound
+- Of pastoral stop thine echoes e'er awak'd;
+- Nor raptured poet, lost in holy trance,
+- Thy streams arrested with enchanting song: [70]
+- Yet virgins, far more beautiful than she
+- Whom Pluto ravish'd, and more chaste, are thine:
+- Yet probity, from principle, not fear,
+- Actuates thy sons, bold, hospitable, free:
+- Yet a fertility, unknown of old, [75]
+- To other climes denied, adorns thy hills;
+- Thy vales, thy dells adorns.—O might my strain
+- As far transcend the immortal songs of Greece,
+- As thou the partial subject of their praise! [80]
+- Thy fame should float familiar thro' the world;
+- Each plant should own thy Cane her lawful lord;
+- Nor should old Time, song stops the flight of Time,
+- Obscure thy lustre with his shadowy wing.
+
+- SCARCE less impregnated, with every power
+- Of vegetation, is the red brick-mould, [85]
+- That lies on marly beds.—The renter, this
+- Can scarce exhaust; how happy for the heir!
+
+---
+
+>VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands. *Sloane*.
+
+---
+
+
+[12]()
+
+- SUCH the glad soil, from whence Jamaica's sons
+- Derive their opulence: thrice fertile land,
+- \"The pride, the glory of the sea-girt isles, [90]
+- \"Which, like to rich and various gems, inlay
+- \"The unadorned bosom of the deep,"
+- Which first Columbus' daring keel explor'd.
+
+- DAUGHTERS of Heaven, with reverential awe,
+- Pause at that godlike name; for not your flights [95]
+- Of happiest fancy, can outsoar his fame.
+
+- COLUMBUS, boast of science, boast of man!
+- Yet, by the great, the learned, and the wise,
+- Long held a visionary; who, like thee, 
+- Could brook their scorn; wait seven long years at court, [100]
+- A selfish, sullen, dilatory court;
+- Yet never from thy purpos'd plan decline?
+- No God, no Hero, of poetic times,
+- In Truth's fair annals, may compare with thee!
+- Each passion, weakness of mankind, thou knew'st, [105]
+- Thine own concealing; firmest base of power:
+- Rich in expedients; what most adverse seem'd,
+- And least expected, most advanc'd thine aim.
+- What storms, what monsters, what new forms of death,
+- In a vast ocean, never cut by keel, [110]
+
+---
+
+
+[13]()
+
+- And where the magnet first its aid declin'd;
+- Alone, unterrified, didst thou not view?
+- Wise Legislator, had the Iberian King
+- Thy plan adopted, murder had not drench'd
+- In blood vast kingdoms; nor had hell-born Zeal, [115]
+- And hell-born Avarice, his arms disgrac'd.
+- Yet, for a world, discover'd and subdu'd,
+- What meed had'st thou? With toil, disease, worn out,
+
+---
+
+>VER. 111. *and where the magnet*\] The declension of the needle was discovered, *A. D.* 1492, by Columbus, in his first voyage to America; and would have been highly alarming to any, but one of his undaunted and philosophical turn of mind.
+
+>This century will always make a distinguished figure in the history of the human mind; for, during that period, printing was invented, Greek-learning took refuge in Italy, the Reformation began, and America was discovered.
+
+>The island of Jamaica was bestowed on Columbus, as some compensation for his discovery of the new world; accordingly his son James settled, and planted it, early [*A. D.* 1509] the following century. What improvements the Spaniards made therein is no where mentioned; but, had their industry been equal to their opportunities, their improvements should have been considerable; for they continued in the undisturbed possession of it till the year 1596, when Sir Anthony Shirley, with a single man of war, took and plundered St. Jago de la Vega, which then consisted of 2000 houses. In the year 1635, St. Jago de la Vega was a second time plundered by 500 English from the Leeward islands, tho' that capital, and the fort, (which they also took) were defended by four times their number of Spaniards. One and twenty years afterwards, the whole island was reduced by the forces sent thither by Oliver Cromwell, and has ever since belonged to England. It is by far the largest island possessed by the English in the West Indies. Sir Thomas Modyford, a rich and eminent planter of Barbadoes, removed to Jamaica *A. D.* 1660, to the great advantage of that island, for he instructed the young English settlers to cultivate the Sugar-cane; for which, and other great improvements which he then made them acquainted with, King Charles, three years afterwards, appointed him Governour thereof, in which honourable employment he continued till the year 1669.
+
+---
+
+
+[14]()
+
+- Thine age was spent solliciting the Prince,
+- To whom thou gav'st the sceptre of that world. [120]
+- Yet, blessed spirit, where inthron'd thou sit'st,
+- Chief 'mid the friends of man, repine not thou:
+- Dear to the Nine, thy glory shall remain
+- While winged Commerce either ocean ploughs;
+- While its lov'd pole the magnet coyly shuns; [125]
+- While weeps the guaiac, and while joints the Cane. 
+
+- SHALL the Muse celebrate the dark deep mould,
+- With clay or gravel mix'd?—This soil the Cane
+- With partial fondness loves; and oft surveys
+- Its progeny with wonder.—Such rich veins [130]
+- Are plenteous scatter'd o'er the Sugar-isles:
+- But chief that land, to which the bearded fig,
+
+---
+
+> VER. 132. *the bearded Fig*\] This wonderful tree, by the Indians called the *Banian-tree*; and by the botanists *Ficus Indica*, or *Bengaliensis*, is exactly described by Q. Curtius, and beautifully by Milton in the following lines:
+
+> "The Fig-tree, not that kind renown'd for fruit,  
+> "But such as at this day to Indians known,  
+> "In Malabar and Decan spreads her arms;  
+> "Branching so broad and long, that in the ground,  
+> "The bended twigs take root, and daughters grow  
+> "About the mother-tree, a pillar'd shade,  
+> "High over-arch'd, and echoing walks between.  
+> "There oft the Indian herdsman, shunning heat,  
+> "Shelters in cool, and tends his pasturing herds  
+> "At Loop-holes cut through thickest shade."——  
+
+> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
+
+---
+
+
+[15]()
+
+- Prince of the forest, gave Barbadoes name:
+- Chief Nevis, justly for its hot baths fam'd:
+- And breezy Mountserrat, whose wonderous springs [135]
+
+---
+
+>in their voyages to and from South-America, and the Islands; accordingly we are told, when the English first landed there, which was about the end of the sixteenth or beginning of the seventeenth century, they found in it an excellent breed of wild hogs, but no inhabitants. In the year 1627, Barbadoes, with most of the other Caribbee-islands, were granted by Charles I. to the Earl of Carlisle, that nobleman agreeing to pay to the Earl of Marlborough, and his heirs, a perpetual annuity of 300 *l. per annum*, for his waving his claim to Barbadoes, which he had obtained, by patent, in the preceding reign. The adventurers to whom that nobleman parcelled out this island, at first cultivated tobacco; but, that not turning out to their advantage, they applied, with better success, to cotton, indigo, and ginger. At last, some cavaliers of good fortune transporting themselves thither, and introducing the Sugar-cane [*A. D.* 1647] probably from Brazil, in ten years time the island was peopled with upwards of 30,000 Whites, and twice that number of Negroes, and sent yearly very considerable quantities of sugar to the mother-country. At the Restoration, King Charles II. bought off the claim of the Carlisle-family; and, in consideration of its then becoming a royal instead of a proprietary government, the planters gave the Crown 4 1/2 *per cent.* on their sugars; which duty still continues, although the island is said to be less able to pay it now than it was a hundred years ago. It is upwards of 20 miles long, and in some places almost 14 broad.
+
+>VER. 134. *Chief Nevis,*\] This island, which does not contain many fewer square miles than St. Christopher, is more rocky, and almost of a circular figure. It is separated from that island by a channel not above one mile and an half over, and lies to windward. Its warm bath possesses all the medical properties of the hot well at Bristol, and its water, being properly bottled, keeps as well at sea, and is no less agreeable to the palate. It was for many years the capital of the Leeward Island government; and, at that period, contained both more Whites and Blacks than it does at present, often mustering 3000 men. The English first settled there *A. D.* 1628. Sixty-two years aftewards, the chief town was almost wholly destroyed by an earthquake; and, in 1706, the planters were well-nigh ruined by the French, who carried off their slaves contrary to capitulation. It must have been discovered in Columbus's second voyage, *A. D.* 1493.
+
+>VER. 135. *And breezy Mountserrat,*\] This island, which lies 30 miles to the south-west of Antigua, is not less famous for its solfaterre (or volcano), and hot petrifying spring, than for the goodness of its sugars. Being almost circular in its 
+
+---
+
+
+[16]()
+
+- Change, like Medusa's head, whate'er they touch,
+- To stony hardness; boast this fertile glebe.
+
+- THO' such the soils the Antillean Cane 
+- Supremely loves; yet other soils abound,
+- Which art may tutor to obtain its smile. [140]
+- Say, shall the experienc'd Muse that art recite?
+- How sand will fertilize stiff barren clay?
+- How clay unites the light, the porous mould,
+- Sport of each breeze? And how the torpid nymph
+- Of the rank pool, so noisome to the smell, [145]
+- May be solicited, by wily ways, 
+- To draw her humid train, and, prattling, run
+- Down the reviving slopes? Or shall she say
+- What glebes ungrateful to each other art,
+- Their genial treasures ope to fire alone? [150]
+- Record the different composts; which the cold
+- To plastic gladness warm? The torrid, which
+- By soothing coolness win? The sharp saline,
+- Which best subdue? Which mollify the sour?
+
+---
+
+> shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time, they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner, *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.
+
+---
+
+
+[17]()
+
+- To thee, if Fate low level land assign, [155]
+- Slightly cohering, and of sable hue,
+- Far from the hill, be parsimony thine.
+- For tho' this year when constant showers descend;
+- The speeding gale, thy sturdy numerous stock,
+- Scarcely suffice to grind thy mighty Canes: [160]
+- Yet thou, with rueful eye, for many a year,
+- Shalt view thy plants burnt by the torch of day;
+- Hear their parch'd wan blades rustle in the air;
+- While their black sugars, doughy to the feel,
+- Will not ev'n pay the labour of thy swains. [165]
+
+- OR, if the mountain be thy happier lot,
+- Let prudent foresight still thy coffers guard.
+- For tho' the clouds relent in nightly rain,
+- Tho' thy rank Canes wave lofty in the gale:
+- Yet will the arrow, ornament of woe, [170]
+- (Such monarchs oft-times give) their jointing stint;
+- Yet will winds lodge them, ravening rats destroy,
+- Or troops of monkeys thy rich harvest steal.
+- The earth must also wheel around the sun,
+- And half perform that circuit; ere the bill [175]
+
+---
+
+>VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
+
+---
+
+
+[18]()
+
+- Mow down thy sugars: and tho' all thy mills,
+- Crackling, o'erflow with a redundant juice;
+- Poor tastes the liquor; coction long demands,
+- And highest temper, ere it saccharize;
+- A meagre produce. Such is Virtue's meed, [180]
+- Alas, too oft in these degenerate days.
+- Thy cattle likewise, as they drag the wain,
+- Charg'd from the beach; in spite of whips and shouts,
+- Will stop, will pant, will sink beneath the load;
+- A better fate deserving.—— [185]
+- Besides, thy land itself is insecure:
+- For oft the glebe, and all its waving load,
+- Will journey, forc'd off by the mining rain;
+- And, with its faithless burden, disarrange
+- Thy neighbour's vale. So Markley-hill of old, [190]
+- As sung thy bard, Pomona, \(in these isles
+- Yet unador'd;) with all its spreading trees,
+- Full fraught with apples, chang'd its lofty site.
+
+- BUT, as in life, the golden mean is best;
+- So happiest he whose green plantation lies [195]
+- Nor from the hill too far, nor from the shore.
+
+---
+
+> VER. 179. *And highest temper,*\] Shell, or rather marble quick-lime, is so called by the planters: Without this, the juice of the Cane cannot be concreted into sugar, at least to advantage. See Book III. With quick-lime the French join ashes as a temper, and this mixture they call *Enyvrage*. It is hoped the Reader will pardon the introduction of the verb *saccharize*, as no other so emphatically expressed the Author's meaning; for some chemists define sugar to be a native salt, and others a soap.
+
+---
+
+
+[19]()
+
+- PLANTER, if thou with wonder wouldst survey
+- Redundant harvests, load thy willing soil;
+- Let sun and rain mature thy deep-hoed land,
+- And old fat dung co-operate with these. [200]
+- Be this great truth still present to thy mind;
+- The half well-cultur'd far exceeds the whole,
+- Which lust of gain, unconscious of its end,
+- Ungrateful vexes with unceasing toil.
+
+- AS, not indulg'd, the richest lands grow poor; [205]
+- And Liamuiga may, in future times,
+- If too much urg'd, her barrenness bewail:
+- So cultivation, on the shallowest soil,
+- O'erspread with rocky cliffs, will bid the Cane,
+- With spiry pomp, all bountifully rise. [210]
+- Thus Britain's flag, should discipline relent,
+- \'Spite of the native courage of her sons,
+- Would to the lily strike: ah, very far,
+- Far be that woful day: the lily then
+- Will rule wide ocean with resistless sway; [215]
+- And to old Gallia's haughty shore transport
+- The lessening crops of these delicious isles.
+
+---
+
+> VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
+
+---
+
+
+[20]()
+
+- OF composts shall the Muse descend to sing,
+- Nor soil her heavenly plumes? The sacred Muse
+- Nought sordid deems, but what is base; nought fair [220]
+- Unless true Virtue stamp it with her seal.
+- Then, Planter, wouldst thou double thine estate;
+- Never, ah never, be asham'd to tread
+- Thy dung-heaps, where the refuse of thy mills,
+- With all the ashes, all thy coppers yield, [225]
+- With weeds, mould, dung, and stale, a compost form,
+- Of force to fertilize the poorest soil. 
+
+- BUT, planter, if thy lands lie far remote
+- And of access are difficult; on these,
+- Leave the Cane's sapless foliage; and with pens [230]
+- Wattled, \(like those the Muse hath oft-times seen
+- When frolic fancy led her youthful steps,
+- In green Dorchestria's plains\), the whole inclose:  
+- There well thy stock with provender supply;
+- The well-fed stock will soon that food repay. [235]
+
+- SOME of the skilful teach, and some deny, 
+- That yams improve the soil. In meagre lands,
+
+---
+
+> VER. 237. *That yams improve the soil.*\] The botanical name of this plant is *Dioscoria*. Its leaves, like those of the water-melon, or gourd, soon mantle over the ground where it is planted. It takes about eight months to come to perfection, and then is
+
+---
