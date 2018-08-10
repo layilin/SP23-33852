@@ -169,7 +169,7 @@ editor: julie
 
 [people] 13.111n Sir Thomas Modyford. Sir Thomas Modyford, first baronet (c. 1620–1679), one of the founding planters of Barbados. Later governor of Jamaica (1664-1669).
 
-[people] 13.111n King Charles. King Charles II (1630-1685), king of England, Scotland, and Ireland. Son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of the British monarchy in 1660.
+[people] 13.111n King Charles. Charles II (1630-1685), king of England, Scotland, and Ireland. Son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of the British monarchy in 1660.
 
 14.123 the Nine. The nine muses of art, literature, and science.  
 
