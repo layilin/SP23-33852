@@ -277,7 +277,7 @@ editor: julie
 
 31.417 yet the fiery Sun in Leo rides. Leo is the fifth sign of the zodiac; the sun enters it in mid-July and exits it in mid-August.  
 
-[plant] 31.418 anana. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.  
+[plant] 31.418 anana. The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean (Higman 188).  
 
 31.425 the arrow's deadening power. Refers to Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow; popularly known as the Archer. By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the zodiac; the sun enters it in mid-November and exits it in mid-December.  
 
