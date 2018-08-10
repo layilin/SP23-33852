@@ -313,7 +313,7 @@ editor: julie
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
-[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas (family Musaceae) are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish.  
+[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas (family Musaceae) are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
 115.522n emetic. A medicine that excites vomiting.  
 
@@ -355,7 +355,7 @@ editor: julie
 
 [people][place] 119.600 Tyrtaeus gain'd of yore. Tyrtaeus was a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city. Sparta was a powerful city-state in ancient Greece.  
 
-[plant] 119.602 pine. The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean.
+[plant] 119.602 pine. The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean (Higman 188).
 
 [people] 119.604 Apicius. Apicius, a name used for several Roman connoisseurs of luxury but especially Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (CE 14-37). He exhausted his fortune on feasts and committed suicide rather than economize.  
 
