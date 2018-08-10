@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [82]()
 
-- THO' faster than the Tropic-bird they flew,
+- THO' faster than the Tropic-bird[^f82n1] they flew,
 - Oft Junio cried, ah! when shall we see land? [510]
 - Soon land they made: and now in thought he claspt
 - His Indian bride, and deem'd his toils o'erpaid.
@@ -21,7 +21,7 @@ source: "1764 edition"
 - The winged daemons of the tempest rose;
 - Thunder, and rain, and lightning's awful power.
 - She fled: could innocence, could beauty claim
-- Exemption from the grave; the aethereal Bolt, [520]
+- Exemption from the grave; the aethereal Bolt,[^f82n2] [520]
 - That stretch'd her speechless, o'er her lovely head
 - Had innocently roll'd.
 
@@ -29,10 +29,14 @@ source: "1764 edition"
 - Regardless of the Daemons of the storm.
 - Ah youth! what woes, too great for man to bear, [525]
 - Are ready to burst on thee? Urge not so
-- Thy flying courser. Soon Theana's porch
-
----
+- Thy flying courser.[^f82n3] Soon Theana's porch
 
 > VER. 509. *Tropic-bird*\] The French call this bird Fregate, on account of its swift flying. It is only to be met with in the warm latitudes.
+
+[^f82n1]: Although he uses the term tropic bird, Grainger means the frigate bird, which was famed for its wide wingspan and ability to remain airborne for weeks.  
+
+[^f82n2]: Lightning. 
+
+[^f82n3]: A swift horse, a racer. 
 
 ---
