@@ -1,7 +1,7 @@
 ---
 layout: page
 title: footnotes for book 3
-editor: julie, ami, lina, elizabeth
+editor: julie
 ---
 
 
@@ -11,7 +11,7 @@ editor: julie, ami, lina, elizabeth
 
 88.24 Dryads. Wood or tree nymphs in Greek mythology.  
 
-[plant] 88.25 broad-leaf'd china. The china-root plant, *Smilax china*, which is native to China and valued for its medicinal properties. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear, however. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
+[plant] 88.25 broad-leaf'd china. The china-root plant, *Smilax china*, which is valued for its medicinal properties. Its native range extends from China to Japan and the Philippines. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
 
 88.17n a giant, of that appellation, carrying our Saviour, in the form of a child. A reference to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.  
 
@@ -129,11 +129,11 @@ editor: julie, ami, lina, elizabeth
 
 [place] 99.226 Tobago. An island located northeast of Trinidad and southeast of Grenada. Now part of the Republic of Trinidad and Tobago.  
 
-[plant] 99.227 calaba. *Calophyllum antillanum* is a hardwood tree native to the Caribbean.   
+[plant] 99.227 calaba. *Calophyllum antillanum* is a hardwood tree whose native range includes Central America and the Caribbean.   
 
 99.229 cubit. An ancient measurement of length derived from the forearm, usually about 18-22 inches.  
 
-[plant] 99.233-236 worm...British oak...The closer calaba. The naval shipworm (*Teredo navalis*) is a mollusc that burrows into underwater timbers on piers and ships. It was particularly destructive to the British or English oak (*Quercus robur*), which was long used in shipbuilding, including by the British navy.    
+[plant] 99.233-236 worm...British oak...The closer calaba. The naval shipworm (*Teredo navalis*) is a mollusc that burrows into underwater timbers on piers and ships. It was particularly destructive to the British or English oak (*Quercus robur*), which was long used in shipbuilding, including by the British navy. *Quercus robur* is native to Britain.  
 
 99.238 bridge-tree. An adjustable beam that supports the spindle of the runner or upper stone in a grain mill.  
 
@@ -225,7 +225,7 @@ editor: julie, ami, lina, elizabeth
 
 [people] 106.350n Ulloa and De la Condamine's account of the great river of Amazon. Antonio de Ulloa (1716-1795), a Spanish military officer, and Charles-Marie de La Condamine (1701-1774), a French scientist, participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).    
 
-[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. Native to tropical America, the dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours.  
+[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range includes the Caribbean and tropical South America.  
 
 [people] 106.357n A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time. Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679).  
 
@@ -309,7 +309,7 @@ editor: julie, ami, lina, elizabeth
 
 115.519 rude lays. Unskilled or unrefined poetry.
 
-[plant] 115.522 sand-box shade. The sandbox (*Hura crepitans*) is a tree native to the tropical Americas. It gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph.
+[plant] 115.522 sand-box shade. The sandbox tree (*Hura crepitans*) gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph. Its native range includes the tropical Americas.  
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
@@ -317,7 +317,7 @@ editor: julie, ami, lina, elizabeth
 
 115.522n emetic. A medicine that excites vomiting.  
 
-[plant] 116.549 tamarinds. The tamarind tree (*Tamarindicus indica*), native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
+[plant] 116.549 tamarinds. The tamarind tree (*Tamarindus indica*), native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
 [plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.  
 
@@ -355,7 +355,7 @@ editor: julie, ami, lina, elizabeth
 
 [people][place] 119.600 Tyrtaeus gain'd of yore. Tyrtaeus was a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city. Sparta was a powerful city-state in ancient Greece.  
 
-[plant] 119.602 pine. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.
+[plant] 119.602 pine. The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean.
 
 [people] 119.604 Apicius. Apicius, a name used for several Roman connoisseurs of luxury but especially Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (CE 14-37). He exhausted his fortune on feasts and committed suicide rather than economize.  
 
@@ -371,7 +371,7 @@ editor: julie, ami, lina, elizabeth
 
 [place] 120.612 Scotia's. Scotia is the Latin name for Scotland.  
 
-[plant] 120.612 thyme. Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeast tropical Africa.    
+[plant] 120.612 thyme. Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeastern tropical Africa.    
 
 [place] 120.613 Barbuda. A small island near Antigua and now part of the nation of Antigua and Barbuda.
 
