@@ -29,21 +29,21 @@ source: "1764 edition"
 
 > VER. 123. *The cow-itch also save*;\] This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded. Mixed with melasses,[^f60n10] it is a safe and excellent vermifuge. Its seeds, which resemble blackish small beans, are purgative. Its flower is purple; and its pods, on which the stinging brown *Setae*[^f60n11] are found, are as large as a full-grown English field-pea.[^f60n12] 
 
-[^f60n1]: Most likely Argemone mexicana, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.
+[^f60n1]: Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.
 
-[^f60n2]: May refer to the Zenaida dove (Zenaida aurita), a bird native to the Caribbean.
+[^f60n2]: May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean.
 
-[^f60n3]: Probably Spigelia anthelmia, a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.
+[^f60n3]: Probably *Spigelia anthelmia*, a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.
 
 [^f60n4]: An endemic disease, meaning one that is habitually prevalent in a certain country or locale.
 
-[^f60n5]: Cowitch (Mucuna pruriens), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
+[^f60n5]: Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
 
 [^f60n6]: A medicine that excites vomiting.
 
 [^f60n7]: Having to do with dysentery or diarrhea.
 
-[^f60n8]: Ipecacuanha, an extract that induces vomiting and that comes from the plant Carapichea ipecacuanha, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
+[^f60n8]: Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
 
 [^f60n9]: A substance having the power to expel worms from the intestines; an anthelmintic.
 

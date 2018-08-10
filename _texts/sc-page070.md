@@ -31,7 +31,7 @@ source: "1764 edition"
 
 > VER. 293. *stocks and mill-points:*\] The sails are fastened to the mill-points, as those are to the stocks. They should always be taken down before the hurricane-season.
 
-[^f70n1]: Van is a vantage, height, or summit. The royal palm (Roystonea oleracea) can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
+[^f70n1]: Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
 
 [^f70n2]: Scowling, angry-looking, gloomy.
 

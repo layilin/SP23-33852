@@ -39,6 +39,6 @@ source: "1764 edition"
 
 [^f67n4]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe.
 
-[^f67n5]: Greek poet (8th-century BCE), author of *The Iliad* and *The Odyssey*.
+[^f67n5]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
 
 ---
