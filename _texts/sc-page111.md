@@ -13,9 +13,9 @@ source: "1764 edition"
 - And which with its melasses ne'er will part:
 - Yet this, fast-dripping in nectarious drops,
 - Not only betters what remains, but when [440]
-- With art fermented, yields a noble wine,
+- With art fermented, yields a noble wine,[^f111n1]
 - Than which nor Gallia, nor the Indian clime,
-- Where rolls the Ganges, can a nobler show.
+- Where rolls the Ganges,[^f111n2] can a nobler show.
 - So misers in their coffers lock that gold;
 - Which, if allowed at liberty to roam, [445]
 - Would better them, and benefit mankind.
@@ -31,5 +31,9 @@ source: "1764 edition"
 
 - FALSE Gallia's sons, that hoe the ocean-isles, [455]
 - Mix with their Sugar, loads of worthless sand,
+
+[^f111n1]: Could refer to a fermented but undistilled molasses drink; also could refer to rum.   
+
+[^f111n2]: Also Ganga, a river that flows through India and Bangladesh.
 
 ---
