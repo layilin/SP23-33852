@@ -9,7 +9,7 @@ source: "1764 edition"
 [42]()  
 
 - \(Which nature to the soursop[^f42n1] had resign'd,\)  
-- With ginger, and with Raleigh's pungent plant,[^f42n1]  
+- With ginger, and with Raleigh's pungent plant,[^f42n2]  
 - Gave wealth; and gold bought better land and slaves. [600]  
 - Heaven bless'd his labour: now the cotton-shrub,[^f42n3]  
 - Grac'd with broad yellow flowers, unhurt by worms,  
