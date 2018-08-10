@@ -57,13 +57,13 @@ editor: cristobal
  
 58.83 Misnian arsenic. A chemical compound used as rat poison.  
 
-[plant] 58.84 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling.  
+[plant] 58.84 cassada. Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling (Higman 61-69).  
 
 58.87 unweeting. Unwitting, ignorant.  
 
 58.88 cates. Choice foods, viands, or delicacies.  
 
-[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. It is native to Europe and Western Asia.  
+[plant] 59.95 nightshade's juice. Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. It is native from England through central and southern Europe to Iran.  
 
 59.104 thy little gang. Enslaved children. Almost all enslaved persons on the plantation were forced to work, including the young. The tasks children were assigned included weeding, cutting grass to feed the cattle, washing clothes, and serving in the main house.  
 
@@ -75,21 +75,21 @@ editor: cristobal
 
 59.95n Mungoes. The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. The mongoose was purposefully introduced to the Caribbean and Pacific islands in the late twentieth century to exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, it has contributed to the destruction of local biodiversity on those islands and is considered an invasive species.  
 
-[plant] 60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to Mexico and Central America.  
+[plant] 60.114 yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.  
 
 60.116 mountain-dove. May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean. 
 
-[plant] 60.119 knotted grass. Probably *Spigelia anthelmia*, a plant native to Mexico, Central America, South America, and the Caribbean that is known for its ability to rid the body of intestinal parasites, including tapeworms.  
+[plant] 60.119 knotted grass. Probably *Spigelia anthelmia*, a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range includes the tropical and subtropical Americas.   
 
 60.120 endemial ill. An endemic disease, meaning one that is habitually prevalent in a certain country or locale.  
 
-[plant] 60.123 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Native to the tropical and subtropical Old World.  
+[plant] 60.123 cow-itch. Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
 
 60.114n emetic. A medicine that excites vomiting.  
 
 60.114n dysenteric. Having to do with dysentery or diarrhea.  
 
-[plant] 60.114n ipecacuan. Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub native to Central and South America.  
+[plant] 60.114n ipecacuan. Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range extends from southeastern Nicaragua to Brazil.   
 
 60.119n vermifuge. A substance having the power to expel worms from the intestines; an anthelmintic.
 
@@ -101,13 +101,13 @@ editor: cristobal
 
 [plant] 61.128 chickweed. *Stellaria media*, a plant native to Europe.  
 
-[plant] 61.129 And that, which coyly flies the astonish'd grasp. Grainger refers to the sensitive plant (*Mimosa pudica*), the leaves of which fold up when touched. It is indigenous to the Americas and became an object of fascination to European naturalists.  
+[plant] 61.129 And that, which coyly flies the astonish'd grasp. Grainger refers to the sensitive plant (*Mimosa pudica*), the leaves of which fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists.  
 
 [people] 61.130 Pontus' King. Mithridates (132-63 BCE) ruled Pontus in modern-day Turkey from 120-63 BCE. His attempts to expand his empire led to three wars against the Roman army. Following a mutiny by his troops, he committed suicide.  
 
 61.131 Median climes. Media was the location of hot springs that the Romans called the sacred waters of Hercules.  
 
-[plant] 61.128n Snakeweed. May be *Euphorbia hyssopifolia*, a plant native to the tropical and subtropical Americas.  
+[plant] 61.128n Snakeweed. May be *Euphorbia hyssopifolia*, a plant whose native range includes the tropical and subtropical Americas.  
 
 61.130n *Mithridatium*. A medicine long believed to be a universal antidote to poison.  
 
@@ -121,13 +121,13 @@ editor: cristobal
 
 62.141 poison'd fish. Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
 
-[plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub native to the Old World and Australia.  
+[plant] 62.148 vervain. Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range includes the Old World and Australia.  
 
-[plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. 
+[plant] 62.148 wild liquorice. *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
 62.149n *Donum Dei*. Gift of god. 
 
-[plant] 62.149n rhubarb. *Rheum rhabarbarum*, a plant native to Asia. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
+[plant] 62.149n rhubarb. *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
   
 [place] 63.150. Volga's wave. The Volga is a river in western Russia that connects to the Baltic, Moscow, and Black Seas before flowing into the Caspian Sea.  
 
@@ -137,7 +137,7 @@ editor: cristobal
 
 63.171. cochinille. The cochineal insect (*Dactylopius coccus*) is the source of a highly prized red dye made from the dried bodies of the female. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal.  
 
-[plant] 64.172. Indian fig. Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads and fruit of which are commonly consumed by human beings and animals as food.   
+[plant] 64.172. Indian fig. Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads and fruit of which are commonly consumed by human beings and animals as food. 
 
 [people] 64.175. British Wolf. James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
@@ -193,7 +193,7 @@ editor: cristobal
 
 69.290. dome. House.  
 
-[plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
+[plant] 70.294. royal palm-tree's airiest van. Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.  
 
 70.299 louring. Scowling, angry-looking, gloomy.  
  
@@ -261,7 +261,7 @@ editor: cristobal
 
 [plant] 77.438n chocolate-tree. The cacao tree (*Theobroma cacao*), the seeds of which are made into chocolate. The cacao tree is native to Central and South America and has been cultivated by Amerindians for thousands of years. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
-[plant] 78.441 sappadillas. The sapodilla (*Manilkara zapota*), also known as the nasebery or nispero, is a sour or tart fruit native to Mexico, Central America, and Colombia.  
+[plant] 78.441 sappadillas. The sapodilla (*Manilkara zapota*), also known as the nasebery or nispero, is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean.  
 
 [place] 78.445 Sheen's royal walks. Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park.  
 
