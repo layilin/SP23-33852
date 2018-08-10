@@ -29,8 +29,6 @@ source: "1764 edition"
 - By soothing coolness win? The sharp saline,
 - Which best subdue? Which mollify the sour?
 
----
-
 > shape, it cannot contain much less land than either Nevis or St. Christopher. It is naturally strong, so that when the French made descents thereon, in K. William and Q. Anne's time,[^f16n2] they were always repulsed with considerable loss. It was settled by that great adventurer Sir Thomas Warner,[^f16n3] *A.D.* 1632, who sent thither some of his people from St. Christopher, for that purpose. In the beginning of the reign of Charles II. the French took it, but it was restored, *A.D.* 1667, by the treaty of Breda. In this island, the Roman-catholics, who behaved well when our enemies attempted to conquer it, have many privileges, and of course are more numerous there, than in any other of the English Caribbee-islands. Its capital is called Plymouth. Columbus discovered it in his second voyage.
 
 [^f16n1]: Earth, lands.  
