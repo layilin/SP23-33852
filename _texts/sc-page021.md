@@ -31,7 +31,7 @@ source: "1764 edition"
 - When best to dig, and when inhume  the Cane;
 - A task how arduous! next demands thy song.
 
-> a wholesome root, either boiled or roasted. [^f21n1] They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.
+> a wholesome root, either boiled or roasted.[^f21n1] They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.
 
 [^f21n1]: Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed by the enslaved. In the eighteenth-century Caribbean, enslaved persons also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava (Higman 78-81).  
 
