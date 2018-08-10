@@ -11,7 +11,7 @@ editor: julie
 
 [place] 125.4 Niger. The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.  
 
-[plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.
+[plant] 125.6 Papaw. Papaws, better known as papaya (*Carica papaya*). Its native range extends from southern Mexico to Venezuela.  
 
 [place] 125.9 Rio Grandê. Major estuary in modern Guinea-Bissau.  
 
@@ -73,7 +73,7 @@ editor: julie
 
 128.91 clayey tubes. Pipes.  
 
-[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago.  
+[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).  
 
 [place] 130.99 Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa and a major stop on the routes of the Atlantic slave trade.  
 
@@ -121,7 +121,7 @@ editor: julie
 
 132.137n Gum-Arabic. Edible sap of some trees in the genus *Acacia*. Used as a binder or stabilizer in foods and medicines.  
 
-[plant] 132.137n almond. *Prunus dulcis*, native to western Asia.  
+[plant] 132.137n almond. *Prunus dulcis*, primarily native to western Asia.  
 
 133.151 cates. Choice foods, viands, or delicacies.  
 
@@ -183,7 +183,7 @@ editor: julie
 
 138.265 yaws. Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
-[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume native to subtropical and tropical parts of the world.  
+[plant] 138.268 The flowers of sulpher, and hard niccars. Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range includes the subtropical and tropical parts of the world.  
 
 138.268n farinaceous. Consisting or made of flour or meal, starchy.
 
@@ -261,7 +261,7 @@ editor: julie
 
 [plant] 146.414 jalap, or marvel of Peru. *Mirabilis jalapa*. Also known as the four o'clock flower because its flowers open in the afternoon. Probably native to Mexico; used by the Aztecs as an ornamental. Sometimes believed to be native to the Peruvian Andes because it was exported from that region to Europe in the 1500s.  
 
-[plant] 146.415 solanum. *Datura stramonium*, also known as fireweed or jimsonweed. Probably native to the tropical regions of Central and South America.  
+[plant] 146.415 solanum. *Datura stramonium*, also known as fireweed or jimsonweed. Probably originated in the tropical regions of Central and South America.  
 
 [people] 146.415n. Linnaeus...Dr. Stork. Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
@@ -281,21 +281,21 @@ editor: julie
 
 [plant] 148.454-455 There let angola's bloomy bush supply, For many a year, with wholesome pulse their board. Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
-[plant] 148.456 bonavist. A species of bean (*Lablab purpureus*) native to Cape Verde, tropical and southern Africa, Madagascar, and India.  
+[plant] 148.456 bonavist. A species of bean (*Lablab purpureus*) whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.
 
 [people] 148.449n Ogilvy's America. John Ogilby's *America: being the latest, and most accurate description of the New World* (1671). Ogilby (1600-1676) was a Scottish publisher and geographer.   
 
-[plant] 149.457-458 ochra...slimy pulp...help disdains. Okra (*Abelmoschus esculentus*) is native to tropical Africa and was one of the most commonly cultivated plants in the provision grounds and gardens of the enslaved. It possesses a glutinous or slimy pulp that was used as a thickener in stews called pepper pots, one of the most popular dishes in the colonial Caribbean.  
+[plant] 149.457-458 ochra...slimy pulp...help disdains. Okra (*Abelmoschus esculentus*) is probably native to Africa and was one of the most commonly cultivated plants in the provision grounds and gardens of the enslaved. It possesses a glutinous or slimy pulp that was used as a thickener in stews called pepper pots, one of the most popular dishes in the colonial Caribbean (Higman 174-175).  
 
-[plant] 149.459-460 potatos...Sweet as the cane-juice is the root they bear. Grainger refers to sweet potatoes (*Ipomoea batatas*), not to be confused with potatoes (*Solanum tuberosum*) or yams (genus *Dioscorea*). The sweet potato is native to Central America or northwestern South America but had spread to the Caribbean islands by the time of Columbus' first voyage. It was an important food crop for Amerindians.  
+[plant] 149.459-460 potatos...Sweet as the cane-juice is the root they bear. Grainger refers to sweet potatoes (*Ipomoea batatas*), which probably originated in Central America or northwestern South America.  
 
 [plant] 149.461 eddas. Edda or eddo commonly referred to taro (*Colocasia esculenta*). It is also, however, sometimes referred to as yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were commonly consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
 
-[plant] 149.462 Indian cale, and foodful calaloo. The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant native to the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they were a hardy and reliable source of food.  
+[plant] 149.462 Indian cale, and foodful calaloo. The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant whose native range is the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they were a hardy and reliable source of food (Higman 100-107).  
 
 [plant] 149.463 mint. Plants of the genus *Mentha*, distributed around the world.  
 
-[plant] 149.463 thyme. Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeast tropical Africa.   
+[plant] 149.463 thyme. Plants of the genus *Thymus*, whose native range extends from Greenland and temperate and subtropical Eurasia to northeastern tropical Africa.  
 
 [plant] 149.463 balm. The name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
@@ -303,9 +303,9 @@ editor: julie
 
 149.459n The juice of each may be made into a pleasant cool drink; and, being distilled, yield an excellent spirit. Mobby or mobbie, an alcoholic drink made from the sweet potato. The origin of the drink's name is Carib.  
 
-[plant] 149.462n mezamby. Gilmore identifies mezamby as probably *Cleome gynandra*, a plant native to the tropical and subtropical Old World.  
+[plant] 149.462n mezamby. Gilmore identifies mezamby as probably *Cleome gynandra*, a plant whose native range is the tropical and subtropical Old World.  
 
-[plant] 149.462n Jamaica prickle-weed. Might refer to *Amaranthus spinosus*, a plant native to the tropical Americas that is sometimes known as prickly callaloo. 
+[plant] 149.462n Jamaica prickle-weed. Might refer to *Amaranthus spinosus*, a plant sometimes known as prickly callaloo. Its native range includes Mexico and the tropical Americas.   
 
 149.462n esculent. Suitable for food, edible.  
 
@@ -327,8 +327,6 @@ editor: julie
 
 150.485 negro-fugitives. Runaway or escaped slaves.  
 
-[plant] 150.466n The orange tree. Could be the sour orange (*Citrus aurantium*) or sweet orange (*Citrus sinensis*). Columbus brought both of these fruits to the Caribbean (Higman 175).  
-
 151.488 Indian gardens. Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.  
 
 151.489 Phaeacia's isle. Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.  
@@ -343,7 +341,7 @@ editor: julie
 
 151.501 umbrage. Shade.
 
-[plant] 151.502 mammey. The mammee apple (*Mammea americana*) is a large fruit indigenous to Central America and the Caribbean.  
+[plant] 151.502 mammey. The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America.  
 
 151.502n ratafia. An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches.  
 
@@ -363,7 +361,7 @@ editor: julie
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
-[plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean. 
+* [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean. 
 
 [plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
 
@@ -381,31 +379,31 @@ editor: julie
 
 153.523n cortical part...durable laths for houses. Grainger is saying its bark can be used to make laths or strips of wood used in building.  
 
-[plant] 154.534 anata. Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
+* [plant] 154.534 anata. Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
 
-[plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. It is native to Mexico, Central America, and northwest South America south to Bolivia.  
+* [plant] 154.543 granadillas. The fruit of *Passiflora ligularis*, also known as the passion fruit. It is native to Mexico, Central America, and northwest South America south to Bolivia.  
 
 154.534n apices. Apexes.  
 
-[plant] 154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
+* [plant] 154.543n water-lemon, bell-apple, or honeysuckle. Different names for *Passiflora laurifolia*, a passion fruit relative native to the tropical Americas.  
 
 154.534n viscid. Sticky, adhesive.  
 
 155.549 Basons. Basins.
 
-[plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
+* [plant] 155.558 coco. The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
-[plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant native to Florida and the Caribbean, Central America, and northern South America.  
+* [plant] 155.563 bay-grape. *Coccoloba uvifera*, a seaside plant native to Florida and the Caribbean, Central America, and northern South America.  
 
-[plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
+* [plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
 [plant] 156.569 bananas. Bananas (family Musaceae) are closely related to plantains. Both formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
 156.573 vans. Vantages, heights, summits.  
 
-[plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
+* [plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
 
-[plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree native to the Caribbean, Central America, and northern South America.  
+* [plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree native to the Caribbean, Central America, and northern South America.  
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
@@ -417,13 +415,13 @@ editor: julie
 
 158.607 untimely hours. Planters were often concerned about the enslaved marrying across plantations, since they believed that such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence.  
 
-[plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
+* [plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
 
 [plant] 158.611n Chili-strawberry. The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).  
 
-[plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. It is native to Central and South America and the Caribbean.    
+* [plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. It is native to Central and South America and the Caribbean.    
 
-159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits in mid-February.  
+159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits it in mid-February.  
 
 159.616 Wiltshire weaves. Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.  
 
@@ -439,7 +437,7 @@ editor: julie
 
 159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
-[plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. It is native to Europe, the Mediterranean, and Africa.  
+* [plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. It is native to Europe, the Mediterranean, and Africa.  
 
 159.613n diuretic. A substance that promotes the excretion of urine.  
 
