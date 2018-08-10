@@ -17,7 +17,7 @@ editor: julie
 
 [plant] 88.25n sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
 
-[plant] 88.25n lignum vitae. The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which are found in the Caribbean). Lignum vitae ("wood of life") was used to treat a variety of diseases, including syphilis and yaws.  
+[plant] 88.25n lignum vitae. The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean). Lignum vitae ("wood of life") was used to treat a variety of diseases, including syphilis and yaws.  
 
 89.30 January, Hail! The new year was generally considered crop time, a period of intense activity when cane was harvested, milled, and prepared for export.  
 
