@@ -173,8 +173,6 @@ editor: cristobal
 
 [plant] 66.218n jessamine. Jasmine, plants of the genus *Jasminum* native to tropical and subtropical Eurasia, Australasia, and the Pacific islands. Valued for their scent.  
 
-* 66.218n panspan <!--I haven't found this term, but it occurs later in book III as well -->
-
 67.232. Rhea. Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.  
 
 67.233. Auster. Latin name for the south wind.  
@@ -207,7 +205,7 @@ editor: cristobal
 
 71.322 engineries. Engines of war, artillery.  
 
-71.327-328 "all the isle below is hush as death." According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
+71.327-328 "all the isle below is hush as death". According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 72.341 welkin. Sky.  
 
