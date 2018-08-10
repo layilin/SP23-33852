@@ -24,7 +24,7 @@ source: "1764 edition"
 - What time the conch[^f133n5] or bell resounds, they may
 - All to the Cane-ground, with thy gang, repair.
 
-- NOR, Negroe,[f^133n6] at thy destiny repine, [165]
+- NOR, Negroe,[^f133n6] at thy destiny repine, [165]
 - Tho' doom'd to toil from dawn to setting sun.
 - How far more pleasant is thy rural task,
 - Than theirs who sweat, sequester'd from the day,
