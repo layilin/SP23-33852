@@ -31,8 +31,6 @@ source: "1764 edition"
 - SOME of the skilful teach, and some deny, 
 - That yams[^f20n3] improve the soil. In meagre lands,
 
----
-
 > VER. 237. *That yams improve the soil.*\] The botanical name of this plant is *Dioscoria*. Its leaves, like those of the water-melon, or gourd,[^f20n4] soon mantle over the ground where it is planted. It takes about eight months to come to perfection, and then is
 
 [^f20n1]: According to Gilmore, a Latinized name that refers to the town of Dorchester in the southern English county of Dorset.  
