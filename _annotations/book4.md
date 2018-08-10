@@ -209,7 +209,7 @@ editor: julie
 
 140.310 melasses. Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
-[plant] 141.313 worm-grass. Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant native to Mexico, Central America, South America, and the Caribbean that is known for its ability to rid the body of intestinal parasites, including tapeworms.  
+[plant] 141.313 worm-grass. Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range includes the tropical and subtropical Americas.  
 
 [place] 141.317 Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
 
