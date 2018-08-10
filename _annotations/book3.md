@@ -225,7 +225,7 @@ editor: julie
 
 [people] 106.350n Ulloa and De la Condamine's account of the great river of Amazon. Antonio de Ulloa (1716-1795), a Spanish military officer, and Charles-Marie de La Condamine (1701-1774), a French scientist, participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).    
 
-[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range includes the Caribbean and tropical South America.  
+[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
 
 [people] 106.357n A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time. Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679).  
 
@@ -309,7 +309,7 @@ editor: julie
 
 115.519 rude lays. Unskilled or unrefined poetry.
 
-[plant] 115.522 sand-box shade. The sandbox tree (*Hura crepitans*) gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph. Its native range includes the tropical Americas.  
+[plant] 115.522 sand-box shade. The sandbox tree (*Hura crepitans*) gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph. Its native range is the tropical Americas.  
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
@@ -319,7 +319,7 @@ editor: julie
 
 [plant] 116.549 tamarinds. The tamarind tree (*Tamarindus indica*), which is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
-[plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its native range extends from southern Mexico to Venezuela.  
+[plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela.  
 
 116.549n sweet-meats. Preserved or candied fruits.  
 
