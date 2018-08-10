@@ -22,7 +22,7 @@ source: "1764 edition"
 - Boast of the shrubby tribe, carnation fair,[^f36n6] [520]  
 - Nor thou repine, tho' late the muse record  
 
-> 
+>   
 > VER. 510. *the acassee,*\] *Acacia*. This is a species of thorn; the juice of the root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is of the class of the syngenesia. No astringent juice is extracted from it. Its trivial name is *Cashaw*. Tournefort[^f36n7] describes it in his voyage to the Levant. Some call it the Holy Thorn, and others Sweet Brier. The half-ripe pod affords a strong cement; and the main stem, being wounded, produces a transparent gum, like the Arabic, to which tree this bears a strong resemblance.
 
 > VER. 515. *the privet*\] *Ligustrum*. This shrub is sufficiently known. Its leaves and flowers make a good gargle in the aphthae, and ulcered throat.
