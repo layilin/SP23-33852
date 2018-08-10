@@ -13,13 +13,13 @@ source: "1764 edtion"
 - \"The pride, the glory of the sea-girt isles, [90]
 - \"Which, like to rich and various gems, inlay
 - \"The unadorned bosom of the deep,"
-- Which first Columbus' daring keel explor'd.
+- Which first Columbus' daring keel[^f12n1] explor'd.
 
-- DAUGHTERS of Heaven, with reverential awe,
+- DAUGHTERS of Heaven,[^f12n2] with reverential awe,
 - Pause at that godlike name; for not your flights [95]
 - Of happiest fancy, can outsoar his fame.
 
-- COLUMBUS, boast of science, boast of man!
+- COLUMBUS,[^f12n3] boast of science, boast of man!
 - Yet, by the great, the learned, and the wise,
 - Long held a visionary; who, like thee, 
 - Could brook their scorn; wait seven long years at court, [100]
@@ -33,5 +33,11 @@ source: "1764 edtion"
 - And least expected, most advanc'd thine aim.
 - What storms, what monsters, what new forms of death,
 - In a vast ocean, never cut by keel, [110]
+
+[^f12n1]: Poetic term for a ship or vessel. 
+
+[^f12n2]: The Muses.
+
+[^f12n3]: Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime. 
 
 ---
