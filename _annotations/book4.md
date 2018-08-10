@@ -337,7 +337,7 @@ editor: julie
 
 151.493 Flora's. Flora was the Roman goddess of springtime.  
 
-[plant] 151.498 anana. The pineapple (*Ananas comosus*), which is native to eastern South America and brought by Amerindians to the Caribbean.  
+[plant] 151.498 anana. The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean (Higman 188).  
 
 151.500 "Insuperable height of airiest shade". Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
 
@@ -357,7 +357,7 @@ editor: julie
 
 152.504 anthropophagi. A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
 
-[plant] 152.512 tamarind...With those tart fruit the sweltering fever loves To quench his thirst, whose breezy umbrage soon Shades the pleas'd planter, shades his children long. The tamarind tree (*Tamarindicus indica*) was native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
+[plant] 152.512 tamarind...With those tart fruit the sweltering fever loves To quench his thirst, whose breezy umbrage soon Shades the pleas'd planter, shades his children long. The tamarind tree (*Tamarindicus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
 [plant] 152.513 cassia. Most likely *Cassia fistula*, a tree native to India, Malaysia, and Southeast Asia that was being cultivated in the Caribbean by the early sixteenth century. Used as a purgative.  
 
@@ -399,7 +399,7 @@ editor: julie
 
 [plant] 156.567 Indian millet. Guinea corn (*Sorghum bicolor*), an important staple crop native to and first cultivated in Africa thousands of years ago. Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).  
 
-[plant] 156.569 bananas. Bananas belong to the family Musaceae and are closely related to plantains. Both bananas and plantains formed a part of the diets of enslaved Africans living on early Caribbean plantations. Wild species of banana and plantain originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The banana and plantain probably were first brought to the Caribbean by the Spanish in the sixteenth century.
+[plant] 156.569 bananas. Bananas (family Musaceae) are closely related to plantains. Both formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
 156.573 vans. Vantages, heights, summits.  
 
