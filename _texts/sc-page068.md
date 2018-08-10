@@ -25,14 +25,14 @@ source: "1764 edition"
 - Which happier years and prudence may retrieve;
 - Than risque thine all. As when an adverse storm,
 - Impetuous, thunders on some luckless ship,
-- From green St. Christopher, or Cathäy bound: [265]
+- From green St. Christopher, or Cathäy[^f68n1] bound: [265]
 - Each nautic art the reeling seamen try:
 - The storm redoubles: death rides every wave:
 - Down by the board the cracking masts they hew;
 - And heave their precious cargo in the main.
 
----
-
 > VER. 265. *Cathäy*\] An old name for China.
+
+[^f68n1]: The name by which China was known to medieval Europe.
 
 ---
