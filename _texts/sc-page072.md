@@ -18,7 +18,7 @@ source: "1764 edition"
 - After some furious onset, and, behind
 - Vast rocks and trees, their horrid forms conceal,
 - Brooding on slaughter, not repuls'd; for soon [340]
-- Their growing yell the affrighted welkin rends,
+- Their growing yell the affrighted welkin[^f72n1] rends,
 - And bloodier carnage mows th' ensanguin'd plain:
 - So the South, sallying from his iron caves
 - With mightier force, renews the aerial war;
@@ -26,10 +26,17 @@ source: "1764 edition"
 - Fair nature's triumph, pride of Indian groves,
 - Cleft by the sulphurous bolt! See yonder dome,
 - Where grandeur with propriety combin'd,
-- And Theodorus with devotion dwelt;
+- And Theodorus with devotion dwelt;[^f72n2]
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—
+- Men, oxen, Cane-lands to the billowy main.—[^f72n3]
+
+
+[^f72n1]: Sky.
+
+[^f72n2]: Theodorus may be the Samian architect active c. 550–520 BCE.
+
+[^f72n3]: The ocean.
 
 ---
