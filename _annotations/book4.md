@@ -309,7 +309,7 @@ editor: julie
 
 149.462n esculent. Suitable for food, edible.  
 
-[plant] 150.468 gold fruit mature. Grainger refers here to various citrus trees, which originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the lime (*Citrus aurantifolia*) and the citron (*Citrus medica*).  
+[plant] 150.468 gold fruit mature. Grainger refers here to various citrus trees, which originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the lime (*Citrus aurantifolia*) and the citron (*Citrus medica*) (Higman 175).  
 
 [plant] 150.469 cotton shrub. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. 
 
@@ -327,7 +327,7 @@ editor: julie
 
 150.485 negro-fugitives. Runaway or escaped slaves.  
 
-[plant] 150.466n The orange tree. Could be the sour orange (*Citrus aurantium*) or sweet orange (*Citrus sinensis*). Columbus brought both of these fruits to the Caribbean.  
+[plant] 150.466n The orange tree. Could be the sour orange (*Citrus aurantium*) or sweet orange (*Citrus sinensis*). Columbus brought both of these fruits to the Caribbean (Higman 175).  
 
 151.488 Indian gardens. Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.  
 
