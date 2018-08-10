@@ -205,15 +205,15 @@ editor: julie, ami, lina, elizabeth
 
 104.323 chemist. The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and additional ingredients to the cane juice to rid it of impurities.  
 
-105.334 dropsy. An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy.  The modern term is edema (or oedema).  
+105.334 dropsy. An accumulation of fluid in the soft tissue of the body. The modern term is edema (or oedema).  
 
-105.334 pulmonic ails. Lung infections/diseases
+105.334 pulmonic ails. Lung infections or diseases.  
 
 105.340 perflation. Ventilation provided by air blowing through a space.  
 
-105.343 experiment. Experience
+105.343 experiment. Experience.  
 
-105.345 mucilage. a viscous liquid made from plant material
+105.345 mucilage. A viscous liquid made from plant material.  
 
 105.347 essential salts. Eighteenth-century scientists studying the composition of plants posited that they contained essential salts or acids and minerals obtained by the crystallization of plant juices.  
 
@@ -221,31 +221,29 @@ editor: julie, ami, lina, elizabeth
 
 106.350n arrack. An alcoholic spirit distilled from fermented rice and molasses, to which is often added the fermented sap of the coconut palm (*Cocos nucifera*).  
 
-106.350n *pocula morte carent*. The cups contain no death (i.e., the poison is harmless). <!--Alternate translations: There is no death in the cup, Your drinks are free from death-->  
-
 106.350n it forthwith bursts it. The poison Grainger refers to is curare, an extract obtained from the bark of South American trees of the genera *Strychnos* and *Chondrodendron* that relaxes and paralyzes voluntary muscles. Curare's use as an arrow poison was reported by Europeans from their earliest encounters with Amerindians in South America.  
 
 [people] 106.350n Ulloa and De la Condamine's account of the great river of Amazon. Antonio de Ulloa (1716-1795), a Spanish military officer, and Charles-Marie de La Condamine (1701-1774), a French scientist, participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).    
 
-[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. Native to tropical America, the dumb cane looks very similar to sugarcane, and colonists often would eat it, mistaking it for the sugarcane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours.  
+[plant] 106.357n *Dumb Cane*. *Dieffenbachia seguine*. Native to tropical America, the dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours.  
 
 [people] 106.357n A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time. Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679).  
 
-[people] 106.307n Charles II. King Charles II (1630-1685), king of England, Scotland, and Ireland, son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell, and the restoration of British monarchy in 1660.
+[people] 106.307n Charles II. Charles II (1630-1685) was king of England, Scotland, and Ireland. Son of Charles I (1600–1649) and brother of James II (1633–1701). He became king after the rule of Oliver Cromwell and the restoration of the British monarchy in 1660.
 
 106.357n alcalescent. Also alkalescent. Tending to become alkaline (having a pH greater than 7).  
 
-[people] 107.359 Xantippe. Also Xanthippe. Wife of Socrates (5th–4th c. BCE), often described as bad-tempered.  
+[people] 107.359 Xantippe. Also Xanthippe. Wife of Socrates (5th–4th c. BCE), often described as bad tempered.  
 
 107.361 cades. Casks or barrels.  
 
-107.363 lime-stone thoroughly calcin’d. Limestone is a rock that yields lime when calcined or burnt. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitates impurities.  
+107.363 lime-stone thoroughly calcin’d. Limestone is a rock that yields lime when calcined or burnt. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitated impurities.  
 
-[place] 107.364. Bristol, Britannia's second mart and eye!. City located in the southwest of England, one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone.  
+[place] 107.364. Bristol, Britannia's second mart and eye!. Bristol was located in the southwest of England and was one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone.  
 
 107.366 "to thy waters only trust for fame." A line from William Whitehead's poem, "An Hymn to the Nymph of Bristol Spring" (1751).  
 
-[place] 107.371 Avon's. Avon refers to the Bristol Avon, a river in southwest England. It is different from the Warwickshire Avon or Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process.  
+[place] 107.371 Avon's. Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process.  
 
 [place] 108.380 Sabrina. A poetic name for the River Severn, which is Britain's longest river and empties into the Bristol Channel.  
 
@@ -253,15 +251,11 @@ editor: julie, ami, lina, elizabeth
 
 108.395 Danae. Daughter of King Acrisius of Argos and Queen Eurydice, also mother of Perseus by Zeus, who impregnated Danae in the form of a shower of gold.  
 
-[place] 109.401 Bermuda's. Bermuda, colonized by the English in the early seventeenth century and now an overseas territory of Britain in the North Atlantic Ocean.  
+[place] 109.401 Bermuda's. Bermuda was colonized by the English in the early seventeenth century and is now an overseas territory of Britain in the north Atlantic.    
 
-[people] 109.402 Waller's. Edmund Waller (1606-1687), English poet and politician, author of "The Battle of the Summer Islands" (1645), a mock-heroic set in Bermuda.  
+[people] 109.402 Waller's. Edmund Waller (1606-1687), English poet and politician and author of "The Battle of the Summer Islands" (1645), a mock-heroic set in Bermuda.  
 
 [plant] 109.403 their cedars. The Bermuda cedar (*Juniperus bermudiana*). Endemic to Bermuda and used for building houses and other construction work. Also sustained a ship-building industry that denuded the island of most of its Bermuda cedars by the 1830s.  
-
-109.412 make labour light. While Grainger recommends letting enslaved Africans drink the sugarcane juice, planters sometimes inflicted severe punishments for eating or consuming sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thsitlewood used to refer to the act of having one enslaved African defecate in another's mouth. Douglas Hall, *In Miserable Slavery: Thomas Thistlewood in Jamaica, 1750-86* (London: Macmillan, 1989). See also line 99, above. <!--conform citation to our style-->  
-
-109.415 choral song <!--this one is complicated, but I feel like we should probably add a note about music/singing; it appears several times in book III-->
 
 109.417 trade-wind. The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe. 
 
@@ -271,13 +265,13 @@ editor: julie, ami, lina, elizabeth
 
 110.428n melasses. Also molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
-111.441 noble wine. Rum.  <!-- not 100% sure about this; if they mean fermented but undistilled molasses drink, it isn't rum yet. can't find anything in the notes or in Gilmore, though-->
+111.441 noble wine. Could refer to a fermented but undistilled molasses drink; also could refer to rum.    
 
 [place] 111.443 Ganges. Also Ganga, a river that flows through India and Bangladesh.  
 
-112.457 fraudful. Grainger criticizes the French who doctor their sugar by adding sand to casks, thereby increasing their profits.
+112.457 fraudful. Grainger criticizes the French, whom he accuses of doctoring their sugar by adding sand to it.  
 
-112.463 Avaro's. A mean-spirited, rich man who appears as a character in Richard Steele's *The Tatler* (1709-1711). Avaro is Latin for greedy, or miserly. 
+112.463 Avaro's. A mean-spirited, rich man who appears as a character in Richard Steele's *The Tatler* (1709-1711).  
 
 [place] 112.476 Thame. The Thames, another major site for sugar refining in the eighteenth century.  
 
@@ -287,9 +281,9 @@ editor: julie, ami, lina, elizabeth
 
 113.482 Baynard. Also bayard. A bay horse or mule.
 
-114.500 toil a pleasure seems. The theme of pleasurable labor is central to the georgic. Here Grainger's narrator experiences labor as pleasurable after he has drunk rum which is an end product of enslaved labor. Contrast this to the ironic descriptions of pleasurable labor in Book IV.   
+114.500 toil a pleasure seems. The theme of pleasurable labor is central to the georgic. Here, Grainger's narrator experiences labor as pleasurable after he has drunk rum, which is an end product of enslaved labor.  
 
-[place] 114.501 Marne. French tributary of the Seine that flows through the Champagne region in northeastern France. Wines have been made there since the Roman era, but most Champagnes were still wines until the mid nineteenth century, when sparkling wines became popular.
+[place] 114.501 Marne. French tributary of the Seine that flows through the Champagne region in northeastern France. Wines have been made there since the Roman era, but most champagnes were still wines until the mid-nineteenth century, when sparkling wines became popular.
 
 [place] 114.501 Tille. A river in Burgundy, a major wine-producing region in France.
 
@@ -301,11 +295,11 @@ editor: julie, ami, lina, elizabeth
 
 [place] 114.508 Albion. Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
-[people] 114.509 Johnson. Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. Works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). He made contributions to and edited various periodicals, including *The Gentlemans' Magazine* and the *Literary Magazine*. Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. Johnson writes: "the poet talks of this ungenerous commerce without the least appearance of detestation ... [and] proceeds to direct these purchasers of their fellow-creatures with the same indifference a groom would give instructions for chusing a horse." For an example of the descriptiosn to which Johnson objected, see Book IV, lines 72-118 below.
+[people] 114.509 Johnson. Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. Works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see the note for lines 72-118 (the lines that Johnson objected to).  
 
 [people] 114.509 Percy. Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*.
 
-[people] 114.509 White. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Thomas Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes's *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811. *The Percy Letters: The Correspondence of Thomas Percy and Robert Anderson*, vol. 9, edited by W. E. K. Anderson, Yale University Press, 1944, at pp. 59, 67-68, 269.  <!--conform to citing convention-->
+[people] 114.509 White. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Thomas Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811. See *The Percy Letters* 9.59, 9.67-68, 9.269.  
 
 114.510 Calpe. Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar.  
 
@@ -315,17 +309,15 @@ editor: julie, ami, lina, elizabeth
 
 115.519 rude lays. Unskilled or unrefined poetry.
 
-[plant] 115.522 sand-box shade. The sand-box (*Hura crepitans*) is a tree native to tropical America. It gets its name from its seed pods which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall (100+ feet), the sand-box is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and when ripe, its seed pods open with loud explosive sound, flinging its seeds at over 100 mph.
+[plant] 115.522 sand-box shade. The sandbox (*Hura crepitans*) is a tree native to the tropical Americas. It gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph.
 
 115.531 reed-built huts. Dwellings of enslaved Africans.  
 
-[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas both belong to the family Musaceae and are closely related. Both also formed a part of the diets of enslaved Africans living on early Caribbean plantations, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that enslaved Africans often cultivated to provide for their daily subsistence. Plantains and bananas were widely consumed by free inhabitants of the Caribbean as well. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
+[plant] 115.533 With plantanes, with banana's bosom'd-deep. Plantains and bananas both belong to the family Musaceae and are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. The plantain and banana probably were first brought to the Caribbean by the Spanish in the sixteenth century.  
 
-115.522n emetic. A medicine that produces vomiting.  
+115.522n emetic. A medicine that excites vomiting.  
 
 [plant] 116.549 tamarinds. The tamarind tree (*Tamarindicus indica*), native to tropical Africa and western Asia but naturalized to and cultivated in the Caribbean by the eighteenth century. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
-
-116.549 panspans. See note for [internal] Book II, line 218.   <!--needs to be added here and in 2.218-->
 
 [plant] 116.549 papaws. Papaws, better known as papaya (*Carica papaya*). Its exact origins are unknown, but it is most likely from Central or South America.  
 
@@ -335,51 +327,45 @@ editor: julie, ami, lina, elizabeth
 
 116.549n ringworms. Ringworm, or *tinea*, is the name given to a fungal infection of the skin, scalp, or nails that produces lesions in the shape of partial or complete rings. It spreads by direct contact or through infected materials.  
 
-117.550 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra, and sometimes cited as the wife of Zephyrus the West Wind. Her name in Greek means "rainbow." The goddess Juno took her to serve as her handmaid. 
+117.550 Iris. In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra and sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means "rainbow." The goddess Juno took her to serve as her handmaid. 
 
-117.555 Hesperian throats. "Hesperian throats" refers to the Hesperides, the daughters of Night and Erebus who guarded the tree of golden apples given by Hera to earth, also renowned for their singing. Because the tree was popularly located beyond the Atlas mountains at the western border of the Ocean, Hesperian also means western. When referring to a specific geographic location, it designates Italy or Spain.
+117.555 Hesperian throats. "Hesperian throats" refers to the Hesperides, the daughters of Night and Erebus who guarded the tree of golden apples given by Hera to earth. They also were renowned for their singing. Because the tree was popularly located beyond the Atlas mountains at the western border of the Ocean, Hesperian also means western. When referring to a specific geographic location, it designates Italy or Spain.
 
 117.556 vernal. Of the spring.
 
-117.558 herald-lark. Larks may name any of several small birds of the family *Alaudidae*. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
+117.558 herald-lark. Larks are any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
 
 117.562 Phoebus. Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
 
 117.549n anthelmintic. Anthelmintic (also anthelminthic, antihelminthic) drugs are used to expel or kill parasitic worms, especially intestinal ones.  
 
-118.570 Deep, moral truths convey. By the time Grainger wrote *The Sugar-Cane*, there was a long-standing tradition in European literature of using insects to represent moral, religious, and philosophical ideas. Most notably, Virgil's *Georgics* inspired Grainger and other neo-georgic writers to use bees as symbols of orderly plurality.  
+118.570 Deep, moral truths convey. By the time Grainger wrote *The Sugar-Cane*, there was a long-standing tradition in European literature of using insects to represent moral, religious, and philosophical ideas.  
 
 118.573 mountain-dove. May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean.
 
 118.578 Why will their sons, ungrateful, roam abroad? Grainger refers here either to the common practice of absentee plantership, in which plantation owners lived in Britain and managed their plantations from afar, or to the equally common practice of sending children of planters to Britain for education.  
 
-118.585 Eclips'd by titles. Despite the practice of absentee plantership, Grainger notes that metropolitan British attitudes toward creoles was inevitably condescending, regardless of how wealthy a planter was.  It should be noted that Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Bishop Thomas Percy on 5 June 1762, Grainger noted that "reading, I assure you, is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (*Illustrations*, 278).
+118.585 Eclips'd by titles. Metropolitan British attitudes toward creoles was inevitably condescending, regardless of how wealthy planters were. Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Bishop Thomas Percy on 5 June 1762, Grainger noted that "reading, I assure you, is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (Nichols 278).
 
 118.587 Bellona. Bellona, the Roman goddess of war. Once again, Grainger is referencing the Seven Years' War.
 
 118.590 Taber. A one-handed snare drum often played as a military instrument.
 
-[people] 119.592 heaven-favoured bard. Grainger's "heaven-favoured bard" alludes to Tyrtaeus, a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city.
-
-[place] 119.593 Sparta's. Sparta was a powerful city-state in ancient Greece.  
-
 [person] 119.596 man of Norfolk. George Townshend, first Marquess Townshend (1724-1807), an English politician and caricaturist who also had a distinguished military career, serving as second in command to Major-General James Wolfe in Canada during the Seven Years' War and then as overall commander after Wolfe's death during the campaign to take French-held Quebec, which surrendered to British forces in 1759.
+
+[people][place] 119.600 Tyrtaeus gain'd of yore. Tyrtaeus was a Spartan poet of the mid-seventh century BCE who wrote about the Second Messenian War and exhorted Spartans to fight to the death for their city. Sparta was a powerful city-state in ancient Greece.  
 
 [plant] 119.602 pine. The pineapple (*Ananas comosus*), which is native to eastern South America. It was brought by Amerindians to the Caribbean.
 
 [people] 119.604 Apicius. Apicius, a name used for several Roman connoisseurs of luxury but especially Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (CE 14-37). He exhausted his fortune on feasts and committed suicide rather than economize.  
 
-119.608 Jew-fish. Jew-fish, the Atlantic goliath grouper (*Epinephelus itajara*). A large sporting and food fish of warm coastal waters. Its range includes the Caribbean, the Atlantic, and the Pacific. Now a critically endangered species. William Dampier first named it in print in his 1697 *Voyages and Descriptions: A Voyage to New Holland*, remarking, "The Jew-Fish is a very good Fish, and I judge so called by the English, because it hath Scales and Fins, therefore a clean Fish, according to Levitical Law." <!--Mention the renaming controversy?-->   
+119.608 Jew-fish. Jew-fish, the Atlantic goliath grouper (*Epinephelus itajara*). A large sporting and food fish of warm coastal waters. Its range includes the Caribbean, the Atlantic, and the Pacific. Now a critically endangered species. Because it is not clear if the name "jewfish" invokes a history of anti-Semitic associations, it was officially changed in 2001 by the American Fisheries Society to "Atlantic goliath grouper."    
 
 119.598 drive invasion from their native shore. Probably refers to a failed attempt in 1759 by French forces to invade Britain.  
 
-119.608n caramaw. Unidentified.  
-
 119.608n king-fish. Also known as the king mackerel (*Scomberomorus cavalla*), which is found in the western Atlantic from Massachusetts to Brazil.  
 
-119.608n camaree. Unidentified.  
-
-120.610 The large, black, female moulting crab. Also known as the mountain crab (*Gecarcinus ruricola*), the black crab is a type of land crab that lives in the woods and higher hills of dry land but travels once a year to the sea to reproduce. Prized as a delicacy.  
+120.610 The large, black, female moulting crab. *Gecarcinus ruricola*. One of several species of terrestrial or land crabs, the black land crab lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs.  
 
 [place] 120.611 Cambria's. Cambria is the Latin name for Wales.  
 
@@ -401,8 +387,6 @@ editor: julie, ami, lina, elizabeth
 
 120.614n the war preceding the last. The War of Austrian Succession (1740-1748), during which a French force unsuccessfully tried to invade Anguilla in 1745.  
 
-121.631 "Stage above stage, in various verdure drest." The source of this quotation is not clear.
-
-121.637 "For naught is useless made." Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe, and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests here that the pursuit of knowledge is a good in its own right, and ought to take precedence over the more mundane pursuit of wealth.
+121.637 "For naught is useless made." Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests that the pursuit of knowledge is a good in its own right and ought to take precedence over the more mundane pursuit of wealth.
 
 ---
