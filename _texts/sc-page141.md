@@ -24,8 +24,18 @@ source: "1764 edition"
 - Nor aw'd they Greece alone; vast Asia's King, [325]
 - Tho' girt by rich arm'd myriads, at their frown
 
----
-
 > VER. 317. *The mineral product of the Cornish mine*\] Tin-filings are a better vermifuge than tin in powder. The western parts of Britain, and the neighbouring isles, have been famous for this useful metal from the remotest antiquity; for we find from Strabo,[^f141n5] that the Phaenicians made frequent voyages to those parts (which they called *Cassiterides* from *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;*[^f141n5] stannum) in quest of that commodity, which turned out so beneficial to them, that a pilot of that nation stranded his vessel, rather than show a Roman ship, that watched him, the way to those mines. For this public spirited action he was amply rewarded, says that accurate writer, upon his return to his country. The Romans, however, soon made themselves masters of the secret, and shared with them in the profit of that merchandize.
+
+[^f141n1]: Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.  
+
+[^f141n2]: Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
+
+[^f141n3]: Inhabitants of Tyre, a town on the Mediterranean coast in southern Lebanon. It was a major Phoenician seaport for trade from 2000 BCE through the Roman period.
+
+[^f141n4]: Attica, the ancient district of east-central Greece, its chief city being Athens. Maritime trade far surpassed its agriculture.  
+
+[^f141n5]: Strabo (64 BCE-21 CE), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
+
+[^f141n5]: Κασσι τερον. The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
 
 ---
