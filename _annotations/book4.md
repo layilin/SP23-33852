@@ -365,7 +365,7 @@ editor: julie
 
 [plant] 152.502n The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart. Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit native to Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit native to Mexico, Central America, and Colombia.  
 
-[plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern Venezuela, and northeastern Colombia. It also has been naturalized to Guyana, Surinam, and French Guiana.  
+[plant] 153.523 palmeto. Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach 40 meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
 
 [people] 153.524 Jones or Wren. Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an English architect, mathematician, and astronomer.  
 
