@@ -73,7 +73,7 @@ editor: julie
 
 128.91 clayey tubes. Pipes.  
 
-[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).  
+[plant] 129.94 rice, or yams, or lofty maize. Three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not: maize's native range is Mexico and Guatemala. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).  
 
 [place] 130.99 Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa and a major stop on the routes of the Atlantic slave trade.  
 
@@ -401,9 +401,9 @@ editor: julie
 
 156.573 vans. Vantages, heights, summits.  
 
-[plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*, which is commonly known as corn today. *Zea mays* was probably first domesticated in Mexico but spread widely across the Americas, including the Caribbean, before Columbus' arrival.  
+[plant] 156.567n maise...great or Indian-corn, that grows in the souther parts of North-America. Maize, great corn, and Indian corn are all different names for *Zea mays*.   
 
-* [plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree native to the Caribbean, Central America, and northern South America.  
+[plant] 156.567n turpentine tree. Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.   
 
 156.580 naiad. Nymphs of springs, rivers, and lakes in Greek mythology.  
 
@@ -415,11 +415,11 @@ editor: julie
 
 158.607 untimely hours. Planters were often concerned about the enslaved marrying across plantations, since they believed that such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence.  
 
-* [plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
+[plant] 158.611 prickly vine. Probably the prickly withe (*Selenicereus triangularis*), a cactus native to the Caribbean that produces a fruit sometimes known as the strawberry pear.  
 
 [plant] 158.611n Chili-strawberry. The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).  
 
-* [plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. It is native to Central and South America and the Caribbean.    
+[plant] 159.613 candle-weed. *Senna alata*, also known today as the candle bush or king of the forest. Its native range is southwestern Mexico to the tropical Americas.  
 
 159.615 moist Aquarius. Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits it in mid-February.  
 
@@ -437,7 +437,7 @@ editor: julie
 
 159.630 Albion. A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
-* [plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. It is native to Europe, the Mediterranean, and Africa.  
+[plant] 159.613n narcissus. The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil.  
 
 159.613n diuretic. A substance that promotes the excretion of urine.  
 
