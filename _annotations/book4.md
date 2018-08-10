@@ -101,7 +101,7 @@ editor: julie
 
 131.133 The novel gang. Enslaved Africans newly arrived in the Caribbean.  
 
-[plant] 131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*), native to Central and South America. While the nut is important to commerce today, the "cashew apple" or receptacle for the nut also was consumed during the eighteenth century. As Grainger and others note as well, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
+[plant] 131.136 acajou. The cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. As Grainger and others note, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
 
 132.141 rheums. Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold but often thought by eighteenth-century physicians to lead to further (and more serious) illnesses.  
 
@@ -359,7 +359,7 @@ editor: julie
 
 [plant] 152.512 tamarind...With those tart fruit the sweltering fever loves To quench his thirst, whose breezy umbrage soon Shades the pleas'd planter, shades his children long. The tamarind tree (*Tamarindicus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
-[plant] 152.513 cassia. Most likely *Cassia fistula*, a tree native to India, Malaysia, and Southeast Asia that was being cultivated in the Caribbean by the early sixteenth century. Used as a purgative.  
+[plant] 152.513 cassia. Most likely *Cassia fistula*, commonly used as a purgative. It is most likely native to India and Sri Lanka, and its native range may also include other parts of South and Southeast Asia.  
 
 [plant] 152.518 chirimoia. *Annona cherimola*, a fruit originally from the South American highlands.  
 
