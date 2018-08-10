@@ -23,13 +23,17 @@ source: "1764 edition"
 - Of ardent eye, and limb robust, attends
 - Your custom'd labour; and, should sickness seize,
 - With what solicitude are ye not nurs'd!—
-- Ye Negroes, then, your pleasing task pursue;
+- Ye Negroes, then, your pleasing task pursue;[^f135n1]
 - And, by your toil, deserve your master's care. [205]
 
 - WHEN first your Blacks are novel to the hoe;
-- Study their humours: Some, soft-soothing words;
+- Study their humours:[^f135n2] Some, soft-soothing words;
 - Some, presents; and some, menaces subdue;
 - And some I've known, so stubborn is their kind,
 - Whom blows, alas! could win alone to toil. [210]
+
+[^f135n1]: The georgic mode is invested in describing the benefits of healthful agricultural labor. It is entirely conventional to describe that labor as "pleasing," but here, *The Sugar-Cane* runs into its central ideological paradox: even as Grainger compares plantation slavery favorably to Scottish, Hungarian, and Incan mining, the fact remains that enslaved labor---and enslaved labor on sugar plantations in particular---was especially difficult and dangerous. The georgic convention thus appears highly stylized and even ridiculous.  
+
+[^f135n2]: Moods.  
 
 ---
