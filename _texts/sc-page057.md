@@ -9,21 +9,31 @@ source: "1764 edition"
 [57]()
 
 - Nor kill the winding snake, thy foes they eat.
-- Thus, on the mangrove-banks of Guayaquil,
+- Thus, on the mangrove-banks[^f57n1] of Guayaquil,[^f57n2]
 - Child of the rocky desert, sea-like stream, [70]
 - With studious care, the American preserves
-- The gallinazo, else that sea-like stream
+- The gallinazo,[^f57n3] else that sea-like stream
 - (Whence traffic pours her bounties on mankind)
-- Dread alligators would alone possess.
-- Thy foes, the teeth-fil'd Ibbos also love; [75]
+- Dread alligators[^f57n4] would alone possess.
+- Thy foes, the teeth-fil'd Ibbos[^f57n5] also love; [75]
 - Nor thou their wayward appetite restrain.
-
----
 
 > VER. 69. *mangrove-banks*\] This tree, which botanists call *Rizophora*, grows in marshy soils, and on the sides of rivers; and, as the branches take root, they frequently render narrow streams impassable to boats. Osyters often adhere to their roots, *&c*. The French name of this strange water-shrub is *Paltuvier*. The species meant here is the red mangrove.
 
-> VER. 74. *Dread alligators*\] This dreadful animal is amphibious, and seldom lays fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding this precaution, the gallinazo (a large species of carrion-crow) conceals itself among the thick boughs of the neighbouring trees, and thus often discovers the hoard of the alligator, which she no sooner leaves, than the gallinazo souses down upon it, and greedily scraping off the sand, regales on its contents. Nor is the male alligator less an enemy to the increase of his own horrid brood, than these useful birds; for, when Instinct prompts the female to let her young fry out by breaking the eggs, he never fails to accompany her, and to devour as many of them as he can: So that the mother scarce ever escapes into the river with more than five out of all her hundred. Thus providence doubly prevents the otherwise immense propagation of that voracious animal, on the banks of the river Guayaquil; for the gallinazo is not always found, where alligators are. *Ulloa*. 
+> VER. 74. *Dread alligators*\] This dreadful animal is amphibious, and seldom lays fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding this precaution, the gallinazo (a large species of carrion-crow) conceals itself among the thick boughs of the neighbouring trees, and thus often discovers the hoard of the alligator, which she no sooner leaves, than the gallinazo souses down upon it, and greedily scraping off the sand, regales on its contents. Nor is the male alligator less an enemy to the increase of his own horrid brood, than these useful birds; for, when Instinct prompts the female to let her young fry out by breaking the eggs, he never fails to accompany her, and to devour as many of them as he can: So that the mother scarce ever escapes into the river with more than five out of all her hundred. Thus providence doubly prevents the otherwise immense propagation of that voracious animal, on the banks of the river Guayaquil; for the gallinazo is not always found, where alligators are. *Ulloa*.[^f57n6]
 
 > VER. 75. *teeth-fil'd Ibbos*\] Or *Ebbos*, as they are more commonly called, are a numerous nation. Many of them have their teeth filed, and blackened in an extraordinary manner. They make good slaves when bought young; but are, in ge-
+
+[^f57n1]: Mangroves are trees of the genus Rhizophora, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.
+
+[^f57n2]: Gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas.
+
+[^f57n3]: The American black vulture (Coragyps atratus), whose native range includes North, Central, and South America.
+
+[^f57n4]: The American alligator, Alligator mississippiensis.
+
+[^f57n5]: Igbo refers to a language spoken in the Bight of Biafra (now the Bight of Bonny), a bay on the western Atlantic coast of Africa bounded by Nigeria, Cameroon, Equatorial Guinea, and northwestern Gabon. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and people who spoke Igbo came to be designated as Igbo by slave traders and planters. Some of these people may have thought of themselves as Igbo as well, while others may simply have accepted or been forced to accept the term as a designation, even though they would have identified themselves by their villages or districts of origin instead. Since many people who ended up at the Bight of Biafra and other ports on the western Atlantic coast had made long journeys from inland Africa and picked up various languages along the way, those who identified as Igbo also may have learned Igbo during the process and been participating in ethnogenesis (the formation and development of ethnic groupings).
+
+[^f57n6]: Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the Relación histórica del viage a la América meridional (1748).
 
 ---
