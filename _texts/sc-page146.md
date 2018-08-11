@@ -34,6 +34,6 @@ source: "1764 edition"
 
 [^f146n4]: *Datura stramonium*, also known as fireweed or jimsonweed. Probably originated in the tropical regions of Central and South America.  
 
-[^f146n5]: Linnaeus...Dr. Stork. Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
+[^f146n5]: Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
 ---
