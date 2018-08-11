@@ -36,7 +36,7 @@ source: "1764 edition"
 
 [^f126n1]: Despite the fact that *The Sugar-Cane* is unequivocally pro-slavery, Grainger affects a tone of regret and sympathy for the enslaved in these opening lines of Book IV.  
 
-[^f126n2]: By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races and to support slavery.  
+[^f126n2]: By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races, and to support slavery.  
 
 [^f126n3]: Caribbe's. The Caribbean's.  
 
