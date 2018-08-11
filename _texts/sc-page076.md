@@ -32,7 +32,7 @@ source: "1764 edition"
 - For fair Theana was his only theme, [435]
 - Acasto's daughter, whom, in early youth,
 
-[^f76n1]: From here to the end of Book 2, Grainger tells the fictional love story of Junio and Theana. The story itself is conventional, borrowing from Shakespeare's *Romeo and Juliet*, as well as the story of Inkle and Yarico, first told by Richard Ligon in *A True and Exact History of the Island of Barbados* (1657) and retold as a sentimental tale in Joseph Addison and Richard Steele's *The Spectator* (No. 11, March 13, 1711). 
+[^f76n1]: From here to the end of Book 2, Grainger tells the fictional love story of Junio and Theana. The story itself is conventional, borrowing from Shakespeare's *Romeo and Juliet*, as well as the story of Inkle and Yarico, first told by Richard Ligon in *A True and Exact History of the Island of Barbados* (1657) and retold as a sentimental tale in Joseph Addison and Richard Steele's *The Spectator* (No. 11, 13 March 1711). 
 
 [^76n2]: It was common practice for planters to send their children to Britain for education. Many of the children who were sent there, however, never returned to the Caribbean.  
 
