@@ -33,7 +33,7 @@ source: "1764 edition"
 
 [^f13n5]: St. Jago de la Vega (or Santiago de la Vega) was the capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century (the English renamed it "Spanish Town"). It lies just west of Kingston, the current capital of Jamaica.  
 
-[^f13n6]: Oliver Cromwell (1599-1658), lord protector of England, Scotland, and Ireland (1653-1658). One of the leaders of the English Civil War and a signatory to Charles I's death warrant. In 1655, he launched what was known as the Western Design with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658, but his remains were exhumed in 1661, at which time he was posthumously "executed."  
+[^f13n6]: Oliver Cromwell (1599-1658), lord protector of England, Scotland, and Ireland (1653-1658). One of the leaders of the English Civil War and a signatory to Charles I's death warrant. In 1655, he launched what was known as the Western Design with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. The invasion of Hispaniola was a failure, but the English expelled the Spanish from Jamaica. Cromwell died in 1658 and his remains were exhumed in 1661, at which time he was posthumously "executed."  
 
 [^f13n7]: Sir Thomas Modyford, first baronet (c. 1620-1679), one of the founding planters of Barbados. Later governor of Jamaica (1664-1669).
 
