@@ -8,6 +8,6 @@ source: "1764 edition"
 
 [iv]()
 
-BLANK
+[Blank page]
 
 ---
