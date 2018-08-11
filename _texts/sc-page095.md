@@ -36,7 +36,7 @@ source: "1764 edition"
 [^f95n3]: Bagpipes.  
 [^f95n4]: The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
 [^f95n5]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
-[^f95n6]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be cut off without delay.  
+[^f95n6]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
 [^f95n7]: To put a windmill "out of the wind" is to stop the mill by turning the sails so they no longer catch the wind.  
 
 ---
