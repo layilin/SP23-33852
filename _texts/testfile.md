@@ -16,6 +16,7 @@ source: "1764 edition"
 - But let thy biting ax with ceaseless stroke
 - The wild red cedar,[^f6n1] the tough locust[^f6n2] fell:
 
+
 > of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical search after gold mines in Florida and Guiana,[^f6n3] settled themselves soon after at the mouth of the river Surinam, where they cultivated the Cane with such success, that when the colony was ceded to the Dutch by the treaty of Breda,[^f6n4] it maintained not less than 40,000 Whites, half that number of slaves, and employed one year with another 15,000 ton of shipping. This cession was a severe blow to the English-trade, which it did not recover for several years, though many of the Surinam Planters carried their art and Negroes to the Leeward Islands^[^f6n5] and Jamaica, which then began to be the object of political consideration in England.  
 
 > Sugar is twice mentioned by Chaucer[^f6n6], who flourished in the fourteenth century; and succeeding poets, down to the middle of the last, use the epithet *Sugar'd*, whenever they would express any thing uncommonly pleasing: since that time, the more elegant writers seldom admit of that adjective in a metaphorical sense; but herein perhaps they are affectedly squeamish. 
@@ -45,6 +46,7 @@ source: "1764 edition"
 - Prince of the forest, gave Barbadoes [^f15n1] name:
 - Chief Nevis, justly for its hot baths fam'd:
 - And breezy Mountserrat, whose wonderous springs [135]
+
 
 >in their voyages to and from South-America, and the Islands; accordingly we are told, when the English first landed there, which was about the end of the sixteenth or beginning of the seventeenth century, they found in it an excellent breed of wild hogs, but no inhabitants. In the year 1627, Barbadoes, with most of the other Caribbee-islands, were granted by Charles I. to the Earl of Carlisle, that nobleman agreeing to pay to the Earl of Marlborough, and his heirs, a perpetual annuity of 300 *l. per annum*, for his waving his claim to Barbadoes, which he had obtained, by patent, in the preceding reign. The adventurers to whom that nobleman parcelled out this island, at first cultivated tobacco; but, that not turning out to their advantage, they applied, with better success, to cotton, indigo, and ginger. At last, some cavaliers of good fortune transporting themselves thither, and introducing the Sugar-cane [*A. D.* 1647] probably from Brazil, in ten years time the island was peopled with upwards of 30,000 Whites, and twice that number of Negroes, and sent yearly very considerable quantities of sugar to the mother-country. At the Restoration, King Charles II. bought off the claim of the Carlisle-family; and, in consideration of its then becoming a royal instead of a proprietary government, the planters gave the Crown 4 1/2 *per cent.* on their sugars; which duty still continues, although the island is said to be less able to pay it now than it was a hundred years ago. It is upwards of 20 miles long, and in some places almost 14 broad.
 
