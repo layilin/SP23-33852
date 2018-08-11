@@ -15,7 +15,7 @@ source: "1764 edition"
 - In blood vast kingdoms; nor had hell-born Zeal, [115]
 - And hell-born Avarice, his arms disgrac'd.
 - Yet, for a world, discover'd and subdu'd,
-- What meed[^f12n3] had'st thou? With toil, disease, worn out,
+- What meed[^f13n3] had'st thou? With toil, disease, worn out,
 
 >VER. 111. *and where the magnet*\] The declension of the needle was discovered, *A. D.* 1492, by Columbus, in his first voyage to America; and would have been highly alarming to any, but one of his undaunted and philosophical turn of mind.
 
