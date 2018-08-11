@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "page 168i"
+title: "page 168"
 editor: Julie Kim
 source: "1764 edition"
 ---
 
 
-[168i]()
+[168]()
 
 ## ERRATA.
 
