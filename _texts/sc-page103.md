@@ -20,10 +20,10 @@ source: "1764 edition"
 - The importance, the necessity display'd,
 - Of civil armies, freedom's surest guard!
 - Nor in the senate didst thou only win
-- The palm of eloquence, securely bold;
+- The palm of eloquence,[^f103n1] securely bold;
 - But rear'd'st thy banners, fluttering in the wind: [305]
-- Kent, from each hamlet, pour'd her marshal'd swains,
-- To hurl defiance on the threatening Gaul.
+- Kent,[^f103n2] from each hamlet, pour'd her marshal'd swains,
+- To hurl defiance on the threatening Gaul.[^f103n3]
 
 - THY foaming coppers well with fewel feed;
 - For a clear, strong, continued fire improves
@@ -32,5 +32,11 @@ source: "1764 edition"
 - Thy vessels, whether from the martial mine,
 
 > VER. 312. *Thy vessels,*\] The vessels, wherein the Cane-juice is reduced to Sugar by coction, are either made of iron or of copper. Each sort hath its advantages and
+
+[^f103n1]: Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
+
+[^f103n2]: Kent is a county in southeastern England facing France.
+
+[^f103n3]: France.
 
 ---
