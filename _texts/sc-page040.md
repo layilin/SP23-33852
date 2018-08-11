@@ -30,7 +30,7 @@ source: "1764 edition"
 
 > VER. 572. *yellow deaths*\] The yellow fever, to which Europeans of a sanguine habit of body, and who exceed in drinking or exercise, are liable on their arrival in the West Indies. The French call it *Maladie de Siame*, or more properly, *La Fievre des Matelots*. Those who have lived any time in the islands are no more subject to this disease than the Creoles,[^f40n3] whence, however, some physicians have too hastily concluded, that it was of foreign extraction.
 
-[^f40n1]: Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by jaundice, fever, nausea or vomiting, and aches. This urban disease was extremely deadly to newcomers from Europe.
+[^f40n1]: Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea or vomiting, and bleeding. This urban disease was extremely deadly to newcomers from Europe.
 
 [^f40n2]: Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
 
