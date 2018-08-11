@@ -42,5 +42,5 @@ source: "1764 edition"
 
 [^f104n5]: The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and additional ingredients to the cane juice to rid it of impurities.  
 
-
 ---
+
