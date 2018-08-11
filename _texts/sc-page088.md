@@ -28,7 +28,7 @@ source: "1764 edition"
 > VER. 25. *Of broad-leaf'd china,*\] The leaves of this medicinal tree are so large, that the Negroes commonly use them to cover the water, which they bring in pails from the mountain, where it chiefly grows. The roots of this tree were introduced into European practice, soon after the venereal disease; but, unless they are fresh, it must be confessed they possess fewer virtues than either sarsaparilla[^f88n5] or lignum
 
 
-[^f88n1]: January.  
+[^f88n1]: January. The new year was generally considered crop time in the Caribbean. It was a period of intense activity when cane was harvested, milled, and prepared for export.
 
 [^f88n2]: Wood or tree nymphs in Greek mythology.  
 
