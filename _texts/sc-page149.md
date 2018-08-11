@@ -14,10 +14,10 @@ source: "1764 edition"
 - Sweet as the cane-juice is the root they bear.[^f149n2] [460]
 - There too let eddas[^f149n3] spring in order meet,
 - With Indian cale, and foodful calaloo:[^f149n4]
-- While mint,[^f145n5] thyme,[^f145n6] balm,[^f145n7] and Europe's coyer herbs,
+- While mint,[^f149n5] thyme,[^f149n6] balm,[^f149n7] and Europe's coyer herbs,
 - Shoot gladsome forth, nor reprobate the clime.
 
-> moon-shine, the small or common; and, lastly, the black and red. The flowers of all are white and papilionaceous;[^f145n8] except the last, whose blossoms are purple. They commonly bear in six weeks. Their pulse is wholesome, though somewhat flatulent; especially those from the black and red. The pods are flattish, two or three inches long; and contain from three to five seeds in partitional cells.
+> moon-shine, the small or common; and, lastly, the black and red. The flowers of all are white and papilionaceous;[^f149n8] except the last, whose blossoms are purple. They commonly bear in six weeks. Their pulse is wholesome, though somewhat flatulent; especially those from the black and red. The pods are flattish, two or three inches long; and contain from three to five seeds in partitional cells.
 
 > VER. 457. *Ochra*\] Or *Ockro*. This shrub, which will last for years, produces a not less agreeable, than wholesome pod. It bears all the year round. Being of a slimy and balsamic nature, it becomes a truly medicinal aliment in dysenteric complaints. It is of the *Malva* species. It rises to about four or five feet high, bearing, on and near the summit, many yellow flowers; succeeded by green, conic, fleshy pods, channelled into several grooves. There are as many cells filled with small round seeds, as there are channels.
 
