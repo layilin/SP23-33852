@@ -12,7 +12,7 @@ source: "1764 edition"
 - Amid this waste of waters; wept thy rage?
 
 - THEN trust not, planter, to the unsteddy gale; [225]
-- But in Tobago's[^fn99n1] endless forests fell
+- But in Tobago's[^f99n1] endless forests fell
 - The tall tough hiccory, or calaba.[^f99n2]
 - Of this, be forc'd two pillars in the ground,
 - Four paces distant, and two cubits[^f99n3] high:
