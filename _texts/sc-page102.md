@@ -30,8 +30,6 @@ source: "1764 edition"
 - Of courtly manners, join'd to antient worth: [290]
 - Friend to thy Britain's every blood-earn'd right,
 
----
-
 > VER. 282. *Karukera*\] The Indian name of Guadaloupe.
 
 > VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah had not then been taken.
