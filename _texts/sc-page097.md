@@ -36,7 +36,7 @@ source: "1764 edition"
 
 [^f97n1]: The contamination of good cane juice with spoiled juice.  
 
-[^97n2]: Grainger speaks of adding milled cane, which still contains residual sugar, to fermentation vats before sending them to compost.
+[^f97n2]: Grainger speaks of adding milled cane, which still contains residual sugar, to fermentation vats before sending them to compost.
 
 [^f97n3]: Vulcan, the Roman god of fire. Grainger refers to flame being used in the distillation of rum.
 
