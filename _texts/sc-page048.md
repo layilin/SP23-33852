@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "48"
+title: "page 48"
 editor: Cristobal Silva
 source: "1764 edition"
 ---
