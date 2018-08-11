@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "page 163i"
+title: "page 163"
 editor: Julie Kim
 source: "1764 edition"
 ---
 
 
-[163i]()
+[163]()
 
 ## INDEX
 
