@@ -28,8 +28,8 @@ source: "1764 edition"
 
 [^f10n7]: Also Treaty of Rijswijk, signed in 1697 and named after the Dutch city in which it was signed. The treaty ended the Nine Years' War (1689-1697), in which Louis XIV's France faced a grand coalition of England, the Holy Roman Empire, the Dutch, and Spain. The treaty confirmed the effective disappearance of Spain as a maritime and continental power.
 
-[^f10n8] Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
+[^f10n8]: Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
 
-[^f10n9] The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
+[^f10n9]: The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
 
 ---
