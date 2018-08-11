@@ -35,6 +35,6 @@ source: "1764 edition"
 
 [^f75n1]: The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia, has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century. 
 
-[^f72n2]: Grainger is describing a tsunami or tidal wave. 
+[^f75n2]: Grainger is describing a tsunami or tidal wave. 
 
 ---
