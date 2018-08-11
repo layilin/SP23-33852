@@ -21,7 +21,7 @@ source: "1764 edition"
 - The loathsome leprosy's[^f132n5] infectious bane.
 
 - THERE are, the muse hath oft abhorrent seen,
-- Who swallow dirt;[f132n6] (so the chlorotic fair[^f132n7] [150]
+- Who swallow dirt;[^f132n6] (so the chlorotic fair[^f132n7] [150]
 
 > the English. The fruit has no resemblance to a cherry, either in shape or size; and bears, at its lower extremity, a nut (which the Spaniards name *Anacardo*, and physicians *Anacardium*) that resembles a large kidney-bean. Its kernel is as grateful as an almond,[^f132n8] and more easy of digestion. Between its rhinds[^f132n9] is contained a highly caustic oil; which, being held to a candle, emits bright salient sparkles, in which the American fortune-tellers pretended they saw spirits who gave answers to whatever questions were put to them by their ignorant followers. This oil is used as a cosmetic by the ladies, to remove freckles and sun-burning; but the pain they necessarily suffer makes its use not very frequent. This tree also produces a gum not inferior to Gum-Arabic;[^f132n10] and its bark is an approved astringent. The juice of the cherry stains exceedingly. The long citron, or amber-coloured, is the best. The cashew-nuts, when unripe, are of a green colour; but, ripe, they assume that of a pale olive. This tree bears fruit but once a year.
 
