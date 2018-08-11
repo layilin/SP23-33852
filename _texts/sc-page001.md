@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "page 1i"
+title: "page 1"
 editor: Lina Jiang
 source: "1764 edition"
 ---
 
 
-[1i]()
+[1]()
 
 ---
 
