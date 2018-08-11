@@ -30,8 +30,6 @@ source: "1764 edition"
 - O'er all thy works let cleanliness preside, [330]
 - Child of frugality; and, as the skum
 
----
-
 > disadvantages. The teache, or smallest vessel from whence the Sugar is laved into the cooler, is generally copper. When it melts, it can be patched; but, when the large sort of vessels, called iron-furnaces, crack, which they are too apt to do, no further use can be made of them.
 
 ---
