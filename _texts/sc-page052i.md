@@ -6,7 +6,7 @@ source: "1764 edition"
 ---
 
 
-[52i]()  
+[52]()  
 
 ## ARGUMENT.  
 
