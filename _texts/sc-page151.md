@@ -11,7 +11,7 @@ source: "1764 edition"
 - And shrubby wilds, in bands will soon destroy
 - Thy labourer's honest wealth; their loss and yours.
 
-- Perhaps, of Indian gardens I could sing,[^f151n1]
+- Perhaps, of Indian gardens[^f151n1] I could sing,
 - Beyond what bloom'd on blest Phaeacia's isle,[^f151n2]
 - Or eastern climes admir'd in days of yore: [490]
 - How Europe's foodful, culinary plants;
@@ -33,7 +33,7 @@ source: "1764 edition"
 
 [^f151n1]: Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.
 
-[^f151n2]: Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.
+[^f151n2]: Phaeacia refers to Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.
 
 [^f151n3]: Pomona was the Roman goddess of fruit.
 
