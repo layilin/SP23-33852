@@ -9,7 +9,7 @@ source: "1764 edition"
 [154]()
 
 - Of Typhon, or of hurricane, destroy.
-- Nor should, tho' small, the anata not be sung:[^f154n1]
+- Nor should, tho' small, the anata[^f154n1] not be sung:
 - Thy purple dye, the silk and cotton fleece [535]
 - Delighted drink; thy purple dye the tribes
 - Of Northern-Ind, a fierce and wily race,
@@ -28,7 +28,7 @@ source: "1764 edition"
 
 [^f154n1]: Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
 
-[^f154n2]: The fruit of *Passiflora ligularis*, also known as the passion fruit. Its native range is Panama to Venezuela and Peru.  
+[^f154n2]: The passion fruit (*Passiflora ligularis*). Its native range is Panama to Venezuela and Peru.  
 
 [^f154n3]: Apexes.  
 
