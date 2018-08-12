@@ -28,7 +28,7 @@ source: "1764 edition"
 - The public welfare, claim thy busy hour;
 - With her to roam \(thrice pleasing devious walk\)
 
-> vitae.[^f89n5] It also grows in China, and many parts of the East-Indies,[^f89n6] where it is greatly recommended in the gout,[^f89n7] palsy,[^f89n8] sciatica,[^f89n9] obstructions,[^f89n10] and obstinate headachs: but it can surely not effect the removal of these terrible disorders; since, in China, the people eat the fresh root, boiled with their meat, as we do turnips; and the better sort, there, use a water distilled from it. The Spaniards call it *Palo de China*. The botanical name is *Smilax*.
+> vitae.[^f89n5] It also grows in China, and many parts of the East-Indies,[^f89n6] where it is greatly recommended in the gout, palsy, sciatica, obstructions,[^f89n7] and obstinate headachs: but it can surely not effect the removal of these terrible disorders; since, in China, the people eat the fresh root, boiled with their meat, as we do turnips; and the better sort, there, use a water distilled from it. The Spaniards call it *Palo de China*. The botanical name is *Smilax*.
  
 
 [^f89n1]: The new year was generally considered crop time, a period of intense activity when cane was harvested, milled, and prepared for export.  
@@ -43,12 +43,6 @@ source: "1764 edition"
 
 [^f89n6]: The whole of Southeast Asia to the east of and including India.  
 
-[^f89n7]: Paralysis of the skeletal muscles. 
-
-[^f89n8]: Metabolic arthritis, frequently in the joints of the large toe, resulting in painful inflammations caused by deposits of uric acid crystals.  
- 
-[^f89n9]: Irritation or inflammation of the sciatic nerve. Causes severe pain from the lower back to the legs.  
-
-[^f89n10]: Blocks in any tubular organ or structure, such as an intestinal bowel blockage, which causes vomiting, distension, and abdominal pain.  
+[^f89n7]: Gout is metabolic arthritis, frequently in the joints of the large toe, resulting in painful inflammations caused by deposits of uric acid crystals. Palsy is paralysis of the skeletal muscles. Sciatica is irritation or inflammation of the sciatic nerve. It causes severe pain from the lower back to the legs. Obstructions are blocks in any tubular organ or structure, (i.e., an intestinal bowel blockage, which causes vomiting, distension, and abdominal pain).  
 
 ---
