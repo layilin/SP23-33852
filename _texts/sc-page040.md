@@ -32,7 +32,7 @@ source: "1764 edition"
 
 [^f40n1]: Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea or vomiting, and bleeding. This urban disease was extremely deadly to newcomers from Europe.
 
-[^f40n2]: Grainger continues the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
+[^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
 
 [^f40n3]: In the eighteenth century, the term creole was used to refer to individuals born in the Americas, regardless of ancestry.
 
