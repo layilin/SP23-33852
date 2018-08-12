@@ -34,7 +34,9 @@ source: "1764 edition"
 > VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
 
 [^f19n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
+
 [^f19n2]: Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
+
 [^f19n3]: France.
 
 ---
