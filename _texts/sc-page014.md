@@ -24,7 +24,7 @@ source: "1764 edition"
 - Are plenteous scatter'd o'er the Sugar-isles:
 - But chief that land, to which the bearded fig,[^f14n2]
 
-> VER. 132. *the bearded Fig*\] This wonderful tree, by the Indians called the *Banian-tree*; and by the botanists *Ficus Indica*, or *Bengaliensis*, is exactly described by Q. Curtius,[^f14n3] and beautifully by Milton[^f14n4] in the following lines:
+> VER. 132. *the bearded Fig*\] This wonderful tree, by the Indians called the *Banian-tree*; and by the botanists *Ficus Indica*, or *Bengaliensis*, is exactly described by Q. Curtius,[^f14n3] and beautifully by Milton in the following lines:[^f14n4]
 
 > "The Fig-tree, not that kind renown'd for fruit,  
 > "But such as at this day to Indians known,  
@@ -45,7 +45,7 @@ source: "1764 edition"
 
 [^f14n3]: Quintus Curtius Rufus (1st century CE), Roman historian and author of *Histories of Alexander the Great*.
 
-[^f14n4]: John Milton (1606-1674), English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671). Grainger quotes here from *Paradise Lost* (9.1101-1110).  
+[^f14n4]: John Milton (1606-1674) was an English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671). Grainger quotes here from *Paradise Lost* (9.1101-1110).  
 
 [^f14n5]: Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala. 
 
