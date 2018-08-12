@@ -42,7 +42,7 @@ source: "1764 edition"
 
 [^f140n4]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
 
-[^f140n5]: Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
+[^f140n5]: Cowitch (*Mucuna pruriens*) is a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
 
 [^f140n6]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
