@@ -9,7 +9,7 @@ source: "1764 edition"
 [69]()
 
 - SAY, can the Muse, the pencil in her hand, [270]
-- The all-wasting hurricane[^f69n1] observant ride?
+- The all-wasting hurricane observant ride?[^f69n1]
 - Can she, undazzled, view the lightning's glare,
 - That fires the welkin?[^f69n2] Can she, unappall'd,
 - When all the flood-gates of the sky are ope,
@@ -38,7 +38,7 @@ source: "1764 edition"
 
 [^f69n3]: Etna, Europe's highest active volcano, located in Sicily.
 
-[^f69n4]: The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Together, these three periods denote peak hurricane season.
+[^f69n4]: Grainger is using astrological signs to designate peak hurricane season. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. 
 
 [^f69n5]: House.
 
