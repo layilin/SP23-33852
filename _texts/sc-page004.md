@@ -38,6 +38,6 @@ source: "1764 edition"
 
 [^f4n5]: Pompey or Gnaeus Pompeius Magnus (106-48 BCE) was a member of the First Triumvirate. He defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
-[^f4n6]: In this note, Grainger traces the movement of sugar cane from India, where it was first refined into crystallized sugar, to the Middle East and Europe and then the Americas.   
+[^f4n6]: In this note, Grainger traces the movement of sugar cane from India, where it was first refined into crystallized sugar, to the Middle East, Europe, and the Americas.   
 
 ---
