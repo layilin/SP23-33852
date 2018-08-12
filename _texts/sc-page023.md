@@ -34,9 +34,10 @@ source: "1764 edition"
 - With best advantage, to the well-dug mould.
 
 
-
->VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.
+>VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.[^f23n2]
 
 [^f23n1]: The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Englightenment.
+
+[^f23n2]: Jethro Tull (b. 1674-d. 1741) was an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731).  
 
 ---
