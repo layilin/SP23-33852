@@ -33,7 +33,9 @@ source: "1764 edition"
 - Should hush the hurricanes tremendous roar,  
 - And from each evil guard the ripening Cane!
 
+
 [^f54n1]: The aurora borealis or northern lights.  
+
 [^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86).  
 
 ---
