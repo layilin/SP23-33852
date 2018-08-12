@@ -13,7 +13,7 @@ source: "1764 edition"
 - Wild, thro' the mountain's quivering rocky caves, [395]
 - Like the dread crash of tumbling planets, roars.
 - When tremble thus the pillars of the globe,
-- Like the tall coco by the fierce North blown;[^f75n1]
+- Like the tall coco[^f75n1] by the fierce North blown;
 - Can the poor, brittle, tenements of man
 - Withstand the dread convulsion? Their dear homes, [400]
 - (Which shaking, tottering, crashing, bursting, fall,)
