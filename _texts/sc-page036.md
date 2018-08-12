@@ -28,7 +28,7 @@ source: "1764 edition"
 
 > VER. 515. *the privet*\] *Ligustrum*. This shrub is sufficiently known. Its leaves and flowers make a good gargle in the aphthae, and ulcered throat.
 
-> VER. 520. *carnation fair.*\] This is indeed a most beautiful flowering shrub. It is a native of the West-Indies, and called, from a French governor, named Depoinci,[^f36n8] *Poinciana*. If permitted, it will grow twenty feet high; but, in order to make it a good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is of the senna kind.[^f36n9] Its leaves and flowers are stomachic,[^f36n10] carminative,[^f36n11] and emmenagogue.[^f36n12] Some authors name it *Cauda pavonis*,[^f36n13] on account of its inimitable beauty; the flowers have a physicky smell. How it came to be called *Doodle-doo* I know not; the Barbadians more properly term it *Flower Fence*.[^f36n14] This plant grows also in Guinea.[^f36n15]
+> VER. 520. *carnation fair.*\] This is indeed a most beautiful flowering shrub. It is a native of the West-Indies, and called, from a French governor, named Depoinci,[^f36n8] *Poinciana*. If permitted, it will grow twenty feet high; but, in order to make it a good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is of the senna kind.[^f36n9] Its leaves and flowers are stomachic, carminative, and emmenagogue.[^f36n10] Some authors name it *Cauda pavonis*,[^f36n11] on account of its inimitable beauty; the flowers have a physicky smell. How it came to be called *Doodle-doo* I know not; the Barbadians more properly term it *Flower Fence*.[^f36n12] This plant grows also in Guinea.[^f36n13]
 
 [^f36n1]: Also colic or painful stomach contractions.
 
@@ -48,16 +48,12 @@ source: "1764 edition"
 
 [^f36n9]: The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
-[^f36n10]: Good for the stomach.
+[^f36n10]: Grainger means that the plant is good for the stomach (stomachic), that it produces flatulence (carminative), and that it induces menstrual flow (emmenagogue).  
 
-[^f36n11]: Having the quality of expelling flatulence.
+[^f36n11]: Peacock's tail.
 
-[^f36n12]: Having the power to induce menstrual flow.
+[^f36n12]: Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.
 
-[^f36n13]: Peacock's tail.
-
-[^f36n14]: Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.
-
-[^f36n15]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[^f36n13]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 ---
