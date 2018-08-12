@@ -33,7 +33,7 @@ source: "1764 edition"
 - That lies on marly beds.[^f11n4]—The renter, this
 - Can scarce exhaust; how happy for the heir!
 
->VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands. *Sloane*.
+>VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands.[^f11n5] *Sloane*.
 
 [^f11n1]: The Italian name for Persephone, queen of the underworld.
 
@@ -42,5 +42,7 @@ source: "1764 edition"
 [^f11n3]: Loose and clay-like soil beneficial for cultivation.
 
 [^f11n4]: Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil.
+
+[^f11n5]: Colonists worried about their skin color changing in tropical climates since they believed that it signified racial identity.  
 
 ---
