@@ -19,7 +19,7 @@ source: "1764 edtion"
 - Pause at that godlike name; for not your flights [95]
 - Of happiest fancy, can outsoar his fame.
 
-- COLUMBUS,[^f12n3] boast of science, boast of man!
+- COLUMBUS, boast of science, boast of man!
 - Yet, by the great, the learned, and the wise,
 - Long held a visionary; who, like thee, 
 - Could brook their scorn; wait seven long years at court, [100]
@@ -37,7 +37,5 @@ source: "1764 edtion"
 [^f12n1]: Poetic term for a ship or vessel. 
 
 [^f12n2]: The Muses.
-
-[^f12n3]: Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime. 
 
 ---
