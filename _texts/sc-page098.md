@@ -31,7 +31,7 @@ source: "1764 edition"
 
 > VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads[^f98n5] of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds[^f98n6] may be used for every purpose of life. Antigua is well fortified, and has a good militia.
 
-[^f98n1]: The coconut palm (Cocos nucifera), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
+[^f98n1]: The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
 [^f98n2]: The informer is the sun, and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as James Thomson's *The Seasons* (1730).  
 
