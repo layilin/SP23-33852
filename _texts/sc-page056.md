@@ -15,7 +15,7 @@ source: "1764 edition"
 - Fierce, wanton, cruel, did by stealth invade  
 - The peaceable American's domains,  
 - While desolation mark'd their faithless rout;  
-- No sooner Albion's martial sons[^f56n2] advanc'd,  
+- No sooner Albion's[^f56n2] martial sons advanc'd,  
 - Than the gay dastards to their forests fled, [60]  
 - And left their spoils and tomahawks behind.  
 
@@ -31,7 +31,7 @@ source: "1764 edition"
 
 [^f56n1]: Hostile French forces. Here, Grainger makes an analogy between the vervet monkeys and the French during the Seven Years' War (1756-1763), the first truly global war that resulted in the establishment of Britain as the preeminent maritime and colonial power.
 
-[^f56n2]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (albus) and refer to the white cliffs of Dover.
+[^f56n2]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.
 
 [^f56n3]: Refers either to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two Old World species of rats that arrived in the Caribbean with colonization and are now considered invasive species. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. In his *Life of Johnson*, James Boswell recalls a reading of a manuscript draft of the poem that took place at the home of painter Sir Joshua Reynolds. The line, "Now, Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391).
 
