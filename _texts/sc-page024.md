@@ -25,7 +25,7 @@ source: "1764 edition"
 - In goodly ranks, to fill the planter's eye. [310]
 - Let then Sagacity, with curious ken,[^f24n1] 
 - Remark the various signs of future rain.
-- The signs of rain, the Mantuan Bard[^f24n2]  hath sung
+- The signs of rain, the Mantuan Bard[^f24n2] hath sung
 - In loftiest numbers; friendly to thy swains,
 - Once fertile Italy: but other marks [315]
 - Portend the approaching shower, in these hot climes.
