@@ -53,6 +53,6 @@ source: "1764 edition"
 
 [^f150n8]: Madre de Cacao (*Gliricidia sepium*). Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
 
-[^f150n9]: Runaway or escaped slaves. 
+[^f150n9]: Grainger refers here to enslaved persons running away from plantations.  
 
 ---
