@@ -42,7 +42,7 @@ source: "1764 edition"
 
 [^f119n5]: Apicius, a name used for several Roman connoisseurs of luxury but especially Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (CE 14-37). He exhausted his fortune on feasts and committed suicide rather than economize. 
 
-[^f119n6]: Jew-fish, the Atlantic goliath grouper (*Epinephelus itajara*). A large sporting and food fish of warm coastal waters. Its range includes the Caribbean, the Atlantic, and the Pacific. Now a critically endangered species. Because it is not clear if the name "jewfish" invokes a history of anti-Semitic associations, it was officially changed in 2001 by the American Fisheries Society to "Atlantic goliath grouper." 
+[^f119n6]: Jew-fish, the Atlantic goliath grouper (*Epinephelus itajara*). A large sporting and food fish of warm coastal waters. Its range includes the Caribbean, the Atlantic, and the Pacific. Now a critically endangered species. Because it is not clear if the name Jewfish invokes a history of anti-Semitic associations, it was officially changed in 2001 by the American Fisheries Society to Atlantic goliath grouper.
 
 [^f119n7]: Also known as the king mackerel (*Scomberomorus cavalla*), which is found in the western Atlantic from Massachusetts to Brazil. 
 
