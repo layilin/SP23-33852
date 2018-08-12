@@ -14,7 +14,7 @@ source: "1764 edition"
 - And golden fruit mature.[^f150n1] To these be join'd,
 - In comely neighbourhood, the cotton shrub;[^f150n2]
 - In this delicious clime the cotton bursts [470]
-- On rocky soils.—The coffee also plant;[^f150n3]
+- On rocky soils.—The coffee[^f150n3] also plant;
 - White as the skin of Albion's lovely fair,
 - Are the thick snowy fragrant blooms it boasts:
 - Nor wilt thou, cocô,[^f150n4] thy rich pods refuse;[^f150n5]
