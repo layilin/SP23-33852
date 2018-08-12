@@ -33,8 +33,10 @@ source: 1764 edition
 
 > VER. 179. *And highest temper,*\] Shell, or rather marble quick-lime,[^f18n3] is so called by the planters: Without this, the juice of the Cane cannot be concreted into sugar, at least to advantage. See Book III. With quick-lime the French join ashes as a temper, and this mixture they call *Enyvrage*. It is hoped the Reader will pardon the introduction of the verb *saccharize*, as no other so emphatically expressed the Author's meaning; for some chemists define sugar to be a native salt, and others a soap.
 
-[^f18n1]: The process of converting cane syrup into sugar.  
+[^f18n1]: Turn into sugar.  
+
 [^f18n2]: A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.  
+
 [^f18n3]: Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitates impurities.  
 
 ---
