@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [112]()
 
-- Fraudful,[^f112n1] their weight of sugar to increase.
+- Fraudful, their weight of sugar to increase.[^f112n1]
 - Far be such guile from Britain's honest swains.
 - Such arts, awhile, the unwary may surprise,
 - And benefit the Impostor; but, ere long, [460]
