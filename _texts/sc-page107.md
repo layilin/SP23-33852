@@ -23,7 +23,7 @@ source: "1764 edition"
 - Tho' these oft deck Britannia's lovely fair;
 - And those oft save the guardians of her realm.
 - Thy marble-quarries claim the voice of praise, [370]
-- Which rich incrusts thy Avon's[^f107n6] banks, sweet banks!
+- Which rich incrusts thy Avon's banks,[^f107n6] sweet banks!
 - Tho' not to you young Shakespear, Fancy's child,
 - All-rudely warbled his first woodland notes;
 - Tho' not your caves, while terror stalk'd around,
