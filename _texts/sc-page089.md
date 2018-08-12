@@ -33,7 +33,7 @@ source: "1764 edition"
 
 [^f89n1]: The new year was generally considered crop time, a period of intense activity when cane was harvested, milled, and prepared for export.  
 
-[^f89n2]: Colonel Samuel Martin (1694/5-1776), Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750. Published in at least a dozen editions before the end of the eighteenth century, the *Essay* contained Martin's recommendations for plantation management and covered topics ranging from the regulation and management of enslaved labor to the planting and harvesting of cane. The *Essay* is written in prose, but it served as an important source for Grainger.  
+[^f89n2]: Refers to Samuel Martin (1694/5-1776), an Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750 and then in several more editions before the end of the eighteenth century. The *Essay* contains Martin's recommendations for plantation management and covers topics ranging from the planting and harvesting of cane to the regulation of enslaved labor. 
 
 [^f89n3]: Bad temper or a melancholy temperament.  
 
