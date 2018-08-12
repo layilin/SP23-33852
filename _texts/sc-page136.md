@@ -39,8 +39,8 @@ source: "1764 edition"
 
 [^f136n3]: Indus, a river in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
 
-[^f136n4]: A country or farm laborer, a shepherd. The key figure in georgic poetry.  
+[^f136n4]: Country or farm laborers, shepherds. The swain is a key figure in georgic poetry.  
 
-[^f136n5]: Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See for example Nathaniel Appleton's *Considerations on Slavery* (1767).  
+[^f136n5]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's *Considerations on Slavery* (1767).  
 
 ---
