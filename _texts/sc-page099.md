@@ -21,8 +21,8 @@ source: "1764 edition"
 - Than steel more durable, contemns the rain,
 - And sun's intensest beam; the worm, that pest
 - Of mariners, which winds its fatal way
-- Through heart of British oak, reluctant leaves [235]
-- The closer calaba.[^f99n4]—By transverse beams
+- Through heart of British oak,[^f99n4] reluctant leaves [235]
+- The closer calaba.—By transverse beams
 - Secure the whole; and in the pillar'd frame,
 - Sink, artist, the vast bridge-tree's[^f99n5] mortis'd[^f99n6] form
 - Of ponderous hiccory; hiccory time defies:
@@ -37,7 +37,7 @@ source: "1764 edition"
 
 [^f99n3]: An ancient measurement of length derived from the forearm, usually about 18-22 inches.  
 
-[^f99n4]: The naval shipworm (*Teredo navalis*) is a mollusc that burrows into underwater timbers on piers and ships. It was particularly destructive to the British or English oak (*Quercus robur*), which was long used in shipbuilding, including by the British navy. *Quercus robur* is native to Britain. 
+[^f99n4]: The naval shipworm (*Teredo navalis*) is a mollusc that burrows into underwater timbers on piers and ships. It was particularly destructive to the British or English oak (*Quercus robur*), which was long used in shipbuilding, including by the British navy. The English oak is native to Britain. 
 
 [^f99n5]: An adjustable beam that supports the spindle of the runner or upper stone in a grain mill.
 
