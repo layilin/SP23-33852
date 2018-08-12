@@ -15,7 +15,7 @@ source: "1764 edition"
 - A useful servitude will long support. [80]
 
 - YET, if thine own, thy childrens life, be dear;
-- Buy not a Cormantee, tho' healthy, young.[^f129n2]
+- Buy not a Cormantee,[^f129n2] tho' healthy, young.
 - Of breed too generous for the servile field;
 - They, born to freedom in their native land,
 - Chuse death before dishonourable bonds: [85]
@@ -28,8 +28,8 @@ source: "1764 edition"
 - From clayey tubes inhale;[^f129n4] or, vacant, beat
 - For prey the forest; or, in war's dread ranks,
 - Their country's foes affront: while, in the field,
-- Their wives plant rice, or yams, or lofty maize,
-- Fell hunger to repel.[^f129n5] Be these thy choice: [95]
+- Their wives plant rice, or yams, or lofty maize,[^f129n5]
+- Fell hunger to repel. Be these thy choice: [95]
 - They, hardy, with the labours of the Cane
 
 
