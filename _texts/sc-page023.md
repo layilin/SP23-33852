@@ -36,7 +36,7 @@ source: "1764 edition"
 
 >VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.[^f23n2]
 
-[^f23n1]: The idea of improvement has long legal and philosophical roots. For the legal context, in which it refers to the cultivation of crops that transforms wilderness into property, see John Locke's *Second Treatise on Government* (1689). Grainger uses it here in the sense of progress, a central concern of the Englightenment.
+[^f23n1]: In the eighteenth century, improvement referred to the cultivation and development of lands for the purpose of making them more economically valuable. Increasingly, philosophers, government officials, and others also came to believe that there was a moral imperative for individuals to improve their land, since it could lead to increased crop and food production, which in turn would prevent famine and other social ills. Improvement was tied up with imperial agendas of dispossession as well, however: it was often argued that indigenous peoples did not improve their lands and therefore did not have a right to continue using and living on them. 
 
 [^f23n2]: Jethro Tull (b. 1674-d. 1741) was an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731).  
 
