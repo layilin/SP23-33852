@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - To glad the thirsty soil on which, arrang'd,  
 - The gemmy summits of the Cane await [395]  
-- Thy Negroe-train, \(in linen lightly wrapt,[^f30n1]\)  
+- Thy Negroe-train, \(in linen lightly wrapt,\)[^f30n1] 
 - Who now that painted Iris[^f30n2] girds the sky,  
 - \(Aerial arch, which Fancy loves to stride!\)  
 - Disperse, all-jocund, o'er the long-hoed land.  
