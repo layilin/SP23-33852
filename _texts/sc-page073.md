@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
-- Now brighter, vaster corruscations flash;[^f73n1]
+- Now brighter, vaster corruscations[^f73n1] flash;
 - Deepens the deluge; nearer thunders roll;
 - Earth trembles; ocean reels; and, in her fangs,
 - Grim Desolation tears the shrieking isle,
