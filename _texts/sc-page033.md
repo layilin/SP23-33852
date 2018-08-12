@@ -35,6 +35,7 @@ source: "1764 edition"
 - Tho' some less noble plants thine influence own.
 
 [^f33n1]: Belonging to another person, place, or family; from elsewhere, foreign.  
+
 [^f33n2]: Roman god of the sea.  
 
 ---
