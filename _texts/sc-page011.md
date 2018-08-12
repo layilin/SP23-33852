@@ -15,7 +15,7 @@ source: "1764 edition"
 - Nor raptured poet, lost in holy trance,
 - Thy streams arrested with enchanting song: [70]
 - Yet virgins, far more beautiful than she
-- Whom Pluto[^f11n2] ravish'd, and more chaste, are thine:
+- Whom Pluto ravish'd,[^f11n2] and more chaste, are thine:
 - Yet probity, from principle, not fear,
 - Actuates thy sons, bold, hospitable, free:
 - Yet a fertility, unknown of old, [75]
