@@ -11,13 +11,13 @@ source: "1764 edition"
 - Project enormous; of impurpled hue
 - Its frequent clusters glow. And there, if thou [565]
 - Would'st make the sand yield salutary food,
-- Let Indian millet rear its corny reed,
-- Like arm'd battalions in array of war.[^f156n1]
+- Let Indian millet[^f156n1] rear its corny reed,
+- Like arm'd battalions in array of war.
 - But, round the upland huts, bananas plant;
 - A wholesome nutriment bananas yield, [570]
 - And sun-burnt labour loves its breezy shade.
-- Their graceful screen let kindred plantanes join,
-- And with their broad vans[^f156n2] shiver in the breeze;[^f156n3]
+- Their graceful screen let kindred plantanes join,[^f156n2]
+- And with their broad vans[^f156n3] shiver in the breeze;
 - So flames design'd, or by imprudence caught,
 - Shall spread no ruin to the neighbouring roof. [575]
 
@@ -31,9 +31,10 @@ source: "1764 edition"
 
 [^f156n1]: By Indian millet, Grainger means Guinea corn (*Sorghum bicolor*). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231). 
 
-[^f156n2]: Vantages, heights, summits.
+[^f156n2]: Bananas and plantains (family Musaceae) are closely related. Both formed a part of the diets of the enslaved, although plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 
-[^f156n3]: Bananas and plantains (family Musaceae) are closely related. Both formed a part of the diets of the enslaved, although plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
+[^f156n3]: Vantages, heights, summits.
+
 [^f156n4]: Maize, great corn, and Indian corn are all different names for *Zea mays*.
 
 [^f156n5]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
