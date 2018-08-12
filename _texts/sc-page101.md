@@ -22,13 +22,13 @@ source: "1764 edition"
 
 - FOR not, even then, my friend, art thou secure [270]
 - From fortune: spite of all thy steady care,
-- What ills, that laugh to scorn Machaon's art,[^f101n2]
+- What ills, that laugh to scorn Machaon's[^f101n2] art,
 
 
 > vered, A.D. 1497, in the time of King Henry VII.[^f101n3] by whom he was employed; but no advantages could be reaped from this discovery, on account of the various disturbances that ensued in England during the succeeding reigns, till about the year 1584, Q. Elizabeth gave Sir Walter Raleigh a patent for all such land, from 33. to 40. N. lat. as he should chuse to settle with English, reserving only to the crown a fifth part of all the gold and silver which should therein be discovered, in lieu of all services. Accordingly several imbarkations were fitted out from England, but all to no purpose. Some farther attempts, however, were made to settle this part of the country in the succeeding reign; but it was not till the year 1620, that a regular form of government took place. Then was tobacco planted, and negroes imported into Virginia. Since that time it has gradually improved, and does not now contain fewer than 100,000 white people of better condition, besides twice as many servants and slaves. The best shingles come from Egg-Harbour.[^f101n4]
 
 
-[^f101n1]: Past tense of strow or strew; to scatter or spread loosely.  
+[^f101n1]: Scattered, spread. 
 
 [^f101n2]: In Greek mythology, Machaon was a Greek physician and the son of Asclepius, the god of healing. 
 
