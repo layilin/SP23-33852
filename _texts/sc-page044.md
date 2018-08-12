@@ -28,6 +28,7 @@ source: "1764 edition"
 
 > VER. 625. *tamarind-vista,*\] This large, shady, and beautiful tree grows fast even in the driest soils, and lasts long; and yet its wood is hard, and very fit for mechanical uses. The leaves are smaller than those of senna, and pennated: they taste sour-
 
+
 [^f44n1]: In Book IV, line 430, Grainger admits that planters did not always provide enslaved laborers with sufficient food for survival.  
 
 [^f44n2]: Grainger is referring to the glanders, a contagious disease in horses.  
