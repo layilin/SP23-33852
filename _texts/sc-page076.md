@@ -20,7 +20,7 @@ source: "1764 edition"
 - Astounds the guilty, and appals the good:
 - For oft the best, smote by the bolt of heaven, [425]
 - Wrapt in ethereal flame, forget to live:
-- Else, fair Theana.[^f76n1]—Muse, her fate deplore.
+- Else, fair Theana.—Muse, her fate deplore.[^f76n1]
 
 - SOON as young reason dawn'd in Junio's breast,
 - His father sent him from these genial isles,[^76n2]
