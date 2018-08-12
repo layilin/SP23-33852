@@ -32,7 +32,7 @@ source: "1764 edition"
 - But, when she spoke of love, her voice surpass'd
 - The harmonious warblings of Italian song.
 
-[^f79n1]: Educated or learned climes. In addition to describing the practice of Caribbean planters sending their children to Britain for their education, this moment refers to the "grand tour," during which individuals would complete their education by visiting mainland Europe's (and especially Italy's) cultural capitals. 
+[^f79n1]: Educated or learned climes. In addition to describing the practice of Caribbean planters sending their children to Britain for their education, this line refers to the "grand tour," during which individuals would complete their education by visiting mainland Europe's (and especially Italy's) cultural capitals. 
 
 [^f79n2]: France.
 
