@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [27]()
 
-- And black crabs[^f27n1] travel from the mountain down;
+- And black crabs travel from the mountain down;[^f27n1]
 - Thy ducks their feathers prune; thy doves return,
 - In faithful flocks, and, on the neighbouring roof,
 - Perch frequent; where, with pleas'd attention, they [345]
