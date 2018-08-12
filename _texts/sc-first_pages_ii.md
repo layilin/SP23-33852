@@ -1,8 +1,8 @@
 ---
 layout: page
-title: page ii
-source: 1764 edition
+title: "page ii"
 editor: julie
+source: "1764 edition"
 ---
 
 
