@@ -43,6 +43,6 @@ source: "1764 edition"
 
 [^f152n4]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
-[^f152n5]: Mammee sapota (*Pouteria sapota*) is commonly confused with the mammee apple. It is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
+[^f152n5]: The mammee sapota is actually different from the mammee apple (the fruit Grainger describes in lines 502-508). The mammee sapota (*Pouteria sapota*) is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
 
 ---
