@@ -39,7 +39,7 @@ source: "1764 edition"
 
 [^f152n2]: The tamarind tree (*Tamarindicus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
 
-[^f152n3]: *Cassia fistula*, commonly used as a purgative. It is most likely native to India and Sri Lanka, and its native range may also include other parts of South and Southeast Asia. 
+[^f152n3]: Cassia is probably *Cassia fistula*, commonly used as a purgative. It is likely native to India and Sri Lanka.  
 
 [^f152n4]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
