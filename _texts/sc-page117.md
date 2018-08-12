@@ -32,9 +32,9 @@ source: "1764 edition"
 
 > is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic.[^f117n6] The botanical name is *Papaya*.
 
-[^f117n1]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra and sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means "rainbow." The goddess Juno took her to serve as her handmaid. 
+[^f117n1]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra and sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid. 
 
-[^f117n2]: "Hesperian throats" refers to the Hesperides, the daughters of Night and Erebus who guarded the tree of golden apples given by Hera to earth. They also were renowned for their singing. Because the tree was popularly located beyond the Atlas mountains at the western border of the Ocean, Hesperian also means western. When referring to a specific geographic location, it designates Italy or Spain.
+[^f117n2]: "Hesperian throats" refers to the Hesperides, the daughters of Night and Erebus who guarded the tree of golden apples given by Hera to earth. They also were renowned for their singing. Because the tree was popularly located beyond the Atlas mountains at the western border of the Ocean, Hesperian can mean western. When referring to a specific geographic location, it designates Italy or Spain.
 
 [^f117n3]: Of the spring.
 
