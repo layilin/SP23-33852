@@ -17,7 +17,7 @@ source: "1764 edition"
 - The Moco-nation; they themselves destroy.[^f130n2]
 
 - WORMS lurk in all: yet, pronest they to worms,[^f130n3]
-- Who from Mundingo sail.[^f130n4] When therefore such
+- Who from Mundingo[^f130n4] sail. When therefore such
 - Thou buy'st, for sturdy and laborious they, [105]
 - Straight let some learned leach[^f130n5] strong medicines give,
 - Till food and climate both familiar grow.
