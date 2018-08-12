@@ -24,7 +24,7 @@ source: "1764 edition"
 - What time the conch[^f133n5] or bell resounds, they may
 - All to the Cane-ground, with thy gang, repair.
 
-- NOR, Negroe,[^f133n6] at thy destiny repine, [165]
+- NOR, Negroe, at thy destiny repine,[^f133n6] [165]
 - Tho' doom'd to toil from dawn to setting sun.
 - How far more pleasant is thy rural task,
 - Than theirs who sweat, sequester'd from the day,
@@ -36,9 +36,9 @@ source: "1764 edition"
 
 [^f133n2]: Greek god of healing.  
 
-[^f133n3]: Dried cattle feed (e.g., hay).  
+[^f133n3]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
 
-[^f133n4]: Here Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
+[^f133n4]: Dried cattle feed (e.g., hay).  
 
 [^f133n5]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
 
