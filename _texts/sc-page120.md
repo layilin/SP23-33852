@@ -29,7 +29,7 @@ source: "1764 edition"
 
 > VER. 614. *Anguilla*,] This island is about thirty miles long and ten broad. Though not mountainous, it is rocky, and abounds with strong passes; so that a few of its inhabitants, who are indeed expert in the use of fire-arms, repulsed, with great slaughter, a considerable detachment of French, who made a descent thereon in the war preceding the last.[^f120n11] Cotton and cattle are its chief commodities. Many of the inhabitants are rich; the captain-general of the Leeward-Islands nominates the governor and council. They have no assembly.
 
-[^f120n1]: *Gecarcinus ruricola*. One of several species of terrestrial or land crabs, the black land crab lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs. 
+[^f120n1]: One of several species of terrestrial or land crabs, the black land crab (*Gecarcinus ruricola*) lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs. 
 
 [^f120n2]: Cambria is the Latin name for Wales.
 
