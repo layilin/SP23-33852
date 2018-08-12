@@ -35,6 +35,6 @@ source: "1764 edition"
 
 [^f42n6]: Refers to the eastern part of the Mediterranean; sometimes used as a synonym for the Middle East.   
 
-[^f42n7]: According to Gilmore, Matthias Martinius (1572—1630) authored the *Lexicon Philologicum* (1623).  
+[^f42n7]: According to Gilmore, Matthias Martinius (1572-1630) authored the *Lexicon Philologicum* (1623).  
 
 ---
