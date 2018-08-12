@@ -32,7 +32,7 @@ source: "1764 edition"
 - And some I've known, so stubborn is their kind,
 - Whom blows, alas! could win alone to toil. [210]
 
-[^f135n1]: The georgic mode is invested in describing the benefits of healthful agricultural labor. It is entirely conventional to describe that labor as "pleasing," but here, *The Sugar-Cane* runs into its central ideological paradox: even as Grainger compares plantation slavery favorably to Scottish, Hungarian, and Incan mining, the fact remains that enslaved labor---and enslaved labor on sugar plantations in particular---was especially difficult and dangerous. The georgic convention thus appears highly stylized and even ridiculous.  
+[^f135n1]: The georgic mode is invested in describing the benefits of healthful agricultural labor. It is entirely conventional to describe that labor as pleasing, but, at this moment, *The Sugar-Cane* is describing enslaved labor.  
 
 [^f135n2]: Moods.  
 
