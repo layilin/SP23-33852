@@ -42,15 +42,15 @@ source: "1764 edition"
 
 [^f102n4]: Nymphs of springs, rivers, and lakes in Greek mythology.
 
-[^f102n5]: In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.
+[^f102n5]: Guadeloupe. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.
 
-[^f102n6]: Matanina! boast of Albion's arms. The French colony of Martinique surrendered to British forces in February 1762.
+[^f102n6]: Martinique. The French colony of Martinique surrendered to British forces in February 1762.
 
 [^f102n7]: The "Errata" list at the end of The Sugar-Cane indicates that "thro'" should read "through."
 
-[^f102n8]: Liamuiga. Indigenous name for the island of St. Kitts.
+[^f102n8]: Indigenous name for the island of St. Kitts.
 
-[^f102n9]: According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla, the heiress of the St. Kitts planter Charles Pym.
+[^f102n9]: According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla Pym, the heiress of the St. Kitts planter Charles Pym.
 
 [^f102n10]: Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.
 
