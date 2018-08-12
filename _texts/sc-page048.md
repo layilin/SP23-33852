@@ -8,6 +8,6 @@ source: "1764 edition"
 
 [48]()
 
-BLANK
+[Blank]
 
 ---
