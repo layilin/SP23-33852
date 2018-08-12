@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - WHERE'ER the clouds relent in frequent rains,
 - And the Sun fiercely darts his Tropic beam, [25]
-- The Cane will joint, ungenial tho' the soil.[^f5n1]
+- The Cane will joint,[^f5n1] ungenial tho' the soil.
 - But would'st thou see huge casks, in order due,
 
 
