@@ -26,7 +26,7 @@ source: "1764 edition"
 - Fair nature's triumph, pride of Indian groves,
 - Cleft by the sulphurous bolt! See yonder dome,
 - Where grandeur with propriety combin'd,
-- And Theodorus with devotion dwelt;[^f72n1]
+- And Theodorus[^f72n1] with devotion dwelt;
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
