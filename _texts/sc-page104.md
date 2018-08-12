@@ -19,8 +19,8 @@ source: "1764 edition"
 - NOR small the risque, \(when piety, or chance, [320]
 - Force thee from boiling to desist\) to lave[^f104n3]
 - Thy heated furnace, with the gelid[^f104n4] stream.
-- The chemist[^f104n5] knows, when all-dissolving fire
-- Bids the metalline ore abruptly flow;
+- The chemist knows, when all-dissolving fire
+- Bids the metalline ore abruptly flow;[^f104n5]
 - What dread explosions, and what dire effects, [325]
 - A few cold drops of water will produce,
 - Uncautious, on the novel fluid thrown.
@@ -34,7 +34,7 @@ source: "1764 edition"
 
 [^f104n1]: Working conditions in the boiling house were extremely difficult, and only the strongest of the enslaved were assigned there. Tasks included stoking the fires to boil the sugarcane juice and skimming or removing the impurities that rose to the top. Being a boiler was more than merely physical work, however: it also required considerable technical and practical knowledge about the process of sugar production and refinement, and enslavers depended heavily on their head refiners or boilers for good yields of sugar from their crops.  
 
-[^f104n2]: Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign of the zodiac that indicates a change of season.  
+[^f104n2]: Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign that indicates a change of season.  
 
 [^f104n3]: To pour or ladle out.  
 
