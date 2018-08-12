@@ -28,7 +28,7 @@ source: "1764 edition"
 - Soon round the bending stem's aerial height, [560]
 - Clusters of mighty nuts, with milk and fruit
 - Delicious fraught, hang clattering in the sky.
-- There let the bay-grape, too, its crooked limbs[^f155n3]
+- There let the bay-grape,[^f155n3] too, its crooked limbs
 
 
 > VER. 563. *bay-grape*\] Or sea side grape, as it is more commonly called. This is a large, crooked, and shady tree, \(the leaves being broad, thick, and almost
