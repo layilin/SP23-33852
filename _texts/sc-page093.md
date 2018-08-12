@@ -33,8 +33,11 @@ source: "1764 edition"
 - The mules crook-harnest, and the sturdier crew,
 
 [^f93n1]: The morning star or the planet Venus when found in the sky before sunrise.  
+
 [^f93n2]: Sugar cane turns yellow when it is ripe.  
-[^f93n3]: Sugar-cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
+
+[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
+
 [^f93n4]: A gathering of stems or stalks.  
 
 ---
