@@ -28,6 +28,7 @@ source: "1764 edition"
 
 > ish, as does the pulp, which is contained in pods four or five inches long. They bear once a year. An excellent vinegar may be made from the fruit; but the Creoles chiefly preserve it with sugar, as the Spaniards with salt. A pleasant syrup may be made from it. The name is, in Arabic, *Tamara*. The Antients were not acquainted therewith; for the Arabians first introduced tamarinds into physic; it is a native of the East as well as of the West-Indies and South-America, where different provinces call it by different names. Its cathartic qualities are well known. It is good in sea-sickness. The botanical name is *Tamarindus*.
 
+
 [^f45n1]: Refers to Leo, the fifth sign of the Zodiac; the sun enters it in mid-July and exits it in mid-August. 
 
 ---
