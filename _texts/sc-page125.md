@@ -25,13 +25,13 @@ source: "1764 edition"
 - In search of gold, to brede[^f125n7] thy wooly locks,
 - Or with bright ringlets ornament thine ears,
 
-[^f125n1]: Grainger is using the term "genius" in the sense of a supernatural being or guardian spirit associated with a place, institution, or thing. "Genius of Africk" thus means something like the spirit of Africa.
+[^f125n1]: Grainger is using genius in the sense of a supernatural being or guardian spirit associated with a place, institution, or thing. "Genius of Africk" thus means something like the spirit of Africa.
 
 [^f125n2]: The combination of an elephant and a castle (often with the castle on the elephant's back) is an old heraldic sign. Grainger may be calling on the image of Hannibal's elephants during the Second Punic War (218-201 BCE).
 
 [^f125n3]: The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.
 
-[^f125n4]: Papaws, better known as papaya (Carica papaya). Its native range is southern Mexico to Venezuela.
+[^f125n4]: Papaws, better known as papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela.
 
 [^f125n5]: Major estuary in modern Guinea-Bissau.
 
