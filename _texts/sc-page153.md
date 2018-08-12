@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - Thy fragrant shade to beautify the scene.
 - But, chief of palms, and pride of Indian-groves,
-- Thee, fair palmeto, should her song resound:[^f153n1]
+- Thee, fair palmeto,[^f153n1] should her song resound:
 - What swelling columns, form'd by Jones or Wren,[^f153n2]
 - Or great Palladio,[^f153n3] may with thee compare? [525]
 - Not nice-proportion'd, but of size immense,
