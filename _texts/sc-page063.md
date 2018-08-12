@@ -8,7 +8,7 @@ source: "1764 edition"
 
 [63]()
 
-- Gather'd by those, who drink the Volga's wave,[^f63n1] [150]
+- Gather'd by those, who drink the Volga's[^f63n1] wave, [150]
 - (Prince of Europa's streams, itself a sea)
 - Equals your potency! Did planters know
 - But half your virtues; not the Cane itself,
