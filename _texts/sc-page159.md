@@ -10,7 +10,7 @@ source: "1764 edition"
 
 - To every Negroe, as the candle-weed[^f159n1]
 - Expands his blossoms to the cloudy sky,
-- And moist Aquarius melts in daily showers;[^f159n2] [615]
+- And moist Aquarius[^f159n2] melts in daily showers; [615]
 - A wooly vestment give, (this Wiltshire weaves)[^f159n3]
 - Warm to repel chill Night's unwholesome dews:
 - While strong coarse linen, from the Scotian loom,
@@ -18,7 +18,7 @@ source: "1764 edition"
 
 - THE truly great, tho' from a hostile clime, [620]
 - The sacred Nine embalm; then, Muses, chant,
-- In grateful numbers, Gallic Lewis' praise:[^f159n4]
+- In grateful numbers, Gallic Lewis'[^f159n4] praise:
 - For private murder quell'd; for laurel'd arts,
 - Invented, cherish'd in his native realm;
 - For rapine[^f159n5] punish'd; for grim famine fed; [625]
