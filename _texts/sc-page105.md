@@ -9,7 +9,7 @@ source: "1764 edition"
 [105]()
 
 - Thick mantles o'er the boiling wave, do thou
-- The skum that mantles carefully remove.
+- The skum that mantles carefully remove. 
 
 - FROM bloating dropsy,[^f105n1] from pulmonic ails,[^f105n2]
 - Would'st thou defend thy boilers, \(prime of slaves,\) [335]
@@ -32,6 +32,7 @@ source: "1764 edition"
 - For taste, for colour, and for various use: [350]
 
 > VER. 339. *Open, and pervious*\] This also assists the christallization of the Sugar.
+
 
 [^f105n1]: An accumulation of fluid in the soft tissue of the body. The modern term is edema (or oedema).  
 
