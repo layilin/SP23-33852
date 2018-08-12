@@ -24,7 +24,7 @@ source: "1764 edition"
 
 > VER. 410. *broom-bush*\] This small plant, which grows in every pasture, may, with propriety, be termed an American clock; for it begins every forenoon at eleven to open its yellow flowers, which about one are fully expanded, and at two closed. The jalap, or marvel of Peru, unfolds its petals between five and six in the evening, which shut again as soon as night comes on, to open again in the cool of the morning. This plant is called four o'clock by the natives, and bears either a yellow or purple-coloured flower.
 
-> VER. 415. *solanum*\] So some authors name the fire-weed, which grows every where, and is the *datura* of Linnaeus;[^f146n5] whose virtues Dr. Stork, at Vienna, has greatly extolled in a late publication. It bears a white monopetalous flower, which opens always about sun-set.
+> VER. 415. *solanum*\] So some authors name the fire-weed, which grows every where, and is the *datura* of Linnaeus;[^f146n5] whose virtues Dr. Stork, at Vienna,[^f146n6] has greatly extolled in a late publication. It bears a white monopetalous flower, which opens always about sun-set.
 
 [^f146n1]: A bed made from stiff and hollow plants.  
 
@@ -34,6 +34,8 @@ source: "1764 edition"
 
 [^f146n4]: *Datura stramonium*, also known as fireweed or jimsonweed. Probably originated in the tropical regions of Central and South America.  
 
-[^f146n5]: Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
+[^f146n5]: Carolus Linnaeus or Carl von Linné (1707-1778) was a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. 
+
+[^f146n6]: Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
 ---
