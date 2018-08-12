@@ -6,7 +6,7 @@ source: "1764 edition"
 ---
 
 
-<!-- four lines of latin poetry need to be indented, also in footnotes; ck for circumflex on 'o' in line 1; graiae/graioe in line 1; em-dash in line 4-->
+<!-- four lines of latin poetry need to be indented, also in footnotes; em-dash in line 4 should be long dash-->
 [vii]()
 
 *Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
