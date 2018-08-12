@@ -10,12 +10,12 @@ source: "1764 edition"
 
 - Nor let his nectar, nor his silken pods, [35]
 - The sweet-smell'd cassia, or vast ceiba save.[^f7n1]
-- Yet spare the guava, yet the guaiac spare;
+- Yet spare the guava, yet the guaiac spare;[^f7n2]
 - A wholesome food the ripened guava yields,
 - Boast of the housewife; while the guaiac grows
 - A sovereign antidote, in wood, bark, gum, [40]
 - To cause the lame his useless crutch forego,
-- And dry the sources of corrupted love.[^f7n2]
+- And dry the sources of corrupted love.
 - Nor let thy bright impatient flames destroy
 
 >VER. 36. *or vast ceiba save.*\] Canoes have been scooped out of this tree, capable of holding upwards of a hundred people; and many hundreds, as authors relate, have been at once sheltered by its shade. Its pods contain a very soft short cotton, like silk: hence the English call the tree the Silk-cotton-tree; and the Spaniards name its cotton *Lana de ceiba*. It has been wrought into stockings; but its commonest use is to stuff pillows and mattrasses. It might be made an article of commerce, as the tree grows without trouble, and is yearly covered with pods. An infusion of the leaves is a gentle diaphoretic,[^f7n3] and much recommended in the small-pox. The botanical name of the ceiba is *Bombax*; and the French call it *Fromager*. There are two species; the stem of the one being prickly, and that of the other smooth.
