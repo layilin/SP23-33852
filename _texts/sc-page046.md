@@ -31,6 +31,7 @@ source: "1764 edition"
 
 > VER. 645. *on rapid Twilight's heel:*\] There is little or no twilight in the West-Indies. All the year round it is dark before eight at night. The dawn is equally short.
 
-[^f46n1]: Means buzzer in Spanish. As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*). 
+
+[^f46n1]: Zumbadore means buzzer in Spanish. As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*). 
 
 ---
