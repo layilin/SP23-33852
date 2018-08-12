@@ -21,7 +21,7 @@ IT must, however, be observed, that, though the general precepts are suited to e
 
 [^fvn1]: Historically, the West Indies is the region that includes the northern coast of South America, Central America, Mexico, Florida, the Bahamas, and the Greater and Lesser Antilles. We use the term Caribbean throughout this site to refer to the islands from Grenada through Cuba.  
 
-[^fvn2]: *Saccharum officinarum*, a large tufted perennial grass probably native to Southeast Asia and first brought to the Americas by Christopher Columbus.
+[^fvn2]: *Saccharum officinarum*, a large tufted perennial grass that is most likely native to New Guinea.  
 
 [^fvn3]: Grainger explains that because the Caribbean landscapes, flora, and fauna are so different from those of Europe, the region can give rise to new forms of poetry.
 
