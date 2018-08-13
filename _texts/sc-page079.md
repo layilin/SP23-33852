@@ -3,10 +3,11 @@ layout: poem
 title: "page 79"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0093.jpg"
 ---
 
 
-[79]()
+[79]({{site.baseurl}}/images/{{page.img}})
 
 - His sire detested his Theana's House!—
 - Thus duty, reverence, gratitude, conspir'd
