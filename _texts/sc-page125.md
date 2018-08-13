@@ -3,10 +3,11 @@ layout: poem
 title: "page 125"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0139.jpg"
 ---
 
 
-[125]()
+[125]({{site.baseurl}}/images/{{page.img}})
 
 ## The SUGAR-CANE.
 
