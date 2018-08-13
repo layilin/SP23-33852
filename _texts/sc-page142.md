@@ -3,10 +3,11 @@ layout: poem
 title: "page 142"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0156.jpg"
 ---
 
 
-[142]()
+[142]({{site.baseurl}}/images/{{page.img}})
 
 - Felt his heart wither on his farthest throne.
 - Perennial source of population thou!

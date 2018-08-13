@@ -3,10 +3,11 @@ layout: poem
 title: "page 148"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0162.jpg"
 ---
 
 
-[148]()
+[148]({{site.baseurl}}/images/{{page.img}})
 
 - And all the morbid share;—so heaven will bless,
 - With manifold encrease, thy costly care.

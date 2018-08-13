@@ -3,10 +3,11 @@ layout: poem
 title: "page 144"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0158.jpg"
 ---
 
 
-[144]()
+[144]({{site.baseurl}}/images/{{page.img}})
 
 - They mope, love silence, every friend avoid;
 - They inly pine; all aliment reject;

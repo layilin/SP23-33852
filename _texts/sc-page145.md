@@ -3,10 +3,11 @@ layout: poem
 title: "page 145"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0159.jpg"
 ---
 
 
-[145]()
+[145]({{site.baseurl}}/images/{{page.img}})
 
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;

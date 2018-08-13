@@ -3,10 +3,11 @@ layout: poem
 title: "page 146"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0160.jpg"
 ---
 
 
-[146]()
+[146]({{site.baseurl}}/images/{{page.img}})
 
 - Call forth thy negroes from their rushy couch:[^f146n1]
 - And ere the sun with mid-day fervour glow,

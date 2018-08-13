@@ -3,10 +3,11 @@ layout: poem
 title: "page 140"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0154.jpg"
 ---
 
 
-[140]()
+[140]({{site.baseurl}}/images/{{page.img}})
 
 - YET, of the ills which torture Libya's sons, [290]
 - Worms tyrannize the worst. They, Proteus-like,[^f140n1]

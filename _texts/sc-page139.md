@@ -3,10 +3,11 @@ layout: poem
 title: "page 139"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0153.jpg"
 ---
 
 
-[139]()
+[139]({{site.baseurl}}/images/{{page.img}})
 
 - The lurking evil from the blood expel,
 - And throw it on the surface: There in spots [270]

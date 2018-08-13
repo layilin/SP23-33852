@@ -3,10 +3,11 @@ layout: poem
 title: "page 136"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0150.jpg"
 ---
 
 
-[136]()
+[136]({{site.baseurl}}/images/{{page.img}})
 
 - YET, planter, let humanity prevail.[^f136n1]—
 - Perhaps thy Negroe, in his native land,

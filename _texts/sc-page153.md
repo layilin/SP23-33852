@@ -3,10 +3,11 @@ layout: poem
 title: "page 153"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0167.jpg"
 ---
 
 
-[153]()
+[153]({{site.baseurl}}/images/{{page.img}})
 
 - Thy fragrant shade to beautify the scene.
 - But, chief of palms, and pride of Indian-groves,

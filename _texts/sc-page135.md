@@ -3,10 +3,11 @@ layout: poem
 title: "page 135"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0149.jpg"
 ---
 
 
-[135]()
+[135]({{site.baseurl}}/images/{{page.img}})
 
 - See, in the mineral bosom of their land, [190]
 - How hard they toil! how soon their youthful limbs

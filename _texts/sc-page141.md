@@ -3,10 +3,11 @@ layout: poem
 title: "page 141"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0155.jpg"
 ---
 
 
-[141]()
+[141]({{site.baseurl}}/images/{{page.img}})
 
 - A powerful vermifuge, in skilful hands,
 - The worm-grass[^f141n1] proves; yet, even in hands of skill,

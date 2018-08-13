@@ -3,10 +3,11 @@ layout: poem
 title: "page 151"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0165.jpg"
 ---
 
 
-[151]()
+[151]({{site.baseurl}}/images/{{page.img}})
 
 - And shrubby wilds, in bands will soon destroy
 - Thy labourer's honest wealth; their loss and yours.
