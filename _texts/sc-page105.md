@@ -3,10 +3,11 @@ layout: poem
 title: "page 105"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0119.jpg"
 ---
 
 
-[105]()
+[105]({{site.baseurl}}/images/{{page.img}})
 
 - Thick mantles o'er the boiling wave, do thou
 - The skum that mantles carefully remove. 
