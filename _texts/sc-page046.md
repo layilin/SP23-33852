@@ -3,10 +3,11 @@ layout: poem
 title: "page 46"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0060.jpg"
 ---
 
 
-[46]()  
+[46]({{site.baseurl}}/images/{{page.img}})  
 
 - HE spoke, and ere the swift-wing'd zumbadore[^f46n1]  
 - The mountain-desert startl'd with his hum;  
