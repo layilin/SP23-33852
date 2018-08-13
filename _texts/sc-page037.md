@@ -3,10 +3,11 @@ layout: poem
 title: "page 37"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0051.jpg"
 ---
 
 
-[37]()  
+[37]({{site.baseurl}}/images/{{page.img}})  
 
 - Thy bloomy honours. Tipt with burnish'd gold,  
 - And with imperial purple crested high,  
