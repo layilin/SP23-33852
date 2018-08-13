@@ -3,10 +3,11 @@ layout: page
 title: "page vi"
 editor: Cristobal Silva
 source: "1764 edition"
+img: "p0012.jpg"
 ---
 
 
-[vi]()
+[vi]({{site.baseurl}}/images/{{page.img}})
 
 modes of planting, with such propriety, as those I had seen practiced in that island, where it has been my good fortune chiefly to reside since I came to the West-Indies.
 
