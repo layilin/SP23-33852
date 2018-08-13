@@ -3,10 +3,11 @@ layout: poem
 title: "page 30"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0044.jpg"
 ---
 
 
-[30]()  
+[30]({{site.baseurl}}/images/{{page.img}})  
 
 - To glad the thirsty soil on which, arrang'd,  
 - The gemmy summits of the Cane await [395]  
