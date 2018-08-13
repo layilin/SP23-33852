@@ -3,10 +3,11 @@ layout: poem
 title: "page 113"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0127.jpg"
 ---
 
 
-[113]()
+[113]({{site.baseurl}}/images/{{page.img}})
 
 - Serves needful purposes. Are barbecues
 - The cates[^f113n1] thou lov'st? What like rich skimmings feed [480]
