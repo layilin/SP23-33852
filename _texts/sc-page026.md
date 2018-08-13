@@ -3,10 +3,11 @@ layout: poem
 title: "page 26"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0040.jpg"
 ---
 
 
-[26]()
+[26]({{site.baseurl}}/images/{{page.img}})
 
 - And with fell rage the stranger-guest assail, [335]
 - Nor spare the sportive child; from their retreats
