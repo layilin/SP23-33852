@@ -3,10 +3,11 @@ layout: poem
 title: "page 88"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0102.jpg"
 ---
 
 
-[88]()
+[88]({{site.baseurl}}/images/{{page.img}})
 
 - HAIL, eldest birth of Time![^f88n1] in other climes,
 - In the old world, with tempests usher'd in;
