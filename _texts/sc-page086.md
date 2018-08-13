@@ -3,10 +3,11 @@ layout: poem
 title: "page 86"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0100.jpg"
 ---
 
 
-[86]()
+[86]({{site.baseurl}}/images/{{page.img}})
 
 ## ARGUMENT.
 
