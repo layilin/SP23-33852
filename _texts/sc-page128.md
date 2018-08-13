@@ -3,10 +3,11 @@ layout: poem
 title: "page 128"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0142.jpg"
 ---
 
 
-[128]()
+[128]({{site.baseurl}}/images/{{page.img}})
 
 - Thy chief attention; and the ambrosial cane [55]
 - Thou long'st to see, with spiry frequence, shade
