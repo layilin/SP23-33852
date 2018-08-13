@@ -286,7 +286,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 [^f5n9]: The whole of Southeast Asia to the east of and including India.
 
 ---
-
+---
 
 [6]()
 
@@ -360,7 +360,6 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f7n5]: Acosta is José de Acosta (1539-1600), a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.
 
----
 ---
 
 [8]()
