@@ -283,9 +283,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f5n9]: The whole of Southeast Asia to the east of and including India.
 
-
 ---
-
 
 
 [6]()
