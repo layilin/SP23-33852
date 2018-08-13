@@ -3,10 +3,11 @@ layout: poem
 title: "page 5"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0019.jpg"
 ---
 
 
-[5]()
+[5]({{site.baseurl}}/images/{{page.img}})
 
 - WHERE'ER the clouds relent in frequent rains,
 - And the Sun fiercely darts his Tropic beam, [25]
