@@ -3,10 +3,11 @@ layout: poem
 title: "page 138"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0152.jpg"
 ---
 
 
-[138]()
+[138]({{site.baseurl}}/images/{{page.img}})
 
 - NOR only is the dragon worm[^f138n1] to dread:
 - Fell, winged insects,[^f138n2] which the visual ray
