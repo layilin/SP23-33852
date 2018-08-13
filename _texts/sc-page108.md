@@ -3,10 +3,11 @@ layout: poem
 title: "page 108"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0122.jpg"
 ---
 
 
-[108]()
+[108]({{site.baseurl}}/images/{{page.img}})
 
 - And in whose strains your praises shall endure,
 - While to Sabrina[^f108n1] speeds your healing stream. [380]
