@@ -3,10 +3,11 @@ layout: poem
 title: "page 100"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0114.jpg"
 ---
 
 
-[100]()
+[100]({{site.baseurl}}/images/{{page.img}})
 
 - To this be nail'd three polish'd iron plates; [240]
 - Whereon, three steel Capouces,[^f100n1] turn with ease,
