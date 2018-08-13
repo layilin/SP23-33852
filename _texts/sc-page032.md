@@ -3,10 +3,11 @@ layout: poem
 title: "page 32"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0046.jpg"
 ---
 
 
-[32]()  
+[32]({{site.baseurl}}/images/{{page.img}})  
 
 - Friend to the Cane-isles; trust not thou thy tops,  
 - Thy future riches, to the low-land plain: [435]  
