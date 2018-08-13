@@ -3,10 +3,11 @@ layout: poem
 title: "page 158"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0172.jpg"
 ---
 
 
-[158]()
+[158]({{site.baseurl}}/images/{{page.img}})
 
 - Anon they form in ranks; nor inexpert
 - A thousand tuneful intricacies weave,

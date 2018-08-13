@@ -3,10 +3,11 @@ layout: poem
 title: "page 161"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0175.jpg"
 ---
 
 
-[161]()
+[161]({{site.baseurl}}/images/{{page.img}})
 
 - AH me, what thunders roll! the sky's on fire!
 - Now sudden darkness muffles up the pole!

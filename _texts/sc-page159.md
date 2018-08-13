@@ -3,10 +3,11 @@ layout: poem
 title: "page 159"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0173.jpg"
 ---
 
 
-[159]()
+[159]({{site.baseurl}}/images/{{page.img}})
 
 - To every Negroe, as the candle-weed[^f159n1]
 - Expands his blossoms to the cloudy sky,

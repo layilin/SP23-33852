@@ -3,10 +3,11 @@ layout: page
 title: "page 166"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0180.jpg"
 ---
 
 
-[166]()
+[166]({{site.baseurl}}/images/{{page.img}})
 
 Melasses, [internal] p. 111.  
 Mangrove-tree, [internal]  p. 57.  

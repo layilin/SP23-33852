@@ -3,10 +3,11 @@ layout: poem
 title: "page 160"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0174.jpg"
 ---
 
 
-[160]()
+[160]({{site.baseurl}}/images/{{page.img}})
 
 - This last brain-racking study had not ply'd:
 - But, sunk in slumbers of immortal bliss,

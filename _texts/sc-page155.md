@@ -3,10 +3,11 @@ layout: poem
 title: "page 155"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0169.jpg"
 ---
 
 
-[155]()
+[155]({{site.baseurl}}/images/{{page.img}})
 
 - Call'd water-lemon; grateful to the taste:
 - Nor should she not pursue the mountain-streams, [545]

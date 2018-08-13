@@ -3,10 +3,11 @@ layout: page
 title: "page 167"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0181.jpg"
 ---
 
 
-[167]()
+[167]({{site.baseurl}}/images/{{page.img}})
 
 Soursop-tree, [internal] p. 42.  
 Solanum-plant, [internal] p. 146.  
