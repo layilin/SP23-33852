@@ -3,10 +3,11 @@ layout: poem
 title: "page 41"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0055.jpg"
 ---
 
 
-[41]()  
+[41]({{site.baseurl}}/images/{{page.img}})  
 
 - To tropic suns, to fell barbaric hinds,  
 - A poor outcast, an alien, did he roam;  
