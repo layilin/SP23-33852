@@ -3,10 +3,11 @@ layout: poem
 title: "page 28"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0042.jpg"
 ---
 
 
-[28]()
+[28]({{site.baseurl}}/images/{{page.img}})
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
