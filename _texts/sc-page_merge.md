@@ -87,7 +87,7 @@ I CANNOT, indeed, say I have satisfied my own ideas in this particular: yet I mu
 
 IT must, however, be observed, that, though the general precepts are suited to every climate, where the Cane will grow; yet, the more minute rules are chiefly drawn from the practice of St. Christopher.[^fvn5] Some selection was necessary; and I could adopt no
 
-[^fvn1]: Historically, the West Indies is the region that includes the northern coast of South America, Central America, Mexico, Florida, the Bahamas, and the Greater and Lesser Antilles. We use the term Caribbean throughout this site to refer to the islands from Grenada through Cuba.  
+[^fvn1]: Historically, the West Indies is the region that includes the northern coast of South America, Central America, Mexico, Florida, the Bahamas, and the Greater and Lesser Antilles. We use the term Caribbean throughout this site to refer to the islands from Grenada through Cuba.
 
 [^fvn2]: Grainger explains that because the Caribbean landscapes, flora, and fauna are so different from those of Europe, the region can give rise to new forms of poetry.
 
@@ -208,7 +208,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugar cane into the final product of crystallized sugar; and Book IV deals with the management and treatment of enslaved laborers.    
 
-[^f3n3]: Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louise was born before he began composing the poem.
+[^f3n3]: Myrtle \(*Myrtus communis*\) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louise was born before he began composing the poem.
 
 [^f3n4]: The Ascrean poet is Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
 
@@ -645,7 +645,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f15n4]: James Ley, first earl of Marlborough (1550–1629), English judge and politician and rival to the earl of Carlisle for the English Caribbean islands. 
 
-[^f15n5]: Ginger (*Zingiber officinale*) is probably native to India and was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95). 
+[^f15n5]: Ginger \(*Zingiber officinale*\) is probably native to India and was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95). 
 
 [^f15n6]: City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. 
 
@@ -785,7 +785,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 > VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
 
-[^f19n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
+[^f19n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
 
 [^f19n2]: Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
 
@@ -827,7 +827,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f20n3]: One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as crucially, yams formed a part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century (Higman 72-81).  
 
-[^f20n4]: Watermelon (*Citrullus lanatus*) is native to Egypt, Ethiopia, Libya, and Sudan.  
+[^f20n4]: Watermelon \(*Citrullus lanatus*\) is native to Egypt, Ethiopia, Libya, and Sudan.  
 
 ---
 
@@ -1186,7 +1186,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f31n5]: Members of the genus *Citrus*. Citus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*) (Higman 175). 
 
-[^f31n6]: Plantains (family Musaceae) are closely related to the banana, and they both formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
+[^f31n6]: Plantains \(family Musaceae\) are closely related to the banana, and they both formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 [^f31n7]: Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits it in mid-January.  
 
 [^f31n8]: Aquarius is the eleventh sign of the zodiac; the sun enters it in mid-January and exits it in mid-February.  
@@ -1566,7 +1566,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 > VER. 597. *tanies:*\] This wholesome root, in some of the islands, is called *Edda*: Its botanical name is *Arum maximum AEgyptiacum*. There are three species of tanies, the blue, the scratching, and that which is commonly roasted. The blossoms of all three are very fragrant, in a morning or evening. The young leaves, as well as the spiral stalks which support the flower, are eaten by Negroes as a salad.[^f41n6] The root makes a good broth in dysenteric complaints. They are seldom so large as the yam, but most people think them preferable in point of taste.
 
-[^f41n1]: Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69).  
+[^f41n1]: Cassava \(*Manihot esculenta*\), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69).  
 
 [^f41n2]: Roots commonly consumed by enslaved Africans because they were easy to cultivate and had a high yield. The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*), another common root crop cultivated by the enslaved. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food (Higman 82-86).  
 
@@ -1647,7 +1647,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f43n10]: Present-day Istanbul.
 
-[^f43n11]: The "Errata" list at the end of *The Sugar-Cane* indicates that "eighty" should read "one hundred and fifty."  
+[^f43n11]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "eighty" should read "one hundred and fifty."  
 
 ---
 
@@ -2023,7 +2023,7 @@ and earthquakes. A tale.*
 
 [^f58n1]: A chemical compound used as rat poison.
 
-[^f58n2]: Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling (Higman 61-69).
+[^f58n2]: Cassava \(*Manihot esculenta*\), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling (Higman 61-69).
 
 [^f58n3]: Unwitting, ignorant.
 
@@ -2104,7 +2104,7 @@ and earthquakes. A tale.*
 
 [^f60n4]: An endemic disease, meaning one that is habitually prevalent in a certain country or locale.
 
-[^f60n5]: Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
+[^f60n5]: Cowitch \(*Mucuna pruriens*\), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
 
 [^f60n6]: A medicine that excites vomiting.
 
@@ -2879,7 +2879,7 @@ and earthquakes. A tale.*
 
 > VER. 508. *Dolphins*\] This is a most beautiful fish, when first taken out of the sea; but its beauty vanishes, almost as soon as it is dead.
 
-[^f81n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "sky" should read "air."  
+[^f81n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "sky" should read "air."  
 
 [^f81n2]: Either end of the yard of a square-rigged ship. The yard is a spar slung across a mast to support and extend a square sail.  
 
@@ -2893,9 +2893,9 @@ and earthquakes. A tale.*
 
 [^f81n7]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. Roughly covered a geographic region that included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
-[^f81n8]: Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).
+[^f81n8]: Sharks \(clade Selachimorpha\) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).
 
-[^f81n9]: The "Errata" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
+[^f81n9]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
 
 [^f81n10]: Albacore tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
 
@@ -3531,7 +3531,7 @@ The END of BOOK II.
 
 [^f100n2]: Arms attached to and driving the central shaft of the mill.
 
-[^f100n3]: The "Errata" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
+[^f100n3]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
 
 [^f100n4]: Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
 
@@ -3619,7 +3619,7 @@ The END of BOOK II.
 
 [^f102n6]: Martinique. The French colony of Martinique surrendered to British forces in February 1762.
 
-[^f102n7]: The "Errata" list at the end of The Sugar-Cane indicates that "thro'" should read "through."
+[^f102n7]: The \"Errata\" list at the end of The Sugar-Cane indicates that "thro'" should read "through."
 
 [^f102n8]: Indigenous name for the island of St. Kitts.
 
@@ -3913,7 +3913,7 @@ The END of BOOK II.
 
 > VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses[^f110n3] drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
 
-[^f110n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
+[^f110n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
 
 [^f110n2]: Boiling, cooking. 
 
@@ -5546,7 +5546,7 @@ The END of BOOK III.
 
 [^f153n5]: A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length. 
 
-[^f153n6]: Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
+[^f153n6]: Mathew \(1718-1777\) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
 
 [^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. Destroyed in 2015 by the Islamic State in Iraq and Syria (ISIS).  
 
