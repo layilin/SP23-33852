@@ -4,7 +4,7 @@
 /* Banner Image */
 
 #fixed-banner {
-    background: url("https://ktakahata.github.io/grainger/assets/header.jpg") no-repeat top center fixed;
+    background: url("https://ktakahata.github.io/grainger/assets/header-small.jpg") no-repeat top center fixed;
     background-size: cover;
     height: 500px;
     width: 100%;
@@ -19,6 +19,13 @@
 	    display: flex;
 	}	
 
+	#fixed-banner {
+    background: url("https://ktakahata.github.io/grainger/assets/header.jpg") no-repeat top center fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
 	.column {
 	    flex: 50%;
 	}
@@ -26,4 +33,8 @@
 	.column-text {
 		margin-left: 1rem;
 	}
+}
+
+.column-text {
+	margin-bottom: 1rem;
 }
