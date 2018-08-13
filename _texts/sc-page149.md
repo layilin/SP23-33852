@@ -3,10 +3,11 @@ layout: poem
 title: "page 149"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0163.jpg"
 ---
 
 
-[149]()
+[149]({{site.baseurl}}/images/{{page.img}})
 
 - Throw liberal o'er the prop; while ochra[^f149n1] bears
 - Aloft his slimy pulp, and help disdains.
