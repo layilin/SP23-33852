@@ -3,10 +3,11 @@ layout: poem
 title: "page 120"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0134.jpg"
 ---
 
 
-[120]()
+[120]({{site.baseurl}}/images/{{page.img}})
 
 - The large, black, female, moulting crab[^f120n1] excel? [610]
 - A richer flavour not wild Cambria's[^f120n2] hills,
