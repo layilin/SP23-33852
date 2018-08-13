@@ -3,10 +3,11 @@ layout: poem
 title: "page 124"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0138.jpg"
 ---
 
 
-[124]()
+[124]({{site.baseurl}}/images/{{page.img}})
 
 ## ARGUMENT.
 
