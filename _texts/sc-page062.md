@@ -3,10 +3,11 @@ layout: poem
 title: "page 62"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0076.jpg"
 ---
 
 
-[62]()
+[62]({{site.baseurl}}/images/{{page.img}})
 
 - Tho' lofty Maro[^f62n1] (whose immortal muse
 - Distant I follow, and, submiss, adore)
