@@ -3,10 +3,11 @@ layout: poem
 title: "page 18"
 editor: Steve Fragano
 source: 1764 edition
+img: "p0032.jpg"
 ---
 
 
-[18]()
+[18]({{site.baseurl}}/images/{{page.img}})
 
 - Mow down thy sugars: and tho' all thy mills,
 - Crackling, o'erflow with a redundant juice;
