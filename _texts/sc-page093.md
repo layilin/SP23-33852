@@ -3,10 +3,11 @@ layout: poem
 title: "page 93"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0107.jpg"
 ---
 
 
-[93]()
+[93]({{site.baseurl}}/images/{{page.img}})
 
 - \(Ere Phosphor[^f93n1] his pale circlet yet withdraws,
 - What time grey dawn stands tip-toe on the hill,\)
