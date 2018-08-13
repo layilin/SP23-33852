@@ -3,10 +3,11 @@ layout: poem
 title: "page 56"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0070.jpg"
 ---
 
 
-[56]()  
+[56]({{site.baseurl}}/images/{{page.img}})  
 
 - With these attack the predatory bands;  
 - Quickly the unequal conflict they decline,  
