@@ -3,10 +3,11 @@ layout: poem
 title: "page 104"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0118.jpg"
 ---
 
 
-[104]()
+[104]({{site.baseurl}}/images/{{page.img}})
 
 - Or from thine ore, bright Venus, they are drawn;
 - Or hammer, or hot fusion, give them form.
