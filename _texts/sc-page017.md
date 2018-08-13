@@ -3,10 +3,11 @@ layout: poem
 title: "page 17"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0031.jpg"
 ---
 
 
-[17]()
+[17]({{site.baseurl}}/images/{{page.img}})
 
 - To thee, if Fate low level land assign, [155]
 - Slightly cohering, and of sable hue,
