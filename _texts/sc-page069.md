@@ -3,10 +3,11 @@ layout: poem
 title: "page 69"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0083.jpg"
 ---
 
 
-[69]()
+[69]({{site.baseurl}}/images/{{page.img}})
 
 - SAY, can the Muse, the pencil in her hand, [270]
 - The all-wasting hurricane observant ride?[^f69n1]
