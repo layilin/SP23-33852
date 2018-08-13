@@ -3,10 +3,11 @@ layout: poem
 title: "page 127"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0141.jpg"
 ---
 
 
-[127]()
+[127]({{site.baseurl}}/images/{{page.img}})
 
 - What care the jetty African requires?[^f127n1] [35]
 - Yes, thou wilt deign to hear; a man thou art
