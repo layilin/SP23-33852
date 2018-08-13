@@ -3,10 +3,11 @@ layout: poem
 title: "page 60"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0074.jpg"
 ---
 
 
-[60]()
+[60]({{site.baseurl}}/images/{{page.img}})
 
 - From foul pollution, and unseemly rot;
 - Much will they benefit thy house and thee.
