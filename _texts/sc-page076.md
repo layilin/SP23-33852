@@ -3,10 +3,11 @@ layout: poem
 title: "page 76"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0090.jpg"
 ---
 
 
-[76]()
+[76]({{site.baseurl}}/images/{{page.img}})
 
 - Make direful, loud incursions on the land, [415]
 - All-overwhelming: Sudden they retreat,
