@@ -3,10 +3,11 @@ layout: poem
 title: "page 40"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0054.jpg"
 ---
 
 
-[40]()  
+[40]({{site.baseurl}}/images/{{page.img}})  
 
 - For cooling vast impenetrable shade?  
 - The muse, alas, th' experienc'd muse can tell: [570]  
