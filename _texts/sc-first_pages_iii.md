@@ -3,11 +3,12 @@ layout: page
 title: "page iii"
 editor: Cristobal Silva
 source: "1764 edition"
+img: "p0009.jpg"
 ---
 
 
 <!--All lines below should be centered on the page; spacing between letters changes from line-to-line, if we want to replicate-->
-[iii]()
+[iii]({{site.baseurl}}/images/{{page.img}})
 
 THE
 
