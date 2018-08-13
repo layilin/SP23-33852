@@ -3,10 +3,11 @@ layout: poem
 title: "page 134"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0148.jpg"
 ---
 
 
-[134]()
+[134]({{site.baseurl}}/images/{{page.img}})
 
 - The earth's dark surface; where sulphureous flames, [170]
 - Oft from their vapoury prisons bursting wild,
