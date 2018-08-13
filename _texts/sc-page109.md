@@ -3,10 +3,11 @@ layout: poem
 title: "page 109"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0123.jpg"
 ---
 
 
-[109]()
+[109]({{site.baseurl}}/images/{{page.img}})
 
 - THE fam'd Bermuda's[^f109n1] ever-healthy isles,
 - More fam'd by gentle Waller's[^f109n2] deathless strains,
