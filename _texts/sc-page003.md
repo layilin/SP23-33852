@@ -3,10 +3,11 @@ layout: poem
 title: "page 3"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0017.jpg"
 ---
 
 
-[3]()
+[3]({{site.baseurl}}/images/{{page.img}})
 
 ## THE SUGAR-CANE.
 
