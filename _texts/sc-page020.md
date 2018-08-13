@@ -3,10 +3,11 @@ layout: poem
 title: "page 20"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0034.jpg"
 ---
 
 
-[20]()
+[20]({{site.baseurl}}/images/{{page.img}})
 
 - OF composts shall the Muse descend to sing,
 - Nor soil her heavenly plumes? The sacred Muse
