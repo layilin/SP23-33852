@@ -3,10 +3,11 @@ layout: poem
 title: "page 99"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0113.jpg"
 ---
 
 
-[99]()
+[99]({{site.baseurl}}/images/{{page.img}})
 
 - Nurse of each art; where science yet finds friends
 - Amid this waste of waters; wept thy rage?
