@@ -3,11 +3,10 @@ layout: page
 title: "page 1"
 editor: Lina Jiang
 source: "1764 edition"
-img: "p0005.jpg"
 ---
 
 
-[1]({{site.baseurl}}/images/{{page.img}})
+[1]()
 
 ---
 
