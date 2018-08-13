@@ -3,10 +3,11 @@ layout: poem
 title: "page 23"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0037.jpg"
 ---
 
 
-[23]()
+[23]({{site.baseurl}}/images/{{page.img}})
 
 - Brigade and squadron, whiten on the sight;
 - And fill spectators with an awful joy.
