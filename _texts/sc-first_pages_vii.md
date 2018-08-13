@@ -3,11 +3,12 @@ layout: page
 title: "page vii"
 editor: Cristobal Silva
 source: "1764 edition"
+img: "p0013.jpg"
 ---
 
 
 <!-- four lines of latin poetry need to be indented, also in footnotes; em-dash in line 4 should be long dash-->
-[vii]()
+[vii]({{site.baseurl}}/images/{{page.img}})
 
 *Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
 *Fixa pedum pono pressis vestigia signis;*  
