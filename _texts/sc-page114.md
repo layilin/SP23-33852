@@ -3,10 +3,11 @@ layout: poem
 title: "page 114"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0128.jpg"
 ---
 
 
-[114]()
+[114]({{site.baseurl}}/images/{{page.img}})
 
 - I spurn indignant; toil a pleasure seems.[^f114n1] [500]
 - For not Marne's flowery banks, nor Tille's green bounds,[^f114n2]
