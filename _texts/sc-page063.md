@@ -3,10 +3,11 @@ layout: poem
 title: "page 63"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0077.jpg"
 ---
 
 
-[63]()
+[63]({{site.baseurl}}/images/{{page.img}})
 
 - Gather'd by those, who drink the Volga's[^f63n1] wave, [150]
 - (Prince of Europa's streams, itself a sea)
