@@ -3,10 +3,11 @@ layout: poem
 title: "page 152"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0166.jpg"
 ---
 
 
-[152]()
+[152]({{site.baseurl}}/images/{{page.img}})
 
 - Thee, the first natives of these Ocean-isles,
 - Fell anthropophagi,[^f152n1] still sacred held;
