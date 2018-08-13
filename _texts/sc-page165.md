@@ -3,10 +3,11 @@ layout: page
 title: "page 165"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0179.jpg"
 ---
 
 
-[165]()
+[165]({{site.baseurl}}/images/{{page.img}})
 
 Guayaquil river, [internal] p. 57.  
 Gold-coast Negroes, [internal] p. 128.  
