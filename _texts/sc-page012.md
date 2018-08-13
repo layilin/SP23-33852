@@ -3,10 +3,11 @@ layout: poem
 title: "page 12"
 editor: Steve Fragano
 source: "1764 edtion"
+img: "p0026.jpg"
 ---
 
 
-[12]()
+[12]({{site.baseurl}}/images/{{page.img}})
 
 - SUCH the glad soil, from whence Jamaica's sons
 - Derive their opulence: thrice fertile land,
