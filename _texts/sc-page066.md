@@ -3,10 +3,11 @@ layout: poem
 title: "page 66"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0080.jpg"
 ---
 
 
-[66]()
+[66]({{site.baseurl}}/images/{{page.img}})
 
 - First pallid, sickly, dry, and withered show; [210]
 - Unseemly stains succeed; which, nearer viewed
