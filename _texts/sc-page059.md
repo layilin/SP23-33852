@@ -3,10 +3,11 @@ layout: poem
 title: "page 59"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0073.jpg"
 ---
 
 
-[59]()
+[59]({{site.baseurl}}/images/{{page.img}})
 
 - Graze its polluted brinks, till rolling time
 - Have fin'd the water, and destroyed the bane.
