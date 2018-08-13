@@ -3,10 +3,11 @@ layout: poem
 title: "page 43"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0057.jpg"
 ---
 
 
-[43]()  
+[43]({{site.baseurl}}/images/{{page.img}})  
 
 - His coffee bath'd, that glow'd with berries, red  
 - As Danae's lip, or, Theodosia, thine,[^f43n1]  
