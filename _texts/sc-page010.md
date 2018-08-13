@@ -3,10 +3,11 @@ layout: poem
 title: "page 10"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0024.jpg"
 ---
 
 
-[10]()
+[10]({{site.baseurl}}/images/{{page.img}})
 
 - Knit with the Graces, tun'd his silvan pipe,
 - While mute Attention hush'd each charmed rill;
