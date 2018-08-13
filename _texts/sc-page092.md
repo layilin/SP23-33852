@@ -3,10 +3,11 @@ layout: poem
 title: "page 92"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0106.jpg"
 ---
 
 
-[92]()
+[92]({{site.baseurl}}/images/{{page.img}})
 
 - Oft to prevent the earliest dawn of day, [85]
 - And walk thy ranges, at the noon of night?
