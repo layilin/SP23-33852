@@ -3,10 +3,11 @@ layout: poem
 title: "page 29"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0043.jpg"
 ---
 
 
-[29]()  
+[29]({{site.baseurl}}/images/{{page.img}})  
 
 - BUT chief, let fix'd Attention cast his eye  
 - On the capt mountain, whose high rocky verge  
