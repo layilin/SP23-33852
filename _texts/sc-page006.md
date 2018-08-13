@@ -3,10 +3,11 @@ layout: poem
 title: "page 6"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0020.jpg"
 ---
 
 
-[6]()
+[6]({{site.baseurl}}/images/{{page.img}})
 
 - Roll'd numerous on the Bay, all fully fraught
 - With strong-grain'd muscovado, silvery-grey,[^f6n1]
