@@ -3,10 +3,11 @@ layout: poem
 title: "page 27"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0041.jpg"
 ---
 
 
-[27]()
+[27]({{site.baseurl}}/images/{{page.img}})
 
 - And black crabs travel from the mountain down;[^f27n1]
 - Thy ducks their feathers prune; thy doves return,
