@@ -3,10 +3,11 @@ layout: poem
 title: "page 84"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0098.jpg"
 ---
 
 
-[84]()
+[84]({{site.baseurl}}/images/{{page.img}})
 
 - Ten thousand kisses gave. He strove to speak;
 - Nor words he found: he claspt her in his arms; [550]
