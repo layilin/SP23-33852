@@ -3,10 +3,11 @@ layout: poem
 title: "page 143"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0157.jpg"
 ---
 
 
-[143]()
+[143]({{site.baseurl}}/images/{{page.img}})
 
 - With double night brood o'er them; thou dost throw, [350]
 - O'er far-divided nature's realms, a chain
