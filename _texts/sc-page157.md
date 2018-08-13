@@ -3,10 +3,11 @@ layout: poem
 title: "page 157"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0171.jpg"
 ---
 
 
-[157]()
+[157]({{site.baseurl}}/images/{{page.img}})
 
 - Nor gently sloping side of breezy hill,
 - Nor streets, at distance due, imbower'd in trees;
