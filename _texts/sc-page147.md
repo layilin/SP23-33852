@@ -3,10 +3,11 @@ layout: poem
 title: "page 147"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0161.jpg"
 ---
 
 
-[147]()
+[147]({{site.baseurl}}/images/{{page.img}})
 
 - HOWE'ER insensate some may deem their slaves,
 - Nor 'bove the bestial rank; far other thoughts
