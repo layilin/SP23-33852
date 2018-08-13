@@ -3,10 +3,11 @@ layout: poem
 title: "page 121"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0135.jpg"
 ---
 
 
-[121]()
+[121]({{site.baseurl}}/images/{{page.img}})
 
 - Leave Europe; there, through all her coyest ways, [625]
 - Her secret mazes, nature is pursued:
