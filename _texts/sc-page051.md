@@ -3,10 +3,11 @@ layout: page
 title: "page 51"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0065.jpg"
 ---
 
 
-[51]()  
+[51]({{site.baseurl}}/images/{{page.img}})  
 
 ADVERTISEMENT to BOOK II.  
 
