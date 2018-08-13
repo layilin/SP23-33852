@@ -3,10 +3,11 @@ layout: poem
 title: "page 45"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0059.jpg"
 ---
 
 
-[45]()  
+[45]({{site.baseurl}}/images/{{page.img}})  
 
 - Planted; and which, impervious to the sun,  
 - His latter days beheld.—One noon he sat  
