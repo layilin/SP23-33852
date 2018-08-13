@@ -3,10 +3,11 @@ layout: poem
 title: "page 137"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0151.jpg"
 ---
 
 
-[137]()
+[137]({{site.baseurl}}/images/{{page.img}})
 
 - 'Twould be the fond ambition of her soul,
 - To quell tyrannic sway;[^f137n1] knock off the chains [235]
