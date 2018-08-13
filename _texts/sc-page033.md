@@ -3,10 +3,11 @@ layout: poem
 title: "page 33"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0047.jpg"
 ---
 
 
-[33]()  
+[33]({{site.baseurl}}/images/{{page.img}})  
 
 - Ere thy tops, trusted to the mountain-land, [455]  
 - Commence their jointing: but four moons suffice  
