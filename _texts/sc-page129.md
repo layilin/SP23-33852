@@ -3,10 +3,11 @@ layout: poem
 title: "page 129"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0143.jpg"
 ---
 
 
-[129]()
+[129]({{site.baseurl}}/images/{{page.img}})
 
 - Not prominent their belly; clean and strong
 - Their thighs and legs, in just proportion rise.[^f129n1]
