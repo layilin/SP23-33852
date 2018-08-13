@@ -3,10 +3,11 @@ layout: poem
 title: "page 58"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0072.jpg"
 ---
 
 
-[58]()
+[58]({{site.baseurl}}/images/{{page.img}})
 
 - SOME place decoys, nor will they not avail,
 - Replete with roasted crabs, in every grove
