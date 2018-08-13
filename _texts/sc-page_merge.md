@@ -91,9 +91,9 @@ IT must, however, be observed, that, though the general precepts are suited to e
 
 [^fvn2]: Grainger explains that because the Caribbean landscapes, flora, and fauna are so different from those of Europe, the region can give rise to new forms of poetry.
 
-[^fvn3]: Poetic inspiration. 
+[^fvn3]: Poetic inspiration.
 
-[^fvn4]: One of the georgic's principal aims was to teach the reader about agriculture and cultivation. Interestingly, despite the fact that another of Grainger's goals was to help planters profit from their plantations, which were dependent upon enslaved labor, Grainger also makes an appeal for the disinterested nobility and goodness of his poetic work.  
+[^fvn4]: One of the georgic's principal aims was to teach the reader about agriculture and cultivation. Interestingly, despite the fact that another of Grainger's goals was to help planters profit from their plantations, which were dependent upon enslaved labor, Grainger also makes an appeal for the disinterested nobility and goodness of his poetic work.
 
 [^fvn5]: Grainger left England for St. Christophers in 1759. Known as the Federation of St. Kitts and Nevis since it gained independence from Great Britain in 1983, the island was called Liamuiga by the indigenous Caribs who lived there. We use "St. Kitts" throughout this site to refer to the island Grainger describes. In 1493, Columbus claimed St. Kitts for Spain, and it was partitioned between the French and the English in the early seventeenth century. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger arrived during the Seven Years' War (1756-1763). St. Kitts began as a tobacco colony but turned to sugar production in the mid-eighteenth century.
 
@@ -112,9 +112,9 @@ IT must be confessed, that terms of art look awkward in poetry; yet didactic[^fv
 
 [^fvin1]: Agriculture, farming.
 
-[^fvin2]: In the eighteenth century, improvement referred to the cultivation and development of lands for the purpose of making them more economically valuable. Increasingly, philosophers, government officials, and others also came to believe that there was a moral imperative for individuals to improve their land, since it could lead to increased crop and food production, which in turn would prevent famine and other social ills. Improvement was tied up with imperial agendas of dispossession as well, however: it was often argued that indigenous peoples did not improve their lands and therefore did not have a right to continue using and living on them.  
+[^fvin2]: In the eighteenth century, improvement referred to the cultivation and development of lands for the purpose of making them more economically valuable. Increasingly, philosophers, government officials, and others also came to believe that there was a moral imperative for individuals to improve their land, since it could lead to increased crop and food production, which in turn would prevent famine and other social ills. Improvement was tied up with imperial agendas of dispossession as well, however: it was often argued that indigenous peoples did not improve their lands and therefore did not have a right to continue using and living on them.
 
-[^fvin3]: Grainger is crediting the authors who have influenced him the most. Jean Baptiste Labat (1663-1738) was a French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. He liberated the island of Martinique from British control in 1703. Later, he served as a professor of philosophy and mathematics in Nancy, France, and authored the *Nouveau voyage aux isles de l'Amerique* (1722). Samuel Martin (1694/5-1776) was an Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750 and then in several more editions before the end of the eighteenth century. The *Essay* contains Martin's recommendations for plantation management and covers topics ranging from the planting and harvesting of cane to the regulation of enslaved labor. 
+[^fvin3]: Grainger is crediting the authors who have influenced him the most. Jean Baptiste Labat (1663-1738) was a French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. He liberated the island of Martinique from British control in 1703. Later, he served as a professor of philosophy and mathematics in Nancy, France, and authored the *Nouveau voyage aux isles de l'Amerique* (1722). Samuel Martin (1694/5-1776) was an Antiguan-born British plantation owner and author of *Essay upon Plantership*, which was first published in Antigua around 1750 and then in several more editions before the end of the eighteenth century. The *Essay* contains Martin's recommendations for plantation management and covers topics ranging from the planting and harvesting of cane to the regulation of enslaved labor.
 
 [^fvin4]: Instructive.  
 
@@ -143,11 +143,11 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^fviin2]: A term of Grainger's invention. Building on his opening claim that the Caribbean would transform the face of poetry, Grainger simultaneously leans on a traditional mode (the georgic) and imagines a new form for it (West-India). It is worth considering what specifically about this poem makes it West Indian or Caribbean.
 
-[^fviin3]: Grainger's mention of indigenous remedies refers in part to the knowledge possessed by indigenous peoples of the Caribbean, but it also refers to the local knowledge that African and European transplants to the Caribbean developed as they learned about the new environment. In particular, Grainger uses the poem to display his knowledge of husbandry, medicine, and natural history. We have tried in our notes to identify the origins of the natural entities, and especially plants, named by Grainger. While some of these plants do originate from the Caribbean and the Americas, others come from Africa, Europe, Asia, and other parts of the world. In many cases, these foreign plants were brought to the Caribbean purposefully, as individuals sought to transform their new homes by importing crops and commodities that could help them survive and profit.  
+[^fviin3]: Grainger's mention of indigenous remedies refers in part to the knowledge possessed by indigenous peoples of the Caribbean, but it also refers to the local knowledge that African and European transplants to the Caribbean developed as they learned about the new environment. In particular, Grainger uses the poem to display his knowledge of husbandry, medicine, and natural history. We have tried in our notes to identify the origins of the natural entities, and especially plants, named by Grainger. While some of these plants do originate from the Caribbean and the Americas, others come from Africa, Europe, Asia, and other parts of the world. In many cases, these foreign plants were brought to the Caribbean purposefully, as individuals sought to transform their new homes by importing crops and commodities that could help them survive and profit.
 
 [^fviin4]: Born in Scotland, Grainger was trained as a physician in Edinburgh, but he had significant literary ambitions dating back at least to the mid-1750s, when he settled in London. The sentence that closes his preface has long fascinated critics because it suggests a certain ambivalence about the aims and the form of the poem. Certainly, Grainger was aware that the inclusion of local knowledge and the proliferation of footnotes were unusual, and he anticipated criticism of his choices.  
 
-[^fviin5]: Basseterre is the capital of St. Kitts.  
+[^fviin5]: Basseterre is the capital of St. Kitts.
 
 ---
 
@@ -172,7 +172,6 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 ---
 ---
-
 
 [2]()
 
@@ -207,17 +206,17 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f3n1]: Planting by the signs, also known as agricultural astrology, is a cultivation method that advises planting and harvesting crops based on moon phases and the astrological calendar.
 
-[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugar cane into the final product of crystallized sugar; and Book IV deals with the management and treatment of enslaved laborers.    
+[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugar cane into the final product of crystallized sugar; and Book IV deals with the management and treatment of enslaved laborers.
 
 [^f3n3]: Myrtle \(*Myrtus communis*\) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louise was born before he began composing the poem.
 
-[^f3n4]: The Ascrean poet is Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.  
+[^f3n4]: The Ascrean poet is Hesiod (c. 700 BCE), who was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon (the sacred Mount). Contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*.
 
-[^f3n5]: A country or farm laborer, a shepherd. A key figure in georgic poetry.  
+[^f3n5]: A country or farm laborer, a shepherd. A key figure in georgic poetry.
 
 [^f3n6]: Maro is Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Aeneid*, and the *Georgics*. A major influence on Grainger and other neo-georgic poets of the eighteenth century.
 
-[^f3n7]: Grainger is listing other eighteenth-century authors of georgic poems. Dyer is John Dyer (1699-1757), a Welsh painter and poet and author of *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Pomona's Bard is John Philips (1676-1709), an English poet and author of the *Cyder* (1708). Pomona is the Roman goddess of fruit. Smart is Christopher Smart (1722-1771), an English poet and author of *The Hop-Garden* (1752). Sommerville is William Somerville (1675-1742), an English poet and author of *The Chace* (1735).  
+[^f3n7]: Grainger is listing other eighteenth-century authors of georgic poems. Dyer is John Dyer (1699-1757), a Welsh painter and poet and author of *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Pomona's Bard is John Philips (1676-1709), an English poet and author of the *Cyder* (1708). Pomona is the Roman goddess of fruit. Smart is Christopher Smart (1722-1771), an English poet and author of *The Hop-Garden* (1752). Sommerville is William Somerville (1675-1742), an English poet and author of *The Chace* (1735).
 
 ---
 
@@ -236,24 +235,23 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 - Where first the Muse beheld the spiry Cane,
 - Supreme of plants, rich subject of my song.
 
-
 > VER. 22. *the spiry Cane,*\] The botanical name of the Cane is *Saccharum*. The Greeks and Romans seem to have known very little of this most useful and beautiful plant. Lucan and Pliny are the only Authors among the former who mention it; and, so far as I can find, Arrian is the only Greek.[^f4n4] The first of these Writers, in enumerating Pompey’s Eastern auxiliaries,[^f4n5] describes a nation who made use of the Cane-juice as a drink:      
 
 >   *Dulces bibebant ex arundine succos.*
 
 > The industrious Naturalist says, *Saccharum et Arabia fert, sed laudatius India*; and the Greek Historian, in his *&#960;&#949;&#961;&#953;&#960;&#955;&#959;&#965;&#987;* of the Red-sea, tells us of a neighbouring nation who drank it also; his words are, *&#956;&#949;&#955;&#953; &#964;&#959; &#967;&#945;&#955;&#945;&#956;&#953;&#957;&#959;&#957; &#964;&#959; &#955;&#949;&#947;&#959;&#956;&#949;&#957;&#959;&#957; &#963;&#945;&#967;&#935;&#945;&#961;&#953;*. The Cane, however, as it was a native of the East, so has it been probably cultivated there time immemorial. The raw juice was doubtless first made use of; they afterwards boiled it into a syrup; and, in process of time, an inebriating spirit was prepared therefrom by fermentation. This conjecture is confirmed by the etymology, for the Arabic word &#1505;&#1499;&#1512; is evidently derived from the Hebrew &#1513;&#1499;&#1512;, which signifies an *intoxicating liquor*. When the Indians began to make the Cane-juice into sugar, I cannot discover;[^f4n6] probably, it soon found its way into Europe in that form, first by the Red-sea, and afterwards through Persia, by the Black-sea and Caspian; but the plant itself was not known to Europe, till the Arabians introduced it into the southern parts of Spain, Sicily, and those provinces of France which bor-  
 
-[^f4n1]: Well-being, happiness, prosperity.  
+[^f4n1]: Well-being, happiness, prosperity.
 
 [^f4n2]: Gilmore identifies Aurelius as George Thomas (c. 1694-1774), who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antiguan colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
 
-[^f4n3]: George III (1738-1820) was king of Britain from 1760 to 1820. The main is the ocean.  
+[^f4n3]: George III (1738-1820) was king of Britain from 1760 to 1820. The main is the ocean.
 
 [^f4n4]: Lucan or Marcus Annaeus Lucanus (39-65 CE) was the nephew of Seneca the younger and the author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE) was the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 CE) was the author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*.
 
 [^f4n5]: Pompey or Gnaeus Pompeius Magnus (106-48 BCE) was a member of the First Triumvirate. He defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
-[^f4n6]: In this note, Grainger traces the movement of sugar cane from India to the Americas. Sugar cane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).   
+[^f4n6]: In this note, Grainger traces the movement of sugar cane from India to the Americas. Sugar cane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).
 
 ---
 
@@ -267,26 +265,26 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 > der on the Pyrenean mountains. It was also successfully cultivated in Egypt, and in many places on the Barbary-coast.[^f5n2] From the Mediterranean, the Spaniards and Portuguese transported the Cane to the Azores, the Madeiras, the Canary and the Cape-Verd islands, soon after they had been discovered in the fifteenth century: and, in most of these, particularly Madeira, it throve exceedingly.[^f5n3] Whether the Cane is a native of either the Great or Lesser Antilles[^f5n4] cannot now be determined, for their discoverers were so wholly employed in searching after imaginary gold-mines, that they took little or no notice of the natural productions. Indeed the wars, wherein they wantonly engaged themselves with the natives, was another hindrance to physical investigation. But whether the Cane was a production of the West-Indies or not, it is probable, the Spaniards and Portuguese did not begin to cultivate it either there or in South America (where it certainly was found), till some years after their discovery. It is also equally uncertain whether Sugar was first made in the Islands or on the Continent, and whether the Spaniards or Portuguese were the first planters in the new world: it is indeed most likely that the latter erected the first sugar-works in Brazil, as they are more lively and enterprizing than the Spaniards. However they had not long the start of the latter; for, in 1506, Ferdinand the Catholic[^f5n5] ordered the Cane to be carried from the Canaries to St. Domingo,[^f5n6] in which island one Pedro de Atenca soon after built an *Ingenio de açucar*, for so the Spaniards call a Sugar-work. But, though they began thus early to turn their thoughts to sugar, the Portuguese far outstripped them in that trade; for Lisbon soon supplied most of Europe with that commodity; and, notwithstanding the English then paid the Portuguese at the rate of 4 *l. per C.* wt.[^f5n7] for muscovado,[^f5n8] yet that price, great as it may now appear, was probably much less than what the Sugar from the East-Indies[^f5n9] had commonly been sold for. Indeed, so intent was the Crown of Portugal on extending their Brazil-trade, that that of the East-Indies began to be neglected, and soon after suffered a manifest decay. However, their sugar made them ample amends, in which trade they continued almost without a rival for upwards of a century. At last the Dutch, in 1623, drove the Portuguese out of all the northern part of Brazil; and, during the one and twenty years they kept that conquest, those industrious republicans learned the art of making sugar. This probably inspired the English with a desire
 
-[^f5n1]: As sugar cane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugar cane.  
+[^f5n1]: As sugar cane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugar cane.
 
-[^f5n2]: Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya. 
+[^f5n2]: Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.
 
-[^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
+[^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
-[^f5n4]: Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
+[^f5n4]: Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago \(Cuba, Jamaica, Hispaniola, and Puerto Rico\).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
-[^f5n5]: King Ferdinand V of Castile and León and II of Aragon (1452-1516), husband of Queen Isabella of Castille and patron with Isabella of Columbus' 1492 voyage.  
+[^f5n5]: King Ferdinand V of Castile and León and II of Aragon \(1452-1516\), husband of Queen Isabella of Castille and patron with Isabella of Columbus' 1492 voyage.
 
 [^f5n6]: Hispaniola, the island that includes the modern nations of Haiti and the Dominican Republic.
 
-[^f5n7]: Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman (see http://www.nationalarchives.gov.uk/currency-converter/).
+[^f5n7]: Four pounds per hundredweight. A hundredweight \(equivalent to 112 lbs\) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman \(see http://www.nationalarchives.gov.uk/currency-converter/\).
 
 [^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Britain and lightened in color before being sold to consumers.
 
 [^f5n9]: The whole of Southeast Asia to the east of and including India.
 
 ---
----
+
 
 [6]()
 
@@ -321,7 +319,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f6n6]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
-[^f6n7]: Boiling, cooking. 
+[^f6n7]: Boiling, cooking.
 
 [^f6n8]: Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
@@ -361,6 +359,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 [^f7n5]: Acosta is José de Acosta (1539-1600), a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.
 
 ---
+
 
 [8]()
 
