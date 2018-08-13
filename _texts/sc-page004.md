@@ -3,10 +3,11 @@ layout: poem
 title: "page 4"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0018.jpg"
 ---
 
 
-[4]()
+[4]({{site.baseurl}}/images/{{page.img}})
 
 - Their sylvan lore convey: O may I join 
 - This choral band, and from their precepts learn [15]
