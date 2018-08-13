@@ -3,10 +3,11 @@ layout: poem
 title: "page 21"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0035.jpg"
 ---
 
 
-[21]()
+[21]({{site.baseurl}}/images/{{page.img}})
 
 - \'Tis known the yam will ne'er to bigness swell;
 - And from each mould the vegetable tribes,
