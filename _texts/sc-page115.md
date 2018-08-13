@@ -3,10 +3,11 @@ layout: poem
 title: "page 115"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0129.jpg"
 ---
 
 
-[115]()
+[115]({{site.baseurl}}/images/{{page.img}})
 
 - How would your converse polish my rude lays,[^f115n1]
 - With what new, noble images adorn? [520]

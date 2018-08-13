@@ -3,10 +3,11 @@ layout: poem
 title: "page 91"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0105.jpg"
 ---
 
 
-[91]()
+[91]({{site.baseurl}}/images/{{page.img}})
 
 - Aid not, ye winds! with your destroying breath,
 - The spreading vengeance.—They contemn my prayer. [65]

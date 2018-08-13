@@ -3,10 +3,11 @@ layout: poem
 title: "page 110"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0124.jpg"
 ---
 
 
-[110]()
+[110]({{site.baseurl}}/images/{{page.img}})
 
 - For, if the skies too frequently relent,
 - Crude flows the Cane-juice, and will long elude

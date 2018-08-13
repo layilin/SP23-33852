@@ -3,10 +3,11 @@ layout: poem
 title: "page 101"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0115.jpg"
 ---
 
 
-[101]()
+[101]({{site.baseurl}}/images/{{page.img}})
 
 - Defend thy stock from noon's inclement blaze, [260]
 - And from night-dews; for night no respite knows.

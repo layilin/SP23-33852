@@ -3,10 +3,11 @@ layout: poem
 title: "page 96"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0110.jpg"
 ---
 
 
-[96]()
+[96]({{site.baseurl}}/images/{{page.img}})
 
 - ARE there, the muse can scarce believe the tale; [170]
 - Are there, who lost to every feeling sense,

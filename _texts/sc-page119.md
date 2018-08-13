@@ -3,9 +3,10 @@ layout: poem
 title: "page 119"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0133.jpg"
 ---
 
-[119]()
+[119]({{site.baseurl}}/images/{{page.img}})
 
 - Weave antic measures. O, could my weak song,
 - O could my song, like his, heaven-favoured bard,

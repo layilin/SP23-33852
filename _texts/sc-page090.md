@@ -3,10 +3,11 @@ layout: poem
 title: "page 90"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0104.jpg"
 ---
 
 
-[90]()
+[90]({{site.baseurl}}/images/{{page.img}})
 
 - The ripened cane-piece; and, with her, to taste
 - \(Delicious draught!\) the nectar of the mill! [45]

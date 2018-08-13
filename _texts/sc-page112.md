@@ -3,10 +3,11 @@ layout: poem
 title: "page 112"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0126.jpg"
 ---
 
 
-[112]()
+[112]({{site.baseurl}}/images/{{page.img}})
 
 - Fraudful, their weight of sugar to increase.[^f112n1]
 - Far be such guile from Britain's honest swains.

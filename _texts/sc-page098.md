@@ -3,10 +3,11 @@ layout: poem
 title: "page 98"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0112.jpg"
 ---
 
 
-[98]()
+[98]({{site.baseurl}}/images/{{page.img}})
 
 - YET the faint breeze oft flags on listless wings,
 - Nor tremulates the coco's[^f98n1] airiest arch, [205]

@@ -3,10 +3,11 @@ layout: poem
 title: "page 89"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0103.jpg"
 ---
 
 
-[89]()
+[89]({{site.baseurl}}/images/{{page.img}})
 
 - Charm'd with the murmur of the tinkling rill;
 - Charm'd with the hummings of the neighbouring hive;\)

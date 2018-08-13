@@ -3,10 +3,11 @@ layout: poem
 title: "page 73"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0087.jpg"
 ---
 
 
-[73]()
+[73]({{site.baseurl}}/images/{{page.img}})
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]

@@ -3,10 +3,11 @@ layout: poem
 title: "page 77"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0091.jpg"
 ---
 
 
-[77]()
+[77]({{site.baseurl}}/images/{{page.img}})
 
 - He oft distinguish'd; and for whom he oft
 - Had climb'd the bending coco's airy height,

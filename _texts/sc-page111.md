@@ -3,10 +3,11 @@ layout: poem
 title: "page 111"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0125.jpg"
 ---
 
 
-[111]()
+[111]({{site.baseurl}}/images/{{page.img}})
 
 - Will in huge flinty masses chrystalize,
 - Which forceful fingers scarce can crumble down;

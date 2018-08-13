@@ -3,9 +3,10 @@ layout: poem
 title: "page 97"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0111.jpg"
 ---
 
-[97]()
+[97]({{site.baseurl}}/images/{{page.img}})
 
 - In separate parcels, far, the infected fling:
 - Of bad Cane-juice the least admixture[^f97n1] spoils

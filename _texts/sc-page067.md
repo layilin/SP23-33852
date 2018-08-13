@@ -3,10 +3,11 @@ layout: poem
 title: "page 67"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0081.jpg"
 ---
 
 
-[67]()
+[67]({{site.baseurl}}/images/{{page.img}})
 
 - As the waves, countless, that plough up the deep, [230]
 - (Where Eurus reigns vicegerent[^f67n1] of the sky,

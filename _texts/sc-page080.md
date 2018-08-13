@@ -3,10 +3,11 @@ layout: poem
 title: "page 80"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0094.jpg"
 ---
 
 
-[80]()
+[80]({{site.baseurl}}/images/{{page.img}})
 
 - TWICE one long year elaps'd, when letters came, [480]
 - Which briefly told him of his father's death.

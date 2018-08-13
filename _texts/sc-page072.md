@@ -3,10 +3,11 @@ layout: poem
 title: "page 72"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0086.jpg"
 ---
 
 
-[72]()
+[72]({{site.baseurl}}/images/{{page.img}})
 
 - Rushes the headlong sky; the city rocks;
 - The good man throws him on the trembling ground;

@@ -3,10 +3,11 @@ layout: poem
 title: "page 75"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0089.jpg"
 ---
 
 
-[75]()
+[75]({{site.baseurl}}/images/{{page.img}})
 
 - Or sends forth thick, blue, suffocating steams;
 - Or shoots to temporary flame. A din,

@@ -3,10 +3,11 @@ layout: poem
 title: "page 71"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0085.jpg"
 ---
 
 
-[71]()
+[71]({{site.baseurl}}/images/{{page.img}})
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,

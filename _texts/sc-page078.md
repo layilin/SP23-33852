@@ -3,10 +3,11 @@ layout: poem
 title: "page 78"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0092.jpg"
 ---
 
 
-[78]()
+[78]({{site.baseurl}}/images/{{page.img}})
 
 - When he presented, more nectarious deem'd.— [440]
 - The sweetest sappadillas[^f78n1] oft he brought;

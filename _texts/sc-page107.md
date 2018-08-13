@@ -3,10 +3,11 @@ layout: poem
 title: "page 107"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0121.jpg"
 ---
 
 
-[107]()
+[107]({{site.baseurl}}/images/{{page.img}})
 
 - In silence lock it, sudden, and constrain'd,
 - \(Death to Xantippe,\)[^f107n1] with distorting pain.

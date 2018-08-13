@@ -3,10 +3,11 @@ layout: poem
 title: "page 122"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0136.jpg"
 ---
 
 
-[122]()
+[122]({{site.baseurl}}/images/{{page.img}})
 
 - Of use to mortal man, life to prolong,
 - To soften, or adorn; what genuine joy,

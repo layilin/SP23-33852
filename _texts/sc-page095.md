@@ -3,10 +3,11 @@ layout: poem
 title: "page 95"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0109.jpg"
 ---
 
 
-[95]()
+[95]({{site.baseurl}}/images/{{page.img}})
 
 - When health danc'd frolic in her youthful veins,
 - And vacant gambols wing'd the laughing hours;

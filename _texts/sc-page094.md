@@ -3,10 +3,11 @@ layout: poem
 title: "page 94"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0108.jpg"
 ---
 
 
-[94]()
+[94]({{site.baseurl}}/images/{{page.img}})
 
 - With sweet abundance. As on Lincoln-plains, [130]
 - \(Ye plains of Lincoln sound your Dyer's praise!\)[^f94n1]

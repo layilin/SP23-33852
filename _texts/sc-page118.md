@@ -3,10 +3,11 @@ layout: poem
 title: "page 118"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0132.jpg"
 ---
 
 
-[118]()
+[118]({{site.baseurl}}/images/{{page.img}})
 
 - Deep, moral truths convey;[^f118n1] while every beam [570]
 - Flings on them transient tints, which vary when

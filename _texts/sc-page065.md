@@ -3,10 +3,11 @@ layout: poem
 title: "page 65"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0079.jpg"
 ---
 
 
-[65]()
+[65]({{site.baseurl}}/images/{{page.img}})
 
 - Planter, prefer them now: the rattling shower, [190]
 - Pour'd down in constant streams, for days and nights,

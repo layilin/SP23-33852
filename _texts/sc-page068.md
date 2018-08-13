@@ -3,10 +3,11 @@ layout: poem
 title: "page 68"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0082.jpg"
 ---
 
 
-[68]()
+[68]({{site.baseurl}}/images/{{page.img}})
 
 - Labour immense! and yet, if small the pest;
 - If numerous, if industrious be thy gang;

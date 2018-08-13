@@ -3,10 +3,11 @@ layout: poem
 title: "page 74"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0088.jpg"
 ---
 
 
-[74]()
+[74]({{site.baseurl}}/images/{{page.img}})
 
 - Thrice hapless he, whom thus the hand of fate
 - Compels to risque the insufferable beam!

@@ -3,10 +3,11 @@ layout: poem
 title: "page 83"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0097.jpg"
 ---
 
 
-[83]()
+[83]({{site.baseurl}}/images/{{page.img}})
 
 - Receiv'd him: at his sight, the antient slaves
 - Affrighted shriek, and to the chamber point:—

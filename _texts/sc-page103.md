@@ -3,10 +3,11 @@ layout: poem
 title: "page 103"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0117.jpg"
 ---
 
 
-[103]()
+[103]({{site.baseurl}}/images/{{page.img}})
 
 - From tyrants wrung, the many or the few.
 - By wealth, by titles, by ambition's lure,

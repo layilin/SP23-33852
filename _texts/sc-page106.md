@@ -3,10 +3,11 @@ layout: poem
 title: "page 106"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0120.jpg"
 ---
 
 
-[106]()
+[106]({{site.baseurl}}/images/{{page.img}})
 
 - And, in the nectar of the yellowest Cane,
 - Much acor,[^f106n1] oil, and mucilage abound:

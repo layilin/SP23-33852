@@ -3,10 +3,11 @@ layout: poem
 title: "page 70"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0084.jpg"
 ---
 
 
-[70]()
+[70]({{site.baseurl}}/images/{{page.img}})
 
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;

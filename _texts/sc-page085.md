@@ -3,10 +3,11 @@ layout: page
 title: "page 85"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0099.jpg"
 ---
 
 
-[85]()
+[85]({{site.baseurl}}/images/{{page.img}})
 
 ---  
 

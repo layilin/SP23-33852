@@ -3,10 +3,11 @@ layout: poem
 title: "page 87"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0101.jpg"
 ---
 
 
-[87]()
+[87]({{site.baseurl}}/images/{{page.img}})  
 
 ## THE SUGAR-CANE
 

@@ -3,10 +3,11 @@ layout: poem
 title: "page 82"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0096.jpg"
 ---
 
 
-[82]()
+[82]({{site.baseurl}}/images/{{page.img}})
 
 - THO' faster than the Tropic-bird[^f82n1] they flew,
 - Oft Junio cried, ah! when shall we see land? [510]

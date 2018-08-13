@@ -3,10 +3,11 @@ layout: poem
 title: "page 61"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0075.jpg"
 ---
 
 
-[61]()
+[61]({{site.baseurl}}/images/{{page.img}})
 
 - Sharp as the bee-sting, fasten in thy flesh,
 - And give thee up to torture. But, unhurt,
