@@ -3,10 +3,11 @@ layout: poem
 title: "page 35"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0049.jpg"
 ---
 
 
-[35]()  
+[35]({{site.baseurl}}/images/{{page.img}})  
 
 - WITH limes, with lemons, let thy fences glow,  
 - Grateful to sense; now children of this clime: [500]  
