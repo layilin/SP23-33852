@@ -3,10 +3,11 @@ layout: poem
 title: "page 156"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0170.jpg"
 ---
 
 
-[156]()
+[156]({{site.baseurl}}/images/{{page.img}})
 
 - Project enormous; of impurpled hue
 - Its frequent clusters glow. And there, if thou [565]
