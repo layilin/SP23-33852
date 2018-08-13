@@ -3,10 +3,11 @@ layout: poem
 title: "page 14"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0028.jpg"
 ---
 
 
-[14]()
+[14]({{site.baseurl}}/images/{{page.img}})
 
 - Thine age was spent solliciting the Prince,
 - To whom thou gav'st the sceptre of that world. [120]
