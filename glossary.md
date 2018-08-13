@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: "Glossary"
 creator: Kimberly Takahata
 ---
 
-## Editorial statement
-
-
-## Credits
 
