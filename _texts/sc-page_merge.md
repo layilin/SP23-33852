@@ -283,7 +283,9 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f5n9]: The whole of Southeast Asia to the east of and including India.
 
+
 ---
+
 
 
 [6]()
@@ -5593,7 +5595,7 @@ The END of BOOK III.
 - Or fall o'er fern-clad cliffs, with foaming rage;
 - Or in huge basons[^f155n1] float, a fair expanse;
 - Or, bound in chains of artificial force, [550]
-- Arise thro' sculptured stone, or breathing brass.---
+- Arise thro' sculptured stone, or breathing brass.————
 - But I'm in haste to furl my wind-worn sails,
 - And anchor my tir'd vessel on the shore.
 
