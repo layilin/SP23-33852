@@ -3,10 +3,11 @@ layout: poem
 title: "page 133"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0147.jpg"
 ---
 
 
-[133]()
+[133]({{site.baseurl}}/images/{{page.img}})
 
 - Oft chalk prefer to the most poignant cates:\)[^f133n1]
 - Such, dropsy bloats, and to sure death consigns;
