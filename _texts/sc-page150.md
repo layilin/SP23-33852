@@ -3,10 +3,11 @@ layout: poem
 title: "page 150"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0164.jpg"
 ---
 
 
-[150]()
+[150]({{site.baseurl}}/images/{{page.img}})
 
 - THIS tract secure, with hedges or of limes, [465]
 - Or bushy citrons, or the shapely tree
