@@ -3,10 +3,11 @@ layout: poem
 title: "page 9"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0023.jpg"
 ---
 
 
-[9]()
+[9]({{site.baseurl}}/images/{{page.img}})
 
 - 'Spite of the dog-star,[^f9n1] shoots long yellow joints;[^f9n2] [55]
 - Concocts rich juice, tho' deluges descend.
