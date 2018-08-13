@@ -3,10 +3,11 @@ layout: poem
 title: "page 81"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0095.jpg"
 ---
 
 
-[81]()
+[81]({{site.baseurl}}/images/{{page.img}})
 
 - Like clouds dim rising in the distant sky[^f81n1]. [500]
 - Glad Eurus whistles; laugh the sportive crew;
