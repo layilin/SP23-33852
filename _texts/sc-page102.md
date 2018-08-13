@@ -3,10 +3,11 @@ layout: poem
 title: "page 102"
 editor: Lina Jiang
 source: "1764 edition"
+img: "p0116.jpg"
 ---
 
 
-[102]()
+[102]({{site.baseurl}}/images/{{page.img}})
 
 - Await thy cattle! farcy's tabid[^f102n1] form,
 - Joint-racking spasms, and cholic's[^f102n2] pungent pang,
