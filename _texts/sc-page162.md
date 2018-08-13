@@ -3,10 +3,11 @@ layout: poem
 title: "page 162"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0176.jpg"
 ---
 
 
-[162]()
+[162]({{site.baseurl}}/images/{{page.img}})
 
 - And must for ever; still indulgent share [675]
 - Her fostering smile: and other isles be given,
