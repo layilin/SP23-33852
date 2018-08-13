@@ -3,10 +3,11 @@ layout: poem
 title: "page 25"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0039.jpg"
 ---
 
 
-[25]()
+[25]({{site.baseurl}}/images/{{page.img}})
 
 - While yet the Sun, in cloudless lustre, shines: [320]
 - And draw their humid train o'er half the isle.
