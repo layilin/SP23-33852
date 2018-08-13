@@ -3,10 +3,11 @@ layout: poem
 title: "page 64"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0078.jpg"
 ---
 
 
-[64]()
+[64]({{site.baseurl}}/images/{{page.img}})
 
 - Feeds on the Indian fig;[^f64n1] and, should it harm
 - The foster plant, its worth that harm repays:
