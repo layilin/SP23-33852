@@ -491,7 +491,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 - That lies on marly beds.[^f11n4]—The renter, this
 - Can scarce exhaust; how happy for the heir!
 
->VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the others islands.[^f11n5] *Sloane*.
+>VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the other islands.[^f11n5] *Sloane*.
 
 [^f11n1]: The Italian name for Persephone, queen of the underworld.
 
