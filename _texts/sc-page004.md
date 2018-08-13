@@ -38,6 +38,6 @@ source: "1764 edition"
 
 [^f4n5]: Pompey or Gnaeus Pompeius Magnus (106-48 BCE) was a member of the First Triumvirate. He defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
-[^f4n6]: In this note, Grainger traces the movement of sugar cane from India, where it was first refined into crystallized sugar, to the Middle East, Europe, and the Americas.   
+[^f4n6]: In this note, Grainger traces the movement of sugar cane from India to the Middle East, Europe, and the Americas. Sugar cane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar refining traveled to the Middle East. Contact between the Middle East and Europe led to the Spanish and others learning how to cultivate and process sugar as well. The Spanish then transplanted sugar to the Americas.   
 
 ---
