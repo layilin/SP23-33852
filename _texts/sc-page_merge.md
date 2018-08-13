@@ -1635,9 +1635,9 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^f43n5]: Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts.  
 
-[^f43n6]: The cucumber (*Cucumis sativus*) has a native range extending from Himalaya to north Thailand.  
+[^f43n6]: The cucumber (*Cucumis sativus*) has a native range extending from Himalaya to northern Thailand.  
 
-[^f43n7]: There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown today in Venezuela (Caracas is the capital of Venezuela).   
+[^f43n7]: There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety and probably the one Grainger was referencing, since it is still grown in Venezuela (Caracas is the capital of Venezuela).   
 
 [^f43n8]: "Cacao" is derived from the Nahuatl word *cacahuatl*. The scientific name for cacao, *Theobroma cacao*, also includes a Greek term that translates to "food of the gods."  
 
