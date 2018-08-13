@@ -3,12 +3,13 @@ layout: page
 title: "page v"
 editor: Cristobal Silva
 source: "1764 edition"
+img: "p0011.jpg"
 ---
 
 
 <!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
 
-[v]()
+[v]({{site.baseurl}}/images/{{page.img}})
 
 P R E F A C E.
 
