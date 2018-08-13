@@ -14,3 +14,12 @@
 	margin-top: 3rem;
 }
 
+@media (min-width: 56em) {
+	.row {
+	    display: flex;
+	}	
+
+	.column {
+	    flex: 50%;
+	}
+}
