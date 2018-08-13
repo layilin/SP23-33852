@@ -3,10 +3,11 @@ layout: poem
 title: "page 132"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0146.jpg"
 ---
 
 
-[132]()
+[132]({{site.baseurl}}/images/{{page.img}})
 
 - Thrice wholesome fruit in this relaxing clime!
 - Safely thou may'st their appetite indulge.

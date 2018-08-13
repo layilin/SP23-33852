@@ -3,10 +3,11 @@ layout: poem
 title: "page 131"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0145.jpg"
 ---
 
 
-[131]()
+[131]({{site.baseurl}}/images/{{page.img}})
 
 - Yet many die; and few, for many a year,
 - Just strength attain to labour for their lord.

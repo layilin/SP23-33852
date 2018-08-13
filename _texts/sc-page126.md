@@ -3,10 +3,11 @@ layout: poem
 title: "page 126"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0140.jpg"
 ---
 
 
-[126]()
+[126]({{site.baseurl}}/images/{{page.img}})
 
 - Thine arms, and ankles: O attend my song.
 - A muse that pities thy distressful state;[^f126n1] 

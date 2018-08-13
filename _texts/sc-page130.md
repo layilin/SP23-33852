@@ -3,10 +3,11 @@ layout: poem
 title: "page 130"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0144.jpg"
 ---
 
 
-[130]()
+[130]({{site.baseurl}}/images/{{page.img}})
 
 - Soon grow familiar; while unusual toil,
 - And new severities their husbands kill.
