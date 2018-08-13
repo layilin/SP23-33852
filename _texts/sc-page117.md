@@ -3,10 +3,11 @@ layout: poem
 title: "page 117"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0131.jpg"
 ---
 
 
-[117]()
+[117]({{site.baseurl}}/images/{{page.img}})
 
 - A double Iris[^f117n1] throws her painted arch, [550]
 - Shows commerce toiling in each crowded street,
