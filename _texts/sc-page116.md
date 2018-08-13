@@ -3,10 +3,11 @@ layout: poem
 title: "page 116"
 editor: Elizabeth Cornell
 source: "1764 edition"
+img: "p0130.jpg"
 ---
 
 
-[116]()
+[116]({{site.baseurl}}/images/{{page.img}})
 
 - Butt the young negroes, while their swarthy sires, [535]
 - With ardent gladness wield the bill; and hark,
