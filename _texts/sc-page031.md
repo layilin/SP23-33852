@@ -3,10 +3,11 @@ layout: poem
 title: "page 31"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0045.jpg"
 ---
 
 
-[31]()  
+[31]({{site.baseurl}}/images/{{page.img}})  
 
 - WHILE Procyon[^f31n1] reigns yet fervid in the sky;  
 - While yet the fiery Sun in Leo[^f31n2] rides;  
