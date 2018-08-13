@@ -3,10 +3,11 @@ layout: page
 title: "page 2"
 editor: Steve Fragano
 Source: "1764 edition"
+img: "p0016.jpg"
 ---
 
 
-[2]()
+[2]({{site.baseurl}}/images/{{page.img}})
 
 ## ARGUMENT.
 
