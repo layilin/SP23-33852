@@ -3,10 +3,11 @@ layout: poem
 title: "page 8"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0022.jpg"
 ---
 
 
-[8]()
+[8]({{site.baseurl}}/images/{{page.img}})
 
 - The golden shaddoc, the forbidden fruit,[^f8n1]
 - The white acajou, and rich sabbaca:[^f8n2] [45]
