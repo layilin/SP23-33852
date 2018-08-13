@@ -3,10 +3,11 @@ layout: poem
 title: "page 154"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0168.jpg"
 ---
 
 
-[154]()
+[154]({{site.baseurl}}/images/{{page.img}})
 
 - Of Typhon, or of hurricane, destroy.
 - Nor should, tho' small, the anata[^f154n1] not be sung:
