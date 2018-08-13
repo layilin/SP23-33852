@@ -3,10 +3,11 @@ layout: poem
 title: "page 34"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0048.jpg"
 ---
 
 
-[34]()  
+[34]({{site.baseurl}}/images/{{page.img}})  
 
 - OF mountain-lands oeconomy permits  
 - A third, in Canes of mighty growth to rise:  

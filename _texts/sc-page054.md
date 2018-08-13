@@ -3,10 +3,11 @@ layout: poem
 title: "page 54"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0068.jpg"
 ---
 
 
-[54]()  
+[54]({{site.baseurl}}/images/{{page.img}})  
 
 - Oft sees red lightning at the midnight-hour,  
 - When nod the watches, stream along the sky;  

@@ -3,10 +3,11 @@ layout: poem
 title: "page 39"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0053.jpg"
 ---
 
 
-[39]()  
+[39]({{site.baseurl}}/images/{{page.img}})  
 
 - But independance: yet if thou, sweet maid,  
 - In health and virtue bloom; tho' worse betide,  

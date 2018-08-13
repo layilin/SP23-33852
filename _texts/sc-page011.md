@@ -3,10 +3,11 @@ layout: poem
 title: "page 11"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0025.jpg"
 ---
 
 
-[11]()
+[11]({{site.baseurl}}/images/{{page.img}})
 
 - Strow'd with each fruit of taste, each flower of smell, [65]
 - Sicilian Proserpine,[^f11n1] delighted, sought; 

@@ -3,10 +3,11 @@ layout: poem
 title: "page 36"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0050.jpg"
 ---
 
 
-[36]()  
+[36]({{site.baseurl}}/images/{{page.img}})  
 
 - Yet, if the cholic's[^f36n1] deathful pangs thou dread'st,  
 - Taste not its luscious nut. The acassee,[^f36n2] [510]  

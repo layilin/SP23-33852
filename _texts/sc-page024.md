@@ -3,10 +3,11 @@ layout: poem
 title: "page 24"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0038.jpg"
 ---
 
 
-[24]()
+[24]({{site.baseurl}}/images/{{page.img}})
 
 - The task how difficult, to cull the best
 - From thwarting sentiments; and best adorn

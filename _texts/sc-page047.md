@@ -3,10 +3,11 @@ layout: poem
 title: "page 47"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0061.jpg"
 ---
 
 
-[47]()  
+[47]({{site.baseurl}}/images/{{page.img}})  
 
 - To crush all undergrowth; before the sun,  
 - The planets thus withdraw their puny fires.  

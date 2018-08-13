@@ -3,10 +3,11 @@ layout: poem
 title: "page 38"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0052.jpg"
 ---
 
 
-[38]()  
+[38]({{site.baseurl}}/images/{{page.img}})  
 
 - They soon a formidable fence will shoot:  
 - Wild liquorice here its red beads loves to hang,[^f38n1]  

@@ -3,10 +3,11 @@ layout: poem
 title: "page 53"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0067.jpg"
 ---
 
 
-[53]()  
+[53]({{site.baseurl}}/images/{{page.img}})  
 
 ## THE SUGAR-CANE.  
 

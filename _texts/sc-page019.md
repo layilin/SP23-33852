@@ -3,10 +3,11 @@ layout: poem
 title: "page 19"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0033.jpg"
 ---
 
 
-[19]()
+[19]({{site.baseurl}}/images/{{page.img}})
 
 - PLANTER, if thou with wonder wouldst survey
 - Redundant harvests,[^f19n1] load thy willing soil;

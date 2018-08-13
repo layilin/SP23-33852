@@ -3,10 +3,11 @@ layout: poem
 title: "page 55"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0069.jpg"
 ---
 
 
-[55]()  
+[55]({{site.baseurl}}/images/{{page.img}})  
 
 - DESTRUCTIVE, on the upland sugar-groves  
 - The monkey-nation[^f55n1] preys: from rocky heights, [35]  

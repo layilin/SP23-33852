@@ -3,10 +3,11 @@ layout: poem
 title: "page 57"
 editor: Kimberly Takahata
 source: "1764 edition"
+img: "p0071.jpg"
 ---
 
 
-[57]()
+[57]({{site.baseurl}}/images/{{page.img}})
 
 - Nor kill the winding snake, thy foes they eat.
 - Thus, on the mangrove-banks[^f57n1] of Guayaquil,[^f57n2]

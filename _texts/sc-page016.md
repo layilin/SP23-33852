@@ -3,10 +3,11 @@ layout: poem
 title: "page 16"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0030.jpg"
 ---
 
 
-[16]()
+[16]({{site.baseurl}}/images/{{page.img}})
 
 - Change, like Medusa's head, whate'er they touch,
 - To stony hardness; boast this fertile glebe.

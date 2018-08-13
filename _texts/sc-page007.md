@@ -3,10 +3,11 @@ layout: poem
 title: "page 7"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0021.jpg"
 ---
 
 
-[7]()
+[7]({{site.baseurl}}/images/{{page.img}})
 
 - Nor let his nectar, nor his silken pods, [35]
 - The sweet-smell'd cassia, or vast ceiba save.[^f7n1]

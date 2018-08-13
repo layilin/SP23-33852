@@ -3,10 +3,11 @@ layout: poem
 title: "page 13"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0027.jpg"
 ---
 
 
-[13]()
+[13]({{site.baseurl}}/images/{{page.img}})
 
 - And where the magnet first its aid declin'd;[^f13n1]
 - Alone, unterrified, didst thou not view?

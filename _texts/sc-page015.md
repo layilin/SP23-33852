@@ -3,10 +3,11 @@ layout: poem
 title: "page 15"
 editor: cristobal silva
 source: "1764 edition"
+img: "p0029.jpg"
 ---
 
 
-[15]()
+[15]({{site.baseurl}}/images/{{page.img}})
 
 - Prince of the forest, gave Barbadoes[^f15n1] name:
 - Chief Nevis, justly for its hot baths fam'd:

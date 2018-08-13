@@ -3,10 +3,11 @@ layout: poem
 title: "page 44"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0058.jpg"
 ---
 
 
-[44]()  
+[44]({{site.baseurl}}/images/{{page.img}})  
 
 - Well-fed,[^f44n1] well-cloath'd, all emulous to gain  
 - Their master's smile, who treated them like men;  

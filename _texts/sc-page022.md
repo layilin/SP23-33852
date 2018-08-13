@@ -3,10 +3,11 @@ layout: poem
 title: "page 22"
 editor: Steve Fragano
 source: "1764 edition"
+img: "p0036.jpg"
 ---
 
 
-[22]()
+[22]({{site.baseurl}}/images/{{page.img}})
 
 - IT not imports beneath what sign thy hoes
 - The deep trough sink, and ridge alternate raise:

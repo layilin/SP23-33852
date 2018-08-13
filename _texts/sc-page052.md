@@ -3,10 +3,11 @@ layout: page
 title: "page 52"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0066.jpg"
 ---
 
 
-[52]()  
+[52]({{site.baseurl}}/images/{{page.img}})  
 
 ## ARGUMENT.  
 

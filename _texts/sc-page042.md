@@ -3,10 +3,11 @@ layout: poem
 title: "page 42"
 editor: Ami Yoon
 source: "1764 edition"
+img: "p0056.jpg"
 ---
 
 
-[42]()  
+[42]({{site.baseurl}}/images/{{page.img}})  
 
 - \(Which nature to the soursop[^f42n1] had resign'd,\)  
 - With ginger, and with Raleigh's pungent plant,[^f42n2]  
