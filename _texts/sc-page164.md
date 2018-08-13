@@ -3,10 +3,11 @@ layout: page
 title: "page 164"
 editor: Julie Kim
 source: "1764 edition"
+img: "p0178.jpg"
 ---
 
 
-[164]()
+[164]({{site.baseurl}}/images/{{page.img}})
 
 Coffee-shrub, [internal] p. 43.  
 Carnation, Spanish-shrub, [internal] p. 36.  
