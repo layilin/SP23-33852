@@ -1,10 +1,12 @@
 ---
 layout: poem
-title: sample excerpt
-source: pp 147-160
+title: "Provision Grounds"
+source: pp 147-156
 editor: julie
 ---
 
+
+## Provision Grounds
 
 [147]()
 
@@ -35,6 +37,7 @@ editor: julie
 
 ---
 
+
 [148]()
 
 - And all the morbid share;—so heaven will bless,
@@ -61,6 +64,7 @@ editor: julie
 
 ---
 
+
 [149]()
 
 - Throw liberal o'er the prop; while ochra bears
@@ -85,6 +89,7 @@ editor: julie
 > VER. 462. *calaloo*\] Another species of Indian pot-herb, no less wholesome than the preceding. These, with mezamby, and the Jamaica prickle-weed, yield to no esculent plants in Europe. This is an Indian name.
 
 ---
+
 
 [150]()
 
@@ -117,6 +122,7 @@ editor: julie
 
 ---
 
+
 [151]()
 
 - And shrubby wilds, in bands will soon destroy
@@ -141,6 +147,7 @@ editor: julie
 > VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour, and therefore the French call them *Les apricots de St. Domingue*: accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them. The fruit, eaten raw, is of an aperient quality; and made into sweet-meats,
 
 ---
+
 
 [152]()
 
@@ -171,6 +178,7 @@ editor: julie
 
 ---
 
+
 [153]()
 
 - Thy fragrant shade to beautify the scene.
@@ -189,6 +197,7 @@ editor: julie
 > VER. 523. *palmeto*,\] This being the most beautiful of palms, nay, perhaps, superior to any other known tree in the world, has with propriety obtained the name of *Royal*. The botanical name is *Palma Maxima*. It will shoot up perpendicularly to an hundred feet and more. The stem is perfectly circular; only towards the root, and immediately under the branches at top, it bulges out. The bark is smooth, and of an ash-brown colour, except at the top where it is green. It grows very fast, and the seed from whence it springs is not bigger than an acorn. In this, as in all the palm-genus, what the natives call *Cabbage* is found; but it resembles in taste an almond, and is in fact the pith of the upper, or greenish part of the stem. But it would be the most unpardonable luxury to cut down so lovely a tree, for so mean a gratification; especially as the wild, or mountain cabbage tree, sufficiently supplies the table with that esculent. I never ride past the charming vista of royal palms on the Cayon-estate of Daniel Mathew, Esq; in St. Christopher, without being put in mind of the pillars of the Temple of the Sun at Palmyra. This tree grows on the tops of hills, as well as in valleys; its hard cortical part makes very durable laths for houses. There is a smaller species not quite so beautiful.
 
 ---
+
 
 [154]()
 
@@ -209,6 +218,7 @@ editor: julie
 > VER. 543. *granadilla*\] This is the Spanish name, and is a species of the *passiflora*, or passion-flower, called by Linnaeus *Musa*. The seeds and pulp, through which the seeds are dispersed, are cooling, and grateful to the palate. This, as well as the water-lemon, bell-apple, or honeysuckle, as it is named, being parasitical plants, are easily formed into cooling arbors, than which nothing can be more grateful in warm climates. Both fruits are wholesome. The granadilla is commonly eat with sugar, on account of its tartness, and yet the pulp is viscid. Plumier calls it *Granadilla*, *latefolia*, *fructu maliformi*. It grows best in shady places. The unripe fruit makes an excellent pickle.
 
 ---
+
 
 [155]()
 
@@ -238,6 +248,7 @@ editor: julie
 
 ---
 
+
 [156]()
 
 - Project enormous; of impurpled hue
@@ -253,99 +264,8 @@ editor: julie
 - So flames design'd, or by imprudence caught,
 - Shall spread no ruin to the neighbouring roof. [575]
 
-- YET nor the sounding margin of the main,
-
 > circular;\) and succeeds best in sandy places. It bears large clusters of grapes once a year; which, when ripe, are not disagreeable. The stones, seeds, or *acini*, contained in them, are large in proportion; and, being reduced to a powder, are an excellent astringent. The bark of the tree has the same property. The grapes, steept in water and fermented with sugar, make an agreeable wine.
 
 > VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America. It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree will also grow in the sand, and is most useful upon a plantation. 
-
----
-
-[157]()
-
-- Nor gently sloping side of breezy hill,
-- Nor streets, at distance due, imbower'd in trees;
-- Will half the health, or half the pleasure yield,
-- Unless some pitying naiad deign to lave, [580]
-- With an unceasing stream, thy thirsty bounds.
-
-- ON festal days; or when their work is done; 
-- Permit thy slaves to lead the choral dance,
-- To the wild banshaw's melancholy sound.
-- Responsive to the sound, head feet and frame [585]
-- Move aukwardly harmonious; hand in hand
-- Now lock'd, the gay troop circularly wheels,
-- And frisks and capers with intemperate joy.
-- Halts the vast circle, all clap hands and sing;
-- While those distinguish'd for their heels and air, [590]
-- Bound in the center, and fantastic twine.
-- Meanwhile some stripling, from the choral ring,
-- Trips forth; and, not ungallantly, bestows
-- On her who nimblest hath the greensward beat,
-- And whose flush'd beauties have inthrall'd his soul, [595]
-- A silver token of his fond applause.
-
-> VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound. 
-
----
-
-[158]()
-
-- Anon they form in ranks; nor inexpert
-- A thousand tuneful intricacies weave,
-- Shaking their sable limbs; and oft a kiss
-- Steal from their partners; who, with neck reclin'd, [600]
-- And semblant scorn, resent the ravish'd bliss.
-- But let not thou the drum their mirth inspire;
-- Nor vinous spirits: else, to madness fir'd, 
-- (What will not bacchanalian frenzy dare?)
-- Fell acts of blood, and vengeance they pursue. [605]
-
-- COMPEL by threats, or win by soothing arts,
-- Thy slaves to wed their fellow slaves at home;
-- So shall they not their vigorous prime destroy,
-- By distant journeys, at untimely hours,
-- When muffled midnight decks her raven-hair [610]
-- With the white plumage of the prickly vine.
-
-- WOULD'ST thou from countless ails preserve thy gang;
-
-> VER. 611. *prickly vine*\] This beautiful white rosaceous flower is as large as the crown of one's hat, and only blows at midnight. The plant, which is prickly and attaches itself firmly to the sides of houses, trees, *&c.* produces a fruit, which some call *Wythe Apple*, and others with more propriety, *Mountain strawberry*. But though it resembles the large Chili-strawberry in looks and size; yet being inelegant of taste, it is seldom eaten. The botanical name is *Cereus scandens minor*. The rind of the fruit is here and there studded with tufts of small sharp prickles.
-
----
-
-[159]()
-
-- To every Negroe, as the candle-weed
-- Expands his blossoms to the cloudy sky,
-- And moist Aquarius melts in daily showers; [615]
-- A wooly vestment give, (this Wiltshire weaves)
-- Warm to repel chill Night's unwholesome dews:
-- While strong coarse linen, from the Scotian loom,
-- Wards off the fervours of the burning day.
-
-- THE truly great, tho' from a hostile clime, [620]
-- The sacred Nine embalm; then, Muses, chant,
-- In grateful numbers, Gallic Lewis' praise:
-- For private murder quell'd; for laurel'd arts,
-- Invented, cherish'd in his native realm;
-- For rapine punish'd; for grim famine fed; [625]
-- For sly chicane expell'd the wrangling bar;
-- And rightful Themis seated on her throne:
-- But, chief, for those mild laws his wisdom fram'd,
-- To guard the AEthiop from tyrannic sway!
-
-- DID such, in these green isles which Albion claims, [630]
-- Did such obtain; the muse, at midnight-hour,
-
-> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus, makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic, but this I do not know from experience.
-
----
-
-[160]()
-
-- This last brain-racking study had not ply'd:
-- But, sunk in slumbers of immortal bliss,
-- To bards had listned on a fancied Thames!
 
 ---
