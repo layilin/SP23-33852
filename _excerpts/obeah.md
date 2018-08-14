@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: sample excerpt on obeah
-source: pp 143-145
+title: "Obeah"
 editor: julie
+source: "pp 143-145"
 ---
 
 
