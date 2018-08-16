@@ -1,24 +1,22 @@
 ---
 layout: poem  
 title: excerpt on climate  
-source: pp 26-28, 71-73
+source: pp 26-28, 69-74
 editor: ami yoon
 ---
 
 
 # Climate  
 
-Grainger's treatment of the tropical climate in *The Sugar-Cane* highlights the Caribbean environment's recalcitrance to colonial mastery, whether in the form of tempests, routine animal invasions, or even the irrepressible fertility of the land. *The Sugar-Cane* decenters imperialist conceit and anthropocentrism strikingly when Grainger turns to the climate, as he deploys poetic technologies to create an experience of sensory immersion in the New World, allowing space for an ecological consciousness that attends to relations among the human and the nonhuman.  
+The tropical climate of the West Indian islands can broadly be divided into the wet season, which occurs during the summer months, and the dry season of the winter months. The warm waters of the Atlantic Ocean and the Caribbean Sea determine a general equability of temperature across the region, with maximum temperatures rarely rising above 100°F/38°C. Such a climate enabled cane cultivation within the British Empire on a widespread scale. Topographical variabilities such as mountainous areas, however, contribute to differences in rainfall, which increases in amount with altitude. Unsurprisingly, periods of greatest rainfall coincides with the hurricane season, which falls between June and November, and peaks in August and September. During such months, up to twenty inches of rain may fall within the span of two or three days, and strong winds are apt to cause significant damage. Accordingly, we may trace a recalcitrance to colonial mastery on the part of the environment itself in Grainger's treatment of the tropical climate, and apprehend intimate contiguities among the human and the nonhuman under its compass.  
 
-Thus, focusing on the West Indian ecology opens up a way of reading the poem for an alternative narrative of ecological entanglement, embedded through Grainger's extensive passages on climate conditions, principally concentrated in the first and second books. "Let then Sagacity, with curious ken," the poet advises, "Remark the various signs of future rain" (I.311-312). Changes, or the regard for changes, in the weather oblige a heightened awareness of the nonhuman community, and even the land itself comes alive, "laughing" (I.354).  
+Thus, focusing on the West Indian ecology can open up a way of reading the poem for an alternative narrative of ecological entanglement, embedded through Grainger's extensive passages on climate conditions. "Let then Sagacity, with curious ken," the poet advises, "Remark the various signs of future rain" (I.311-312). Changes, or the regard for changes, in the weather oblige a heightened awareness of the nonhuman community, as can be seen in the portions of Book I excerpted below, in which the poet recounts a typical storm. Grainger continues to emphasize uncontrollable weather conditions as a source of anxiety for the planter in Book II, wherein he spends one hundred and ten lines (II.270-380)—almost a fifth of the entire book—describing the effects of a hurricane. In order to consider why he sees fit to render so much space to depicting a hurricane, all one hundred and ten lines have also been excerpted here. In reading about storms and hurricanes, it is worth thinking about the poet's anxieties as well as the planter's, by asking: how does Grainger manage the tension between the limits and the capacities of language to render overwhelming environmental circumstances? And how does Grainger deploy poetic technologies to create sensory immersion in the New World? What new affective ranges come into experience under such extreme circumstances, either expanding or contracting the emotional landscape of the plantation?  
 
-The weather also provides a useful point of entry for thinking about the affects that are to be had in the sugar colonies. Portions of the poem dedicated to cane cultivation often mention desire and ambition for potential wealth on the part of the enterprising planter, but tropical storms that overturn the plantation provoke a wide spectrum of emotions. Indeed, uncontrollable weather conditions cause great anxiety for the planter, and in Book II Grainger devotes one hundred and ten lines (II.270-380)—almost a fifth of the entire book—to describing the effects of a West Indian hurricane, the power of which is "all-wasting" (II.271). Representation becomes a fraught matter at this point in the poem, as the poet seeks to represent the natural phenomenon by relying on an array of poetic devices for aural and visual efficacy. In reading about storms and hurricanes, it is worth thinking about the poet's anxieties as well as the planter's, by asking: how does Grainger manage the tension between the limits and the capacities of language to render overwhelming environmental circumstances?  
-
-By way of an interesting comparison, we may remark that where Grainger foregrounds the vulnerability of not only the colonist but also his neighboring animal and vegetal communities before the West Indian climate, explicitly dwelling on such threats, another major eighteenth-century text on sugar cultivation, Colonel Samuel Martin's *An Essay on Plantership*, dispenses with any discussion of climate, however crucial it proves to be for the plantation's operations. Martin, to whom Grainger alludes in tribute in his Preface as well as at the start of Book III, expatiates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest the cane, but even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin nonetheless stresses the agency of the planter and his management above all, glossing over the details of "the destruction \[caused\] by hurricanes" (Martin 18). How, then, might we take *The Sugar-Cane*'s resolute commitment to the material realities of its specific West Indian context?  
+By way of an interesting comparison, we may remark that where Grainger foregrounds the vulnerability of not only the colonist but also his neighboring animal and vegetal communities before the West Indian climate, explicitly dwelling on such threats, another major eighteenth-century text on sugar cultivation, Colonel Samuel Martin's popular *An Essay on Plantership*, dispenses with any discussion of climate, however crucial it proves to be for colonial operations. In this treatise on the effective management of a plantation, Martin, an Antiguan-born British planter to whom Grainger alludes in tribute in his Preface as well as at the start of Book III, expatiates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest the cane, but even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin nonetheless stresses the agency of the planter and his administrative practices above all, glossing over the details of "the destruction \[caused\] by hurricanes" (Martin 18). How, then, might we take *The Sugar-Cane*'s resolute commitment to the material realities of its specific West Indian context? How does such a choice situate his text, at the nexus of poetry and natural history?  
 
 ---
 
-[26]()
+[26]({{site.baseurl}}/images/{{page.img}})
 
 - And with fell rage the stranger-guest assail, [335]
 - Nor spare the sportive child; from their retreats
@@ -28,6 +26,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - While those, the smother of combustion quells. [340]
 - The speckled lizard to its hole retreats,
 
+
 > VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
 
 > VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer. Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
@@ -36,7 +35,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
-[27]()
+[27]({{site.baseurl}}/images/{{page.img}})
 
 - And black crabs[^f27n1] travel from the mountain down;
 - Thy ducks their feathers prune; thy doves return,
@@ -51,13 +50,14 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Save those who open with the ready hoe
 - The enriching water-course: for, see, the drops,
 
+
 > All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana,[^f27n2] is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*,[^f27n3] forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator[^f27n4] is called *Iguana*.
 
 > VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*,[^f27n5] (owing, say planters, to their feeding on the mahoe-berry[^f27n6]) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.  
 
 ---  
 
-[28]()
+[28]({{site.baseurl}}/images/{{page.img}})
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
@@ -85,7 +85,63 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
-[71]()
+[69]({{site.baseurl}}/images/{{page.img}})
+
+- SAY, can the Muse, the pencil in her hand, [270]
+- The all-wasting hurricane observant ride?[^f69n1]
+- Can she, undazzled, view the lightning's glare,
+- That fires the welkin?[^f69n2] Can she, unappall'd,
+- When all the flood-gates of the sky are ope,
+- The shoreless deluge stem? The Muse hath seen [275]
+- The pillar'd flame, whose top hath reach'd the stars;
+- Seen rocky, molten fragments, flung in air
+- From AEtna's[^f69n3] vext abyss; seen burning streams
+- Pour down its channel'd sides; tremendous scenes!——
+- Yet not vext AEtna's pillar'd flames, that strike [280]
+- The stars; nor molten mountains hurl'd on high;
+- Nor ponderous rapid deluges, that burn
+- Its deeply-channel'd sides: cause such dismay,
+- Such desolation, Hurricane! as thou;
+- When the Almighty gives thy rage to blow, [285]
+- And all the battles of thy winds engage.
+
+- SOON as the Virgin's charms ingross the Sun;
+- And till his weaker flame the Scorpion feels;
+- But, chief, while Libra weighs the unsteddy year:[^f69n4]
+- Planter, with mighty props thy dome[^f69n5] support; [290]
+- Each flaw repair; and well, with massy bars,
+
+---
+
+[70]({{site.baseurl}}/images/{{page.img}})
+
+- Thy doors and windows guard; securely lodge
+- Thy stocks and mill-points.—Then, or calms obtain;
+- Breathless the royal palm-tree's airiest van;[^f70n1]
+- While, o'er the panting isle, the daemon Heat [295]
+- High hurls his flaming brand; vast, distant waves
+- The main drives furious in, and heaps the shore
+- With strange productions: Or, the blue serene
+- Assumes a louring[^f70n2] aspect, as the clouds
+- Fly, wild-careering, thro' the vault of heaven; [300]
+- Then transient birds, of various kinds, frequent
+- Each stagnant pool; some hover o'er thy roof;
+- Then Eurus reigns no more; but each bold wind,
+- By turns, usurps the empire of the air
+- With quick inconstancy; [305]
+- Thy herds, as sapient[^f70n3] of the coming storm,
+- (For beasts partake some portion of the sky,)
+- In troops associate; and, in cold sweats bath'd,
+- Wild-bellowing, eye the pole.[^f70n4] Ye seamen, now,
+- Ply to the southward, if the changeful moon, [310]
+- Or, in her interlunar palace hid,
+
+
+> VER. 293. *stocks and mill-points:*\] The sails are fastened to the mill-points, as those are to the stocks. They should always be taken down before the hurricane-season.  
+
+---
+
+[71]({{site.baseurl}}/images/{{page.img}})
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
@@ -112,7 +168,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[72]()
+[72]({{site.baseurl}}/images/{{page.img}})
 
 - Rushes the headlong sky; the city rocks;
 - The good man throws him on the trembling ground;
@@ -140,7 +196,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[73]()
+[73]({{site.baseurl}}/images/{{page.img}})
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
@@ -165,5 +221,33 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
 - The sails hang idly, noiseless, from the mast.[^f73n3] [375]
+
+---
+
+[74]({{site.baseurl}}/images/{{page.img}})
+
+- Thrice hapless he, whom thus the hand of fate
+- Compels to risque the insufferable beam!
+- A fiend, the worst the angry skies ordain
+- To punish sinful man, shall fatal seize
+- His wretched life, and to the tomb consign. [380]
+
+- WHEN such the ravage of the burning calm,
+- On the stout, sunny children of the hill;
+- What must thy Cane-lands feel? Thy late green sprouts
+- Nor bunch, nor joint; but, sapless, arid, pine:
+- Those, who have manhood reach'd, of yellow hue, [385]
+- (Symptom of health and strength) soon ruddy show;
+- While the rich juice that circled in their veins,
+- Acescent,[^f74n1] watery, poor, unwholesome tastes.
+
+- NOR only, planter, are thy Cane-groves burnt;
+- Thy life is threatened. Muse, the manner sing. [390]
+
+- THEN earthquakes, nature's agonizing pangs,
+- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+
+
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 ---
