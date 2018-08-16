@@ -25,10 +25,10 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Digital Grainger
-tagline:             "An Online Edition of The Sugar-Cane 1764"
-description:         'Digital Grainger includes'
-url:                 https://github.com/ktakahata/grainger
+title:               Digital
+tagline:             "A minimal edition of Grainger\'s Project"
+description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 https://github.com/minicomp/ed
 baseurl:             '/grainger'
 
 # About/contact
