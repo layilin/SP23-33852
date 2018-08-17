@@ -4,6 +4,7 @@ title: "page 65"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0079.jpg"
+order: 73
 ---
 
 

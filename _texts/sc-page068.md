@@ -4,6 +4,7 @@ title: "page 68"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0082.jpg"
+order: 76
 ---
 
 

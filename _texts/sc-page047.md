@@ -4,6 +4,7 @@ title: "page 47"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0061.jpg"
+order: 55
 ---
 
 
