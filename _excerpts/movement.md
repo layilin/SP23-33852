@@ -17,7 +17,7 @@ Interestingly, the stanzas of the poem in which Grainger describes dancing is fo
 How Grainger's portrayal of dancing and movement in the below passages shifts is therefore interesting to consider. Does his characterization and attitude towards it remain the same throughout? What does he imagine are the motives of the dancers? Is dance entertainment or something more? How does he paint the nighttime travels of the enslaved, as they moved under the cover of darkness? 
 
 
-[157]()
+[157]({{site.baseurl}}/images/p0171.jpg)
 
 - ON festal days; or when their work is done; 
 - Permit thy slaves to lead the choral dance,
@@ -46,7 +46,7 @@ How Grainger's portrayal of dancing and movement in the below passages shifts is
 ---
 
 
-[158]()
+[158]({{site.baseurl}}/images/p0172.jpg)
 
 - Anon they form in ranks; nor inexpert
 - A thousand tuneful intricacies weave,
