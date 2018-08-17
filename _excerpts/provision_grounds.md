@@ -8,7 +8,7 @@ editor: julie
 
 ## Provision Grounds
 
-[147]()
+[147]({{site.baseurl}}/images/p0161.jpg)
 
 - HOWE'ER insensate some may deem their slaves,
 - Nor 'bove the bestial rank; far other thoughts
@@ -38,7 +38,7 @@ editor: julie
 ---
 
 
-[148]()
+[148]({{site.baseurl}}/images/p0162.jpg)
 
 - And all the morbid share;—so heaven will bless,
 - With manifold encrease, thy costly care.
@@ -65,7 +65,7 @@ editor: julie
 ---
 
 
-[149]()
+[149]({{site.baseurl}}/images/p0163.jpg)
 
 - Throw liberal o'er the prop; while ochra bears
 - Aloft his slimy pulp, and help disdains.
@@ -91,7 +91,7 @@ editor: julie
 ---
 
 
-[150]()
+[150]({{site.baseurl}}/images/p0164.jpg)
 
 - THIS tract secure, with hedges or of limes, [465]
 - Or bushy citrons, or the shapely tree
@@ -123,7 +123,7 @@ editor: julie
 ---
 
 
-[151]()
+[151]({{site.baseurl}}/images/p0165.jpg)
 
 - And shrubby wilds, in bands will soon destroy
 - Thy labourer's honest wealth; their loss and yours.
@@ -149,7 +149,7 @@ editor: julie
 ---
 
 
-[152]()
+[152]({{site.baseurl}}/images/p0166.jpg)
 
 - Thee, the first natives of these Ocean-isles,
 - Fell anthropophagi, still sacred held;
@@ -179,7 +179,7 @@ editor: julie
 ---
 
 
-[153]()
+[153]({{site.baseurl}}/images/p0167.jpg)
 
 - Thy fragrant shade to beautify the scene.
 - But, chief of palms, and pride of Indian-groves,
@@ -199,7 +199,7 @@ editor: julie
 ---
 
 
-[154]()
+[154]({{site.baseurl}}/images/p0168.jpg)
 
 - Of Typhon, or of hurricane, destroy.
 - Nor should, tho' small, the anata not be sung:
@@ -220,7 +220,7 @@ editor: julie
 ---
 
 
-[155]()
+[155]({{site.baseurl}}/images/p0169.jpg)
 
 - Call'd water-lemon; grateful to the taste:
 - Nor should she not pursue the mountain-streams, [545]
@@ -249,7 +249,7 @@ editor: julie
 ---
 
 
-[156]()
+[156]({{site.baseurl}}/images/p0170.jpg)
 
 - Project enormous; of impurpled hue
 - Its frequent clusters glow. And there, if thou [565]
