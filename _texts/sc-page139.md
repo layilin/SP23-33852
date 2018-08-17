@@ -4,6 +4,7 @@ title: "page 139"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0153.jpg"
+order: 147
 ---
 
 
