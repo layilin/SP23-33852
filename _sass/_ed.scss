@@ -203,8 +203,8 @@ blockquote p:last-child {
 
 @media (min-width: 30em) {
   blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-right: 2rem;
+    padding-left: 0rem;
   }
 }
 
@@ -763,6 +763,7 @@ sup {
 	line-height: 1.2rem;
 	font-size: 0.9rem;
 	letter-spacing: .01rem;
+  margin-left: -1rem;
 }
 
 .footnotes .foot-block {

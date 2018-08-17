@@ -4,8 +4,12 @@ title: About
 creator: Kimberly Takahata
 ---
 
-## Editorial statement
+# About
 
+## History of the project
 
-## Credits
+## Editorial principles
 
+## Contact information
+
+## Acknowledgements and credits
