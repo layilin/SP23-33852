@@ -4,6 +4,7 @@ title: "page 19"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0033.jpg"
+order: 27
 ---
 
 
