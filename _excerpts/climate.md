@@ -16,6 +16,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
+
 [26]({{site.baseurl}}/images/p0040.jpg)
 
 - And with fell rage the stranger-guest assail, [335]
@@ -34,6 +35,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
 ---  
+
 
 [27]({{site.baseurl}}/images/p0041.jpg)
 
@@ -56,6 +58,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 > VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*, (owing, say planters, to their feeding on the mahoe-berry) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.  
 
 ---  
+
 
 [28]({{site.baseurl}}/images/p0042.jpg)
 
@@ -85,6 +88,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
+
 [69]({{site.baseurl}}/images/p0083.jpg)
 
 - SAY, can the Muse, the pencil in her hand, [270]
@@ -112,6 +116,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Each flaw repair; and well, with massy bars,
 
 ---
+
 
 [70]({{site.baseurl}}/images/p0084.jpg)
 
@@ -141,6 +146,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
+
 [71]({{site.baseurl}}/images/p0085.jpg)
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
@@ -167,6 +173,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 > VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.  
 
 ---
+
 
 [72]({{site.baseurl}}/images/p0086.jpg)
 
@@ -196,6 +203,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
+
 [73]({{site.baseurl}}/images/p0087.jpg)
 
 - Pauses the wind.—Anon the savage East
@@ -223,6 +231,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - The sails hang idly, noiseless, from the mast. [375]
 
 ---
+
 
 [74]({{site.baseurl}}/images/p0088.jpg)
 
