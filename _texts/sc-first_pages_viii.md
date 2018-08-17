@@ -4,6 +4,7 @@ title: "page viii"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0014.jpg"
+order: 8
 ---
 
 
