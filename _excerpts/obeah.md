@@ -129,4 +129,3 @@ Grainger's representation of obeah is interesting because it was composed in the
 [^f145n2]: Also known as Phosphorus. In Greek mythology, the bringer of morning light.
 
 ---
-
