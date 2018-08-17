@@ -23,7 +23,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 ---
 
 
-[143]({{site.baseurl}}/images/{{page.img}})
+[143]({{site.baseurl}}/images/p0157.jpg)
 
 - With double night brood o'er them; thou dost throw, [350]
 - O'er far-divided nature's realms, a chain
@@ -67,7 +67,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 ---
 
 
-[144]({{site.baseurl}}/images/{{page.img}})
+[144]({{site.baseurl}}/images/p0158.jpg)
 
 - They mope, love silence, every friend avoid;
 - They inly pine; all aliment reject;
@@ -98,7 +98,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 ---
 
 
-[145]({{site.baseurl}}/images/{{page.img}})
+[145]({{site.baseurl}}/images/p0159.jpg)
 
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;
