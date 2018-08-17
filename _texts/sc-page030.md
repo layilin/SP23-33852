@@ -4,6 +4,7 @@ title: "page 30"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0044.jpg"
+order: 38
 ---
 
 
