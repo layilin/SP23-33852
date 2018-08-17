@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: poem-page
 title: "page 166"
 editor: Julie Kim
 source: "1764 edition"

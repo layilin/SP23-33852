@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 106"
 editor: Lina Jiang
 source: "1764 edition"

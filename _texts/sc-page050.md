@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 50"
 editor: Cristobal Silva
 source: "1764 edition"

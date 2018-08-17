@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 12"
 editor: Steve Fragano
 source: "1764 edtion"

@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 140"
 editor: Elizabeth Cornell
 source: "1764 edition"

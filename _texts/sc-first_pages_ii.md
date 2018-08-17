@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: poem-page
 title: "page ii"
 editor: julie
 source: "1764 edition"

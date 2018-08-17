@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: poem-page
 title: "page vi"
 editor: Cristobal Silva
 source: "1764 edition"

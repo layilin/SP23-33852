@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 43"
 editor: Ami Yoon
 source: "1764 edition"

@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 73"
 editor: Kimberly Takahata
 source: "1764 edition"

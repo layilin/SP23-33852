@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem-page
 title: "page 5"
 editor: cristobal silva
 source: "1764 edition"
