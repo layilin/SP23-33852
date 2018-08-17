@@ -23,21 +23,51 @@ Grainger's representation of obeah is interesting because it was composed in the
 ---
 
 
-[143]({{site.baseurl}}/images/p0157.jpg)
+[143]({{site.baseurl}}/images/{{page.img}})
+
+- With double night brood o'er them; thou dost throw, [350]
+- O'er far-divided nature's realms, a chain
+- To bind in sweet society mankind.
+- By thee white Albion,[^f143n1] once a barbarous clime,
+- Grew fam'd for arms, for wisdom, and for laws;
+- By thee she holds the balance of the world, [355]
+- Acknowledg'd now sole empress of the main.[^f143n2]
+- Coy though thou art, and mutable of love,
+- There may'st thou ever fix thy wandering steps;
+- While Eurus[^f143n3] rules the wide atlantic foam! 
+- By thee, thy favourite, great Columbus[^f143n4] found [360]
+- That world, where now thy praises I rehearse
+- To the resounding main and palmy shore;
+- And Lusitania's[^f143n5] chiefs those realms explor'd,
+- Whence negroes spring, the subject of my song.
 
 - NOR pine the Blacks, alone, with real ills, [365]
 - That baffle oft the wisest rules of art:
-- They likewise feel imaginary woes;
+- They likewise feel imaginary woes;[^f143n6]
 - Woes no less deadly. Luckless he who owns
 - The slave, who thinks himself bewitch'd; and whom,
-- In wrath, a conjurer's snake-mark'd staff hath struck! [370]
+- In wrath, a conjurer's snake-mark'd staff[^f143n7] hath struck! [370]
 
 > VER. 370. *snake-mark'd*\] The negroe-conjurers, or Obia-men, as they are called, carry about them a staff, which is marked with frogs, snakes, *&c.* The
+
+[^f143n1]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
+
+[^f143n2]: Main refers to the open sea. Here, Grainger refers to Britain as the ruler of the sea. See, for example, the eighteenth-century poem by James Thomson, "Rule, Britannia!"
+
+[^f143n3]: In Greek mythology, the east wind.
+
+[^f143n4]: Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime.  
+
+[^f143n5]: Lusitania's. Lusitania (now modern Portugal) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.  
+
+[^f143n6]: Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as "fixed melancholy" in the latter half of the eighteenth century. Often associated with longing for friends and family, fixed melancholy became a common diagnosis for the enslaved, and physicians expressed concern that the illness would lead to suicide.  
+
+[^f143n7]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see [internal] "Obeah" on this site.
 
 ---
 
 
-[144]({{site.baseurl}}/images/p0158.jpg)
+[144]({{site.baseurl}}/images/{{page.img}})
 
 - They mope, love silence, every friend avoid;
 - They inly pine; all aliment reject;
@@ -45,30 +75,36 @@ Grainger's representation of obeah is interesting because it was composed in the
 - Their features droop; a sickly yellowish hue
 - Their skin deforms; their strength and beauty fly. [375]
 - Then comes the feverish fiend, with firy eyes,
-- Whom drowth, convulsions, and whom death surround,
+- Whom drowth,[^f144n1] convulsions, and whom death surround,
 - Fatal attendants! if some subtle slave
 - (Such, Obia-men are stil'd) do not engage,
 - To save the wretch by antidote or spell. [380]
 
 - IN magic spells, in Obia, all the sons
-- Of sable Africk trust:—Ye, sacred nine!
+- Of sable Africk trust:—Ye, sacred nine![^f144n2]
 - (For ye each hidden preparation know)
 - Transpierce the gloom, which ignorance and fraud
 - Have render'd awful; tell the laughing world [385]
 - Of what these wonder-working charms are made.
 
-> blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic is inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea, the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
+> blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic is inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea,[^f144n3] the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
+
+[^f144n1]: Dryness, thirst.  
+
+[^f144n2]: The nine muses of art, literature, and science.  
+
+[^f144n3]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.
 
 ---
 
 
-[145]({{site.baseurl}}/images/p0159.jpg)
+[145]({{site.baseurl}}/images/{{page.img}})
 
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;
 - A lizard's skeleton; a serpent's head:
 - These mix'd with salt, and water from the spring, [390]
-- Are in a phial pour'd; o'er these the leach
+- Are in a phial pour'd;[^f145n1] o'er these the leach
 - Mutters strange jargon, and wild circles forms.
 
 - OF this possest, each negroe deems himself
@@ -84,6 +120,13 @@ Grainger's representation of obeah is interesting because it was composed in the
 - Burst loathsome out: but should its owner filch,
 - As slaves were ever of the pilfering kind,
 - This from detection screens;—so conjurers swear. [405]
+
+- 'TILL morning dawn, and Lucifer[^f145n2] withdraw
+- His beamy chariot; let not the loud bell
+
+[^f145n1]: In addition to referring to a set of practices and beliefs, "obeah" or "obi" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials that were believed to have spiritual or sacred significance.  
+
+[^f145n2]: Also known as Phosphorus. In Greek mythology, the bringer of morning light.
 
 ---
 
