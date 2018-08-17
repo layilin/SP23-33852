@@ -6,7 +6,7 @@ source: "1764 edition"
 
 
 <!--Lines should be centered.-->
-[i]()
+i
 
 ---
 
@@ -21,7 +21,7 @@ A
 ---
 
 
-[ii]()
+ii
 
 [Frontispiece]
 
@@ -29,7 +29,7 @@ A
 
 
 <!--All lines below should be centered on the page; spacing between letters changes from line-to-line, if we want to replicate-->
-[iii]()
+iii
 
 THE
 
@@ -68,7 +68,7 @@ MDCCLXIV.
 ---
 
 
-[iv]()
+iv
 
 [Blank page]
 
@@ -77,7 +77,7 @@ MDCCLXIV.
 
 <!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
 
-[v]()
+v
 
 P R E F A C E.
 
@@ -100,7 +100,7 @@ IT must, however, be observed, that, though the general precepts are suited to e
 ---
 
 
-[vi]()
+vi
 
 modes of planting, with such propriety, as those I had seen practiced in that island, where it has been my good fortune chiefly to reside since I came to the West-Indies.
 
@@ -124,7 +124,7 @@ IT must be confessed, that terms of art look awkward in poetry; yet didactic[^fv
 
 
 <!-- four lines of latin poetry need to be indented, also in footnotes; em-dash in line 4 should be long dash-->
-[vii]()
+vii
 
 *Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
 *Fixa pedum pono pressis vestigia signis;*  
@@ -152,14 +152,14 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[viii]()
+viii
 
 [Blank page]
 
 ---
 
 
-[1]()
+1
 
 ---
 
@@ -173,7 +173,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 ---
 
-[2]()
+2
 
 ## ARGUMENT.
 
@@ -182,7 +182,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[3]()
+3
 
 ## THE SUGAR-CANE.
 
@@ -221,7 +221,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[4]()
+4
 
 - Their sylvan lore convey: O may I join 
 - This choral band, and from their precepts learn [15]
@@ -256,7 +256,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[5]()
+5
 
 - WHERE'ER the clouds relent in frequent rains,
 - And the Sun fiercely darts his Tropic beam, [25]
@@ -286,7 +286,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[6]()
+6
 
 - Roll'd numerous on the Bay, all fully fraught
 - With strong-grain'd muscovado, silvery-grey,[^f6n1]
@@ -330,7 +330,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[7]()
+7
 
 - Nor let his nectar, nor his silken pods, [35]
 - The sweet-smell'd cassia, or vast ceiba save.[^f7n1]
@@ -361,7 +361,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[8]()
+8
 
 - The golden shaddoc, the forbidden fruit,[^f8n1]
 - The white acajou, and rich sabbaca:[^f8n2] [45]
@@ -399,7 +399,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[9]()
+9
 
 - 'Spite of the dog-star,[^f9n1] shoots long yellow joints;[^f9n2] [55]
 - Concocts rich juice, tho' deluges descend.
@@ -437,7 +437,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[10]()
+10
 
 - Knit with the Graces, tun'd his silvan pipe,
 - While mute Attention hush'd each charmed rill;
@@ -464,7 +464,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[11]()
+11
 
 - Strow'd with each fruit of taste, each flower of smell, [65]
 - Sicilian Proserpine,[^f11n1] delighted, sought; 
@@ -506,7 +506,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[12]()
+12
 
 - SUCH the glad soil, from whence Jamaica's sons
 - Derive their opulence: thrice fertile land,
@@ -541,7 +541,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[13]()
+13
 
 - And where the magnet first its aid declin'd;[^f13n1]
 - Alone, unterrified, didst thou not view?
@@ -577,7 +577,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[14]()
+14
 
 - Thine age was spent solliciting the Prince,
 - To whom thou gav'st the sceptre of that world. [120]
@@ -623,7 +623,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[15]()
+15
 
 - Prince of the forest, gave Barbadoes[^f15n1] name:
 - Chief Nevis, justly for its hot baths fam'd:
@@ -654,7 +654,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[16]()
+16
 
 - Change, like Medusa's head, whate'er they touch,
 - To stony hardness; boast this fertile glebe.
@@ -688,7 +688,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[17]()
+17
 
 - To thee, if Fate low level land assign, [155]
 - Slightly cohering, and of sable hue,
@@ -720,7 +720,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[18]()
+18
 
 - Mow down thy sugars: and tho' all thy mills,
 - Crackling, o'erflow with a redundant juice;
@@ -756,7 +756,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[19]()
+19
 
 - PLANTER, if thou with wonder wouldst survey
 - Redundant harvests,[^f19n1] load thy willing soil;
@@ -792,7 +792,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[20]()
+20
 
 - OF composts shall the Muse descend to sing,
 - Nor soil her heavenly plumes? The sacred Muse
@@ -830,7 +830,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[21]()
+21
 
 - \'Tis known the yam will ne'er to bigness swell;
 - And from each mould the vegetable tribes,
@@ -862,7 +862,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[22]()
+22
 
 - IT not imports beneath what sign thy hoes
 - The deep trough sink, and ridge alternate raise:
@@ -896,7 +896,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[23]()
+23
 
 - Brigade and squadron, whiten on the sight;
 - And fill spectators with an awful joy.
@@ -932,7 +932,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[24]()
+24
 
 - The task how difficult, to cull the best
 - From thwarting sentiments; and best adorn
@@ -967,7 +967,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[25]()
+25
 
 - While yet the Sun, in cloudless lustre, shines: [320]
 - And draw their humid train o'er half the isle.
@@ -997,7 +997,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[26]()
+26
 
 - And with fell rage the stranger-guest assail, [335]
 - Nor spare the sportive child; from their retreats
@@ -1018,7 +1018,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[27]()
+27
 
 - And black crabs travel from the mountain down;[^f27n1]
 - Thy ducks their feathers prune; thy doves return,
@@ -1052,7 +1052,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[28]()
+28
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
@@ -1083,7 +1083,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[29]()  
+29  
 
 - BUT chief, let fix'd Attention cast his eye  
 - On the capt mountain, whose high rocky verge  
@@ -1115,7 +1115,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[30]()  
+30  
 
 - To glad the thirsty soil on which, arrang'd,  
 - The gemmy summits of the Cane await [395]  
@@ -1150,7 +1150,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[31]()  
+31  
 
 - WHILE Procyon[^f31n1] reigns yet fervid in the sky;  
 - While yet the fiery Sun in Leo[^f31n2] rides;  
@@ -1196,7 +1196,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[32]()  
+32  
 
 - Friend to the Cane-isles; trust not thou thy tops,  
 - Thy future riches, to the low-land plain: [435]  
@@ -1228,7 +1228,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[33]()  
+33  
 
 - Ere thy tops, trusted to the mountain-land, [455]  
 - Commence their jointing: but four moons suffice  
@@ -1263,7 +1263,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[34]()  
+34  
 
 - OF mountain-lands oeconomy permits  
 - A third, in Canes of mighty growth to rise:  
@@ -1306,7 +1306,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[35]()  
+35  
 
 - WITH limes, with lemons, let thy fences glow,  
 - Grateful to sense; now children of this clime: [500]  
@@ -1342,7 +1342,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[36]()  
+36  
 
 - Yet, if the cholic's[^f36n1] deathful pangs thou dread'st,  
 - Taste not its luscious nut. The acassee,[^f36n2] [510]  
@@ -1395,7 +1395,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[37]()  
+37  
 
 - Thy bloomy honours. Tipt with burnish'd gold,  
 - And with imperial purple crested high,  
@@ -1433,7 +1433,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[38]()  
+38  
 
 - They soon a formidable fence will shoot:  
 - Wild liquorice here its red beads loves to hang,[^f38n1]  
@@ -1478,7 +1478,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[39]()  
+39  
 
 - But independance: yet if thou, sweet maid,  
 - In health and virtue bloom; tho' worse betide,  
@@ -1514,7 +1514,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[40]()  
+40  
 
 - For cooling vast impenetrable shade?  
 - The muse, alas, th' experienc'd muse can tell: [570]  
@@ -1547,7 +1547,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[41]()  
+41  
 
 - To tropic suns, to fell barbaric hinds,  
 - A poor outcast, an alien, did he roam;  
@@ -1579,7 +1579,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[42]()  
+42  
 
 - \(Which nature to the soursop[^f42n1] had resign'd,\)  
 - With ginger, and with Raleigh's pungent plant,[^f42n2]  
@@ -1613,7 +1613,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[43]()  
+43  
 
 - His coffee bath'd, that glow'd with berries, red  
 - As Danae's lip, or, Theodosia, thine,[^f43n1]  
@@ -1650,7 +1650,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[44]()  
+44  
 
 - Well-fed,[^f44n1] well-cloath'd, all emulous to gain  
 - Their master's smile, who treated them like men;  
@@ -1685,7 +1685,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[45]()  
+45  
 
 - Planted; and which, impervious to the sun,  
 - His latter days beheld.—One noon he sat  
@@ -1712,7 +1712,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[46]()  
+46  
 
 - HE spoke, and ere the swift-wing'd zumbadore[^f46n1]  
 - The mountain-desert startl'd with his hum;  
@@ -1744,7 +1744,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[47]()  
+47  
 
 - To crush all undergrowth; before the sun,  
 - The planets thus withdraw their puny fires.  
@@ -1771,14 +1771,14 @@ The END of BOOK I.
 ---
 
 
-[48]()
+48
 
 [Blank]
 
 ---
 
 
-[49]()  
+49  
 
 ---
 
@@ -1792,14 +1792,14 @@ The END of BOOK I.
 ---  
 
 
-[50]()
+50
 
 [Blank]
 
 ---
 
 
-[51]()  
+51  
 
 ADVERTISEMENT to BOOK II.  
 
@@ -1810,7 +1810,7 @@ THE following Book having been originally addressed to WILLIAM SHENSTONE, Esq; a
 ---
 
 
-[52]()  
+52  
 
 ## ARGUMENT.  
 
@@ -1822,7 +1822,7 @@ and earthquakes. A tale.*
 ---
 
 
-[53]()  
+53  
 
 ## THE SUGAR-CANE.  
 
@@ -1851,7 +1851,7 @@ and earthquakes. A tale.*
 ---
 
 
-[54]()  
+54  
 
 - Oft sees red lightning at the midnight-hour,  
 - When nod the watches, stream along the sky;  
@@ -1885,7 +1885,7 @@ and earthquakes. A tale.*
 ---
 
 
-[55]()  
+55  
 
 - DESTRUCTIVE, on the upland sugar-groves  
 - The monkey-nation[^f55n1] preys: from rocky heights, [35]  
@@ -1926,7 +1926,7 @@ and earthquakes. A tale.*
 ---
 
 
-[56]()  
+56  
 
 - With these attack the predatory bands;  
 - Quickly the unequal conflict they decline,  
@@ -1962,7 +1962,7 @@ and earthquakes. A tale.*
 ---
 
 
-[57]()
+57
 
 - Nor kill the winding snake, thy foes they eat.
 - Thus, on the mangrove-banks[^f57n1] of Guayaquil,[^f57n2]
@@ -1995,7 +1995,7 @@ and earthquakes. A tale.*
 ---
 
 
-[58]()
+58
 
 - SOME place decoys, nor will they not avail,
 - Replete with roasted crabs, in every grove
@@ -2030,7 +2030,7 @@ and earthquakes. A tale.*
 ---
 
 
-[59]()
+59
 
 - Graze its polluted brinks, till rolling time
 - Have fin'd the water, and destroyed the bane.
@@ -2071,7 +2071,7 @@ and earthquakes. A tale.*
 ---
 
 
-[60]()
+60
 
 - From foul pollution, and unseemly rot;
 - Much will they benefit thy house and thee.
@@ -2121,7 +2121,7 @@ and earthquakes. A tale.*
 ---
 
 
-[61]()
+61
 
 - Sharp as the bee-sting, fasten in thy flesh,
 - And give thee up to torture. But, unhurt,
@@ -2155,7 +2155,7 @@ and earthquakes. A tale.*
 ---
 
 
-[62]()
+62
 
 - Tho' lofty Maro[^f62n1] (whose immortal muse
 - Distant I follow, and, submiss, adore)
@@ -2197,7 +2197,7 @@ and earthquakes. A tale.*
 ---
 
 
-[63]()
+63
 
 - Gather'd by those, who drink the Volga's[^f63n1] wave, [150]
 - (Prince of Europa's streams, itself a sea)
@@ -2234,7 +2234,7 @@ and earthquakes. A tale.*
 ---
 
 
-[64]()
+64
 
 - Feeds on the Indian fig;[^f64n1] and, should it harm
 - The foster plant, its worth that harm repays:
@@ -2273,7 +2273,7 @@ and earthquakes. A tale.*
 ---
 
 
-[65]()
+65
 
 - Planter, prefer them now: the rattling shower, [190]
 - Pour'd down in constant streams, for days and nights,
@@ -2316,7 +2316,7 @@ and earthquakes. A tale.*
 ---
 
 
-[66]()
+66
 
 - First pallid, sickly, dry, and withered show; [210]
 - Unseemly stains succeed; which, nearer viewed
@@ -2354,7 +2354,7 @@ and earthquakes. A tale.*
 ---
 
 
-[67]()
+67
 
 - As the waves, countless, that plough up the deep, [230]
 - (Where Eurus reigns vicegerent[^f67n1] of the sky,
@@ -2392,7 +2392,7 @@ and earthquakes. A tale.*
 ---
 
 
-[68]()
+68
 
 - Labour immense! and yet, if small the pest;
 - If numerous, if industrious be thy gang;
@@ -2422,7 +2422,7 @@ and earthquakes. A tale.*
 ---
 
 
-[69]()
+69
 
 - SAY, can the Muse, the pencil in her hand, [270]
 - The all-wasting hurricane observant ride?[^f69n1]
@@ -2461,7 +2461,7 @@ and earthquakes. A tale.*
 ---
 
 
-[70]()
+70
 
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;
@@ -2497,7 +2497,7 @@ and earthquakes. A tale.*
 ---
 
 
-[71]()
+71
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
@@ -2530,7 +2530,7 @@ and earthquakes. A tale.*
 ---
 
 
-[72]()
+72
 
 - Rushes the headlong sky; the city rocks;
 - The good man throws him on the trembling ground;
@@ -2563,7 +2563,7 @@ and earthquakes. A tale.*
 ---
 
 
-[73]()
+73
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
@@ -2598,7 +2598,7 @@ and earthquakes. A tale.*
 ---
 
 
-[74]()
+74
 
 - Thrice hapless he, whom thus the hand of fate
 - Compels to risque the insufferable beam!
@@ -2634,7 +2634,7 @@ and earthquakes. A tale.*
 ---
 
 
-[75]()
+75
 
 - Or sends forth thick, blue, suffocating steams;
 - Or shoots to temporary flame. A din,
@@ -2667,7 +2667,7 @@ and earthquakes. A tale.*
 ---
 
 
-[76]()
+76
 
 - Make direful, loud incursions on the land, [415]
 - All-overwhelming: Sudden they retreat,
@@ -2708,7 +2708,7 @@ and earthquakes. A tale.*
 ---
 
 
-[77]()
+77
 
 - He oft distinguish'd; and for whom he oft
 - Had climb'd the bending coco's airy height,
@@ -2737,7 +2737,7 @@ and earthquakes. A tale.*
 ---
 
 
-[78]()
+78
 
 - When he presented, more nectarious deem'd.— [440]
 - The sweetest sappadillas[^f78n1] oft he brought;
@@ -2774,7 +2774,7 @@ and earthquakes. A tale.*
 ---
 
 
-[79]()
+79
 
 - His sire detested his Theana's House!—
 - Thus duty, reverence, gratitude, conspir'd
@@ -2813,7 +2813,7 @@ and earthquakes. A tale.*
 ---
 
 
-[80]()
+80
 
 - TWICE one long year elaps'd, when letters came, [480]
 - Which briefly told him of his father's death.
@@ -2855,7 +2855,7 @@ and earthquakes. A tale.*
 ---
 
 
-[81]()
+81
 
 - Like clouds dim rising in the distant sky[^f81n1]. [500]
 - Glad Eurus whistles; laugh the sportive crew;
@@ -2904,7 +2904,7 @@ and earthquakes. A tale.*
 ---
 
 
-[82]()
+82
 
 - THO' faster than the Tropic-bird[^f82n1] they flew,
 - Oft Junio cried, ah! when shall we see land? [510]
@@ -2940,7 +2940,7 @@ and earthquakes. A tale.*
 ---
 
 
-[83]()
+83
 
 - Receiv'd him: at his sight, the antient slaves
 - Affrighted shriek, and to the chamber point:—
@@ -2970,7 +2970,7 @@ and earthquakes. A tale.*
 ---
 
 
-[84]()
+84
 
 - Ten thousand kisses gave. He strove to speak;
 - Nor words he found: he claspt her in his arms; [550]
@@ -2984,7 +2984,7 @@ The END of BOOK II.
 ---
 
 
-[85]()
+85
 
 ---  
 
@@ -2998,7 +2998,7 @@ The END of BOOK II.
 ---
 
 
-[86]()
+86
 
 ## ARGUMENT.
 
@@ -3007,7 +3007,7 @@ The END of BOOK II.
 ---
 
 
-[87]()
+87
 
 ## THE SUGAR-CANE
 
@@ -3031,7 +3031,7 @@ The END of BOOK II.
 ---
 
 
-[88]()
+88
 
 - HAIL, eldest birth of Time![^f88n1] in other climes,
 - In the old world, with tempests usher'd in;
@@ -3065,7 +3065,7 @@ The END of BOOK II.
 ---
 
 
-[89]()
+89
 
 - Charm'd with the murmur of the tinkling rill;
 - Charm'd with the hummings of the neighbouring hive;\)
@@ -3106,7 +3106,7 @@ The END of BOOK II.
 ---
 
 
-[90]()
+90
 
 - The ripened cane-piece; and, with her, to taste
 - \(Delicious draught!\) the nectar of the mill! [45]
@@ -3146,7 +3146,7 @@ The END of BOOK II.
 ---
 
 
-[91]()
+91
 
 - Aid not, ye winds! with your destroying breath,
 - The spreading vengeance.—They contemn my prayer. [65]
@@ -3180,7 +3180,7 @@ The END of BOOK II.
 ---
 
 
-[92]()
+92
 
 - Oft to prevent the earliest dawn of day, [85]
 - And walk thy ranges, at the noon of night?
@@ -3222,7 +3222,7 @@ The END of BOOK II.
 ---
 
 
-[93]()
+93
 
 - \(Ere Phosphor[^f93n1] his pale circlet yet withdraws,
 - What time grey dawn stands tip-toe on the hill,\)
@@ -3259,7 +3259,7 @@ The END of BOOK II.
 ---
 
 
-[94]()
+94
 
 - With sweet abundance. As on Lincoln-plains, [130]
 - \(Ye plains of Lincoln sound your Dyer's praise!\)[^f94n1]
@@ -3298,7 +3298,7 @@ The END of BOOK II.
 ---
 
 
-[95]()
+95
 
 - When health danc'd frolic in her youthful veins,
 - And vacant gambols wing'd the laughing hours;
@@ -3340,7 +3340,7 @@ The END of BOOK II.
 ---
 
 
-[96]()
+96
 
 - ARE there, the muse can scarce believe the tale; [170]
 - Are there, who lost to every feeling sense,
@@ -3369,7 +3369,7 @@ The END of BOOK II.
 ---
 
 
-[97]()
+97
 
 - In separate parcels, far, the infected fling:
 - Of bad Cane-juice the least admixture[^f97n1] spoils
@@ -3415,7 +3415,7 @@ The END of BOOK II.
 ---
 
 
-[98]()
+98
 
 - YET the faint breeze oft flags on listless wings,
 - Nor tremulates the coco's[^f98n1] airiest arch, [205]
@@ -3455,7 +3455,7 @@ The END of BOOK II.
 ---
 
 
-[99]()
+99
 
 - Nurse of each art; where science yet finds friends
 - Amid this waste of waters; wept thy rage?
@@ -3499,7 +3499,7 @@ The END of BOOK II.
 ---
 
 
-[100]()
+100
 
 - To this be nail'd three polish'd iron plates; [240]
 - Whereon, three steel Capouces,[^f100n1] turn with ease,
@@ -3546,7 +3546,7 @@ The END of BOOK II.
 ---
 
 
-[101]()
+101
 
 - Defend thy stock from noon's inclement blaze, [260]
 - And from night-dews; for night no respite knows.
@@ -3577,7 +3577,7 @@ The END of BOOK II.
 ---
 
 
-[102]()
+102
 
 - Await thy cattle! farcy's tabid[^f102n1] form,
 - Joint-racking spasms, and cholic's[^f102n2] pungent pang,
@@ -3628,7 +3628,7 @@ The END of BOOK II.
 ---
 
 
-[103]()
+103
 
 - From tyrants wrung, the many or the few.
 - By wealth, by titles, by ambition's lure,
@@ -3664,7 +3664,7 @@ The END of BOOK II.
 ---
 
 
-[104]()
+104
 
 - Or from thine ore, bright Venus, they are drawn;
 - Or hammer, or hot fusion, give them form.
@@ -3703,7 +3703,7 @@ The END of BOOK II.
 ---
 
 
-[105]()
+105
 
 - Thick mantles o'er the boiling wave, do thou
 - The skum that mantles carefully remove. 
@@ -3745,7 +3745,7 @@ The END of BOOK II.
 ---
 
 
-[106]()
+106
 
 - And, in the nectar of the yellowest Cane,
 - Much acor,[^f106n1] oil, and mucilage abound:
@@ -3777,7 +3777,7 @@ The END of BOOK II.
 ---
 
 
-[107]()
+107
 
 - In silence lock it, sudden, and constrain'd,
 - \(Death to Xantippe,\)[^f107n1] with distorting pain.
@@ -3818,7 +3818,7 @@ The END of BOOK II.
 ---
 
 
-[108]()
+108
 
 - And in whose strains your praises shall endure,
 - While to Sabrina[^f108n1] speeds your healing stream. [380]
@@ -3853,7 +3853,7 @@ The END of BOOK II.
 ---
 
 
-[109]()
+109
 
 - THE fam'd Bermuda's[^f109n1] ever-healthy isles,
 - More fam'd by gentle Waller's[^f109n2] deathless strains,
@@ -3890,7 +3890,7 @@ The END of BOOK II.
 ---
 
 
-[110]()
+110
 
 - For, if the skies too frequently relent,
 - Crude flows the Cane-juice, and will long elude
@@ -3920,7 +3920,7 @@ The END of BOOK II.
 ---
 
 
-[111]()
+111
 
 - Will in huge flinty masses chrystalize,
 - Which forceful fingers scarce can crumble down;
@@ -3953,7 +3953,7 @@ The END of BOOK II.
 ---
 
 
-[112]()
+112
 
 - Fraudful, their weight of sugar to increase.[^f112n1]
 - Far be such guile from Britain's honest swains.
@@ -3991,7 +3991,7 @@ The END of BOOK II.
 ---
 
 
-[113]()
+113
 
 - Serves needful purposes. Are barbecues
 - The cates[^f113n1] thou lov'st? What like rich skimmings feed [480]
@@ -4024,7 +4024,7 @@ The END of BOOK II.
 ---
 
 
-[114]()
+114
 
 - I spurn indignant; toil a pleasure seems.[^f114n1] [500]
 - For not Marne's flowery banks, nor Tille's green bounds,[^f114n2]
@@ -4074,7 +4074,7 @@ The END of BOOK II.
 ---
 
 
-[115]()
+115
 
 - How would your converse polish my rude lays,[^f115n1]
 - With what new, noble images adorn? [520]
@@ -4109,7 +4109,7 @@ The END of BOOK II.
 ---
 
 
-[116]()
+116
 
 - Butt the young negroes, while their swarthy sires, [535]
 - With ardent gladness wield the bill; and hark,
@@ -4143,7 +4143,7 @@ The END of BOOK II.
 ---
 
 
-[117]()
+117
 
 - A double Iris[^f117n1] throws her painted arch, [550]
 - Shows commerce toiling in each crowded street,
@@ -4184,7 +4184,7 @@ The END of BOOK II.
 ---
 
 
-[118]()
+118
 
 - Deep, moral truths convey;[^f118n1] while every beam [570]
 - Flings on them transient tints, which vary when
@@ -4226,7 +4226,7 @@ The END of BOOK II.
 ---
 
 
-[119]()
+119
 
 - Weave antic measures. O, could my weak song,
 - O could my song, like his, heaven-favoured bard,
@@ -4272,7 +4272,7 @@ The END of BOOK II.
 ---
 
 
-[120]()
+120
 
 - The large, black, female, moulting crab[^f120n1] excel? [610]
 - A richer flavour not wild Cambria's[^f120n2] hills,
@@ -4320,7 +4320,7 @@ The END of BOOK II.
 ---
 
 
-[121]()
+121
 
 - Leave Europe; there, through all her coyest ways, [625]
 - Her secret mazes, nature is pursued:
@@ -4351,7 +4351,7 @@ The END of BOOK II.
 ---
 
 
-[122]()
+122
 
 - Of use to mortal man, life to prolong,
 - To soften, or adorn; what genuine joy,
@@ -4366,7 +4366,7 @@ The END of BOOK III.
 ---
 
 
-[123]()
+123
 
 ---
 
@@ -4380,7 +4380,7 @@ The END of BOOK III.
 ---
 
 
-[124]()
+124
 
 ## ARGUMENT.
 
@@ -4389,7 +4389,7 @@ The END of BOOK III.
 ---
 
 
-[125]()
+125
 
 ## The SUGAR-CANE.
 
@@ -4425,7 +4425,7 @@ The END of BOOK III.
 ---
 
 
-[126]()
+126
 
 - Thine arms, and ankles: O attend my song.
 - A muse that pities thy distressful state;[^f126n1] 
@@ -4474,7 +4474,7 @@ The END of BOOK III.
 ---
 
 
-[127]()
+127
 
 - What care the jetty African requires?[^f127n1] [35]
 - Yes, thou wilt deign to hear; a man thou art
@@ -4516,7 +4516,7 @@ The END of BOOK III.
 ---
 
 
-[128]()
+128
 
 - Thy chief attention; and the ambrosial cane [55]
 - Thou long'st to see, with spiry frequence, shade
@@ -4556,7 +4556,7 @@ The END of BOOK III.
 ---
 
 
-[129]()
+129
 
 - Not prominent their belly; clean and strong
 - Their thighs and legs, in just proportion rise.[^f129n1]
@@ -4595,7 +4595,7 @@ The END of BOOK III.
 ---
 
 
-[130]()
+130
 
 - Soon grow familiar; while unusual toil,
 - And new severities their husbands kill.
@@ -4640,7 +4640,7 @@ The END of BOOK III.
 ---
 
 
-[131]()
+131
 
 - Yet many die; and few, for many a year,
 - Just strength attain to labour for their lord.
@@ -4682,7 +4682,7 @@ The END of BOOK III.
 ---
 
 
-[132]()
+132
 
 - Thrice wholesome fruit in this relaxing clime!
 - Safely thou may'st their appetite indulge.
@@ -4720,7 +4720,7 @@ The END of BOOK III.
 ---
 
 
-[133]()
+133
 
 - Oft chalk prefer to the most poignant cates:\)[^f133n1]
 - Such, dropsy bloats, and to sure death consigns;
@@ -4763,7 +4763,7 @@ The END of BOOK III.
 ---
 
 
-[134]()
+134
 
 - The earth's dark surface; where sulphureous flames, [170]
 - Oft from their vapoury prisons bursting wild,
@@ -4806,7 +4806,7 @@ The END of BOOK III.
 ---
 
 
-[135]()
+135
 
 - See, in the mineral bosom of their land, [190]
 - How hard they toil! how soon their youthful limbs
@@ -4839,7 +4839,7 @@ The END of BOOK III.
 ---
 
 
-[136]()
+136
 
 - YET, planter, let humanity prevail.[^f136n1]—
 - Perhaps thy Negroe, in his native land,
@@ -4879,7 +4879,7 @@ The END of BOOK III.
 ---
 
 
-[137]()
+137
 
 - 'Twould be the fond ambition of her soul,
 - To quell tyrannic sway;[^f137n1] knock off the chains [235]
@@ -4918,7 +4918,7 @@ The END of BOOK III.
 ---
 
 
-[138]()
+138
 
 - NOR only is the dragon worm[^f138n1] to dread:
 - Fell, winged insects,[^f138n2] which the visual ray
@@ -4954,7 +4954,7 @@ The END of BOOK III.
 ---
 
 
-[139]()
+139
 
 - The lurking evil from the blood expel,
 - And throw it on the surface: There in spots [270]
@@ -4992,7 +4992,7 @@ The END of BOOK III.
 ---
 
 
-[140]()
+140
 
 - YET, of the ills which torture Libya's sons, [290]
 - Worms tyrannize the worst. They, Proteus-like,[^f140n1]
@@ -5035,7 +5035,7 @@ The END of BOOK III.
 ---
 
 
-[141]()
+141
 
 - A powerful vermifuge, in skilful hands,
 - The worm-grass[^f141n1] proves; yet, even in hands of skill,
@@ -5070,7 +5070,7 @@ The END of BOOK III.
 ---
 
 
-[142]()
+142
 
 - Felt his heart wither on his farthest throne.
 - Perennial source of population thou!
@@ -5109,7 +5109,7 @@ The END of BOOK III.
 ---
 
 
-[143]()
+143
 
 - With double night brood o'er them; thou dost throw, [350]
 - O'er far-divided nature's realms, a chain
@@ -5153,7 +5153,7 @@ The END of BOOK III.
 ---
 
 
-[144]()
+144
 
 - They mope, love silence, every friend avoid;
 - They inly pine; all aliment reject;
@@ -5184,7 +5184,7 @@ The END of BOOK III.
 ---
 
 
-[145]()
+145
 
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;
@@ -5217,7 +5217,7 @@ The END of BOOK III.
 ---
 
 
-[146]()
+146
 
 - Call forth thy negroes from their rushy couch:[^f146n1]
 - And ere the sun with mid-day fervour glow,
@@ -5252,7 +5252,7 @@ The END of BOOK III.
 ---
 
 
-[147]()
+147
 
 - HOWE'ER insensate some may deem their slaves,
 - Nor 'bove the bestial rank; far other thoughts
@@ -5290,7 +5290,7 @@ The END of BOOK III.
 ---
 
 
-[148]()
+148
 
 - And all the morbid share;—so heaven will bless,
 - With manifold encrease, thy costly care.
@@ -5329,7 +5329,7 @@ The END of BOOK III.
 ---
 
 
-[149]()
+149
 
 - Throw liberal o'er the prop; while ochra[^f149n1] bears
 - Aloft his slimy pulp, and help disdains.
@@ -5375,7 +5375,7 @@ The END of BOOK III.
 ---
 
 
-[150]()
+150
 
 - THIS tract secure, with hedges or of limes, [465]
 - Or bushy citrons, or the shapely tree
@@ -5425,7 +5425,7 @@ The END of BOOK III.
 ---
 
 
-[151]()
+151
 
 - And shrubby wilds, in bands will soon destroy
 - Thy labourer's honest wealth; their loss and yours.
@@ -5477,7 +5477,7 @@ The END of BOOK III.
 ---
 
 
-[152]()
+152
 
 - Thee, the first natives of these Ocean-isles,
 - Fell anthropophagi,[^f152n1] still sacred held;
@@ -5517,7 +5517,7 @@ The END of BOOK III.
 ---
 
 
-[153]()
+153
 
 - Thy fragrant shade to beautify the scene.
 - But, chief of palms, and pride of Indian-groves,
@@ -5553,7 +5553,7 @@ The END of BOOK III.
 ---
 
 
-[154]()
+154
 
 - Of Typhon, or of hurricane, destroy.
 - Nor should, tho' small, the anata[^f154n1] not be sung:
@@ -5584,7 +5584,7 @@ The END of BOOK III.
 ---
 
 
-[155]()
+155
 
 - Call'd water-lemon; grateful to the taste:
 - Nor should she not pursue the mountain-streams, [545]
@@ -5619,7 +5619,7 @@ The END of BOOK III.
 ---
 
 
-[156]()
+156
 
 - Project enormous; of impurpled hue
 - Its frequent clusters glow. And there, if thou [565]
@@ -5653,7 +5653,7 @@ The END of BOOK III.
 ---
 
 
-[157]()
+157
 
 - Nor gently sloping side of breezy hill,
 - Nor streets, at distance due, imbower'd in trees;
@@ -5688,7 +5688,7 @@ The END of BOOK III.
 ---
 
 
-[158]()
+158
 
 - Anon they form in ranks; nor inexpert
 - A thousand tuneful intricacies weave,
@@ -5724,7 +5724,7 @@ The END of BOOK III.
 ---
 
 
-[159]()
+159
 
 - To every Negroe, as the candle-weed[^f159n1]
 - Expands his blossoms to the cloudy sky,
@@ -5775,7 +5775,7 @@ The END of BOOK III.
 ---
 
 
-[160]()
+160
 
 - This last brain-racking study had not ply'd:
 - But, sunk in slumbers of immortal bliss,
@@ -5812,7 +5812,7 @@ The END of BOOK III.
 ---
 
 
-[161]()
+161
 
 - AH me, what thunders roll! the sky's on fire!
 - Now sudden darkness muffles up the pole!
@@ -5845,7 +5845,7 @@ The END of BOOK III.
 ---
 
 
-[162]()
+162
 
 - And must for ever; still indulgent share [675]
 - Her fostering smile: and other isles be given,
@@ -5862,7 +5862,7 @@ The END of BOOK IV.
 ---
 
 
-[163]()
+163
 
 ## INDEX
 
@@ -5926,7 +5926,7 @@ Cacao-tree, [internal] p. 42.
 ---
 
 
-[164]()
+164
 
 Coffee-shrub, [internal] p. 43.  
 Carnation, Spanish-shrub, [internal] p. 36.  
@@ -5998,7 +5998,7 @@ Guaiac-tree, [internal] p. 7.
 ---
 
 
-[165]()
+165
 
 Guayaquil river, [internal] p. 57.  
 Gold-coast Negroes, [internal] p. 128.  
@@ -6073,7 +6073,7 @@ Montano, a character, [internal] p. 40.
 ---
 
 
-[166]()
+166
 
 Melasses, [internal] p. 111.  
 Mangrove-tree, [internal]  p. 57.  
@@ -6156,7 +6156,7 @@ Sugar, [internal] p. 3.
 ---
 
 
-[167]()
+167
 
 Soursop-tree, [internal] p. 42.  
 Solanum-plant, [internal] p. 146.  
@@ -6235,7 +6235,7 @@ Zumbadore-bird, [internal] p. 46.
 ---
 
 
-[168]()
+168
 
 ## ERRATA.
 
