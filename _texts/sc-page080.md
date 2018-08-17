@@ -4,6 +4,7 @@ title: "page 80"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0094.jpg"
+order: 88
 ---
 
 
