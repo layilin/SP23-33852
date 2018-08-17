@@ -21,7 +21,7 @@ In spite of the tendency of colonists and Europeans to dismiss obeah and obeah p
 Grainger's representation of obeah is interesting because it was composed in the immediate aftermath of Tacky's Revolt. As you read, you may want to think about the following questions: How does Grainger represent obeah, and does his description associate obeah with any forms of rebellion? What effects does he see obeah having on enslaved laborers and the plantation? How does he characterize obeah men and those who believed in obeah?  
 
 
-[143]()
+[143]({{site.baseurl}}/images/p0157.jpg)
 
 - NOR pine the Blacks, alone, with real ills, [365]
 - That baffle oft the wisest rules of art:
@@ -34,7 +34,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 
 ---
 
-[144]()
+[144]({{site.baseurl}}/images/p0158.jpg)
 
 - They mope, love silence, every friend avoid;
 - They inly pine; all aliment reject;
@@ -58,7 +58,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 
 ---
 
-[145]()
+[145]({{site.baseurl}}/images/p0159.jpg)
 
 - FERN root cut small, and tied with many a knot;
 - Old teeth extracted from a white man's skull;
