@@ -14,6 +14,8 @@ markdown: kramdown
 collections:
   texts:
     output: true
+  excerpts:
+    output: true
 
 kramdown:
   auto_ids:       true
@@ -25,9 +27,9 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Digital
-tagline:             "A minimal edition of Grainger\'s Project"
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Digital Grainger
+tagline:             "An Online Edition of *The Sugar-Cane* 1764"
+description:         'Digital Grainger includes'
 url:                 https://github.com/minicomp/ed
 baseurl:             '/grainger'
 
