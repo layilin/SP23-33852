@@ -4,6 +4,7 @@ title: "page 4"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0018.jpg"
+order: 12
 ---
 
 
