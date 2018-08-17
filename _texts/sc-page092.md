@@ -4,6 +4,7 @@ title: "page 92"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0106.jpg"
+order: 100
 ---
 
 
