@@ -20,6 +20,8 @@ In spite of the tendency of colonists and Europeans to dismiss obeah and obeah p
 
 Grainger's representation of obeah is interesting because it was composed in the immediate aftermath of Tacky's Revolt. As you read, you may want to think about the following questions: How does Grainger represent obeah, and does his description associate obeah with any forms of rebellion? What effects does he see obeah having on enslaved laborers and the plantation? How does he characterize obeah men and those who believed in obeah?  
 
+---
+
 
 [143]({{site.baseurl}}/images/p0157.jpg)
 
@@ -33,6 +35,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 > VER. 370. *snake-mark'd*\] The negroe-conjurers, or Obia-men, as they are called, carry about them a staff, which is marked with frogs, snakes, *&c.* The
 
 ---
+
 
 [144]({{site.baseurl}}/images/p0158.jpg)
 
@@ -57,6 +60,7 @@ Grainger's representation of obeah is interesting because it was composed in the
 > blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic is inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea, the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
 
 ---
+
 
 [145]({{site.baseurl}}/images/p0159.jpg)
 
