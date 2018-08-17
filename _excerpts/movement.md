@@ -35,13 +35,7 @@ How Grainger's portrayal of dancing and movement in the below passages shifts is
 - And whose flush'd beauties have inthrall'd his soul, [595]
 - A silver token of his fond applause.
 
-> VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound. 
-
-: A nymph of springs, rivers, and lakes in Greek mythology. 
-
-: The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures.  
-
-: Grass-covered ground, turf. 
+> VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound.  
 
 ---
 
@@ -67,13 +61,5 @@ How Grainger's portrayal of dancing and movement in the below passages shifts is
 
 
 > VER. 611. *prickly vine*\] This beautiful white rosaceous flower is as large as the crown of one's hat, and only blows at midnight. The plant, which is prickly and attaches itself firmly to the sides of houses, trees, *&c.* produces a fruit, which some call *Wythe Apple*, and others with more propriety, *Mountain strawberry*. But though it resembles the large Chili-strawberry in looks and size; yet being inelegant of taste, it is seldom eaten. The botanical name is *Cereus scandens minor*. The rind of the fruit is here and there studded with tufts of small sharp prickles.
-
-: Planters were often concerned about the enslaved marrying across plantations, since they believed that such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence since such travel often happened at night, when it would be easier for the enslaved to escape the surveillance of planters. 
-
-: Grainger refers here to the night-blooming cereus (*Selenicereus grandiflorus*), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua.  
-
-: blooms. 
-
-: The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).
 
 ---
