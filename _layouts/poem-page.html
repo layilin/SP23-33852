@@ -4,31 +4,28 @@ layout: default
 <div class="container content" id="main">
 <div class="poetry">
   {{ content }}
-{% if page.texts %}
-	hello
-{% endif %}
-  <!-- {% if page.texts %}
-    {% assign links = site[page.texts]  %}
-{% endif %}
+  {% assign documents = site.texts | sort: 'order' %}
+{% assign first_url = documents.first.url | relative_url %}
+{% assign last_url = documents.last.url | relative_url %}
 
-{% for link in links %}
-	{% if link.title == page.title %}
-		{% unless forloop.first %}
-			{% assign prev = tmpprev %}
-		{% endunless %}
-		{% unless forloop.last %}
-			{% assign next = links[forloop.index] %}
-		{% endunless %}
-	{% endif %}
-	{% assign tmpprev = link %}
+{% for doc in documents %}
+  {% if doc.order == include.order %}
+    {% if forloop.first %}
+      {% assign prev_url = last_url | relative_url %}
+    {% else %}
+      {% assign prev_url = prev.url | relative_url %}
+    {% endif %}
+    {% if forloop.last %}
+      {% assign next_url = first_url | relative_url %}
+    {% else %}
+      {% assign next_url = documents[forloop.index].url | relative_url %}
+    {% endif %}
+    {% break %}
+  {% endif %}
+  {% assign prev = doc %}
 {% endfor %}
-
-<ul class="prevnext">
-	<li>{% if prev %}<a href="{{ prev.url}}">&lt; {{ prev.title }}</a>{% endif %}</li>
-	<li>{% if next %}<a href="{{ next.url}}">{{ next.title }} &gt;</a>{% endif %}</li>
-</ul> -->
-<!--   <a class="navigation" href="#">previous</a> | 
-  <a class="navigation" href="#">next</a> -->
+  <a class="navigation" href="{{ prev_url }}">Previous</a> | 
+  <a class="navigation" href="{{ next_url }}">Next</a>
 </div>
 </div>
 
