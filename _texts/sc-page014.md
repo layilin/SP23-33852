@@ -37,7 +37,8 @@ order: 22
 > "High over-arch'd, and echoing walks between.  
 > "There oft the Indian herdsman, shunning heat,  
 > "Shelters in cool, and tends his pasturing herds  
-> "At Loop-holes cut through thickest shade."——  
+> "At Loop-holes cut through thickest shade."—— 
+{:.latin} 
       
 > What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
 

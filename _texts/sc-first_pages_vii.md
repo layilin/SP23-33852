@@ -11,10 +11,11 @@ order: 7
 <!-- four lines of latin poetry need to be indented, also in footnotes; em-dash in line 4 should be long dash-->
 [vii]({{site.baseurl}}/images/{{page.img}})
 
-*Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
-*Fixa pedum pono pressis vestigia signis;*  
-*Non ita certandi cupidus, quam propter amorem,*  
-*Quod vos imitari aveo.——*[^fviin1]  
+> *Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
+> *Fixa pedum pono pressis vestigia signis;*  
+> *Non ita certandi cupidus, quam propter amorem,*  
+> *Quod vos imitari aveo.——*[^fviin1]  
+{:.latin}
 
 Yet, like them too, I have generally preferred the way of description, wherever that could be done without hurting the subject.
 
