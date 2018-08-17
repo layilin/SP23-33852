@@ -4,6 +4,7 @@ title: "page vi"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0012.jpg"
+order: 6
 ---
 
 
