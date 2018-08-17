@@ -35,7 +35,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
-[27]({{site.baseurl}}/images/{{page.img}})
+[27]({{site.baseurl}}/images/p0041.jpg)
 
 - And black crabs travel from the mountain down;
 - Thy ducks their feathers prune; thy doves return,
@@ -57,7 +57,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
-[28]({{site.baseurl}}/images/{{page.img}})
+[28]({{site.baseurl}}/images/p0042.jpg)
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
@@ -85,7 +85,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---  
 
-[69]({{site.baseurl}}/images/{{page.img}})
+[69]({{site.baseurl}}/images/p0083.jpg)
 
 - SAY, can the Muse, the pencil in her hand, [270]
 - The all-wasting hurricane observant ride?
@@ -113,7 +113,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[70]({{site.baseurl}}/images/{{page.img}})
+[70]({{site.baseurl}}/images/p0084.jpg)
 
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;
@@ -141,7 +141,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[71]({{site.baseurl}}/images/{{page.img}})
+[71]({{site.baseurl}}/images/p0085.jpg)
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
@@ -168,7 +168,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[72]({{site.baseurl}}/images/{{page.img}})
+[72]({{site.baseurl}}/images/p0086.jpg)
 
 - Rushes the headlong sky; the city rocks;
 - The good man throws him on the trembling ground;
@@ -196,7 +196,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[73]({{site.baseurl}}/images/{{page.img}})
+[73]({{site.baseurl}}/images/p0087.jpg)
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
@@ -224,7 +224,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[74]({{site.baseurl}}/images/{{page.img}})
+[74]({{site.baseurl}}/images/p0088.jpg)
 
 - Thrice hapless he, whom thus the hand of fate
 - Compels to risque the insufferable beam!
