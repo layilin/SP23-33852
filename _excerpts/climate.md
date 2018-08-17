@@ -16,13 +16,13 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 ---
 
-[26]({{site.baseurl}}/images/{{page.img}})
+[26]({{site.baseurl}}/images/p0040.jpg)
 
 - And with fell rage the stranger-guest assail, [335]
 - Nor spare the sportive child; from their retreats
 - Cockroaches crawl displeasingly abroad:
 - These, without pity, let thy slaves destroy;
-- \(Like Harpies,[^f26n1] they defile whate'er they touch:)
+- \(Like Harpies, they defile whate'er they touch:)
 - While those, the smother of combustion quells. [340]
 - The speckled lizard to its hole retreats,
 
@@ -37,7 +37,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 [27]({{site.baseurl}}/images/{{page.img}})
 
-- And black crabs[^f27n1] travel from the mountain down;
+- And black crabs travel from the mountain down;
 - Thy ducks their feathers prune; thy doves return,
 - In faithful flocks, and, on the neighbouring roof,
 - Perch frequent; where, with pleas'd attention, they [345]
@@ -51,9 +51,9 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - The enriching water-course: for, see, the drops,
 
 
-> All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana,[^f27n2] is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*,[^f27n3] forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator[^f27n4] is called *Iguana*.
+> All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana, is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*, forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator is called *Iguana*.
 
-> VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*,[^f27n5] (owing, say planters, to their feeding on the mahoe-berry[^f27n6]) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.  
+> VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*, (owing, say planters, to their feeding on the mahoe-berry) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.  
 
 ---  
 
@@ -61,7 +61,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
-- The coyest Naiads[^f28n1] quit their rocky caves, [355]
+- The coyest Naiads quit their rocky caves, [355]
 - And, with delight, run brawling to the main;
 - While those, who love still visible to glad
 - The thirsty plains from never-ceasing urns,
@@ -88,14 +88,14 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 [69]({{site.baseurl}}/images/{{page.img}})
 
 - SAY, can the Muse, the pencil in her hand, [270]
-- The all-wasting hurricane observant ride?[^f69n1]
+- The all-wasting hurricane observant ride?
 - Can she, undazzled, view the lightning's glare,
-- That fires the welkin?[^f69n2] Can she, unappall'd,
+- That fires the welkin? Can she, unappall'd,
 - When all the flood-gates of the sky are ope,
 - The shoreless deluge stem? The Muse hath seen [275]
 - The pillar'd flame, whose top hath reach'd the stars;
 - Seen rocky, molten fragments, flung in air
-- From AEtna's[^f69n3] vext abyss; seen burning streams
+- From AEtna's vext abyss; seen burning streams
 - Pour down its channel'd sides; tremendous scenes!——
 - Yet not vext AEtna's pillar'd flames, that strike [280]
 - The stars; nor molten mountains hurl'd on high;
@@ -107,8 +107,8 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - SOON as the Virgin's charms ingross the Sun;
 - And till his weaker flame the Scorpion feels;
-- But, chief, while Libra weighs the unsteddy year:[^f69n4]
-- Planter, with mighty props thy dome[^f69n5] support; [290]
+- But, chief, while Libra weighs the unsteddy year:
+- Planter, with mighty props thy dome support; [290]
 - Each flaw repair; and well, with massy bars,
 
 ---
@@ -117,22 +117,22 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;
-- Breathless the royal palm-tree's airiest van;[^f70n1]
+- Breathless the royal palm-tree's airiest van;
 - While, o'er the panting isle, the daemon Heat [295]
 - High hurls his flaming brand; vast, distant waves
 - The main drives furious in, and heaps the shore
 - With strange productions: Or, the blue serene
-- Assumes a louring[^f70n2] aspect, as the clouds
+- Assumes a louring aspect, as the clouds
 - Fly, wild-careering, thro' the vault of heaven; [300]
 - Then transient birds, of various kinds, frequent
 - Each stagnant pool; some hover o'er thy roof;
 - Then Eurus reigns no more; but each bold wind,
 - By turns, usurps the empire of the air
 - With quick inconstancy; [305]
-- Thy herds, as sapient[^f70n3] of the coming storm,
+- Thy herds, as sapient of the coming storm,
 - (For beasts partake some portion of the sky,)
 - In troops associate; and, in cold sweats bath'd,
-- Wild-bellowing, eye the pole.[^f70n4] Ye seamen, now,
+- Wild-bellowing, eye the pole. Ye seamen, now,
 - Ply to the southward, if the changeful moon, [310]
 - Or, in her interlunar palace hid,
 
@@ -146,20 +146,20 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
 - Disperse; the midday-sun looks red; strange burs
-- Surround the stars, which vaster fill the eye.[^f71n1] [315]
+- Surround the stars, which vaster fill the eye. [315]
 - A horrid stench the pools, the main emits;
 - Fearful the genius of the forest sighs;
 - The mountains moan; deep groans the cavern'd cliff.
 - A night of vapour, closing fast around,
 - Snatches the golden noon.—Each wind appeas'd, [320]
 - The North flies forth, and hurls the frighted air:
-- Not all the brazen engineries of man,[^f71n2]
+- Not all the brazen engineries of man,
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
 - Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
-- "Is hush as death."[^f71n3]
+- "Is hush as death."
 - Soon issues forth the West, with sudden burst;
 - And blasts more rapid, more resistless drives: [330]
 
@@ -180,7 +180,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - After some furious onset, and, behind
 - Vast rocks and trees, their horrid forms conceal,
 - Brooding on slaughter, not repuls'd; for soon [340]
-- Their growing yell the affrighted welkin[^f72n1] rends,
+- Their growing yell the affrighted welkin rends,
 - And bloodier carnage mows th' ensanguin'd plain:
 - So the South, sallying from his iron caves
 - With mightier force, renews the aerial war;
@@ -188,11 +188,11 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Fair nature's triumph, pride of Indian groves,
 - Cleft by the sulphurous bolt! See yonder dome,
 - Where grandeur with propriety combin'd,
-- And Theodorus with devotion dwelt;[^f72n2]
+- And Theodorus with devotion dwelt;
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—[^f72n3]
+- Men, oxen, Cane-lands to the billowy main.—
 
 ---
 
@@ -200,7 +200,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
-- Now brighter, vaster corruscations flash;[^f73n1]
+- Now brighter, vaster corruscations flash;
 - Deepens the deluge; nearer thunders roll;
 - Earth trembles; ocean reels; and, in her fangs,
 - Grim Desolation tears the shrieking isle,
@@ -213,14 +213,14 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Oft reigns a tyrant in these fervid isles: [365]
 - For, from its burning furnace, when it breathes,
 - Europe and Asia's vegetable sons,
-- Touch'd by its tainting vapour, shrivel'd, die.[^f73n2]
+- Touch'd by its tainting vapour, shrivel'd, die.
 - The hardiest children of the rocks repine:
 - And all the upland Tropic-plants hang down [370]
 - Their drooping heads; shew arid, coil'd, adust.——
 - The main itself seems parted into streams,
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
-- The sails hang idly, noiseless, from the mast.[^f73n3] [375]
+- The sails hang idly, noiseless, from the mast. [375]
 
 ---
 
@@ -239,15 +239,15 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Those, who have manhood reach'd, of yellow hue, [385]
 - (Symptom of health and strength) soon ruddy show;
 - While the rich juice that circled in their veins,
-- Acescent,[^f74n1] watery, poor, unwholesome tastes.
+- Acescent, watery, poor, unwholesome tastes.
 
 - NOR only, planter, are thy Cane-groves burnt;
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+- Oft shake the astonied isles: The solfaterre
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 ---
