@@ -4,6 +4,7 @@ title: "page 38"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0052.jpg"
+order: 46
 ---
 
 
