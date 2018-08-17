@@ -15,7 +15,7 @@ order: 7
 > *Fixa pedum pono pressis vestigia signis;*  
 > *Non ita certandi cupidus, quam propter amorem,*  
 > *Quod vos imitari aveo.——*[^fviin1]  
-{:.latin}
+{:.indented}
 
 Yet, like them too, I have generally preferred the way of description, wherever that could be done without hurting the subject.
 
