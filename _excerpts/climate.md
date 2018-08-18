@@ -23,10 +23,9 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Nor spare the sportive child; from their retreats
 - Cockroaches crawl displeasingly abroad:
 - These, without pity, let thy slaves destroy;
-- \(Like Harpies, they defile whate'er they touch:)
+- \(Like Harpies,[^f26n1] they defile whate'er they touch:)
 - While those, the smother of combustion quells. [340]
 - The speckled lizard to its hole retreats,
-
 
 > VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
 
@@ -34,12 +33,14 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
+[^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
+
 ---  
 
 
 [27]({{site.baseurl}}/images/p0041.jpg)
 
-- And black crabs travel from the mountain down;
+- And black crabs travel from the mountain down;[^f27n1]
 - Thy ducks their feathers prune; thy doves return,
 - In faithful flocks, and, on the neighbouring roof,
 - Perch frequent; where, with pleas'd attention, they [345]
@@ -52,10 +53,21 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Save those who open with the ready hoe
 - The enriching water-course: for, see, the drops,
 
+>All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana,[^f27n2] is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*,[^f27n3] forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator[^f27n4] is called *Iguana*.
 
-> All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana, is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*, forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator is called *Iguana*.
+>VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*,[^f27n5] (owing, say planters, to their feeding on the mahoe-berry[^f27n6]) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.
 
-> VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*, (owing, say planters, to their feeding on the mahoe-berry) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.  
+[^f27n1]: Probably *Gecarcinus ruricola*, also known as the black land crab. One of several species of terrestrial or land crabs, the black land crab lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs.  
+
+[^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
+
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+
+[^f27n4]: The American alligator, *Alligator mississippiensis*.  
+
+[^f27n5]: *Cholera morbus* is used in modern medicine to describe the water-borne disease caused by *Vibrio cholerae*. In the eighteenth century, however, it described a variety of illnesses with symptoms like diarrhea, vomiting, dehydration, and abdominal pain. 
+
+[^f27n6]: May be the berries from the blue mahoe (*Hibiscus elatus*), a tree whose native range is Cuba and Jamaica. Also naturalized to other parts of the Caribbean; now the national tree of Jamaica.  
 
 ---  
 
@@ -64,7 +76,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
-- The coyest Naiads quit their rocky caves, [355]
+- The coyest Naiads[^f28n1] quit their rocky caves, [355]
 - And, with delight, run brawling to the main;
 - While those, who love still visible to glad
 - The thirsty plains from never-ceasing urns,
@@ -84,7 +96,9 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - The drooping plants revive; ten thousand blooms,
 - Which, with their fragrant scents, perfume the air,
 - Burst into being; while the Canes put on
-- Glad Nature's liveliest robe, the vivid green. [375]  
+- Glad Nature's liveliest robe, the vivid green. [375]
+
+[^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
 
 ---  
 
@@ -92,14 +106,14 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 [69]({{site.baseurl}}/images/p0083.jpg)
 
 - SAY, can the Muse, the pencil in her hand, [270]
-- The all-wasting hurricane observant ride?
+- The all-wasting hurricane observant ride?[^f69n1]
 - Can she, undazzled, view the lightning's glare,
-- That fires the welkin? Can she, unappall'd,
+- That fires the welkin?[^f69n2] Can she, unappall'd,
 - When all the flood-gates of the sky are ope,
 - The shoreless deluge stem? The Muse hath seen [275]
 - The pillar'd flame, whose top hath reach'd the stars;
 - Seen rocky, molten fragments, flung in air
-- From AEtna's vext abyss; seen burning streams
+- From AEtna's[^f69n3] vext abyss; seen burning streams
 - Pour down its channel'd sides; tremendous scenes!——
 - Yet not vext AEtna's pillar'd flames, that strike [280]
 - The stars; nor molten mountains hurl'd on high;
@@ -111,9 +125,19 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - SOON as the Virgin's charms ingross the Sun;
 - And till his weaker flame the Scorpion feels;
-- But, chief, while Libra weighs the unsteddy year:
-- Planter, with mighty props thy dome support; [290]
+- But, chief, while Libra weighs the unsteddy year:[^f69n4]
+- Planter, with mighty props thy dome[^f69n5] support; [290]
 - Each flaw repair; and well, with massy bars,
+
+[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
+
+[^f69n2]: welkin. Sky, firmament.
+
+[^f69n3]: Etna, Europe's highest active volcano, located in Sicily.
+
+[^f69n4]: Grainger is using astrological signs to designate peak hurricane season. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. 
+
+[^f69n5]: House.
 
 ---
 
@@ -122,27 +146,34 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Thy doors and windows guard; securely lodge
 - Thy stocks and mill-points.—Then, or calms obtain;
-- Breathless the royal palm-tree's airiest van;
+- Breathless the royal palm-tree's airiest van;[^f70n1]
 - While, o'er the panting isle, the daemon Heat [295]
 - High hurls his flaming brand; vast, distant waves
 - The main drives furious in, and heaps the shore
 - With strange productions: Or, the blue serene
-- Assumes a louring aspect, as the clouds
+- Assumes a louring[^f70n2] aspect, as the clouds
 - Fly, wild-careering, thro' the vault of heaven; [300]
 - Then transient birds, of various kinds, frequent
 - Each stagnant pool; some hover o'er thy roof;
 - Then Eurus reigns no more; but each bold wind,
 - By turns, usurps the empire of the air
 - With quick inconstancy; [305]
-- Thy herds, as sapient of the coming storm,
+- Thy herds, as sapient[^f70n3] of the coming storm,
 - (For beasts partake some portion of the sky,)
 - In troops associate; and, in cold sweats bath'd,
-- Wild-bellowing, eye the pole. Ye seamen, now,
+- Wild-bellowing, eye the pole.[^f70n4] Ye seamen, now,
 - Ply to the southward, if the changeful moon, [310]
 - Or, in her interlunar palace hid,
 
+> VER. 293. *stocks and mill-points:*\] The sails are fastened to the mill-points, as those are to the stocks. They should always be taken down before the hurricane-season.
 
-> VER. 293. *stocks and mill-points:*\] The sails are fastened to the mill-points, as those are to the stocks. They should always be taken down before the hurricane-season.  
+[^f70n1]: Van is a vantage, height, or summit. The royal palm (*Roystonea oleracea*) can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
+
+[^f70n2]: Scowling, angry-looking, gloomy.
+
+[^f70n3]: Knowledgeable.
+
+[^f70n4]: Polaris, the pole star or North Star.
 
 ---
 
@@ -151,7 +182,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
-- Disperse; the midday-sun looks red; strange burs
+- Disperse; the midday-sun looks red; strange burs[^f71n1]
 - Surround the stars, which vaster fill the eye. [315]
 - A horrid stench the pools, the main emits;
 - Fearful the genius of the forest sighs;
@@ -159,18 +190,25 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - A night of vapour, closing fast around,
 - Snatches the golden noon.—Each wind appeas'd, [320]
 - The North flies forth, and hurls the frighted air:
-- Not all the brazen engineries of man,
+- Not all the brazen engineries[^f71n2] of man,
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
 - Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
-- "Is hush as death."
+- "Is hush as death."[^f71n3]
 - Soon issues forth the West, with sudden burst;
 - And blasts more rapid, more resistless drives: [330]
 
 
-> VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.  
+> VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
+
+
+[^f71n1]: A bur or burr is a circle of light surrounding the moon or a star.
+
+[^f71n2]: Engines of war, artillery. 
+
+[^f71n3]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 ---
 
@@ -195,11 +233,15 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Fair nature's triumph, pride of Indian groves,
 - Cleft by the sulphurous bolt! See yonder dome,
 - Where grandeur with propriety combin'd,
-- And Theodorus with devotion dwelt;
+- And Theodorus[^f72n1] with devotion dwelt;
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—
+- Men, oxen, Cane-lands to the billowy main.—[^f72n2]
+
+[^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
+
+[^f72n2]: The ocean.
 
 ---
 
@@ -208,7 +250,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
-- Now brighter, vaster corruscations flash;
+- Now brighter, vaster corruscations[^f73n1] flash;
 - Deepens the deluge; nearer thunders roll;
 - Earth trembles; ocean reels; and, in her fangs,
 - Grim Desolation tears the shrieking isle,
@@ -221,14 +263,21 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Oft reigns a tyrant in these fervid isles: [365]
 - For, from its burning furnace, when it breathes,
 - Europe and Asia's vegetable sons,
-- Touch'd by its tainting vapour, shrivel'd, die.
+- Touch'd by its tainting vapour, shrivel'd, die.[^f73n2]
 - The hardiest children of the rocks repine:
 - And all the upland Tropic-plants hang down [370]
 - Their drooping heads; shew arid, coil'd, adust.——
 - The main itself seems parted into streams,
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
-- The sails hang idly, noiseless, from the mast. [375]
+- The sails hang idly, noiseless, from the mast.[^f73n3] [375]
+
+
+[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+
+[^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
+
+[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
 
 ---
 
@@ -248,15 +297,24 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Those, who have manhood reach'd, of yellow hue, [385]
 - (Symptom of health and strength) soon ruddy show;
 - While the rich juice that circled in their veins,
-- Acescent, watery, poor, unwholesome tastes.
+- Acescent,[^f74n1] watery, poor, unwholesome tastes.
 
 - NOR only, planter, are thy Cane-groves burnt;
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied isles: The solfaterre
+- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+
+
+[^f74n1]: Sour, acidic.
+
+[^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
+
+[^f74n3]: Volcano.
+
+[^f74n4]: An astringent mineral salt.
 
 ---
