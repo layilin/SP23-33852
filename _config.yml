@@ -28,7 +28,7 @@ kramdown:
 
 # Setup
 title:               Digital Grainger
-tagline:             "An Online Edition of *The Sugar-Cane* 1764"
+tagline:             "An Online Edition of *The Sugar-Cane* (1764)"
 description:         'Digital Grainger includes'
 url:                 https://github.com/minicomp/ed
 baseurl:             '/grainger'
