@@ -16,6 +16,8 @@ collections:
     output: true
   excerpts:
     output: true
+  pages:
+    output: true
 
 kramdown:
   auto_ids:       true
