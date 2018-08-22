@@ -6,10 +6,12 @@ creator: Kimberly Takahata
 
 # About
 
-## History of the project
-
-## Editorial principles
+## Origins and history of the project
 
 ## Contact information
 
-## Acknowledgements and credits
+## Site design
+
+## Acknowledgments
+
+## Creators
