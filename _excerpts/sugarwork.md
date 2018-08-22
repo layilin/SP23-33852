@@ -1,14 +1,14 @@
 ---
 layout: poem
-title: excerpt on making Sugar
+title: Sugar Work
 source: pp 
 editor: Lina
 ---
 
 
-# Making Sugar
+# Sugar Work
 
-The passages in this section “Making Sugar” come mostly from Book 3, yet a few passages from Book 1 contribute to the understanding of Grainger's general concept of the relationship between human labor and nature. In Book 1, Grainger first describes what soil the sugar-cane grows best in and emphasizes that extra labor is not needed since the fertile land is the gift from nature. Grainger emphasizes that sugar production is not solely about human activity. By using the poetic device of apostrophe to address the “Planter,” Grainger often gives advice with an imperative tone of voice in the poem, reminding the “Planter” of his responsibility of balancing nature and culture. Too much labor and the “redundant harvests” exhaust the “willing soil,” and much effort has to be put into re-fertilization. On the other hand, Grainger encourages “Planter" to make improvements with human wisdom, and the toil will be rewarded in the end. Grainger describes the right degree of human interference in nature, showing both his reverence for the power of nature and admiration for human labor. 
+The passages in this section “Sugar Work” come mostly from Book 3, yet a few passages from Book 1 contribute to the understanding of Grainger's general concept of the relationship between human labor and nature. In Book 1, Grainger first describes what soil the sugar-cane grows best in and emphasizes that extra labor is not needed since the fertile land is the gift from nature. Grainger emphasizes that sugar production is not solely about human activity. By using the poetic device of apostrophe to address the “Planter,” Grainger often gives advice with an imperative tone of voice in the poem, reminding the “Planter” of his responsibility of balancing nature and culture. Too much labor and the “redundant harvests” exhaust the “willing soil,” and much effort has to be put into re-fertilization. On the other hand, Grainger encourages “Planter" to make improvements with human wisdom, and the toil will be rewarded in the end. Grainger describes the right degree of human interference in nature, showing both his reverence for the power of nature and admiration for human labor. 
 
 Grainger focuses on manual labor and cropping in Book 3, which is replete actions and labor, indicating the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. During the harvest time, constant heavy work may result in some accidents. Grainger talks about the windmills powering the sugar mill. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Grainger also shows his attitude towards plantation management and the treatment of the enslaved Africans, who should not be prohibited from drinking the cane-juice. Grainger suggests the need of making “labour light,” but punishments and ill treatment might still exist at that time.
 
