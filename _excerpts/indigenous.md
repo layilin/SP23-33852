@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poetry
 title: "Indigeneity"
 editor: Kimberly Takahata
 ---
@@ -10,7 +10,7 @@ Long before the arrival of European imperial agents, the Caribbean was home for 
 
 Faced with the task of describing various plants and reporting their possible uses, Grainger credits Kalinago persons, whom he most often calls "Indians," with this knowledge in several passages primarily in Book I but also in Books III and IV of the poem. These references, although limited in number, demonstrate the depth of indigneous botanical and bodily knowledge, ranging from medicine to food and resistance to cataloguing. In some cases, such as his description of the part of the cane called the "arrow," named for its usage by indigenous persons, these applications are so crucial to recognizing and describing these plants (in this case, the part of the sugar cane that drops at a specific point in the maturation process) that they actually dictate the names that colonial planters and writers use to reference them. Yet at the same time, Grainger relegates almost all mentions of indigenous peoples and knowledge in *The Sugar-Cane* to footnotes. Additionally, he appropriates this knowledge in his preface to the poem, claiming that he has learned about "indigneous remedies" so thoroughlly as to make his own "trials" of them. Moreover, by arguing that such knowledge and abilities should be "universally known," Grainger further distributes this knowledge outside of indigenous communities, positioning his own text as the new source of such information.  
 
-Despite such attempts to limit the bounds and influence of indigenous knowledge, by collating such mentions here, we hope to allow the reader to recognize, explore, and meditate upon indigenous, rather than colonial, authority. How does Grainger characterize the relationship between indigenous and colonial persons, and what exactly does he credit Amerindians with teaching him and other colonists? How does referring to indigenous peoples as "Indians" rather than "Caribs" or "Kalinago" impact his readers' perception of such nations? What effect does Grainger's inclusion of indigenous words like "Liamuiga" and "suirsaak" have? What do you make of his frequent use of the passive voice in his description of these plants' uses?
+Despite such attempts to limit the bounds and influence of indigenous knowledge, by collating such mentions here, we hope to allow the reader to recognize, explore, and meditate upon indigenous, rather than colonial, authority. How does Grainger characterize the relationship between indigenous and colonial persons, and what exactly does he credit Amerindians with teaching him and other colonists? How does referring to indigenous peoples as "Indians" rather than "Caribs" or "Kalinago" impact his readers' perception of such nations? What do you make of Grainger's inclusion of indigenous words like "Liamuiga" and "suirsaak"? What effect his frequent use of the passive voice in his description of these plants' uses have on our recognition of their origins and applications? What could it mean that Grainger includes this allusions primarily in Book I but turns to "Indian gardens" just before the close of the poem?
 
 ---
  
@@ -96,6 +96,210 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 [^f106n3]: The poison Grainger refers to is curare, an extract obtained from the bark of South American trees of the genera *Strychnos* and *Chondrodendron* that relaxes and paralyzes voluntary muscles. Curare's use as an arrow poison was reported by Europeans from their earliest encounters with Amerindians in South America.
 
 [^f106n4]: Antonio de Ulloa (1716-1795), a Spanish military officer, and Charles-Marie de La Condamine (1701-1774), a French scientist, participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).
+
+---
+
+
+[151]({{site.baseurl}}/images/{{page.img}})
+
+
+- And shrubby wilds, in bands will soon destroy
+- Thy labourer's honest wealth; their loss and yours.
+
+- Perhaps, of Indian gardens[^f151n1] I could sing,
+- Beyond what bloom'd on blest Phaeacia's isle,[^f151n2]
+- Or eastern climes admir'd in days of yore: [490]
+- How Europe's foodful, culinary plants;
+- How gay Pomona's[^f151n3] ruby-tinctured births;
+- And gawdy Flora's[^f151n4] various-vested train;
+- Might be instructed to unlearn their clime,
+- And by due discipline adopt the sun. [495]
+- The muse might tell what culture will entice
+- The ripened melon, to perfume each month;
+- And with the anana[^f151n5] load the fragrant board.
+- The muse might tell, what trees will best exclude
+- ("Insuperable height of airiest shade")[^f151n6] [500]
+- With their vast umbrage[^f151n7] the noon's fervent ray.
+- Thee, verdant mammey,[^f151n8] first, her song should praise:
+
+
+> VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour,[^f151n9] and therefore the French call them *Les apricots de St. Domingue*:[^f151n10] accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them.[^f151n11] The fruit, eaten raw, is of an aperient[^f151n12] quality; and made into sweet-meats,[^f151n13]
+
+
+[^f151n1]: Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.
+
+[^f151n2]: Phaeacia refers to Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.
+
+[^f151n3]: Pomona was the Roman goddess of fruit.
+
+[^f151n4]: Flora was the Roman goddess of springtime. 
+
+[^f151n5]: The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean (Higman 188).  
+
+[^f151n6]: Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
+
+[^f151n7]: Shade.
+
+[^f151n8]: The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America. 
+
+[^f151n9]: An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches. 
+
+[^f151n10]: The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.  
+
+[^f151n11]: L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
+
+[^f151n12]: Laxative.  
+
+[^f151n13]: Preserved or candied fruits.  
+
+---
+
+
+[152]({{site.baseurl}}/images/{{page.img}})
+
+- Thee, the first natives of these Ocean-isles,
+- Fell anthropophagi,[^f152n1] still sacred held;
+- And from thy large high-flavour'd fruit abstain'd, [505]
+- With pious awe; for thine high-flavoured fruit,
+- The airy phantoms of their friends deceas'd
+- Joy'd to regale on.——Such their simple creed.
+- The tamarind[^f152n2] likewise should adorn her theme,
+- With whose tart fruit the sweltering fever loves [510]
+- To quench his thirst, whose breezy umbrage soon
+- Shades the pleas'd planter, shades his children long.
+- Nor, lofty cassia,[^f152n3] should she not recount
+- Thy woodland honours! See, what yellow flowers
+- Dance in the gale, and scent the ambient air; [515]
+- While thy long pods, full-fraught with nectared sweets,
+- Relieve the bowels from their lagging load.
+- Nor chirimoia,[^f152n4] though these torrid isles
+- Boast not thy fruit, to which the anana yields
+- In taste and flavour, wilt thou coy refuse [520]
+
+
+> *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart.[^f152n5] The botanical name is *Achras*.
+
+> VER. 509. *tamarind*\] See Book I. p. 44.
+
+> VER. 513. *cassia*,\] Both this tree and its mild purgative pulp are sufficiently known.
+
+
+[^f152n1]: A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
+
+[^f152n2]: The tamarind tree (*Tamarindicus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
+
+[^f152n3]: Cassia is probably *Cassia fistula*, commonly used as a purgative. It is likely native to India and Sri Lanka.  
+
+[^f152n4]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
+
+[^f152n5]: The mammee sapota is actually different from the mammee apple (the fruit Grainger describes in lines 502-508). The mammee sapota (*Pouteria sapota*) is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
+
+---
+
+
+[153]({{site.baseurl}}/images/{{page.img}})
+
+- Thy fragrant shade to beautify the scene.
+- But, chief of palms, and pride of Indian-groves,
+- Thee, fair palmeto,[^f153n1] should her song resound:
+- What swelling columns, form'd by Jones or Wren,[^f153n2]
+- Or great Palladio,[^f153n3] may with thee compare? [525]
+- Not nice-proportion'd, but of size immense,
+- Swells the wild fig-tree,[^f153n4] and should claim her lay:
+- For, from its numerous bearded twigs proceed
+- A filial train, stupendous as their sire,
+- In quick succession; and, o'er many a rood,[^f153n5] [530]
+- Extend their uncouth limbs; which not the bolt
+- Of heaven can scathe; nor yet the all-wasting rage
+
+
+> VER. 523. *palmeto*,\] This being the most beautiful of palms, nay, perhaps, superior to any other known tree in the world, has with propriety obtained the name of *Royal*. The botanical name is *Palma Maxima*. It will shoot up perpendicularly to an hundred feet and more. The stem is perfectly circular; only towards the root, and immediately under the branches at top, it bulges out. The bark is smooth, and of an ash-brown colour, except at the top where it is green. It grows very fast, and the seed from whence it springs is not bigger than an acorn. In this, as in all the palm-genus, what the natives call *Cabbage* is found; but it resembles in taste an almond, and is in fact the pith of the upper, or greenish part of the stem. But it would be the most unpardonable luxury to cut down so lovely a tree, for so mean a gratification; especially as the wild, or mountain cabbage tree, sufficiently supplies the table with that esculent. I never ride past the charming vista of royal palms on the Cayon-estate of Daniel Mathew, Esq; in St. Christopher,[^f153n6] without being put in mind of the pillars of the Temple of the Sun at Palmyra.[^f153n7] This tree grows on the tops of hills, as well as in valleys; its hard cortical part makes very durable laths for houses.[^f153n8] There is a smaller species not quite so beautiful.
+
+
+[^f153n1]: Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
+
+[^f153n2]: Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an English architect, mathematician, and astronomer.  
+
+[^f153n3]: Andrea Palladio (1508-1580), an Italian architect. 
+
+[^f153n4]: Also known as the bearded fig or wild banyan tree (*Ficus citrifolia*). It is the national tree of Barbados, and its native range includes Florida and the tropical Americas.  
+
+[^f153n5]: A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length. 
+
+[^f153n6]: Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
+
+[^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. Destroyed in 2015 by the Islamic State in Iraq and Syria (ISIS).  
+
+[^f153n8]: Grainger is saying its bark can be used to make laths or strips of wood used in building. 
+
+---
+
+
+[154]({{site.baseurl}}/images/{{page.img}})
+
+- Of Typhon, or of hurricane, destroy.
+- Nor should, tho' small, the anata[^f154n1] not be sung:
+- Thy purple dye, the silk and cotton fleece [535]
+- Delighted drink; thy purple dye the tribes
+- Of Northern-Ind, a fierce and wily race,
+- Carouse, assembled; and with it they paint
+- Their manly make in many a horrid form,
+- To add new terrors to the face of war. [540]
+- The muse might teach to twine the verdant arch,
+- And the cool alcove's lofty roof adorn,
+- With ponderous granadillas,[^f154n2] and the fruit
+
+
+> VER. 534. *anata*,\] Or *Anotto*, or *Arnotta*; thence corruptly called *Indian Otter*, by the English. The tree is about the size of an ordinary apple-tree. The French call it *Rocou*; and send the farina home as a paint, *&c.* for which purpose the tree is cultivated by them in their islands. The flower is pentapetalous, of a bluish and spoon-like appearance. The yellow filaments are tipped with purplish apices.[^f154n3] The style proves the rudiment of the succeeding pod, which is of a conic shape, an inch and a half long. This is divided into many cells, which contain a great number of small seeds, covered with a red farina.
+
+> VER. 543. *granadilla*\] This is the Spanish name, and is a species of the *passiflora*, or passion-flower, called by Linnaeus *Musa*. The seeds and pulp, through which the seeds are dispersed, are cooling, and grateful to the palate. This, as well as the water-lemon, bell-apple, or honeysuckle, as it is named,[^f154n4] being parasitical plants, are easily formed into cooling arbors, than which nothing can be more grateful in warm climates. Both fruits are wholesome. The granadilla is commonly eat with sugar, on account of its tartness, and yet the pulp is viscid.[^f154n5] Plumier calls it *Granadilla*, *latefolia*, *fructu maliformi*. It grows best in shady places. The unripe fruit makes an excellent pickle.
+
+
+[^f154n1]: Also anatta, anatto, or annatto. Refers to *Bixa orellana*, a low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye. They used the dye to paint their faces and bodies for ornamental purposes, as well as to protect from insects and the sun.  
+
+[^f154n2]: The passion fruit (*Passiflora ligularis*). Its native range is Panama to Venezuela and Peru.  
+
+[^f154n3]: Apexes.  
+
+[^f154n4]: Different names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil.  
+
+[^f154n5]: Sticky, adhesive. 
+
+---
+
+
+[155]({{site.baseurl}}/images/{{page.img}})
+
+- Call'd water-lemon; grateful to the taste:
+- Nor should she not pursue the mountain-streams, [545]
+- But pleas'd decoy them from their shady haunts,
+- In rills, to visit every tree and herb;
+- Or fall o'er fern-clad cliffs, with foaming rage;
+- Or in huge basons[^f155n1] float, a fair expanse;
+- Or, bound in chains of artificial force, [550]
+- Arise thro' sculptured stone, or breathing brass.---
+- But I'm in haste to furl my wind-worn sails,
+- And anchor my tir'd vessel on the shore.
+
+- IT much imports to build thy Negroe-huts,
+- Or on the sounding margin of the main, [555]
+- Or on some dry hill's gently-sloping sides,
+- In streets, at distance due.——When near the beach,
+- Let frequent coco cast its wavy shade;
+- \'Tis Neptune's tree; and, nourish'd by the spray,[^f155n2]
+- Soon round the bending stem's aerial height, [560]
+- Clusters of mighty nuts, with milk and fruit
+- Delicious fraught, hang clattering in the sky.
+- There let the bay-grape,[^f155n3] too, its crooked limbs
+
+
+> VER. 563. *bay-grape*\] Or sea side grape, as it is more commonly called. This is a large, crooked, and shady tree, \(the leaves being broad, thick, and almost
+
+[^f155n1]: Basins. 
+
+[^f155n2]: Coco refers to the coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
+
+[^f155n3]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
 
 ---
 
