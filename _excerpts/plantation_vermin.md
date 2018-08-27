@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: poem
 title: Plantation Vermin
 editor: Steve Fragano
 source: pp. 55-69
