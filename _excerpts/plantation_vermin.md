@@ -5,6 +5,8 @@ editor: Steve Fragano
 source: pp. 55-69
 ---
 
+## Plantation Vermin
+
 
 In Book II of *The Sugar-Cane*, James Grainger forewarns his readers of a peril to Torrid Zone plantations; that being vermin. Whether referring to monkeys, rats, or a myriad of insect species, the speaker includes several references to the quotidian inconveniences and setbacks that vermin pose to white planters' economic, and consequently social, wellbeing. With crops becoming "devour'd" (II, 166), readers can see the consequences of unchecked animal presences on plantations. Beyond the practical knowledge of plantation vulnerabilities in the face of animal life, plantation vermin can additionally be interpreted as one of Grainger's tools to unearth more than just agricultural facets of plantation life.
 
