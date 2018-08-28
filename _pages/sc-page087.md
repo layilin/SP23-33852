@@ -10,9 +10,11 @@ order: 95
 
 [87]({{site.baseurl}}/images/{{page.img}})  
 
-## THE SUGAR-CANE
+THE 
 
-### BOOK III.
+S U G A R - C A N E
+
+BOOK III.
 
 
 - FROM scenes of deep distress, the heavenly Muse,
