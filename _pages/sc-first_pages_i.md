@@ -8,10 +8,8 @@ order: 1
 ---
 
 
-<!--Lines should be centered.-->
 [i]({{site.baseurl}}/images/{{page.img}})
 
----
 
 THE  
 
@@ -20,5 +18,3 @@ THE
 A  
 
 # POEM.  
-
----
