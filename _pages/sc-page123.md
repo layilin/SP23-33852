@@ -12,11 +12,11 @@ order: 131
 
 ---
 
-# THE 
+THE 
 
-# SUGAR-CANE.
+S U G A R - C A N E.
 
 
-## BOOK IV.
+BOOK IV.
 
 ---
