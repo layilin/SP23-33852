@@ -12,22 +12,20 @@ order: 3
 
 THE
 
-SUGAR-CANE:
+S U G A R - C A N E:
 
 A
 
-POEM.
+P O E M.
 
 IN FOUR BOOKS.
 
 WITH NOTES.
 
 
-*Agredior primusque novis Helicona movere*
-
-*Cantibus, et viridi nutantes vertice sylvas;*
-
-*Hospita sacra ferens, nulli memorata priorum.* MANIL.
+*Agredior primusque novis Helicona movere*  
+*Cantibus, et viridi nutantes vertice sylvas;*  
+*Hospita sacra ferens, nulli memorata priorum.* MANIL.  
 
 
 By JAMES GRAINGER, M. D. &c.
@@ -36,7 +34,6 @@ By JAMES GRAINGER, M. D. &c.
 LONDON:
 
 Printed for R. and J. DODSLEY, in Pall-mall.
-
 MDCCLXIV.
 
 ---
