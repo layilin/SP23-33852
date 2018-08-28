@@ -12,9 +12,9 @@ order: 11
 
 THE 
 
-## SUGAR-CANE.
+S U G A R - C A N E.
 
-### BOOK I.
+BOOK I.
 
 - WHAT soil the Cane affects; what care demands;
 - Beneath what signs to plant;[^f3n1] what ills await;
