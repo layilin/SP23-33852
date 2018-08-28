@@ -249,7 +249,7 @@ BOOK I.
 
 [^f4n1]: Well-being, happiness, prosperity.
 
-[^f4n2]: Gilmore identifies Aurelius as George Thomas (c. 1694-1774), who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antiguan colonial assembly before being named Governor of Pennsylvania (1738-1747). He was Governor of the Leeward Islands from 1753 to 1766.
+[^f4n2]: According to Gilmore, Aurelius refers to George Thomas (c. 1694-1774), who was born to a planter family on the island of Antigua. Descended on his mother's side from Massachusetts Bay Governor John Winthrop, Thomas was a member of the Antiguan colonial assembly before he became governor of Pennsylvania (1738-1747). He was governor of the Leeward Islands from 1753 to 1766. Marcus Aurelius was the emperor of Rome from 161 to 180 CE. He was known both for his military campaigns against the Germanic tribes and for his philosophical *Meditations*.  
 
 [^f4n3]: George III (1738-1820) was king of Britain from 1760 to 1820. The main is the ocean.
 
@@ -285,9 +285,9 @@ BOOK I.
 
 [^f5n7]: Four pounds per hundredweight. A hundredweight \(equivalent to 112 lbs\) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman \(see http://www.nationalarchives.gov.uk/currency-converter/\).
 
-[^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Britain and lightened in color before being sold to consumers.
+[^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Europe and lightened in color before being sold to consumers.
 
-[^f5n9]: The whole of Southeast Asia to the east of and including India.
+[^f5n9]: Historical term for the whole of Southeast Asia to the east of and including India.
 
 ---
 
