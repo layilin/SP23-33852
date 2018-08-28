@@ -10,9 +10,11 @@ order: 61
 
 [53]({{site.baseurl}}/images/{{page.img}})  
 
-## THE SUGAR-CANE.  
+THE 
 
-### BOOK II.  
+S U G A R - C A N E.  
+
+BOOK II.  
 
 - ENOUGH of culture.—A less pleasing theme,  
 - What ills await the ripening Cane, demands  
