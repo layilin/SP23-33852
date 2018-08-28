@@ -5,10 +5,29 @@ source: "1764 edition"
 ---
 
 
-<!--Lines should be centered.-->
-i
+[Front cover, outside]
 
 ---
+
+
+[Front cover, inside]
+
+H. Bradley Martin
+
+---
+
+
+[Blank page]
+
+---
+
+
+[Blank page]
+
+---
+
+
+i
 
 THE  
 
@@ -23,12 +42,21 @@ A
 
 ii
 
-[Frontispiece]
+[Blank page]
 
 ---
 
 
-<!--All lines below should be centered on the page; spacing between letters changes from line-to-line, if we want to replicate-->
+[Blank page]
+
+---
+
+
+Frontispiece.
+
+---
+
+
 iii
 
 THE
@@ -43,26 +71,21 @@ IN FOUR BOOKS.
 
 WITH NOTES.
 
----
+
 *Agredior primusque novis Helicona movere*
 
 *Cantibus, et viridi nutantes vertice sylvas;*
 
 *Hospita sacra ferens, nulli memorata priorum.* MANIL.
 
----
 
 By JAMES GRAINGER, M. D. &c.
 
----
-
----
 
 LONDON:
 
 Printed for R. and J. DODSLEY, in Pall-mall.
 
----
 MDCCLXIV.
 
 ---
@@ -74,8 +97,6 @@ iv
 
 ---
 
-
-<!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
 
 v
 
