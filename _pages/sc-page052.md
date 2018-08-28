@@ -10,7 +10,7 @@ order: 60
 
 [52]({{site.baseurl}}/images/{{page.img}})  
 
-## ARGUMENT.  
+ARGUMENT.  
 
 *Subject proposed. Address to William Shenstone, Esq. Of monkeys.  
 Of rats and other vermin. Of weeds. Of the yellow fly. Of  
