@@ -10,13 +10,11 @@ order: 9
 
 [1]({{site.baseurl}}/images/{{page.img}})
 
----
+THE
 
-# THE
-
-# SUGAR-CANE.
+## SUGAR-CANE.
 
 
-## BOOK I.
+BOOK I.
 
 ---
