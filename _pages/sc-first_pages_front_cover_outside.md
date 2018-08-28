@@ -8,4 +8,4 @@ order: 1
 ---
 
 
-[front cover, outside]({{site.baseurl}}/images/{{page.img}})
+[Front cover, outside]({{site.baseurl}}/images/{{page.img}})
