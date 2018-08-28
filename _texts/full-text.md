@@ -28,11 +28,11 @@ H. Bradley Martin
 
 THE  
 
-## SUGAR-CANE.  
+S U G A R - C A N E.  
 
 A  
 
-# POEM.  
+P O E M.  
 
 ---
 
@@ -54,11 +54,11 @@ Frontispiece.
 
 THE
 
-## SUGAR-CANE:
+S U G A R - C A N E:
 
 A
 
-# POEM.
+P O E M.
 
 IN FOUR BOOKS.
 
