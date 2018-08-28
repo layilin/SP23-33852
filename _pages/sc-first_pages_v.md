@@ -8,8 +8,6 @@ order: 5
 ---
 
 
-<!--note last line: final 's' in St. Christophers of ECCO version was inserted manually; also, no period-->
-
 [v]({{site.baseurl}}/images/{{page.img}})
 
 P R E F A C E.
