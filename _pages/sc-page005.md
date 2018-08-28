@@ -32,8 +32,8 @@ order: 13
 
 [^f5n7]: Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman. See the National Archives' [currency converter](http://www.nationalarchives.gov.uk/currency-converter/).
 
-[^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Britain and lightened in color before being sold to consumers.
+[^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Europe and lightened in color before being sold to consumers.
 
-[^f5n9]: The whole of Southeast Asia to the east of and including India.
+[^f5n9]: Historical term for the whole of Southeast Asia to the east of and including India.
 
 ---
