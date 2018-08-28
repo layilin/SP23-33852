@@ -88,7 +88,7 @@ MDCCLXIV.
 
 v
 
-# PREFACE.
+P R E F A C E.
 
 SOON after my arrival in the West-Indies,[^fvn1] I conceived the design of writing a poem on the cultivation of the Sugar-Cane. My inducements to this arduous undertaking were, not only the importance and novelty of the subject, but more especially this consideration; that, as the face of this country was wholly different from that of Europe, so whatever hand copied its appearances, however rude, could not fail to enrich poetry with many new and picturesque images.[^fvn2]
 
@@ -172,7 +172,7 @@ viii
 
 THE
 
-## SUGAR-CANE.
+S U G A R - C A N E.
 
 
 BOOK I.
@@ -192,9 +192,9 @@ ARGUMENT.
 
 THE 
 
-## SUGAR-CANE.
+S U G A R - C A N E.
 
-### BOOK I.
+BOOK I.
 
 - WHAT soil the Cane affects; what care demands;
 - Beneath what signs to plant;[^f3n1] what ills await;
@@ -1787,14 +1787,13 @@ The END of BOOK I.
 
 49  
 
----
 
-# THE 
+THE 
 
-# SUGAR-CANE.  
+S U G A R - C A N E.  
 
 
-## BOOK II.
+BOOK II.
 
 ---  
 
@@ -1819,7 +1818,7 @@ THE following Book having been originally addressed to WILLIAM SHENSTONE, Esq; a
 
 52  
 
-## ARGUMENT.  
+ARGUMENT.  
 
 *Subject proposed. Address to William Shenstone, Esq. Of monkeys.  
 Of rats and other vermin. Of weeds. Of the yellow fly. Of  
@@ -1831,9 +1830,11 @@ and earthquakes. A tale.*
 
 53  
 
-## THE SUGAR-CANE.  
+THE 
 
-### BOOK II.  
+S U G A R - C A N E.  
+
+BOOK II.  
 
 - ENOUGH of culture.—A less pleasing theme,  
 - What ills await the ripening Cane, demands  
@@ -2995,19 +2996,19 @@ The END of BOOK II.
 
 ---  
 
-# THE
+THE
 
-# SUGAR-CANE.
+S U G A R - C A N E.
 
 
-## BOOK III.  
+BOOK III.  
 
 ---
 
 
 86
 
-## ARGUMENT.
+ARGUMENT.
 
 *Hymn to the month of January, when crop begins. Address. Planters have employment all the year round. Planters should be pious. A ripe Cane-piece on fire at midnight. Crop begun. Cane cutting described. Effects of music. Great care requisite in feeding the mill. Humanity towards the maimed recommended. The tainted Canes should not be ground. Their use. How to preserve the laths and mill-points from sudden squalls. Address to the Sun, and praise of Antigua. A cattle-mill described. Care of mules, &c. Diseases to which they are subject. A water-mill the least liable to interruption. Common in Guadaloupe and Martinico. Praise of Lord Romney. The necessity of a strong, clear fire, in boiling. Planters should always have a spare set of vessels, because the iron furnaces are apt to crack, and copper vessels to melt. The danger of throwing cold water into a thorough-heated furnace. Cleanliness, and skimming well, recommended. A boiling-house should be lofty, and open at top, to the leeward. Constituent parts of vegetables. Sugar an essential salt. What retards its granulation. How to forward it. Dumb Cane. Effects of it. Bristol-lime the best temper. Various uses of Bristol lime. Good muscovado described. Bermudas-lime recommended. The Negroes should not be hindered from drinking the hot liquor. The chearfulness and healthiness of the Negroes in crop-time. Boilers to be encouraged. They should neither boil the Sugar too little, nor too much. When the Sugar is of too loose a grain, and about to boil over the teache, or last copper, a little grease settles it, and makes it boil closer. The French often mix sand with their Sugars. This practice not followed by the English. A character. Of the skimmings. Their various uses. Of rum. Its praise. A West-India prospect, when crop is finished. An address to the Creoles, to live more upon their estates than they do. The reasons.*
 
@@ -3016,9 +3017,11 @@ The END of BOOK II.
 
 87
 
-## THE SUGAR-CANE
+THE 
 
-### BOOK III.
+S U G A R - C A N E
+
+BOOK III.
 
 
 - FROM scenes of deep distress, the heavenly Muse,
@@ -4375,21 +4378,19 @@ The END of BOOK III.
 
 123
 
----
+THE 
 
-# THE 
-
-# SUGAR-CANE.
+S U G A R - C A N E.
 
 
-## BOOK IV.
+BOOK IV.
 
 ---
 
 
 124
 
-## ARGUMENT.
+ARGUMENT.
 
 *Invocation to the Genius of Africa. Address. Negroes when bought should be young, and strong. The Congo-negroes are fitter for the house and trades, than for the field. The Gold-Coast, but especially the Papaw-negroes, make the best field-negroes: but even these, if advanced in years, should not be purchased. The marks of a sound negroe at a negroe sale. Where the men do nothing but hunt, fish or fight, and all field drudgery is left to the women; these are to be preferred to their husbands. The Minnahs make good tradesmen, but addicted to suicide. The Mundingos, in particular, subject to worms; and the Congas, to dropsical disorders. How salt-water, or new negroes should be seasoned. Some negroes eat dirt. Negroes should be habituated by gentle degrees to field labour. This labour, when compared to that in lead-mines, or of those who work in the gold and silver mines of South America, is not only less toilsome, but far more healthy. Negroes should always be treated with humanity. Praise of freedom. Of the dracunculus, or dragon-worm. Of chigres. Of the yaws. Might not this disease be imparted by inoculation? Of worms, and their multiform appearance. Praise of commerce. Of the imaginary disorders of negroes, especially those caused by their conjurers or Obia-men. The composition and supposed virtues of a magic-phiol. Field-negroes should not begin to work before six in the morning, and should leave off between eleven and twelve; and beginning again at two, should finish before sunset. Of the weekly allowance of negroes. The young, the old, the sickly, and even the lazy, must have their victuals prepared for them. Of negroe-ground, and its various productions. To be fenced in, and watched. Of an American garden. Of the situation of the negroe-huts. How best defended from fire. The great negroe-dance described. Drumming, and intoxicating spirits not to be allowed. Negroes should be made to marry in their masters plantation. Inconveniences arising from the contrary practice. Negroes to be cloathed once a year, and before Christmas. Praise of Lewis XIV. for the Code Noir. A body of laws of this kind recommended to the English sugar colonies. Praise of the river Thames. A moon-light landscape and vision.*
 
@@ -4398,9 +4399,11 @@ The END of BOOK III.
 
 125
 
-## The SUGAR-CANE.
+THE 
 
-### BOOK IV.
+S U G A R - C A N E.
+
+BOOK IV.
 
 - GENIUS of Africk![^f125n1] whether thou bestrid'st
 - The castled elephant;[^f125n2] or at the source,
@@ -5871,7 +5874,7 @@ The END of BOOK IV.
 
 163
 
-## INDEX
+I N D E X
 
 A.
 
