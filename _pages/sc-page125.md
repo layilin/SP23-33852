@@ -10,9 +10,11 @@ order: 133
 
 [125]({{site.baseurl}}/images/{{page.img}})
 
-## The SUGAR-CANE.
+THE 
 
-### BOOK IV.
+S U G A R - C A N E.
+
+BOOK IV.
 
 - GENIUS of Africk![^f125n1] whether thou bestrid'st
 - The castled elephant;[^f125n2] or at the source,
