@@ -12,7 +12,7 @@ order: 9
 
 THE
 
-## SUGAR-CANE.
+S U G A R - C A N E.
 
 
 BOOK I.
