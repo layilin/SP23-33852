@@ -4,7 +4,6 @@ title: "merge"
 source: "1764 edition"
 ---
 
-
 [Front cover, outside]
 
 ---
@@ -27,8 +26,6 @@ H. Bradley Martin
 ---
 
 
-i
-
 THE  
 
 ## SUGAR-CANE.  
@@ -39,8 +36,6 @@ A
 
 ---
 
-
-ii
 
 [Blank page]
 
@@ -57,26 +52,22 @@ Frontispiece.
 ---
 
 
-iii
-
 THE
 
-SUGAR-CANE:
+## SUGAR-CANE:
 
 A
 
-POEM.
+# POEM.
 
 IN FOUR BOOKS.
 
 WITH NOTES.
 
 
-*Agredior primusque novis Helicona movere*
-
-*Cantibus, et viridi nutantes vertice sylvas;*
-
-*Hospita sacra ferens, nulli memorata priorum.* MANIL.
+*Agredior primusque novis Helicona movere*  
+*Cantibus, et viridi nutantes vertice sylvas;*  
+*Hospita sacra ferens, nulli memorata priorum.* MANIL.  
 
 
 By JAMES GRAINGER, M. D. &c.
@@ -85,13 +76,10 @@ By JAMES GRAINGER, M. D. &c.
 LONDON:
 
 Printed for R. and J. DODSLEY, in Pall-mall.
-
 MDCCLXIV.
 
 ---
 
-
-iv
 
 [Blank page]
 
