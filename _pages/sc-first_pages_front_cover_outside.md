@@ -9,5 +9,3 @@ order: 1
 
 
 [front cover, outside]({{site.baseurl}}/images/{{page.img}})
-
----
