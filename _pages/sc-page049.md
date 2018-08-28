@@ -12,11 +12,11 @@ order: 57
 
 ---
 
-# THE 
+THE 
 
-# SUGAR-CANE.  
+S U G A R - C A N E.  
 
 
-## BOOK II.
+BOOK II.
 
 ---  
