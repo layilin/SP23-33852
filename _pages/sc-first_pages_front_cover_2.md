@@ -10,4 +10,6 @@ order:
 
 [Front cover, inside]({{site.baseurl}}/images/{{page.img}})
 
+H. Bradley Martin
+
 ---
