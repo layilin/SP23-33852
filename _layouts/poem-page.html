@@ -4,11 +4,36 @@ layout: default
 <div class="container content" id="main">
 <div class="poetry">
   {{ content }}
-  {% assign documents = site.paginated | sort: 'order' %}
-  {% assign first_url = documents.first.url | relative_url %}
-  {% assign last_url = documents.last.url | relative_url %}
 
-{% for doc in documents %}
+<div class="footnotes"></div>
+<!--   {% assign documents = site.paginated | sort: 'order' %}
+  {% assign first_url = documents.first.url | relative_url %}
+  {% assign last_url = documents.last.url | relative_url %} -->
+  
+  {% if page.collection %}
+  {% assign posts = site[page.collection] | where:"layout", "poem-page" | sort: 'order' %}
+
+  {% if posts.size > 1 %}
+    {% assign prevurl = posts.last.url | relative_url %}
+    {% assign nexturl = posts.first.url | relative_url %}
+  {% endif %}
+
+  {% for links in posts %}
+    {% if links.title == page.title %}
+      {% unless forloop.first %}
+        {% assign prevurl = prev.url | relative_url %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = posts[forloop.index] %}
+        {% assign nexturl = next.url | relative_url %}
+      {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+  {% endfor %}
+
+
+
+<!-- {% for doc in documents %}
   {% if doc.order == include.order %}
     {% if forloop.first %}
       {% assign prev_url = last_url | relative_url %}
@@ -23,9 +48,13 @@ layout: default
     {% break %}
   {% endif %}
   {% assign prev = doc %}
-{% endfor %}
-  <a class="navigation" href="{{ prev_url }}">Previous</a> | 
-  <a class="navigation" href="{{ next_url }}">Next</a>
+{% endfor %} -->
+  <!-- <a class="navigation" href="{{ prevurl }}">Previous</a> | 
+  <a class="navigation" href="{{ nexturl }}">Next</a> -->
+
+        {% if prevurl %}<a href="{{prevurl}}" class="prev">Prev | </a>{% endif %}
+        {% if nexturl %}<a href="{{nexturl}}" class="nxt">Next</a>{% endif %}
+{% endif %}
 </div>
 </div>
 
