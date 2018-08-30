@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Poetry and Slavery
 creator: Kimberly Takahata
 ---
 
@@ -16,15 +16,3 @@ creator: Kimberly Takahata
 ## Editorial principles/what kind of edition is this? How is it supposed to be used?
 
 
-
-# About
-
-## Origins and aims of the project
-
-## Contact information
-
-## Site design
-
-## Acknowledgments
-
-## Creators
