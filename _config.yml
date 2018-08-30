@@ -16,7 +16,7 @@ collections:
     output: true
   excerpts:
     output: true
-  pages:
+  paginated:
     output: true
 
 kramdown:

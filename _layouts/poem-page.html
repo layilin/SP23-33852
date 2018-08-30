@@ -4,9 +4,9 @@ layout: default
 <div class="container content" id="main">
 <div class="poetry">
   {{ content }}
-  {% assign documents = site.pages | sort: 'order' %}
-{% assign first_url = documents.first.url | relative_url %}
-{% assign last_url = documents.last.url | relative_url %}
+  {% assign documents = site.paginated | sort: 'order' %}
+  {% assign first_url = documents.first.url | relative_url %}
+  {% assign last_url = documents.last.url | relative_url %}
 
 {% for doc in documents %}
   {% if doc.order == include.order %}
