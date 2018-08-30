@@ -1,5 +1,5 @@
 ---
-layout: poetry
+layout: poem
 title: "Indigeneity"
 editor: Kimberly Takahata
 ---
