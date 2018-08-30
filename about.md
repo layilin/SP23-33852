@@ -9,7 +9,7 @@ creator: Kimberly Takahata
 
 ## Origins and aims of the project  
 
-This project arose from a desire to create an openly accessible edition of Grainger's *The Sugar-Cane* suited for undergraduate teaching. <!--further aims: pedagogically, thematically, etc.-->
+This project originated from a desire to create an openly accessible edition of Grainger's *The Sugar-Cane* suited for undergraduate teaching. <!--further aims: pedagogically, thematically, etc.-->
 
 ## Contact information  
 
@@ -30,9 +30,9 @@ The site was designed using Ed, a Jekyll theme created by Alex Gil. The site was
 Elizabeth Cornell  
 Stephen Fragano  
 Alex Gil  
-Lina Jiang 
+Lina Jiang  
 Julie Kim  
 Cristobal Silva  
 Kimberly Takahata  
-Ami Yoon   
+Ami Yoon  
 
