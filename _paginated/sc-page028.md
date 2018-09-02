@@ -13,7 +13,7 @@ order: 36
 - Which fell with slight aspersion, now descend
 - In streams continuous on the laughing land.
 - The coyest Naiads[^f28n1] quit their rocky caves, [355]
-- And, with delight, run brawling to the main;
+- And, with delight, run brawling to the main;[^f28n2]
 - While those, who love still visible to glad
 - The thirsty plains from never-ceasing urns,
 - Assume more awful majesty, and pour,
@@ -25,7 +25,7 @@ order: 36
 - While its green face is chang'd to sordid brown. [365]
 - A grateful freshness every sense pervades;
 - While beats the heart with unaccustom'd joy:
-- Her stores fugacious Memory now recalls;
+- Her stores fugacious[^f28n3] Memory now recalls;
 - And Fancy prunes her wings for loftiest flights.
 - The mute creation share the enlivening hour; [370]
 - Bounds the brisk kid, and wanton plays the lamb.
@@ -35,5 +35,9 @@ order: 36
 - Glad Nature's liveliest robe, the vivid green. [375]
 
 [^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
+
+[^f28n2]: Ocean.  
+
+[^f28n3]: Fugitive, fleeting, transient.  
 
 ---
