@@ -15,7 +15,7 @@ order: 41
 - To bring to puberty the low-land Cane.  
 
 - IN plants, in beasts, in man's imperial race,  
-- An alien[^f33n1] mixture meliorates the breed;  
+- An alien mixture meliorates the breed;  
 - Hence Canes, that sickened dwarfish on the plain, [460]  
 - Will shoot with giant-vigour on the hill.  
 - Thus all depends on all; so God ordains.  
@@ -29,15 +29,14 @@ order: 41
 - That chief the Planter, if he wealth desire,  
 - Should note the phases of the fickle moon. [470]  
 - On thee, sweet empress of the night, depend  
-- The tides; stern Neptune[^f33n2] pays his court to thee;  
+- The tides; stern Neptune[^f33n1] pays his court to thee;  
 - The winds, obedient at thy bidding shift,  
 - And tempests rise or fall; even lordly man,  
 - Thine energy controls.——Not so the Cane; [475]  
 - The Cane its independency may boast,  
 - Tho' some less noble plants thine influence own.
 
-[^f33n1]: Belonging to another person, place, or family; from elsewhere, foreign.  
 
-[^f33n2]: Roman god of the sea.  
+[^f33n1]: Roman god of the sea.  
 
 ---
