@@ -39,7 +39,7 @@ order: 14
 
 [^f6n5]: Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.
 
-[^f6n6]: Previously indigenous territory and a Spanish colony, Jamaica was conquered by the English in 1655 as part of a plan known as the Western Design. The Western Design was launched in 1655 by Oliver Cromwell (1599-1658), lord protector of England, Scotland, and Ireland (1653-1658), with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. When English forces arrived in the Caribbean, they first tried to conquer Hispaniola and failed. They then moved on to Jamaica. Jamaica gained its independence from the United Kingdom in 1962. 
+[^f6n6]: Jamaica became an English colony in 1655. It gained its independence from the United Kingdom in 1962. 
 
 [^f6n7]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
