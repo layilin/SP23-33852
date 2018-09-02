@@ -1263,7 +1263,7 @@ BOOK I.
 - To bring to puberty the low-land Cane.  
 
 - IN plants, in beasts, in man's imperial race,  
-- An alien[^f33n1] mixture meliorates the breed;  
+- An alien mixture meliorates the breed;  
 - Hence Canes, that sickened dwarfish on the plain, [460]  
 - Will shoot with giant-vigour on the hill.  
 - Thus all depends on all; so God ordains.  
@@ -1284,9 +1284,8 @@ BOOK I.
 - The Cane its independency may boast,  
 - Tho' some less noble plants thine influence own.
 
-[^f33n1]: Belonging to another person, place, or family; from elsewhere, foreign.  
 
-[^f33n2]: Roman god of the sea.  
+[^f33n1]: Roman god of the sea.  
 
 ---
 
@@ -1351,7 +1350,7 @@ BOOK I.
 
 > VER. 503. *the logwood-hedge.*\] Linnaeus's name for this useful tree is *Haemotoxylon*, but it is better known to physicians by that of *Lignum campechense*. Its virtues, as a medicine, and properties as an ingredient in dying, need not to be enumerated in this place. It makes a no less strong than beautiful hedge in the West-Indies, where it rises to a considerable height.
 
-> VER. 508. *Nor shall the ricinus*\] This shrub is commonly called the physic-nut. It is generally divided into three kinds, the common, the French, and the Spanish, which differ from each other in their leaves and flowers, if not in their fruit or seeds. The plant from which the castor-oil is extracted is also called *Ricinus*, though it has no resemblance to any of the former, in leaves, flowers, or seeds. In one particular they all agree, *viz*. in their yielding to coction or expression a purgative or emetic oil. The Spaniards name these nuts *Avellanas purgativas*; hence Ray[^f35n5] terms them *Avellanae purgatrices novi orbis*. By roasting they are supposed to lose part of their virulency, which is wholly destroyed, say some people, by taking out a leaf-like substance that is to be found between the lobes. The nut exceeds a walnut, or even an almond, in sweetness, and yet three or four of them will operate briskly both up and down. The French call this useful shrub *Medecinier*. That species of it which bears red coral like flowers is named *Bellyach*[^f35n6] by the Barbadians; and its ripe seeds are supposed to be specific against melancholy.[^f35n7]
+> VER. 508. *Nor shall the ricinus*\] This shrub is commonly called the physic-nut. It is generally divided into three kinds, the common, the French, and the Spanish, which differ from each other in their leaves and flowers, if not in their fruit or seeds. The plant from which the castor-oil is extracted is also called *Ricinus*, though it has no resemblance to any of the former, in leaves, flowers, or seeds. In one particular they all agree, *viz*. in their yielding to coction or expression a purgative or emetic[^f35n5] oil. The Spaniards name these nuts *Avellanas purgativas*; hence Ray[^f35n6] terms them *Avellanae purgatrices novi orbis*. By roasting they are supposed to lose part of their virulency, which is wholly destroyed, say some people, by taking out a leaf-like substance that is to be found between the lobes. The nut exceeds a walnut, or even an almond,[^f35n7] in sweetness, and yet three or four of them will operate briskly both up and down. The French call this useful shrub *Medecinier*. That species of it which bears red coral like flowers is named *Bellyach*[^f35n8] by the Barbadians; and its ripe seeds are supposed to be specific against melancholy.[^f35n9]
 
 [^f35n1]: Logwood is the commericial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin, which produces blue, red, and purple colors.  
 
@@ -1361,11 +1360,15 @@ BOOK I.
 
 [^f35n4]: Among the later Greeks and Romans, a name for the nomadic peoples of the Syro-Arabian desert; also used as a synonym for Arab and Muslim peoples.  
 
-[^f35n5]: John Ray (1627-1705), English naturalist and botanist. Author of *Historia plantarum* (1686-1704), a three-volume encyclopedia of plants cataloging 18,600 species.  
+[^f35n5]: Having the power to produce vomiting. 
 
-[^f35n6]: The bellyache bush (*Jatropha gossypiifolia*) has a native range that includes Mexico and the tropical Americas.  
+[^f35n6]: John Ray (1627-1705), English naturalist and botanist. Author of *Historia plantarum* (1686-1704), a three-volume encyclopedia of plants cataloging 18,600 species.  
 
-[^f35n7]: Prior to the eighteenth century, melancholy was understood within the framework of humoral theories of the body (articulated by Aristotle, Galen, and Hippocrates) as a disease caused by an excess of "black bile" and characterized by such emotions as fear or sadness without explicit cause. Use of the term had expanded by the time of Grainger's writing to speak more generally of physiological disturbance, listlessness, or dejection.  
+[^f35n7]: The walnut (*Juglans regia*) has a native range stretching from the Balkan Peninsula to Iran. The almond (*Prunus dulcis*) is primarily native to western Asia. 
+
+[^f35n8]: The bellyache bush (*Jatropha gossypiifolia*) has a native range that includes Mexico and the tropical Americas.  
+
+[^f35n9]: Prior to the eighteenth century, melancholy was understood within the framework of humoral theories of the body (articulated by Aristotle, Galen, and Hippocrates) as a disease caused by an excess of "black bile" and characterized by such emotions as fear or sadness without explicit cause. Use of the term had expanded by the time of Grainger's writing to speak more generally of physiological disturbance, listlessness, or dejection.  
 
 ---
 
@@ -1388,17 +1391,17 @@ BOOK I.
 
 >    
 
-> VER. 510. *the acassee,*\] *Acacia*. This is a species of thorn; the juice of the root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is of the class of the syngenesia. No astringent juice is extracted from it. Its trivial name is *Cashaw*. Tournefort[^f36n7] describes it in his voyage to the Levant. Some call it the Holy Thorn, and others Sweet Brier. The half-ripe pod affords a strong cement; and the main stem, being wounded, produces a transparent gum, like the Arabic, to which tree this bears a strong resemblance.
+> VER. 510. *the acassee,*\] *Acacia*. This is a species of thorn; the juice of the root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is of the class of the syngenesia. No astringent juice is extracted from it. Its trivial name is *Cashaw*. Tournefort[^f36n7] describes it in his voyage to the Levant.[^f36n8] Some call it the Holy Thorn, and others Sweet Brier. The half-ripe pod affords a strong cement; and the main stem, being wounded, produces a transparent gum, like the Arabic, to which tree this bears a strong resemblance.
 
-> VER. 515. *the privet*\] *Ligustrum*. This shrub is sufficiently known. Its leaves and flowers make a good gargle in the aphthae, and ulcered throat.
+> VER. 515. *the privet*\] *Ligustrum*. This shrub is sufficiently known. Its leaves and flowers make a good gargle in the aphthae,[^f36n9] and ulcered throat.
 
-> VER. 520. *carnation fair.*\] This is indeed a most beautiful flowering shrub. It is a native of the West-Indies, and called, from a French governor, named Depoinci,[^f36n8] *Poinciana*. If permitted, it will grow twenty feet high; but, in order to make it a good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is of the senna kind.[^f36n9] Its leaves and flowers are stomachic, carminative, and emmenagogue.[^f36n10] Some authors name it *Cauda pavonis*,[^f36n11] on account of its inimitable beauty; the flowers have a physicky smell. How it came to be called *Doodle-doo* I know not; the Barbadians more properly term it *Flower Fence*.[^f36n12] This plant grows also in Guinea.[^f36n13]
+> VER. 520. *carnation fair.*\] This is indeed a most beautiful flowering shrub. It is a native of the West-Indies, and called, from a French governor, named Depoinci,[^f36n10] *Poinciana*. If permitted, it will grow twenty feet high; but, in order to make it a good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is of the senna kind.[^f36n11] Its leaves and flowers are stomachic, carminative, and emmenagogue.[^f36n12] Some authors name it *Cauda pavonis*,[^f36n13] on account of its inimitable beauty; the flowers have a physicky smell. How it came to be called *Doodle-doo* I know not; the Barbadians more properly term it *Flower Fence*.[^f36n14] This plant grows also in Guinea.
 
-[^f36n1]: Also colic or painful stomach contractions.
+[^f36n1]: Colic or painful stomach contractions.
 
 [^f36n2]: Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn. 
 
-[^f36n3]: Jewry, stiff-neck'd race. The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity. As such, it has anti-Semitic dimensions, in that it suggests that Judaism's followers are sinful and fundamentally flawed, as well as attached to an inferior religion.
+[^f36n3]: Jewry, stiff-neck'd race. The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity.  
 
 [^f36n4]: Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia; commonly used for hedging. Some species are invasive.
 
@@ -1408,17 +1411,19 @@ BOOK I.
 
 [^f36n7]: Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique* (1694).
 
-[^f36n8]: General Philippe de Lonvilliers, chevalier de Poincy (1584-1660), governor of the French Antilles from 1647 to 1660.  
+[^f36n8]: Refers to the eastern part of the Mediterranean. 
 
-[^f36n9]: The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
+[^f36n9]: Ulcers, usually of the mouth. 
 
-[^f36n10]: Grainger means that the plant is good for the stomach (stomachic), that it produces flatulence (carminative), and that it induces menstrual flow (emmenagogue).  
+[^f36n10]: General Philippe de Lonvilliers, chevalier de Poincy (1584-1660), governor of the French Antilles from 1647 to 1660.  
 
-[^f36n11]: Peacock's tail.
+[^f36n11]: The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
-[^f36n12]: Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.
+[^f36n12]: Grainger means that the plant is good for the stomach (stomachic), that it produces flatulence (carminative), and that it induces menstrual flow (emmenagogue).  
 
-[^f36n13]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[^f36n13]: Peacock's tail.
+
+[^f36n14]: Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.  
 
 ---
 
@@ -1446,15 +1451,15 @@ BOOK I.
 
 > VER. 536. *prickly pear;*\] The botanical name of this plant is *Opuntia*; it will
 
-[^f37n1]: Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae).  
+[^f37n1]: Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae). In Roman mythology, Juno is the principal female deity and consort of Jupiter.  
 
 [^f37n2]: Birds of the family Trochilidae.
 
-[^f37n3]: An eagle (family Accipitridae). 
+[^f37n3]: An eagle (family Accipitridae). Jove is an alternate name for Jupiter, Roman god of thunder. 
 
 [^f37n4]: Vitruvius Pollio (1st century BCE), Roman architect.
 
-[^f37n5]: Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
+[^f37n5]: Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects.  
 
 [^f37n6]: George Edwards (1694-1773), English artist and ornithologist. Author of *A Natural History of Uncommon Birds* (1743-1751).  
 
@@ -1465,27 +1470,27 @@ BOOK I.
 
 - They soon a formidable fence will shoot:  
 - Wild liquorice here its red beads loves to hang,[^f38n1]  
-- Whilst scandent blossoms, yellow, purple, blue,  
+- Whilst scandent[^f38n2] blossoms, yellow, purple, blue,  
 - Unhurt, wind round its shield-like leaf and spears. [540]  
 - Nor is its fruit inelegant of taste,  
 - Tho' more its colour charms the ravish'd eye;  
-- Vermeil,[^f38n2] as youthful beauty's roseat hue;  
-- As thine, fair Christobelle:[^f38n3] ah, when will fate,  
+- Vermeil,[^f38n3] as youthful beauty's roseat hue;  
+- As thine, fair Christobelle:[^f38n4] ah, when will fate,  
 - That long hath scowl'd relentless on the bard, [545]  
 - Give him some small plantation to inclose,  
 - Which he may call his own? Not wealth he craves,  
 
-> grow in the barrenest soils, and on the tops of walls, if a small portion of earth be added. There are two sorts of it, one whose fruit is roundish and sweet, the other, which has more the shape of a fig, is sour. The former is sometimes eaten, but the other seldom.[^f38n4] The French call them *Pomme de Raquette*. Both fruit and leaves are guarded with sharp prickles, and, even in the interior part of the fruit, there is one which must be removed before it is eaten. The leaves, which are half an inch thick, having a sort of pulp interposed between their surfaces, being deprived of their spines, and softened by the fire, make no bad poultice for inflammations. The juice of the fruit is an innocent fucus,[^f38n5] and is often used to tinge guava jellies. The opuntia, upon which the cochineal insect breeds, has no spines, and is cultivated with care in South-America, where it also grows wild. The prickly pear makes a strong fence, and is easily trimmed with a scymitar.[^f38n6] It grows naturally in some parts of Spain.[^f38n7]
+> grow in the barrenest soils, and on the tops of walls, if a small portion of earth be added. There are two sorts of it, one whose fruit is roundish and sweet, the other, which has more the shape of a fig, is sour. The former is sometimes eaten, but the other seldom. The French call them *Pomme de Raquette*. Both fruit and leaves are guarded with sharp prickles, and, even in the interior part of the fruit, there is one which must be removed before it is eaten. The leaves, which are half an inch thick, having a sort of pulp interposed between their surfaces, being deprived of their spines, and softened by the fire, make no bad poultice for inflammations. The juice of the fruit is an innocent fucus,[^f38n5] and is often used to tinge guava jellies. The opuntia, upon which the cochineal insect breeds, has no spines, and is cultivated with care in South-America, where it also grows wild. The prickly pear makes a strong fence, and is easily trimmed with a scymitar.[^f38n6] It grows naturally in some parts of Spain.[^f38n7]
 
-> VER. 538. *wild liquorice*\] This is a scandent[^f38n8] plant, from which the Negroes gather what they call *Jumbee Beeds*. These are about the size of pigeon-peas,[^f38n9] almost round, of a red colour, with a black speck on one extremity. They act as an emetic,[^f38n10] but, being violent in their operation, great caution should be observed in using them. The leaves make a good pectoral drink[^f38n11] in disorders of the breast. By the French it is named *Petit Panacoco*, to distinguish it from a large tree, which bears seeds of the same colours, only much bigger. This tree is a species of black ebony.[^f38n12]
+> VER. 538. *wild liquorice*\] This is a scandent plant, from which the Negroes gather what they call *Jumbee Beeds*. These are about the size of pigeon-peas,[^f38n8] almost round, of a red colour, with a black speck on one extremity. They act as an emetic, but, being violent in their operation, great caution should be observed in using them. The leaves make a good pectoral drink[^f38n9] in disorders of the breast. By the French it is named *Petit Panacoco*, to distinguish it from a large tree, which bears seeds of the same colours, only much bigger. This tree is a species of black ebony.[^f38n10]
 
 [^f38n1]: Wild liquorice (*Abrus precatorius*) is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
-[^f38n2]: Bright red color.
+[^f38n2]: Climbing, ascending. 
 
-[^f38n3]: Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his 25 March 1765 letter to Bishop Thomas Percy (Nichols 288). 
+[^f38n3]: Bright red color.
 
-[^f38n4]: The fruits and pads of *Opuntia* cacti have constituted an important food source for human beings and animals. 
+[^f38n4]: Gilmore suggests that Christobelle refers to Grainger's wife, Daniel Matthew Burt. This seems likely, especially if one reads "Christobelle" as "Belle of St. Christopher." Lines 544-547 refer to Grainger's long-standing wish that he might one day own his own plantation. See, for example, his 25 March 1765 letter to Bishop Thomas Percy (Nichols 288). 
 
 [^f38n5]: A paint or cosmetic for beautifying the skin; a wash or coloring for the face.  
 
@@ -1493,15 +1498,11 @@ BOOK I.
 
 [^f38n7]: *Opuntia ficus-indica*, which is native to Mexico, was introduced to Spain by Columbus upon his return from his first voyage.  
 
-[^f38n8]: Climbing, ascending. 
+[^f38n8]: *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.
 
-[^f38n9]: *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.
+[^f38n9]: Pectoral drinks aid in digestion.
 
-[^f38n10]: A medicine that excites vomiting. 
-
-[^f38n11]: Pectoral drinks aid in digestion.
-
-[^f38n11]: Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
+[^f38n10]: Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
 
 ---
 
@@ -1566,7 +1567,7 @@ BOOK I.
 
 > VER. 572. *yellow deaths*\] The yellow fever, to which Europeans of a sanguine habit of body, and who exceed in drinking or exercise, are liable on their arrival in the West Indies. The French call it *Maladie de Siame*, or more properly, *La Fievre des Matelots*. Those who have lived any time in the islands are no more subject to this disease than the Creoles,[^f40n3] whence, however, some physicians have too hastily concluded, that it was of foreign extraction.
 
-[^f40n1]: Yellow fever, a disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea or vomiting, and bleeding. This urban disease was extremely deadly to newcomers from Europe.
+[^f40n1]: Yellow fever, a viral disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea, vomiting, and bleeding. This disease was extremely deadly to newcomers from Europe. Eighteenth-century physicians did not understand the mechanisms via which yellow fever was caused or transmitted, but they took note of immunological patterns in which people who had lived in the Caribbean seemed immune to the disease, while those who had not were susceptible. They further believed, erroneously, that Africans and Afro-Caribbeans had an innate immunity to yellow fever.  
 
 [^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
 
