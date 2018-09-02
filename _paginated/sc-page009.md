@@ -30,7 +30,7 @@ order: 17
 
 [^f9n2]: Sugar cane turns yellow when it is ripe.
 
-[^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon canes").
+[^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon cane").
 
 [^f9n4]: Tempé is the name of a valley in Thessaly located between Mounts Olympus and Ossa; it also can be used as a general name for a beautiful valley or rural spot. In Greek mythology, Pan is god of flocks and herds and is usually represented with the horns, ears, and legs of a goat on the body of a man. Pan lived in Arcadia, an idealized, utopian place in mythology and literature.  
 
