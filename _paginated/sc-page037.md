@@ -31,15 +31,15 @@ order: 45
 
 > VER. 536. *prickly pear;*\] The botanical name of this plant is *Opuntia*; it will
 
-[^f37n1]: Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae).  
+[^f37n1]: Juno has been associated with geese (family Anatidae) and peacocks (three species in the pheasant family Phasianidae). In Roman mythology, Juno is the principal female deity and consort of Jupiter. 
 
 [^f37n2]: Birds of the family Trochilidae.
 
-[^f37n3]: An eagle (family Accipitridae). 
+[^f37n3]: An eagle (family Accipitridae). Jove is an alternate name for Jupiter, Roman god of thunder.  
 
 [^f37n4]: Vitruvius Pollio (1st century BCE), Roman architect.
 
-[^f37n5]: Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. *Opuntia* was of significant interest to European naturalists and others concerned with the Americas because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
+[^f37n5]: Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. 
 
 [^f37n6]: George Edwards (1694-1773), English artist and ornithologist. Author of *A Natural History of Uncommon Birds* (1743-1751).  
 
