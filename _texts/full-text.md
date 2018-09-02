@@ -907,7 +907,7 @@ BOOK I.
 > VER. 260. *gemmy tops;*\] The summit of the Cane being smaller-jointed as well as softer, and consequently having more gems, from whence the young sprouts shoot, is properer for planting than any other part of it. From one to four junks,[^f22n3] each about a foot long, are put in every hole. Where too many junks are planted in one hole, the Canes may be numerous, but can neither become vigorous, nor yield such a quantity of rich liquor as they otherwise would. In case the young shoots do not appear above ground in four or five weeks, the deficiencies must be supplied with new tops.
 
 
-[^f22n1]: 
+[^f22n1]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe.
 
 [^f22n2]: Domains.
 
@@ -1001,18 +1001,20 @@ BOOK I.
 - Else good Amyntor,[^f25n1]  him the graces lov'd,
 - Wisdom caress'd, and Themis[^f25n2] call'd her own, [330]
 - Had liv'd by all admir'd, had now perus'd
-- "These lines, with all the malice of a friend."
+- "These lines, with all the malice of a friend."[^f25n3]
 
 - YET future rains the careful may foretell:
 - Mosquitos, sand-flies, seek the shelter'd roof,
 
->VER. 334. *Mosquitos,*\] This is a Spanish word, signifying a Gnat, or Fly. The are very troublesome, especially to strangers, whom they bite unmercifully, causing a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often been occasioned by scratching those swellings, in persons of a bad habit of body. Though natives of the West-Indies, they are not less common in the coldest regions; for Mr. Maupertuis[^f25n3] takes notice how troublesome they were to him and his attendants on the snowy summit of certain mountains within the arctic circle. They, however, chiefly love shady, moist, and warm places. Accordingly they are commonest to be met with in the corners of rooms, towards evening, and before rain. They are so light, as not to be felt when they pitch on the skin; and, as soon as they have darted in their proboscis, fly off, so that the first intimation one has of being bit by them, is the itching tumour. Warm lime-juice is its remedy. The Mosquito makes a humming noise, especially in the night-time.
+>VER. 334. *Mosquitos,*\] This is a Spanish word, signifying a Gnat, or Fly. The are very troublesome, especially to strangers, whom they bite unmercifully, causing a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often been occasioned by scratching those swellings, in persons of a bad habit of body. Though natives of the West-Indies, they are not less common in the coldest regions; for Mr. Maupertuis[^f25n4] takes notice how troublesome they were to him and his attendants on the snowy summit of certain mountains within the arctic circle. They, however, chiefly love shady, moist, and warm places. Accordingly they are commonest to be met with in the corners of rooms, towards evening, and before rain. They are so light, as not to be felt when they pitch on the skin; and, as soon as they have darted in their proboscis, fly off, so that the first intimation one has of being bit by them, is the itching tumour. Warm lime-juice is its remedy. The Mosquito makes a humming noise, especially in the night-time.
 
 [^f25n1]: King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.
 
 [^f25n2]: The Greek goddess of wisdom and good counsel; often the personification of justice and the interpreter of the gods' will.
 
-[^f25n3]: Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
+[^f25n3]: Gilmore identifies this quotation as an adaptation from Edward Young's *The Universal Passion. Satire III. To the Right Honourable Mr. Dodington* (1).
+
+[^f25n4]: Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
 ---
 
@@ -1089,7 +1091,7 @@ BOOK I.
 - While its green face is chang'd to sordid brown. [365]
 - A grateful freshness every sense pervades;
 - While beats the heart with unaccustom'd joy:
-- Her stores fugacious Memory now recalls;
+- Her stores fugacious[^f28n2] Memory now recalls;
 - And Fancy prunes her wings for loftiest flights.
 - The mute creation share the enlivening hour; [370]
 - Bounds the brisk kid, and wanton plays the lamb.
@@ -1099,6 +1101,8 @@ BOOK I.
 - Glad Nature's liveliest robe, the vivid green. [375]
 
 [^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
+
+[^f28n2]: Fugitive, fleeting, transient.  
 
 ---
 
@@ -1112,25 +1116,27 @@ BOOK I.
 - May lie in ambush!\) and whose shaggy sides, [380]  
 - Trees shade, of endless green, enormous size,  
 - Wondrous in shape, to botany unknown,  
-- Old as the deluge:——There, in secret haunts,  
+- Old as the deluge:[^f29n2]——There, in secret haunts,  
 - The watery spirits ope their liquid court;  
 - There, with the wood-nymphs, link'd in festal band, [385]  
-- (Soft airs and Phoebus[^f29n2] wing them to their arms)  
+- (Soft airs and Phoebus[^f29n3] wing them to their arms)  
 - Hold amorous dalliance. Ah, may none profane,  
 - With fire, or steel, their mystic privacy:  
 - For there their fluent offspring first see day,  
 - Coy infants sporting; silver-footed dew [390]  
 - To bathe by night thy sprouts in genial balm;  
 - The green-stol'd Naiad of the tinkling rill,  
-- Whose brow the fern-tree shades;[^f29n3] the power of rain  
+- Whose brow the fern-tree shades;[^f29n4] the power of rain  
 
 > VER. 393. *Whose brow the fern-tree*\] This only grows in mountainous situations. Its stem shoots up to a considerable height, but it does not divide into branches, till near the summit, where it shoots out horizontally, like an umbrella, into leaves, which resemble those of the common fern. I know of no medical uses, whereto this singularly beautiful tree has been applied, and indeed its wood, being spungy, is seldom used to oeconomical purposes. It, however, serves well enough for building mountain-huts, and temporary fences for cattle.
 
 [^f29n1]: Also known as bearded fig or the wild banyan tree (*Ficus citrifolia*).  
 
-[^f29n2]: An alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
+[^f29n2]: The Biblical flood of Noah's time. 
 
-[^f29n3]: Tree ferns are primitive plants that belong to the order Cyatheales. Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to nine meters tall.  
+[^f29n3]: An alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.  
+
+[^f29n4]: Tree ferns are primitive plants that belong to the order Cyatheales. Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to nine meters tall.  
 
 ---
 
@@ -1152,7 +1158,7 @@ BOOK I.
 - Well-pleas'd, the master-swain reviews their toil; [405]  
 - And rolls, in fancy, many a full-fraught cask.  
 - So, when the shield was forg'd for Peleus' Son;[^f30n3]  
-- The swarthy Cyclops shar'd the important task:  
+- The swarthy Cyclops[^f30n4] shar'd the important task:  
 - With bellows, some reviv'd the seeds of fire;  
 - Some, gold, and brass, and steel, together fus'd [410]  
 - In the vast furnace; while a chosen few,  
@@ -1166,6 +1172,8 @@ BOOK I.
 [^f30n2]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra; she is sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid.  
 
 [^f30n3]: Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Hector killed Patroclus.    
+
+[^f30n4]: In Greek mythology, one of a race of one-eyed giants who forged thunderbolts for Zeus.  
 
 ---
 
