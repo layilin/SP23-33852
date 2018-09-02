@@ -39,7 +39,7 @@ order: 16
 
 [^f8n6]: Hans Sloane (1660-1753) was an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.
 
-[^f8n7]: Grainger refers here to a pear known today as the jargonelle pear (*Pyrus communis* 'Jargonelle'). It is one of the oldest pears in cultivation.
+[^f8n7]: This is a pear known today as the jargonelle pear (*Pyrus communis* 'Jargonelle'). It is one of the oldest pears in cultivation.
 
 [^f8n8]: Anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.
 
