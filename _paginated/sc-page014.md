@@ -40,7 +40,7 @@ order: 22
 > "At Loop-holes cut through thickest shade."—— 
 {:.indented} 
       
-> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island
+> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island[^f14n6]
 
 [^f14n1]: The nine muses of art, literature, and science.
 
@@ -51,5 +51,7 @@ order: 22
 [^f14n4]: John Milton (1606-1674) was an English poet and polemicist. Especially known for *Paradise Lost* (1667) and *Samson Agonistes* (1671). Grainger quotes here from *Paradise Lost* (9.1101-1110).  
 
 [^f14n5]: Malabar is a region on the southwest coast of India (modern Kerala). Decan refers to the Deccan plateau, immediately to the east of Kerala. 
+
+[^f14n6]: Grainger means that the Spanish left livestock to breed in Barbados so that the island would supply them with provisions on future trips. 
 
 ---
