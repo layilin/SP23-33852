@@ -400,7 +400,7 @@ BOOK I.
 
 [^f8n6]: Hans Sloane (1660-1753) was an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London.
 
-[^f8n7]: Grainger refers here to a pear known today as the jargonelle pear (*Pyrus communis* 'Jargonelle'). It is one of the oldest pears in cultivation.
+[^f8n7]: This is a pear known today as the jargonelle pear (*Pyrus communis* 'Jargonelle'). It is one of the oldest pears in cultivation.
 
 [^f8n8]: Anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.
 
@@ -428,7 +428,7 @@ BOOK I.
 
 [^f9n2]: Sugar cane turns yellow when it is ripe.
 
-[^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon canes").
+[^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon cane").
 
 [^f9n4]: Tempé is the name of a valley in Thessaly located between Mounts Olympus and Ossa; it also can be used as a general name for a beautiful valley or rural spot. In Greek mythology, Pan is god of flocks and herds and is usually represented with the horns, ears, and legs of a goat on the body of a man. Pan lived in Arcadia, an idealized, utopian place in mythology and literature.  
 
