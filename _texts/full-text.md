@@ -872,9 +872,11 @@ BOOK I.
 - When best to dig, and when inhume  the Cane;
 - A task how arduous! next demands thy song.
 
-> a wholesome root, either boiled or roasted.[^f21n1] They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.
+> a wholesome root, either boiled or roasted.[^f21n1] They will sometimes weigh one and an half, or two pounds, but their commonest size is from six ounces to nine. They cannot be kept good above half a year. They are a native of South-America, the West-Indies, and of most parts of Guinea.[^f21n2]
 
 [^f21n1]: Roasting and boiling are two of the easiest ways to prepare yams and were thus two methods commonly employed by the enslaved. In the eighteenth-century Caribbean, enslaved persons also regularly prepared yams by following the long-established West African practice of pounding them with a mortar and pestle until they formed a paste that could be rolled into small balls. Pounded yams were sometimes known as *fufu*, a term derived from the Twi and Ga-Adangme languages that also applied to pounded plantain and cassava (Higman 78-81).
+
+[^f21n2]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. Although its precise borders are difficult to pinpoint, it ranged from Sierra Leone to Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. It should not be confused with the modern nation of Guinea. It is important to note that European names for African places and ethnicities were imprecise. Slave traders and planters often identified enslaved individuals by their ports of embarkation (for example, Minnah, Papaw, and Coromantin), even though Africans may have identified themselves by their villages or districts of origin instead. 
 
 ---
 
@@ -883,11 +885,11 @@ BOOK I.
 
 - IT not imports beneath what sign thy hoes
 - The deep trough sink, and ridge alternate raise:
-- If this from washes guard thy gemmy[^f22n1] tops; [260]
+- If this from washes guard thy gemmy tops; [260]
 - And that arrest the moisture these require.
 
 - YET, should the site of thine estate permit,
-- Let the trade-wind thy ridges ventilate;
+- Let the trade-wind[^f22n1] thy ridges ventilate;
 - So shall a greener, loftier Cane arise,
 - And richest nectar in thy coppers foam. [265]
 
@@ -904,7 +906,8 @@ BOOK I.
 
 > VER. 260. *gemmy tops;*\] The summit of the Cane being smaller-jointed as well as softer, and consequently having more gems, from whence the young sprouts shoot, is properer for planting than any other part of it. From one to four junks,[^f22n3] each about a foot long, are put in every hole. Where too many junks are planted in one hole, the Canes may be numerous, but can neither become vigorous, nor yield such a quantity of rich liquor as they otherwise would. In case the young shoots do not appear above ground in four or five weeks, the deficiencies must be supplied with new tops.
 
-[^f22n1]: Gem-like, brilliant, glittering.
+
+[^f22n1]: 
 
 [^f22n2]: Domains.
 
