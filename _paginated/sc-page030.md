@@ -25,7 +25,7 @@ order: 38
 - Well-pleas'd, the master-swain reviews their toil; [405]  
 - And rolls, in fancy, many a full-fraught cask.  
 - So, when the shield was forg'd for Peleus' Son;[^f30n3]  
-- The swarthy Cyclops shar'd the important task:  
+- The swarthy Cyclops[^f30n4] shar'd the important task:  
 - With bellows, some reviv'd the seeds of fire;  
 - Some, gold, and brass, and steel, together fus'd [410]  
 - In the vast furnace; while a chosen few,  
@@ -38,6 +38,8 @@ order: 38
 
 [^f30n2]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra; she is sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid.  
 
-[^f30n3]: Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Hector killed Patroclus.    
+[^f30n3]: Peleus' son is Achilles. In Book 18 of the *Iliad*, the god Hephaestus forges an elaborate shield for Achilles to replace the armor that was lost when Hector killed Patroclus.
+
+[^f30n4]: In Greek mythology, one of a race of one-eyed giants who forged thunderbolts for Zeus.  
 
 ---
