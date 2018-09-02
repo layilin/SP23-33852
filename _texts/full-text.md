@@ -1692,12 +1692,12 @@ BOOK I.
 - His gate stood wide to all; but chief the poor,  
 - The unfriended stranger, and the sickly, shar'd [620]  
 - His prompt munificence: No surly dog,  
-- Nor surlier Ethiop, their approach debarr'd.  
+- Nor surlier Ethiop,[^f44n4] their approach debarr'd.  
 - The Muse, that pays this tribute to his fame,  
 - Oft hath escap'd the sun's meridian blaze,  
-- Beneath yon tamarind-vista,[^f44n4] which his hands [625]  
+- Beneath yon tamarind-vista,[^f44n5] which his hands [625]  
 
-> Pasqua, a Greek, having opened a coffee-house in London about the middle of the last century. The famous traveller, Thevenot, introduced coffee into France. This plant is cultivated in the West-Indies, particularly by the French, with great success; but the berry from thence is not equal to that from Mocha. It is a species of Arabian jasmine; the flower is particularly redolent, and from it a pleasant cordial water is distilled. It produces fruit twice every year; but the shrub must be three years old before any can be gathered. It should not be allowed to grow above six foot high. It is very apt to be destroyed by a large fly, which the French call *Mouche a caffe*; as well as by the white grub, which they name *Puceron*. Its medical and alimentary qualities are as generally known as those of tea.[^f44n5]  
+> Pasqua,[^f44n6] a Greek, having opened a coffee-house in London about the middle of the last century. The famous traveller, Thevenot,[^f44n7] introduced coffee into France. This plant is cultivated in the West-Indies, particularly by the French, with great success; but the berry from thence is not equal to that from Mocha.[^f44n8] It is a species of Arabian jasmine; the flower is particularly redolent, and from it a pleasant cordial water is distilled. It produces fruit twice every year; but the shrub must be three years old before any can be gathered. It should not be allowed to grow above six foot high. It is very apt to be destroyed by a large fly, which the French call *Mouche a caffe*; as well as by the white grub, which they name *Puceron*.[^f44n9] Its medical and alimentary qualities are as generally known as those of tea.[^f44n10]  
 
 > VER. 625. *tamarind-vista,*\] This large, shady, and beautiful tree grows fast even in the driest soils, and lasts long; and yet its wood is hard, and very fit for mechanical uses. The leaves are smaller than those of senna, and pennated: they taste sour-
 
@@ -1707,9 +1707,19 @@ BOOK I.
 
 [^f44n3]: Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
-[^f44n4]: The tamarind tree (*Tamarindus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
+[^f44n4]: Ethiop and Ethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about “washing the Ethiopian” or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
 
-[^f44n5]: *Camellia sinensis* is the species from which commercially produced tea is derived. Its native range is Southeastern Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
+[^f44n5]: The tamarind tree (*Tamarindus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
+
+[^f44n6]: Pasqua Rosée (fl. 1651-1656) was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England. 
+
+[^f44n7]: Jean de Thévenot (1633-1667) traveled to Egypt, Arabia, Persia, and India. His five-volume *Voyages* was published in 1689.  
+
+[^f44n8]: A seaport in Yemen at the entrance to the Red Sea. Also a term applied to coffee of high grade that was once exported from Mocha. 
+
+[^f44n9]: According to Gilmore, the large fly is possibly *Xyleutes (Psychonoctua) lillianae*, and the white grub is possibly *Planococcus citri* (Gilmore cites Kevan for this information).  
+
+[^f44n10]: *Camellia sinensis* is the species from which commercially produced tea is derived. Its native range is Southeastern Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
 ---
 
@@ -1734,9 +1744,11 @@ BOOK I.
 - "And yon bright sky, to which my soul aspires, [640]  
 - "Shall bless you with eternity of joy."  
 
-> ish, as does the pulp, which is contained in pods four or five inches long. They bear once a year. An excellent vinegar may be made from the fruit; but the Creoles chiefly preserve it with sugar, as the Spaniards with salt. A pleasant syrup may be made from it. The name is, in Arabic, *Tamara*. The Antients were not acquainted therewith; for the Arabians first introduced tamarinds into physic; it is a native of the East as well as of the West-Indies and South-America, where different provinces call it by different names. Its cathartic qualities are well known. It is good in sea-sickness. The botanical name is *Tamarindus*.
+> ish, as does the pulp, which is contained in pods four or five inches long. They bear once a year. An excellent vinegar may be made from the fruit; but the Creoles chiefly preserve it with sugar, as the Spaniards with salt. A pleasant syrup may be made from it. The name is, in Arabic, *Tamara*. The Antients were not acquainted therewith; for the Arabians first introduced tamarinds into physic; it is a native of the East as well as of the West-Indies and South-America, where different provinces call it by different names. Its cathartic[^f45n2] qualities are well known. It is good in sea-sickness. The botanical name is *Tamarindus*.
 
 [^f45n1]: Refers to Leo, the fifth sign of the Zodiac; the sun enters it in mid-July and exits it in mid-August. 
+
+[^f45n2]: Purging, purgative. 
 
 ---
 
@@ -1762,13 +1774,15 @@ BOOK I.
 
 > VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Condor*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans.* Nº 208.[^f46n2]  
 
-> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadaloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribbee, or Virgin-Islands.  
+> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadaloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribbee, or Virgin-Islands.[^f46n3]  
 
 > VER. 645. *on rapid Twilight's heel:*\] There is little or no twilight in the West-Indies. All the year round it is dark before eight at night. The dawn is equally short.
 
 [^f46n1]: Zumbadore means buzzer in Spanish. As Grainger explains in his note, he is referring to the Andean condor (*Vultur gryphus*).
 
 [^f46n2]: *Philosophical Transactions*, the journal of the Royal Society.  
+
+[^f46n3]: The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the US Virgin Islands.
 
 ---
 
