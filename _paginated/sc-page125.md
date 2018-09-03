@@ -8,7 +8,7 @@ order: 133
 ---
 
 
-[125]({{site.baseurl}}/images/{{page.img}})
+[[125]]({{site.baseurl}}/images/{{page.img}})
 
 THE 
 
