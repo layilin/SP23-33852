@@ -939,8 +939,8 @@ BOOK I.
 - THEN say, ye swains, whom wealth and fame inspire,
 - Might not the plough, that rolls on rapid wheels,
 - Save no small labour to the hoe-arm'd gang?
-- Might not the culture taught the British hinds,
-- By Ceres' son, unfailing crops secure; [290]
+- Might not the culture taught the British hinds,[^f23n2]
+- By Ceres' son,[^f23n3] unfailing crops secure; [290]
 - Tho' neither dung nor fallowing lent their aid?
 
 - THE cultur'd land recalls the devious Muse;
@@ -949,11 +949,13 @@ BOOK I.
 - The meetest season to commit thy tops, [295]
 - With best advantage, to the well-dug mould.
 
->VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.[^f23n2]
+>VER. 290. *By Ceres' son,*\] Jethro Tull, Esq; the greatest improver in modern husbandry.
 
 [^f23n1]: In the eighteenth century, improvement referred to the cultivation and development of lands for the purpose of making them more economically valuable. Increasingly, philosophers, government officials, and others also came to believe that there was a moral imperative for individuals to improve their land, since it could lead to increased crop and food production, which in turn would prevent famine and other social ills. Improvement was tied up with imperial agendas of dispossession as well, however: it was often argued that indigenous peoples did not improve their lands and therefore did not have a right to continue using and living on them. 
 
-[^f23n2]: Jethro Tull (b. 1674-d. 1741) was an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731).  
+[^f23n2]: A hind is a farm servant or agricultural laborer.  
+
+[^f23n3]: By Ceres' son, Grainger means Jethro Tull (1674-1741), an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731). Ceres is the Italo-Roman goddess of growth and agriculture. 
 
 ---
 
@@ -3242,7 +3244,7 @@ BOOK III.
 - Even lameness from it's leafy pallet crawls,
 - To join the favoured gang. What of the Cane [125]
 - Remains, and much the largest part remains,
-- Cut into junks[^f93n4] a yard in length, and tied
+- Cut into junks a yard in length, and tied
 - In small light bundles; load the broad-wheel'd wane,
 - The mules crook-harnest, and the sturdier crew,
 
@@ -3251,8 +3253,6 @@ BOOK III.
 [^f93n2]: Sugar cane turns yellow when it is ripe.  
 
 [^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
-
-[^f93n4]: A gathering of stems or stalks.  
 
 ---
 
@@ -3279,19 +3279,17 @@ BOOK III.
 - To lash the laughing, labouring, singing throng.[^f94n4]
 
 - WHAT cannot song? all nature feels its power:
-- The hind's[^f94n5] blithe whistle, as thro' stubborn soils
+- The hind's blithe whistle, as thro' stubborn soils
 - He drives the shining share; more than the goad,
 - His tardy steers impells.—The muse hath seen, [150]
 
-[^f94n1]: John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Lincoln was a center of wool production, and the Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.  
+[^f94n1]: The georgic poet John Dyer was living in Lincolnshire at the time of his death. Grainger also refers to the fact that Lincoln was a center of wool production. The Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.  
 
 [^f94n2]: The practice of branding sheep. Although he does not make an explicit comparison between the treatment of animals and human beings, this passage recalls the fact that enslaved persons were branded with the marks of their enslavers. See Gilmore, who credits Tobias Döring with this insight.  
 
 [^f94n3]: This is one of several places in the poem where Grainger shrinks from the violence of plantation slavery.  
 
 [^f94n4]: Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and planters also saw them as helping to lighten the burden of the labor being performed. In short, they saw music and singing as making work more pleasant and thereby ensuring compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see "Song of slaves in Barbados" at https://gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/). A recording of the song by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, which imbues it with a sorrowful and tragic dimension (see https://gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3).  
-
-[^f94n5]: A hind is a farm servant or agricultural laborer.  
 
 ---
 
@@ -3307,33 +3305,31 @@ BOOK III.
 - Lead on his flock o'er crags, thro' bogs, and streams,
 - A tedious journey; yet not weary they,
 - Drawn by the enchantment of his artless song.
-- What cannot musick?—When brown Ceres[^f95n2] asks [160]
+- What cannot musick?—When brown Ceres asks [160]
 - The reapers sickle; what like magic sound,
-- Puff'd from sonorous bellows[^f95n3] by the squeeze
+- Puff'd from sonorous bellows[^f95n2] by the squeeze
 - Of tuneful artist, can the rage disarm
-- Of the swart dog-star,[^f95n4] and make harvest light?
+- Of the swart dog-star,[^f95n3] and make harvest light?
 
 - AND now thy mills dance eager in the gale; [165]
 - Feed well their eagerness: but O beware;
-- Nor trust, between the steel-cas'd cylinders,[^f95n5]
-- The hand incautious: off the member snapt[^f95n6]
+- Nor trust, between the steel-cas'd cylinders,[^f95n4]
+- The hand incautious: off the member snapt[^f95n5]
 - Thou'lt ever rue; sad spectacle of woe!
 
-> VER. 168. *Off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.[^f95n7]
+> VER. 168. *Off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.[^f95n6]
 
 [^f95n1]: The Annan is a river in Dumfries and Galloway, a unitary council area in southern Scotland near the border with England. During the 1332 Battle of Annan at the outset of the Second War of Scottish Independence (1332-1357), Sir Archibald Douglas attacked Edward Balliol and his army at Annan. Escaping just before being captured, Balliol is said to have fled naked to England.  
 
-[^f95n2]: Italo-Roman goddess of growth and agriculture.  
+[^f95n2]: Bagpipes.  
 
-[^f95n3]: Bagpipes.  
+[^f95n3]: The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
 
-[^f95n4]: The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
+[^f95n4]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
 
-[^f95n5]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
+[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
 
-[^f95n6]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
-
-[^f95n7]: To put a windmill "out of the wind" is to stop the mill by turning the sails so they no longer catch the wind.  
+[^f95n6]: To put a windmill "out of the wind" is to stop the mill by turning the sails so that they no longer catch the wind.  
 
 ---
 
@@ -3354,15 +3350,13 @@ BOOK III.
 - YE! who in bundles bind the lopt-off Canes; [180]
 - But chiefly ye! who feed the tight-brac'd mill;
 
-> Pere Labat[^f96n2] says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
+> Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
 > Indeed the bare suspicion of such a piece of barbarity leaves a stain: and therefore authors cannot be too cautious of admitting into their writings, any insinuation that bears hard on the humanity of a people.  
 
 > Daily observation affords but too many proofs, where domestic slavery does not obtain, of the fatal consequences of indulged passion and revenge; but where one man is the absolute property of another, those passions may perhaps receive additional activity: planters, therefore, cannot be too much on their guard against the first sallies of passion; as by indulgence, passion, like a favourite, will at last grow independently powerful.
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
-
-[^f96n2]: Jean Baptiste Labat (1663-1738), Dominican missionary who worked in Guadeloupe for several years and authored the *Nouveau voyage aux isles de l'Amerique* (1722).
 
 ---
 
@@ -3406,7 +3400,7 @@ BOOK III.
 
 [^f97n5]: Wife of Thone, an Egyptian king. In Homer's *Odyssey*, Polydamna gives Helen nepenthe. 
 
-[^f97n6]: Jove is an alternate name for Jupiter, Roman god of thunder. Helen was said to be the most beautiful woman in Ancient Greece. Paris abducted her from King Menelaus, thus leading to the siege of Troy.
+[^f97n6]: Helen was said to be the most beautiful woman in ancient Greece. Paris abducted her from Menelaus, thus leading to the siege of Troy.
 
 [^f97n7]: A sail designed so that it does not overfill with wind.  
 
@@ -3416,39 +3410,38 @@ BOOK III.
 98
 
 - YET the faint breeze oft flags on listless wings,
-- Nor tremulates the coco's[^f98n1] airiest arch, [205]
+- Nor tremulates the coco's airiest arch, [205]
 - While the red sun darts deluges of fire;
 - And soon \(if on the gale thy crop depend,\)
 - Will all thy hopes of opulence defeat.
 
-- "INFORMER of the planetary train!"[^f98n2]
+- "INFORMER of the planetary train!"[^f98n1]
 - Source undiminished of all-cheering light, [210]
 - Of roseat beauty, and heart-gladning joy!
 - Fountain of being, on whose water broods
 - The organic spirit, principle of life!
 - Lord of the seasons! who in courtly pomp
-- Lacquay[^f98n3] thy presence, and with glad dispatch, [215]
+- Lacquay[^f98n2] thy presence, and with glad dispatch, [215]
 - Pour at thy bidding, o'er the land and sea!
 - Parent of Vegetation, whose fond grasp
 - The Sugar-Cane displays; and whose green car
 - Soft-stealing dews, with liquid pearls adorn'd,
 - Fat-fostering rains, and buxom genial airs [220]
 - Attend triumphant! Why, ah why so oft,
-- Why hath Antigua,[^f98n4] sweetly social isle,
+- Why hath Antigua,[^f98n3] sweetly social isle,
 
-> VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads[^f98n5] of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds[^f98n6] may be used for every purpose of life. Antigua is well fortified, and has a good militia.
+> VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads[^f98n4] of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds[^f98n5] may be used for every purpose of life. Antigua is well fortified, and has a good militia.
 
-[^f98n1]: The coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
 
-[^f98n2]: The informer is the sun, and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as James Thomson's *The Seasons* (1730).  
+[^f98n1]: The informer is the sun, and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as James Thomson's *The Seasons* (1730).  
 
-[^f98n3]: Lackey, footman. 
+[^f98n2]: Attend, wait upon. 
 
-[^f98n4]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
+[^f98n3]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
-[^f98n5]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
+[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
 
-[^f98n6]: A watershed in Antigua. 
+[^f98n5]: A watershed in Antigua. 
 
 ---
 
@@ -3521,7 +3514,7 @@ BOOK III.
 - WOULDST thou against calamity provide?
 - Let a well shingled roof, from Raleigh's land,
 
-> VER. 259. *Raleigh's land*\] Sir Walter Raleigh[^f100n8] gave the name of Virginia, in honour of Q. Elizabeth, to the whole of the north-east of North America, which Sebastian Cabot,[^f100n9] a native of Bristol, \(though others call him a Venetian,\) first disco-
+> VER. 259. *Raleigh's land*\] Sir Walter Raleigh gave the name of Virginia, in honour of Q. Elizabeth, to the whole of the north-east of North America, which Sebastian Cabot,[^f100n8] a native of Bristol, \(though others call him a Venetian,\) first disco-
 
 [^f100n1]: Also capoose, capouse. Cone-shaped pivots upon which the rollers of the sugar mill turned.  
 
@@ -3529,7 +3522,7 @@ BOOK III.
 
 [^f100n3]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
 
-[^f100n4]: Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
+[^f100n4]: Much of the plumbing used in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
 
 [^f100n5]: Freed from impurities, cleansed. 
 
@@ -3537,9 +3530,7 @@ BOOK III.
 
 [^f100n7]: Also stanchion, an upright bar, stay, prop, or support. 
 
-[^f100n8]: Sir Walter Raleigh (1554-1618) was an English courtier during Queen Elizabeth I's reign, as well as an explorer and author who obtained a patent for and helped to organize the expeditions to Roanoke in 1585 and 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of the Large, Rich, and Bewtiful Empyre of Guiana* (1596) and is associated with the introduction of tobacco to England. 
-
-[^f100n9]: Sebastian Cabot (c. 1481/2-1557) was a Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. Also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).
+[^f100n8]: Sebastian Cabot (c. 1481/2-1557) was a Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).
 
 ---
 
