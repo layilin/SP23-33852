@@ -7,9 +7,9 @@ order: 176
 ---
 
 
-[168]()
+[[168]]()
 
-## ERRATA.
+ERRATA.
 
 [internal] Page 5, in note, for *lesser* read *less*.  
 [internal] Page 14, line 128, for *elay* read *clay*.  
