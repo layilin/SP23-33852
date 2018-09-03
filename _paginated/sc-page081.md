@@ -22,11 +22,11 @@ order: 89
 
 > VER. 504. *The boneta*\] This fish, which is equal in size to the largest salmon, is only to be found in the warm latitudes. It is not a delicate food, but those who have lived for any length of time on salt meats at sea, do not dislike it. Sir Hans Sloane, in his voyage to Jamaica, describes the method of striking them.
 
-> VER. 504. *Or the shark*\] This voracious fish needs no description; I have seen them from 15 to 20 foot long. Some naturalists call it *Canis Carharias*. They have been known to follow a slave-ship from Guinea[^f81n7] to the West Indies.[^f81n8] They swim with incredible celerity, and are found in some of the warmer seas of Europe, as well as between the tropics.
+> VER. 504. *Or the shark*\] This voracious fish needs no description; I have seen them from 15 to 20 foot long. Some naturalists call it *Canis Carharias*. They have been known to follow a slave-ship from Guinea to the West Indies.[^f81n7] They swim with incredible celerity, and are found in some of the warmer seas of Europe, as well as between the tropics.
 
-> VER. 505. *nautilus*[^f81n9]\] This fish the seamen call a Portugese man of war. It makes a most beautiful appearance on the water.
+> VER. 505. *nautilus*[^f81n8]\] This fish the seamen call a Portugese man of war. It makes a most beautiful appearance on the water.
 
-> VER. 507. *winged fishes*\] This extraordinary species of fish is only found in the warm latitudes. Being pursued in the water by a fish of prey called Albacores,[^f81n10] they betake themselves in shoals to flight, and in the air are often snapt up by the Garayio,[^f81n11] a sea fowl. They sometimes fall on the shrouds or decks of ships. They are well tasted, and commonly sold at Barbadoes.[^f81n12]
+> VER. 507. *winged fishes*\] This extraordinary species of fish is only found in the warm latitudes. Being pursued in the water by a fish of prey called Albacores,[^f81n9] they betake themselves in shoals to flight, and in the air are often snapt up by the Garayio,[^f81n10] a sea fowl. They sometimes fall on the shrouds or decks of ships. They are well tasted, and commonly sold at Barbadoes.[^f81n11]
 
 > VER. 508. *Dolphins*\] This is a most beautiful fish, when first taken out of the sea; but its beauty vanishes, almost as soon as it is dead.
 
@@ -42,16 +42,14 @@ order: 89
 
 [^f81n6]: The dolphin fish, dorado, or mahi-mahi (*Coryphaena hippurus*), which is widespread in the Atlantic, Indian, and Pacific Oceans, as well as in the Mediterranean.  
 
-[^f81n7]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. Roughly covered a geographic region that included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. Not to be confused with the modern nation of Guinea on the western coast of Africa.  
+[^f81n7]: Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).
 
-[^f81n8]: Sharks (clade Selachimorpha) were notorious for following slave ships across the Atlantic, since slavers threw those individuals who died during the voyage overboard. Slavers also used sharks to terrorize their captives and subdue rebellious behavior. For example, one captain facing the prospect of suicides among his captives decided to lower a woman into the water, where she was bitten in half (Rediker 40).
+[^f81n8]: The "Errata" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
 
-[^f81n9]: The "Errata" list at the end of *The Sugar-Cane* indicates that "nautilus" should read "urtica."  
+[^f81n9]: Albacore tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
 
-[^f81n10]: Albacore tuna (*Thunnus alalunga*), which is found in tropical and temperate waters of all the oceans, including the Mediterranean. Now a threatened species due to overfishing.  
+[^f81n10]: Perhaps the tropic bird (any seabird of the family Phaethontidae) or the frigate bird (any seabird of the family Fregatidae), both of which prey on flying fish.  
 
-[^f81n11]: Perhaps the tropic bird (any seabird of the family Phaethontidae) or the frigate bird (any seabird of the family Fregatidae), both of which prey on flying fish.  
-
-[^f81n12]: One of the Lesser Antilles; colonized by the English in 1627. Gained independence in 1966.  
+[^f81n11]: One of the Lesser Antilles; colonized by the English in 1627. Gained independence in 1966.  
 
 ---
