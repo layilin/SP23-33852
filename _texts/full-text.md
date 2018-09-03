@@ -164,8 +164,6 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[viii]
-
 [Blank page]
 
 ---
