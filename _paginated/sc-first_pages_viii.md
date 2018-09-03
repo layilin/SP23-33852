@@ -9,8 +9,6 @@ footnote: False
 ---
 
 
-[[viii]]({{site.baseurl}}/images/{{page.img}})
-
-[Blank page]
+[[Blank page]]({{site.baseurl}}/images/{{page.img}})
 
 ---
