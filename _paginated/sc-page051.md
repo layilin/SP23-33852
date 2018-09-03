@@ -8,7 +8,7 @@ order: 59
 ---
 
 
-[51]({{site.baseurl}}/images/{{page.img}})  
+[[51]]({{site.baseurl}}/images/{{page.img}})  
 
 ADVERTISEMENT to BOOK II.  
 
