@@ -8,6 +8,6 @@ order: 170
 ---
 
 
-[Blank page]
+[Blank page]({{site.baseurl}}/images/{{page.img}})
 
 ---
