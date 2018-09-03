@@ -32,7 +32,7 @@ order: 108
 - WOULDST thou against calamity provide?
 - Let a well shingled roof, from Raleigh's land,
 
-> VER. 259. *Raleigh's land*\] Sir Walter Raleigh[^f100n8] gave the name of Virginia, in honour of Q. Elizabeth, to the whole of the north-east of North America, which Sebastian Cabot,[^f100n9] a native of Bristol, \(though others call him a Venetian,\) first disco-
+> VER. 259. *Raleigh's land*\] Sir Walter Raleigh gave the name of Virginia, in honour of Q. Elizabeth, to the whole of the north-east of North America, which Sebastian Cabot,[^f100n8] a native of Bristol, \(though others call him a Venetian,\) first disco-
 
 [^f100n1]: Also capoose, capouse. Cone-shaped pivots upon which the rollers of the sugar mill turned.  
 
@@ -40,7 +40,7 @@ order: 108
 
 [^f100n3]: The "Errata" list at the end of *The Sugar-Cane* indicates that "thro'" should read "through."  
 
-[^f100n4]: Much of the plumbing involved in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
+[^f100n4]: Much of the plumbing used in sugar production and distillation was made of (or lined with) lead. A common side effect of excessive rum consumption in the eighteenth century was lead poisoning, which often manifested in severe stomach aches (dry gripes or colic).  
 
 [^f100n5]: Freed from impurities, cleansed. 
 
@@ -48,8 +48,6 @@ order: 108
 
 [^f100n7]: Also stanchion, an upright bar, stay, prop, or support. 
 
-[^f100n8]: Sir Walter Raleigh (1554-1618) was an English courtier during Queen Elizabeth I's reign, as well as an explorer and author who obtained a patent for and helped to organize the expeditions to Roanoke in 1585 and 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. Raleigh is the author of *Discoverie of the Large, Rich, and Bewtiful Empyre of Guiana* (1596) and is associated with the introduction of tobacco to England. 
-
-[^f100n9]: Sebastian Cabot (c. 1481/2-1557) was a Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. Also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).
+[^f100n8]: Sebastian Cabot (c. 1481/2-1557) was a Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).
 
 ---
