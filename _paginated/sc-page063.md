@@ -32,14 +32,12 @@ order: 71
 - And food adapted to the yellow fly?[^f63n3]——
 - The skill'd in Nature's mystic lore observe,
 - Each tree, each plant, that drinks the golden day, [170]
-- Some reptile life sustains: Thus cochinille[^f63n4]
+- Some reptile life sustains: Thus cochinille
 
 [^f63n1]: The Volga is a river in western Russia that connects to the Baltic, Moscow, and Black Seas before flowing into the Caspian Sea.
 
 [^f63n2]: Locusts, one of several species of acridids (family Acrididae) that are known for swarming and migrating and causing great damage to crops. 
 
 [^f63n3]: May be *Diachlorus ferrugatus*, a small biting fly native to Central America and the southeastern United States.
-
-[^f63n4]: The cochineal insect (*Dactylopius coccus*) is the source of a highly prized red dye made from the dried bodies of the female. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal.
 
 ---
