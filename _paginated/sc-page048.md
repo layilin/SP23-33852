@@ -8,7 +8,7 @@ order: 56
 ---
 
 
-[48]({{site.baseurl}}/images/{{page.img}})
+[[48]]({{site.baseurl}}/images/{{page.img}})
 
 [Blank]
 
