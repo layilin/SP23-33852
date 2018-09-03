@@ -10,6 +10,6 @@ order: 178
 
 [Front cover, inside]({{site.baseurl}}/images/{{page.img}})
 
-H. Bradley Martin
+[Bookplate: H. Bradley Martin]
 
 ---
