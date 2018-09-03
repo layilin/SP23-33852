@@ -1,15 +1,13 @@
 ---
 layout: poem-page
-title: "page ii"
+title: "frontispiece"
 editor: julie
 source: "1764 edition"
 img: "p0008.jpg"
-order: 2
+order: 184
 ---
 
 
-[ii]({{site.baseurl}}/images/{{page.img}})
-
-[Frontispiece]
+[Frontispiece]({{site.baseurl}}/images/{{page.img}})
 
 ---
