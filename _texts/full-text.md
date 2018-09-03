@@ -3057,22 +3057,18 @@ BOOK III.
 - Benign protector of the Cane-land isles,
 - Repells the invader, and his rude mace breaks.
 - Here, every mountain, every winding dell,
-- \(Haunt of the Dryads;[^f88n2] where, beneath the shade
-- Of broad-leaf'd china,[^f88n3] idly they repose, [25]
+- \(Haunt of the Dryads; where, beneath the shade
+- Of broad-leaf'd china,[^f88n2] idly they repose, [25]
 
-> VER. 17. *Tho' mountains heapt on mountains*\] This more particularly alludes to St. Kitts; where one of the highest ridges of that chain of mountains, which run through its center, from one end of it to the other, bears upon it another mountain, which, somewhat resembling the legendary prints of the devil's carrying on his shoulders St. Christopher; or, as others write, of a giant,[^f88n4] of that appellation, carrying our Saviour, in the form of a child, in the same manner, through a deep sea; gave name, to this island.
+> VER. 17. *Tho' mountains heapt on mountains*\] This more particularly alludes to St. Kitts; where one of the highest ridges of that chain of mountains, which run through its center, from one end of it to the other, bears upon it another mountain, which, somewhat resembling the legendary prints of the devil's carrying on his shoulders St. Christopher; or, as others write, of a giant, of that appellation, carrying our Saviour, in the form of a child, in the same manner, through a deep sea; gave name, to this island.
 
-> VER. 25. *Of broad-leaf'd china,*\] The leaves of this medicinal tree are so large, that the Negroes commonly use them to cover the water, which they bring in pails from the mountain, where it chiefly grows. The roots of this tree were introduced into European practice, soon after the venereal disease; but, unless they are fresh, it must be confessed they possess fewer virtues than either sarsaparilla[^f88n5] or lignum
+> VER. 25. *Of broad-leaf'd china,*\] The leaves of this medicinal tree are so large, that the Negroes commonly use them to cover the water, which they bring in pails from the mountain, where it chiefly grows. The roots of this tree were introduced into European practice, soon after the venereal disease; but, unless they are fresh, it must be confessed they possess fewer virtues than either sarsaparilla[^f88n3] or lignum
 
 [^f88n1]: January.
 
-[^f88n2]: Wood or tree nymphs in Greek mythology.  
+[^f88n2]: The china-root plant, *Smilax china*, which is valued for its medicinal properties. Its native range extends from China to Japan and the Philippines. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.   
 
-[^f88n3]: The china-root plant, *Smilax china*, which is valued for its medicinal properties. Its native range extends from China to Japan and the Philippines. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
-
-[^f88n4]: A reference to the legend that St. Christopher, whose name means "Christ carrier," once carried Jesus in the form of a child across a river.  
-
-[^f88n5]: Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
+[^f88n3]: Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
 
 ---
 
@@ -3099,7 +3095,7 @@ BOOK III.
 - The public welfare, claim thy busy hour;
 - With her to roam \(thrice pleasing devious walk\)
 
-> vitae.[^f89n5] It also grows in China, and many parts of the East-Indies,[^f89n6] where it is greatly recommended in the gout, palsy, sciatica, obstructions,[^f89n7] and obstinate headachs: but it can surely not effect the removal of these terrible disorders; since, in China, the people eat the fresh root, boiled with their meat, as we do turnips; and the better sort, there, use a water distilled from it. The Spaniards call it *Palo de China*. The botanical name is *Smilax*.
+> vitae.[^f89n5] It also grows in China, and many parts of the East-Indies, where it is greatly recommended in the gout, palsy, sciatica, obstructions,[^f89n6] and obstinate headachs: but it can surely not effect the removal of these terrible disorders; since, in China, the people eat the fresh root, boiled with their meat, as we do turnips; and the better sort, there, use a water distilled from it. The Spaniards call it *Palo de China*. The botanical name is *Smilax*.
  
 [^f89n1]: The new year was generally considered crop time, a period of intense activity when cane was harvested, milled, and prepared for export.  
 
@@ -3111,9 +3107,7 @@ BOOK III.
 
 [^f89n5]: The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean). Lignum vitae ("wood of life") was used to treat a variety of diseases, including syphilis and yaws. 
 
-[^f89n6]: The whole of Southeast Asia to the east of and including India.  
-
-[^f89n7]: Gout is metabolic arthritis, frequently in the joints of the large toe, resulting in painful inflammations caused by deposits of uric acid crystals. Palsy is paralysis of the skeletal muscles. Sciatica is irritation or inflammation of the sciatic nerve. It causes severe pain from the lower back to the legs. Obstructions are blocks in any tubular organ or structure, (i.e., an intestinal bowel blockage, which causes vomiting, distension, and abdominal pain).  
+[^f89n6]: Gout is metabolic arthritis, frequently in the joints of the large toe, resulting in painful inflammations caused by deposits of uric acid crystals. Palsy is paralysis of the skeletal muscles. Sciatica is irritation or inflammation of the sciatic nerve. It causes severe pain from the lower back to the legs. Obstructions are blocks in any tubular organ or structure, (i.e., an intestinal bowel blockage, which causes vomiting, distension, and abdominal pain).  
 
 ---
 
@@ -3126,34 +3120,32 @@ BOOK III.
 - THE planter's labour in a round revolves;[^f90n1]
 - Ends with the year, and with the year begins.
 
-- YE swains,[^f90n2] to Heaven bend low in grateful prayer,
+- YE swains, to Heaven bend low in grateful prayer,
 - Worship the Almighty; whose kind-fostering hand
 - Hath blest your labour, and hath given the cane [50]
 - To rise superior to each menac'd ill.
 
 - NOR less, ye planters, in devotion, sue,
 - That nor the heavenly bolt, nor casual spark,
-- Nor hand of malice may the crop destroy.[^f90n3]
+- Nor hand of malice may the crop destroy.[^f90n2]
 
 - AH me! what numerous, deafning bells, resound? [55]
 - What cries of horror startle the dull sleep?
 - What gleaming brightness makes, at midnight, day?
 - By its portentuous glare, too well I see
-- Palaemon's fate;[^f90n4] the virtuous, and the wise!
+- Palaemon's fate;[^f90n3] the virtuous, and the wise!
 - Where were ye, watches, when the flame burst forth? [60]
-- A little care had then the hydra[^f90n5] quell'd:
+- A little care had then the hydra[^f90n4] quell'd:
 - But, now, what clouds of white smoke load the sky!
 - How strong, how rapid the combustion pours!
 
 [^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-[^f90n2]: A country or farm laborer, a shepherd. A key figure in georgic poetry.  
+[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations.  
 
-[^f90n3]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of the places where he hints at moments of enslaved resistance on Caribbean plantations.  
+[^f90n3]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
-[^f90n4]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
-
-[^f90n5]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
+[^f90n4]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
 
 ---
 
@@ -3204,32 +3196,26 @@ BOOK III.
 - OH, may the Cane-isles know few nights, like this!
 - For now the sail-clad points,[^f92n1] impatient, wait
 - The hour of sweet release, to court the gale.
-- The late-hung coppers[^f92n2] wish to feel the warmth,
+- The late-hung coppers wish to feel the warmth,
 - Which well-dried fewel from the Cane imparts: [95]
 - The Negroe-train, with placid looks, survey
 - Thy fields, which full perfection have attain'd,
 - And pant to wield the bill: \(no surly watch
-- Dare now deprive them of the luscious Cane:\)[^f92n3]
+- Dare now deprive them of the luscious Cane:\)[^f92n2]
 - Nor thou, my friend, their willing ardour check; [100]
 - Encourage rather; cheerful toil is light.
 - So from no field, shall slow-pac'd oxen draw
-- More frequent loaded wanes;[^f92n4] which many a day,
+- More frequent loaded wanes; which many a day,
 - And many a night shall feed thy crackling mills
-- With richest offerings:[^f92n5] while thy far seen flames, [105]
+- With richest offerings:[^f92n3] while thy far seen flames, [105]
 - Bursting thro' many a chimney, bright emblaze
-- The AEthiop-brow[^f92n6] of night. And see, they pour
+- The AEthiop-brow of night. And see, they pour
 
 [^f92n1]: Windmill sails.  
 
-[^f92n2]: Copper pots used for boiling cane juice.  
+[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
 
-[^f92n3]: In his *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, plantesr sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
-
-[^f92n4]: A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.  
-
-[^f92n5]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses 24 hours per day during crop time.  
-
-[^f92n6]: Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.  
+[^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.  
 
 ---
 
