@@ -8,6 +8,6 @@ order: 184
 ---
 
 
-[Frontispiece]({{site.baseurl}}/images/{{page.img}})
+[[Frontispiece]]({{site.baseurl}}/images/{{page.img}})
 
 ---
