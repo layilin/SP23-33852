@@ -1,6 +1,6 @@
 ---
 layout: poem-page
-title: "page iv"
+title: "Blank page 5"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0010.jpg"
@@ -8,8 +8,6 @@ order: 4
 ---
 
 
-[iv]({{site.baseurl}}/images/{{page.img}})
-
-[Blank page]
+[Blank page]({{site.baseurl}}/images/{{page.img}})
 
 ---
