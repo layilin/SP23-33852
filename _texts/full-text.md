@@ -2012,7 +2012,7 @@ BOOK II.
 
 > VER. 69. *mangrove-banks*\] This tree, which botanists call *Rizophora*, grows in marshy soils, and on the sides of rivers; and, as the branches take root, they frequently render narrow streams impassable to boats. Osyters often adhere to their roots, *&c*. The French name of this strange water-shrub is *Paltuvier*. The species meant here is the red mangrove.
 
-> VER. 74. *Dread alligators*\] This dreadful animal is amphibious, and seldom lays fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding this precaution, the gallinazo (a large species of carrion-crow) conceals itself among the thick boughs of the neighbouring trees, and thus often discovers the hoard of the alligator, which she no sooner leaves, than the gallinazo souses down upon it, and greedily scraping off the sand, regales on its contents. Nor is the male alligator less an enemy to the increase of his own horrid brood, than these useful birds; for, when Instinct prompts the female to let her young fry out by breaking the eggs, he never fails to accompany her, and to devour as many of them as he can: So that the mother scarce ever escapes into the river with more than five out of all her hundred. Thus providence doubly prevents the otherwise immense propagation of that voracious animal, on the banks of the river Guayaquil; for the gallinazo is not always found, where alligators are. *Ulloa*.[^f57n6]
+> VER. 74. *Dread alligators*\] This dreadful animal is amphibious, and seldom lays fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding this precaution, the gallinazo (a large species of carrion-crow) conceals itself among the thick boughs of the neighbouring trees, and thus often discovers the hoard of the alligator, which she no sooner leaves, than the gallinazo souses down upon it, and greedily scraping off the sand, regales on its contents. Nor is the male alligator less an enemy to the increase of his own horrid brood, than these useful birds; for, when Instinct prompts the female to let her young fry out by breaking the eggs, he never fails to accompany her, and to devour as many of them as he can: So that the mother scarce ever escapes into the river with more than five out of all her hundred. Thus providence doubly prevents the otherwise immense propagation of that voracious animal, on the banks of the river Guayaquil; for the gallinazo is not always found, where alligators are. *Ulloa*.
 
 > VER. 75. *teeth-fil'd Ibbos*\] Or *Ebbos*, as they are more commonly called, are a numerous nation. Many of them have their teeth filed, and blackened in an extraordinary manner. They make good slaves when bought young; but are, in ge-
 
@@ -2024,9 +2024,7 @@ BOOK II.
 
 [^f57n4]: The American alligator, *Alligator mississippiensis*.
 
-[^f57n5]: Igbo refers to a language spoken in the Bight of Biafra (now the Bight of Bonny), a bay on the western Atlantic coast of Africa bounded by Nigeria, Cameroon, Equatorial Guinea, and northwestern Gabon. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and people who spoke Igbo came to be designated as Igbo by slave traders and planters. Some of these people may have thought of themselves as Igbo as well, while others may simply have accepted or been forced to accept the term as a designation, even though they would have identified themselves by their villages or districts of origin instead. Since many people who ended up at the Bight of Biafra and other ports on the western Atlantic coast had made long journeys from inland Africa and picked up various languages along the way, those who identified as Igbo also may have learned Igbo during the process and been participating in ethnogenesis (the formation and development of ethnic groupings).
-
-[^f57n6]: Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).
+[^f57n5]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
 
 ---
 
@@ -2057,7 +2055,7 @@ BOOK II.
 
 [^f58n1]: A chemical compound used as rat poison.
 
-[^f58n2]: Cassava \(*Manihot esculenta*\), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling (Higman 61-69).
+[^f58n2]: Although raw cassava is poisonous to human beings, rats apparently could eat it without being unduly affected since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today.
 
 [^f58n3]: Unwitting, ignorant.
 
@@ -2090,7 +2088,7 @@ BOOK II.
 - In men of vulgar looks, and trivial air?) [110]
 - Such, planter, be not thou asham'd to save
 
-> VER. 95. *'Tis safer then to mingle nightshade's juice*\] See the article *Solanum* in Newman's Chemistry published by Dr. Lewis.[^f59n4] There is a species of East-India[^f59n5] animal, called a *Mungoes*,[^f59n6] which bears a natural antipathy to rats. Its introduction into the Sugar-Islands would, probably, effectuate the extirpation of this destructive vermin.
+> VER. 95. *'Tis safer then to mingle nightshade's juice*\] See the article *Solanum* in Newman's Chemistry published by Dr. Lewis.[^f59n4] There is a species of East-India animal, called a *Mungoes*,[^f59n5] which bears a natural antipathy to rats. Its introduction into the Sugar-Islands would, probably, effectuate the extirpation of this destructive vermin.
 
 [^f59n1]: Nightshade most likely refers to *Atropa belladonna*, a poisonous plant also known as deadly nightshade or belladonna. The foliage, fruits, and roots are all highly toxic, and consuming only ten berries can kill an adult human. Its native range is England to central and southern Europe to Iran.
 
@@ -2100,9 +2098,7 @@ BOOK II.
 
 [^f59n4]: William Lewis (bap. 1708-d. 1781) was an English physician and experimental chemist. Author of *Chemical Works of Caspar Neumann, M.D.* (1759). Neumann (1683-1737) was a German chemist.
 
-[^f59n5]: The whole of Southeast Asia to the east of and including India.
-
-[^f59n6]: The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. After the eighteenth century, the mongoose was purposefully introduced to the Caribbean and Pacific islands to exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, it has contributed to the destruction of local biodiversity on those islands and is considered an invasive species.
+[^f59n5]: The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. After the eighteenth century, the mongoose was purposefully introduced to the Caribbean and Pacific islands to exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, it has contributed to the destruction of local biodiversity on those islands and is considered an invasive species.
 
 ---
 
@@ -2124,11 +2120,11 @@ BOOK II.
 - Thine hands defend, or thou wilt sadly rue
 - Thy rash imprudence, when ten thousand darts [125]
 
-> VER. 114. *the yellow thistle*\] The seeds of this plant are an excellent emetic;[^f60n6] and almost as useful in dysenteric[^f60n7] complaints as ipecacuan.[^f60n8] It grows every where.
+> VER. 114. *the yellow thistle*\] The seeds of this plant are an excellent emetic; and almost as useful in dysenteric[^f60n6] complaints as ipecacuan.[^f60n7] It grows every where.
 
-> VER. 119. *Nor let rude hands the knotted grass profane*,\] This is truly a powerful vermifuge;[^f60n9] but, uncautiously administered, has often proved mortal. The juice of it clarified, is sometimes given; but a decoction of it is greatly preferable. Its botanical name is *Spigelia*.
+> VER. 119. *Nor let rude hands the knotted grass profane*,\] This is truly a powerful vermifuge;[^f60n8] but, uncautiously administered, has often proved mortal. The juice of it clarified, is sometimes given; but a decoction of it is greatly preferable. Its botanical name is *Spigelia*.
 
-> VER. 123. *The cow-itch also save*;\] This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded. Mixed with melasses,[^f60n10] it is a safe and excellent vermifuge. Its seeds, which resemble blackish small beans, are purgative. Its flower is purple; and its pods, on which the stinging brown *Setae*[^f60n11] are found, are as large as a full-grown English field-pea.[^f60n12] 
+> VER. 123. *The cow-itch also save*;\] This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded. Mixed with melasses,[^f60n9] it is a safe and excellent vermifuge. Its seeds, which resemble blackish small beans, are purgative. Its flower is purple; and its pods, on which the stinging brown *Setae*[^f60n10] are found, are as large as a full-grown English field-pea.[^f60n11] 
 
 [^f60n1]: Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.
 
@@ -2140,19 +2136,17 @@ BOOK II.
 
 [^f60n5]: Cowitch \(*Mucuna pruriens*\), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
 
-[^f60n6]: A medicine that excites vomiting.
+[^f60n6]: Having to do with dysentery or diarrhea.
 
-[^f60n7]: Having to do with dysentery or diarrhea.
+[^f60n7]: Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
 
-[^f60n8]: Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
+[^f60n8]: A substance having the power to expel worms from the intestines; an anthelmintic.
 
-[^f60n9]: A substance having the power to expel worms from the intestines; an anthelmintic.
+[^f60n9]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
 
-[^f60n10]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
+[^f60n10]: Bristles.
 
-[^f60n11]: Bristles.
-
-[^f60n12]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
+[^f60n11]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
 ---
 
@@ -2168,13 +2162,13 @@ BOOK II.
 
 > VER. 128. *Planter, thou may'st the humble chickweed*\] There are two kinds of chickweed, which grow spontaneously in the Caribbees, and both possess very considerable virtues, particularly that which botanists call *Cajacia*, and which the Spaniards emphatically name *Erudos Cobres*, or Snakeweed,[^f61n5] on account of its remarkable qualities against poisonous bites. It is really of use against fish-poison; as is also the sensitive plant, which the Spaniards prettily call the *Vergonzoza*, the Bashful, and *La Donzella*, or the Maiden. There are many kinds of this extraordinary plant, which grow every where in the Islands and South-America. The botanical name of the former is *Alsine*, and that of the latter *Mimosa*.
 
-> VER. 130. *Not the confection*\] This medicine is called *Mithridatium*,[^f61n6] in honour of Mithridates king of Pontus; who, by using it constantly, had secured himself from the effects of poison, in such a manner, that, when he actually attempted to put an end to his life, by that means, he failed in his purpose. So, at least, Pliny[^f61n7] informs us. But we happily are not obliged to believe, implicitly, whatever that elaborate compiler has told us. When poisons immediately operate on the nervous system, and their effects are to be expelled by the skin, this electuary[^f61n8] is no contemptible antidote. But how many poisons do we know at present, which produce their effects in a different manner? and, from the acounts of authors, we have reason to be persuaded, that the antients were not much behind us in their variety of poisons. If, therefore, the King of Pontus had really intended to have destroyed himself, he could have been at no loss for the means, notwithstanding the daily use of this antidote.
+> VER. 130. *Not the confection*\] This medicine is called *Mithridatium*,[^f61n6] in honour of Mithridates king of Pontus; who, by using it constantly, had secured himself from the effects of poison, in such a manner, that, when he actually attempted to put an end to his life, by that means, he failed in his purpose. So, at least, Pliny informs us. But we happily are not obliged to believe, implicitly, whatever that elaborate compiler has told us. When poisons immediately operate on the nervous system, and their effects are to be expelled by the skin, this electuary[^f61n7] is no contemptible antidote. But how many poisons do we know at present, which produce their effects in a different manner? and, from the acounts of authors, we have reason to be persuaded, that the antients were not much behind us in their variety of poisons. If, therefore, the King of Pontus had really intended to have destroyed himself, he could have been at no loss for the means, notwithstanding the daily use of this antidote.
 
 > VER. 131. *Not the bless'd apple*\] Authors are not agreed what the apple is, to which Virgil attributes such remarkable virtues, nor is it indeed possible they ever
 
 [^f61n1]: *Stellaria media*, a plant native to Europe.
 
-[^f61n2]: Grainger refers to the sensitive plant \(*Mimosa pudica*\), the leaves of which fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists. 
+[^f61n2]: Grainger is referring to the sensitive plant \(*Mimosa pudica*\), the leaves of which fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists. 
 
 [^f61n3]: Mithridates \(132-63 BCE\) ruled Pontus in modern-day Turkey from 120-63 BCE. His attempts to expand his empire led to three wars against the Roman army. Following a mutiny by his troops, he committed suicide.  
 
@@ -2184,16 +2178,14 @@ BOOK II.
 
 [^f61n6]: A medicine long believed to be a universal antidote to poison.  
 
-[^f61n7]: Gaius Plinius Secundus or Pliny the Elder (23-79 AD), author of *Historia Naturalis*.
-
-[^f61n8]: Medicine in the form of a paste or preserve.
+[^f61n7]: Medicine in the form of a paste or preserve.
 
 ---
 
 
 62
 
-- Tho' lofty Maro[^f62n1] (whose immortal muse
+- Tho' lofty Maro (whose immortal muse
 - Distant I follow, and, submiss, adore)
 - Hath sung its properties, to counteract
 - Dire spells, slow-mutter'd o'er the baneful bowl, [135]
@@ -2201,34 +2193,31 @@ BOOK II.
 - Can vie with these low tenants of the vale,
 - In driving poisons from the infected frame:
 - For here, alas! (ye sons of luxury mark!)
-- The sea, tho' on its bosom Halcyons[^f62n2] sleep, [140]
-- Abounds with poison'd fish;[^f62n3] whose crimson fins,
+- The sea, tho' on its bosom Halcyons[^f62n1] sleep, [140]
+- Abounds with poison'd fish;[^f62n2] whose crimson fins,
 - Whose eyes, whose scales, bedropt with azure, gold,
 - Purple, and green, in all gay Summer's pride,
 - Amuse the sight; whose taste the palate charms;
 - Yet death, in ambush, on the banquet waits, [145]
 - Unless these antidotes be timely given.
 - But, say what strains, what numbers can recite,
-- Thy praises, vervain[^f62n4]; or wild liquorice,[^f62n5] thine?
+- Thy praises, vervain[^f62n3]; or wild liquorice, thine?
 - For not the costly root, the gift of God,
 
 > should. However, we have this comfort on our side, that our not knowing it is of no detriment to us; for as spells cannot affect us, we are at no loss for antidotes to guard against them.
 
-> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei*[^f62n6] on rhubarb.[^f62n7]
+> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei*[^f62n4] on rhubarb.[^f62n5]
 
-[^f62n1]: Virgil or Publius Vergilius Maro (70-19 BCE), author of the *Eclogues*, the *Georgics*, and the *Aeneid*.
 
-[^f62n2]: Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. The phrase "Halcyon days" previously designated a fourteen-day period around the winter solstice that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.
+[^f62n1]: Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. The phrase "Halcyon days" previously designated a fourteen-day period around the winter solstice that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.
 
-[^f62n3]: Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
+[^f62n2]: Grainger is probably not referring to a specific species of fish but rather to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.  
 
-[^f62n4]: Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range is the Old World and Australia.
+[^f62n3]: Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range is the Old World to Australia.
 
-[^f62n5]: *Abrus precatorius*, a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison, since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.
+[^f62n4]: Gift of god.
 
-[^f62n6]: Gift of god.
-
-[^f62n7]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
+[^f62n5]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
 
 ---
 
@@ -2257,7 +2246,7 @@ BOOK II.
 - And food adapted to the yellow fly?[^f63n3]——
 - The skill'd in Nature's mystic lore observe,
 - Each tree, each plant, that drinks the golden day, [170]
-- Some reptile life sustains: Thus cochinille[^f63n4]
+- Some reptile life sustains: Thus cochinille
 
 [^f63n1]: The Volga is a river in western Russia that connects to the Baltic, Moscow, and Black Seas before flowing into the Caspian Sea.
 
@@ -2265,21 +2254,19 @@ BOOK II.
 
 [^f63n3]: May be *Diachlorus ferrugatus*, a small biting fly native to Central America and the southeastern United States.
 
-[^f63n4]: The cochineal insect (*Dactylopius coccus*) is the source of a highly prized red dye made from the dried bodies of the female. The cochineal insect is native to tropical and subtropical Mexico and South America and was used in those places in the precolonial era to dye textiles and other objects. It became an important Atlantic commodity in the eighteenth century, with most of the supply still coming from indigenous sources. The red coats of British officers were dyed with cochineal.
-
 ---
 
 
 64
 
-- Feeds on the Indian fig;[^f64n1] and, should it harm
+- Feeds on the Indian fig; and, should it harm
 - The foster plant, its worth that harm repays:
 - But YE, base insects! no bright scarlet yield,
-- To deck the British Wolf;[^f64n2] who now, perhaps, [175]
-- (So Heaven and George[^f64n3] ordain) in triumph mounts
+- To deck the British Wolf;[^f64n1] who now, perhaps, [175]
+- (So Heaven and George[^f64n2] ordain) in triumph mounts
 - Some strong-built fortress, won from haughty Gaul!
 - And tho' no plant such luscious nectar yields,
-- As yields the Cane-plant; yet, vile paricides![^f64n4]
+- As yields the Cane-plant; yet, vile paricides![^f64n3]
 - Ungrateful ye! the Parent-cane destroy. [180] 
 
 - MUSE! say, what remedy hath skill devis'd
@@ -2288,23 +2275,21 @@ BOOK II.
 - Have made too firm a lodgment; and, with care,
 - Wipe every tainted blade, and liberal lave [185]
 - With sacred Neptune's purifying stream.
-- But this Augaean toil[^f64n5] long time demands,
+- But this Augaean toil[^f64n4] long time demands,
 - Which thou to more advantage may'st employ:
 - If vows for rain thou ever did'st prefer,
 
-> VER. 171. *Thus cochinille*\] This is a Spanish word. For the manner of propagating this useful insect, see Sir Hans Sloane's Natural History of Jamaica.[^f64n6] It was long believed in Europe to be a seed, or vegetable production. The botanical name of the plant on which the cochinille feeds, is *Opuntia maxima*, *folio oblongo*, *majore*, *spinulis obtusis*, *mollibus et innocentibus obsito*, *flore*, *striis rubris variegato*. Sloane.
+> VER. 171. *Thus cochinille*\] This is a Spanish word. For the manner of propagating this useful insect, see Sir Hans Sloane's Natural History of Jamaica.[^f64n5] It was long believed in Europe to be a seed, or vegetable production. The botanical name of the plant on which the cochinille feeds, is *Opuntia maxima*, *folio oblongo*, *majore*, *spinulis obtusis*, *mollibus et innocentibus obsito*, *flore*, *striis rubris variegato*. Sloane.
 
-[^f64n1]: Cactus plant of the genus *Opuntia*, some species of which served as food plants for the cochineal insect. There are over a hundred species of *Opuntia* distributed throughout the Americas. *Opuntia* are also known as prickly pear cacti or nopal, the pads and fruit of which are commonly consumed by human beings and animals as food. 
+[^f64n1]: The red coats of British officers were dyed with cochineal. James Wolfe (1727-1759) was an English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
-[^f64n2]: James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
+[^f64n2]: George III (1738-1820), king of Britain from 1760 to 1820.
 
-[^f64n3]: George III (1738-1820), king of Britain from 1760 to 1820.
+[^f64n3]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
 
-[^f64n4]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
+[^f64n4]: Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.
 
-[^f64n5]: Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.
-
-[^f64n6]: Hans Sloane (1660-1753) was an Irish physician, naturalist, and collector who traveled to Jamaica in 1687 with Christopher Monck, second duke of Albemarle and newly appointed governor of Jamaica. During his stay in Jamaica, Sloane amassed an extensive collection of natural specimens, including plants, that later served as the basis for his natural history, *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). Sloane also succeeded Isaac Newton as president of the Royal Society in 1727. Upon his death, he bequeathed his extensive collections, which he had made considerable additions to after returning from Jamaica, to the British nation. These served as the founding collections of the British Museum, the British Library, and the Natural History Museum in London. Sloane discusses the propagation of cochineal in his *Voyage* (2.208).
+[^f64n5]: Sloane discusses the propagation of cochineal in his *Voyage* (2.208).
 
 ---
 
@@ -2361,31 +2346,28 @@ BOOK II.
 - They burst their filmy jail, and crawl abroad,
 - Bugs of uncommon shape; thrice hideous show! [215]
 - Innumerous as the painted shells, that load
-- The wave-worn margin of the Virgin-isles![^f66n1]
-- Innumerous as the leaves the plumb-tree[^f66n2] sheds,
+- The wave-worn margin of the Virgin-isles!
+- Innumerous as the leaves the plumb-tree[^f66n1] sheds,
 - When, proud of her faecundity, she shows,
 - Naked, her gold fruit to the God of noon. [220]
 - Remorseless to its youth; what pity, say,
 - Can the Cane's age expect? In vain, its pith
 - With juice nectarious flows; to pungent sour,
 - Foe to the bowels, soon its nectar turns:
-- Vain every joint a gemmy[^f66n3] embryo bears, [225]
+- Vain every joint a gemmy embryo bears, [225]
 - Alternate rang'd; from these no filial young
 - Shall grateful spring, to bless the planter's eye.—
 - With bugs confederate, in destructive league,
-- The ants' republic[^f66n4] joins; a villain crew,
+- The ants' republic[^f66n2] joins; a villain crew,
 
-> VER. 218. *the plumb-tree sheds*,\] This is the Jamaica plumb-tree. When covered with fruit, it has no leaves upon it. The fruit is wholesome. In like manner, the panspan[^f66n5] is destitute of foliage when covered with flowers. The latter is a species of jessamine, and grows as large as an apple-tree.
+> VER. 218. *the plumb-tree sheds*,\] This is the Jamaica plumb-tree. When covered with fruit, it has no leaves upon it. The fruit is wholesome. In like manner, the panspan[^f66n3] is destitute of foliage when covered with flowers. The latter is a species of jessamine, and grows as large as an apple-tree.
 
-[^f66n1]: The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the US Virgin Islands.
 
-[^f66n2]: According to Gilmore, *Spondias purpurea*. Its native range is Mexico to northern Colombia.  
+[^f66n1]: According to Gilmore, *Spondias purpurea*. Its native range is Mexico to northern Colombia.  
 
-[^f66n3]: Gem-like, brilliant, glittering.
+[^f66n2]: Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (64).
 
-[^f66n4]: Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (64).
-
-[^f66n5]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas.  
+[^f66n3]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas.  
 
 ---
 
@@ -2413,7 +2395,7 @@ BOOK II.
 - Command their slaves each tainted blade to pick
 - With care, and burn them in vindictive flames.
 
-> VER. 231. *Eurus reigns*\] The East is the centre of the trade-wind[^f67n4] in the West-Indies, which veers a few points to the North or South. What Homer[^f67n5] says of the West-wind, in his islands of the blessed, may more aptly be applied to the trade-winds.
+> VER. 231. *Eurus reigns*\] The East is the centre of the trade-wind in the West-Indies, which veers a few points to the North or South. What Homer[^f67n4] says of the West-wind, in his islands of the blessed, may more aptly be applied to the trade-winds.
 
 [^f67n1]: A person appointed by a king or other ruler to act in his place.
 
@@ -2421,9 +2403,7 @@ BOOK II.
 
 [^f67n3]: Latin name for the south wind.
 
-[^f67n4]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe.
-
-[^f67n5]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
+[^f67n4]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
 
 ---
 
@@ -2434,7 +2414,7 @@ BOOK II.
 - If numerous, if industrious be thy gang;
 - At length, thou may'st the victory obtain. [250]
 - But, if the living taint be far diffus'd,
-- Bootless this toil; nor will it then avail
+- Bootless[^f68n1] this toil; nor will it then avail
 - (Tho' ashes lend their suffocating aid)
 - To bare the broad roots, and the mining swarms
 - Expose, remorseless, to the burning noon. [255]
@@ -2454,6 +2434,8 @@ BOOK II.
 - And heave their precious cargo in the main.
 
 > VER. 265. *Cathäy*\] An old name for China.
+
+[^f68n1]: Useless, unprofitable. 
 
 ---
 
@@ -2484,7 +2466,7 @@ BOOK II.
 - Planter, with mighty props thy dome[^f69n5] support; [290]
 - Each flaw repair; and well, with massy bars,
 
-[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
+[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago mentioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
 
 [^f69n2]: welkin. Sky, firmament.
 
@@ -2537,7 +2519,7 @@ BOOK II.
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
-- Disperse; the midday-sun looks red; strange burs[^f71n1]
+- Disperse; the midday-sun looks red; strange burs
 - Surround the stars, which vaster fill the eye. [315]
 - A horrid stench the pools, the main emits;
 - Fearful the genius of the forest sighs;
@@ -2545,23 +2527,22 @@ BOOK II.
 - A night of vapour, closing fast around,
 - Snatches the golden noon.—Each wind appeas'd, [320]
 - The North flies forth, and hurls the frighted air:
-- Not all the brazen engineries[^f71n2] of man,
+- Not all the brazen engineries[^f71n1] of man,
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
 - Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
-- "Is hush as death."[^f71n3]
+- "Is hush as death."[^f71n2]
 - Soon issues forth the West, with sudden burst;
 - And blasts more rapid, more resistless drives: [330]
 
 > VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
 
-[^f71n1]: A bur or burr is a circle of light surrounding the moon or a star.
 
-[^f71n2]: Engines of war, artillery. 
+[^f71n1]: Engines of war, artillery. 
 
-[^f71n3]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
+[^f71n2]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 ---
 
@@ -2590,11 +2571,9 @@ BOOK II.
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—[^f72n2]
+- Men, oxen, Cane-lands to the billowy main.—
 
 [^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
-
-[^f72n2]: The ocean.
 
 ---
 
@@ -2625,7 +2604,7 @@ BOOK II.
 - Annoys the rower; who, heart-fainting, eyes
 - The sails hang idly, noiseless, from the mast.[^f73n3] [375]
 
-[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+[^f73n1]: Vibratory or quivering flashes of light; lightning.
 
 [^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
 
@@ -2724,7 +2703,7 @@ BOOK II.
 - To where old Thames[^f76n3] with conscious pride surveys [430]
 - Green Eton,[^f76n4] soft abode of every Muse.
 - Each classic beauty soon he made his own;
-- And soon fam'd Isis[^f76n5] saw him woo the Nine,[^f76n6]
+- And soon fam'd Isis[^f76n5] saw him woo the Nine,
 - On her inspiring banks: Love tun'd his song;
 - For fair Theana was his only theme, [435]
 - Acasto's daughter, whom, in early youth,
@@ -2739,8 +2718,6 @@ BOOK II.
 
 [^f76n5]: Egyptian goddess associated with agriculture and marriage. Isis was eventually apropriated into Greek and Roman mythology, becoming a common figure in eighteenth-century British poetry. In the context of these lines, Isis is used as a name for the Thames as it passes through Oxford. 
 
-[^f76n6]: The nine muses of art, literature, and science.
-
 ---
 
 
@@ -2750,9 +2727,9 @@ BOOK II.
 - Had climb'd the bending coco's airy height,
 - To rob it of its nectar; which the maid,
 
-> VER. 438. *the bending coco's*\] The coco-nut tree is of the palm genus; there are several species of them, which grow naturally in the Torrid Zone.[^f77n1] The coco-nut tree is, by no means, so useful as travellers have represented it. The wood is of little or no service, being spungy, and the brown covering of the nuts is of too rough a texture to serve as apparel. The shell of the nut receives a good polish; and, having a handle put to it, is commonly used to drink water out of. The milk, or water of the nut, is cooling and pleasant; but, if drunk too freely, will frequently occasion a pain in the stomach. A salutary oil may be extracted from the kernel; which, if old, and eaten too plentifully, is apt to produce a shortness of breathing. A species of arrack[^f77n2] is made from this tree, in the East-Indies. The largest coco-nut trees grow on the banks of the river Oronoko.[^f77n3] They thrive best near the sea, and look beautiful at a distance. They afford no great shade. Ripe nuts have been produced from them in three years after planting. The nuts should be macerated in water, before they are put in the ground. Coco is an Indian name; the Spaniards call it also *palma de las Indias*; as the smallest kind, whose nuts are less than walnuts, is termed by them *Coquillo*. This grows in Chili,[^f77n4] and the nuts are esteemed more delicate than those of a larger size. In the Maldivy Islands,[^f77n5] it is pretended, they not only build houses of the coco-nut tree, but also vessels, with all their rigging; nay, and load them too with wine, oil, vinegar, black sugar,[^f77n6] fruit, and strong water,[^f77n7] from the same tree. If this be true, the Maldivian coco-nut trees must differ widely from those that grow in the West-Indies. The coco[^f77n8] must not be confounded with the coco-nut tree. That shrub grows in the hottest and moistest vales of the Andes. Its leaf, which is gathered two or three times a year, is much coveted by the natives of South-America, who will travel great journeys upon a single handful of the leaves, which they do not swallow, but only chew. It is of an unpleasant taste, but, by use, soon grows agreeable. Some authors have also confounded the coco-nut palm, with the coco, or chocolate-tree.[^f77n9] The French call the coco-nut tree, *Cocotier*. Its stem, which is very lofty, is always bent; for which reason it looks better in an orchard than in a regular garden. As one limb fades, another shoots up in the center, like a pike. The botanical name is *Palma indica*, *coccifera*, *angulosa*.
+> VER. 438. *the bending coco's*\] The coco-nut tree is of the palm genus; there are several species of them, which grow naturally in the Torrid Zone.[^f77n1] The coco-nut tree is, by no means, so useful as travellers have represented it. The wood is of little or no service, being spungy, and the brown covering of the nuts is of too rough a texture to serve as apparel. The shell of the nut receives a good polish; and, having a handle put to it, is commonly used to drink water out of. The milk, or water of the nut, is cooling and pleasant; but, if drunk too freely, will frequently occasion a pain in the stomach. A salutary oil may be extracted from the kernel; which, if old, and eaten too plentifully, is apt to produce a shortness of breathing. A species of arrack[^f77n2] is made from this tree, in the East-Indies. The largest coco-nut trees grow on the banks of the river Oronoko.[^f77n3] They thrive best near the sea, and look beautiful at a distance. They afford no great shade. Ripe nuts have been produced from them in three years after planting. The nuts should be macerated in water, before they are put in the ground. Coco is an Indian name; the Spaniards call it also *palma de las Indias*; as the smallest kind, whose nuts are less than walnuts, is termed by them *Coquillo*. This grows in Chili,[^f77n4] and the nuts are esteemed more delicate than those of a larger size. In the Maldivy Islands,[^f77n5] it is pretended, they not only build houses of the coco-nut tree, but also vessels, with all their rigging; nay, and load them too with wine, oil, vinegar, black sugar,[^f77n6] fruit, and strong water,[^f77n7] from the same tree. If this be true, the Maldivian coco-nut trees must differ widely from those that grow in the West-Indies. The coco[^f77n8] must not be confounded with the coco-nut tree. That shrub grows in the hottest and moistest vales of the Andes. Its leaf, which is gathered two or three times a year, is much coveted by the natives of South-America, who will travel great journeys upon a single handful of the leaves, which they do not swallow, but only chew. It is of an unpleasant taste, but, by use, soon grows agreeable. Some authors have also confounded the coco-nut palm, with the coco, or chocolate-tree. The French call the coco-nut tree, *Cocotier*. Its stem, which is very lofty, is always bent; for which reason it looks better in an orchard than in a regular garden. As one limb fades, another shoots up in the center, like a pike. The botanical name is *Palma indica*, *coccifera*, *angulosa*.
 
-[^f77n1]: A theoretical climatic zone lying between between the Tropic of Capricorn and the Tropic of Cancer; the tropics. The ancients believed that the torrid zone was uninhabitable. While the colonization of the Caribbean proved otherwise, many colonists, naturalists, and others in the eighteenth century continued to believe that the tropics could induce what they called degeneration or the degradation of their bodies and faculties. Furthermore, the fear of degeneration was intertwined with theories of geographic and racial difference, since it was usually argued that New World forms of nature, including human beings, were inferior to Old World ones and that Europeans hence would become inferior themselves by inhabiting the New World.  
+[^f77n1]: A theoretical climatic zone lying between the Tropic of Capricorn and the Tropic of Cancer; the tropics. The ancients believed that the torrid zone was uninhabitable. While the colonization of the Caribbean proved otherwise, many continued to believe that the tropics could induce what they called degeneration or the degradation of bodies and faculties. Furthermore, the fear of degeneration was intertwined with theories of geographic and racial difference, since it was usually argued that New World forms of nature, including human beings, were inferior to Old World ones and that Europeans hence would become inferior by inhabiting the Americas.   
 
 [^f77n2]: Also arak, an alcohol distilled from the fermented sap of the coconut palm (*Cocos nucifera*).
 
@@ -2767,8 +2744,6 @@ BOOK II.
 [^f77n7]: Distilled liquor. 
 
 [^f77n8]: The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range is western South America, and *Erythroxylum novogranatense*, whose native range is Colombia to northwestern Venezuela and Peru.  
-
-[^f77n9]: The cacao tree (*Theobroma cacao*), the seeds of which are made into chocolate. The cacao tree is native to Central and South America and has been cultivated by Amerindians for thousands of years. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.
 
 ---
 
@@ -2801,7 +2776,7 @@ BOOK II.
 
 [^f78n2]: Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park. 
 
-[^f78n3]: Bishop Thomas Percy (1729-1811). English cleric, writer, and translator. A friend and frequent correspondent of Grainger, best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose theme mirrors that of the story of Junio and Theana. 
+[^f78n3]: Thomas Percy's *Reliques of Ancient English Poetry* (1765) contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana.
 
 [^f78n4]: Greek god of marriage.
 
@@ -2854,14 +2829,14 @@ BOOK II.
 - TWICE one long year elaps'd, when letters came, [480]
 - Which briefly told him of his father's death.
 - Afflicted, filial, yet to Heaven resign'd,
-- Soon he reach'd Albion,[^f80n1] and as soon embark'd,
+- Soon he reach'd Albion, and as soon embark'd,
 - Eager to clasp the object of his love.
 
-- BLOW, prosperous breezes; swiftly sail, thou Po:[^f80n2] [485]
+- BLOW, prosperous breezes; swiftly sail, thou Po:[^f80n1] [485]
 - Swift sail'd the Po, and happy breezes blew.
 
-- IN Biscay's[^f80n3] stormy seas an armed ship,
-- Or force superiour, from loud Charente's[^f80n4] wave
+- IN Biscay's[^f80n2] stormy seas an armed ship,
+- Or force superiour, from loud Charente's[^f80n3] wave
 - Clapt them on board. The frighted flying crew
 - Their colours strike; when dauntless Junio, fir'd [490]
 - With noble indignation, kill'd the chief,
@@ -2874,19 +2849,16 @@ BOOK II.
 - BLOW prosperous breezes, swiftly sail thou Po,
 - May no more dangerous fights retard thy way!
 
-- SOON Porto Santo's[^f80n5] rocky heights they spy,
+- SOON Porto Santo's rocky heights they spy,
 
 > VER. 499. *Porto Santo*\] This is one of the Madeira islands, and of course subject to the King of Portugal. It lies in 32.33 degrees of N. latitude. It is neither so fruitful nor so large as Madeira Proper, and is chiefly peopled by convicts, *&c*.
 
-[^f80n1]: A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
 
-[^f80n2]: Gilmore identifies the *Po* as the ship that Grainger traveled on to reach St. Kitts in 1759.
+[^f80n1]: Gilmore identifies the *Po* as the ship that Grainger traveled on to reach St. Kitts in 1759.
 
-[^f80n3]: An inlet of the Atlantic Ocean to the west of France and the north of Spain; affected by strong currents and storms. 
+[^f80n2]: An inlet of the Atlantic Ocean to the west of France and the north of Spain; affected by strong currents and storms. 
 
-[^f80n4]: River in southwest France that empties into the Bay of Biscay near Rochefort; the site of an important French naval base.  
-
-[^f80n5]: One of the Madeira Islands in the Atlantic Ocean; the other was Madeira. The Madeiras were a Portuguese colony and an important waystation for transatlantic voyages. Because sugar production began in the fifteenth century on Madeira, it became a model for sugar colonies in the Caribbean.
+[^f80n3]: River in southwest France that empties into the Bay of Biscay near Rochefort; the site of an important French naval base.  
 
 ---
 
