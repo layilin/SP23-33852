@@ -46,7 +46,7 @@ order: 105
 
 [^f97n5]: Wife of Thone, an Egyptian king. In Homer's *Odyssey*, Polydamna gives Helen nepenthe. 
 
-[^f97n6]: Jove is an alternate name for Jupiter, Roman god of thunder. Helen was said to be the most beautiful woman in Ancient Greece. Paris abducted her from King Menelaus, thus leading to the siege of Troy.
+[^f97n6]: Helen was said to be the most beautiful woman in ancient Greece. Paris abducted her from Menelaus, thus leading to the siege of Troy.
 
 [^f97n7]: A sail designed so that it does not overfill with wind.  
 
