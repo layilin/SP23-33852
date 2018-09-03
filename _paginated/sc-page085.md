@@ -8,7 +8,7 @@ order: 93
 ---
 
 
-[85]({{site.baseurl}}/images/{{page.img}})
+[[85]]({{site.baseurl}}/images/{{page.img}})
 
 ---  
 
