@@ -1,6 +1,6 @@
 ---
 layout: poem-page
-title: "page iii"
+title: "title page 2"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0009.jpg"
@@ -8,7 +8,7 @@ order: 3
 ---
 
 
-[iii]({{site.baseurl}}/images/{{page.img}})
+[Title page]({{site.baseurl}}/images/{{page.img}})
 
 THE
 
