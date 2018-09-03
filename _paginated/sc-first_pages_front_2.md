@@ -8,7 +8,7 @@ order: 178
 ---
 
 
-[Front cover, inside]({{site.baseurl}}/images/{{page.img}})
+[[Front cover, inside]]({{site.baseurl}}/images/{{page.img}})
 
 [Bookplate: H. Bradley Martin]
 
