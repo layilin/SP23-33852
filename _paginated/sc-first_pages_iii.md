@@ -8,7 +8,7 @@ order: 3
 ---
 
 
-[Title page]({{site.baseurl}}/images/{{page.img}})
+[[Title page]]({{site.baseurl}}/images/{{page.img}})
 
 THE
 
