@@ -8,6 +8,6 @@ order: 4
 ---
 
 
-[Blank page]({{site.baseurl}}/images/{{page.img}})
+[[Blank page]]({{site.baseurl}}/images/{{page.img}})
 
 ---
