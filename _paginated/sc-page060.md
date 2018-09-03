@@ -25,11 +25,11 @@ order: 68
 - Thine hands defend, or thou wilt sadly rue
 - Thy rash imprudence, when ten thousand darts [125]
 
-> VER. 114. *the yellow thistle*\] The seeds of this plant are an excellent emetic;[^f60n6] and almost as useful in dysenteric[^f60n7] complaints as ipecacuan.[^f60n8] It grows every where.
+> VER. 114. *the yellow thistle*\] The seeds of this plant are an excellent emetic; and almost as useful in dysenteric[^f60n6] complaints as ipecacuan.[^f60n7] It grows every where.
 
-> VER. 119. *Nor let rude hands the knotted grass profane*,\] This is truly a powerful vermifuge;[^f60n9] but, uncautiously administered, has often proved mortal. The juice of it clarified, is sometimes given; but a decoction of it is greatly preferable. Its botanical name is *Spigelia*.
+> VER. 119. *Nor let rude hands the knotted grass profane*,\] This is truly a powerful vermifuge;[^f60n8] but, uncautiously administered, has often proved mortal. The juice of it clarified, is sometimes given; but a decoction of it is greatly preferable. Its botanical name is *Spigelia*.
 
-> VER. 123. *The cow-itch also save*;\] This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded. Mixed with melasses,[^f60n10] it is a safe and excellent vermifuge. Its seeds, which resemble blackish small beans, are purgative. Its flower is purple; and its pods, on which the stinging brown *Setae*[^f60n11] are found, are as large as a full-grown English field-pea.[^f60n12] 
+> VER. 123. *The cow-itch also save*;\] This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded. Mixed with melasses,[^f60n9] it is a safe and excellent vermifuge. Its seeds, which resemble blackish small beans, are purgative. Its flower is purple; and its pods, on which the stinging brown *Setae*[^f60n10] are found, are as large as a full-grown English field-pea.[^f60n11] 
 
 [^f60n1]: Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.
 
@@ -41,18 +41,16 @@ order: 68
 
 [^f60n5]: Cowitch (*Mucuna pruriens*), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
 
-[^f60n6]: A medicine that excites vomiting.
+[^f60n6]: Having to do with dysentery or diarrhea.
 
-[^f60n7]: Having to do with dysentery or diarrhea.
+[^f60n7]: Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
 
-[^f60n8]: Ipecacuanha, an extract that induces vomiting and that comes from the plant *Carapichea ipecacuanha*, an herbal shrub whose native range is southeastern Nicaragua to Brazil.
+[^f60n8]: A substance having the power to expel worms from the intestines; an anthelmintic.
 
-[^f60n9]: A substance having the power to expel worms from the intestines; an anthelmintic.
+[^f60n9]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
 
-[^f60n10]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
+[^f60n10]: Bristles.
 
-[^f60n11]: Bristles.
-
-[^f60n12]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
+[^f60n11]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
 ---
