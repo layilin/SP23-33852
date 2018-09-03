@@ -11,7 +11,7 @@ source: "1764 edition"
 
 [Front cover, inside]
 
-H. Bradley Martin
+[Bookplate: H. Bradley Martin]
 
 ---
 
@@ -25,6 +25,8 @@ H. Bradley Martin
 
 ---
 
+
+[Title page]
 
 THE  
 
@@ -47,10 +49,12 @@ P O E M.
 ---
 
 
-Frontispiece.
+[Frontispiece]
 
 ---
 
+
+[Title page]
 
 THE
 
@@ -160,14 +164,14 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-viii
+[viii]
 
 [Blank page]
 
 ---
 
 
-1
+[1]
 
 THE
 
@@ -178,7 +182,8 @@ BOOK I.
 
 ---
 
-2
+
+[2]
 
 ARGUMENT.
 
@@ -187,7 +192,7 @@ ARGUMENT.
 ---
 
 
-3
+[3]
 
 THE 
 
@@ -1814,14 +1819,14 @@ The END of BOOK I.
 ---
 
 
-48
+[48]
 
 [Blank]
 
 ---
 
 
-49  
+[49]  
 
 
 THE 
@@ -1834,14 +1839,14 @@ BOOK II.
 ---  
 
 
-50
+[50]
 
 [Blank]
 
 ---
 
 
-51  
+[51]  
 
 ADVERTISEMENT to BOOK II.  
 
@@ -1852,7 +1857,7 @@ THE following Book having been originally addressed to WILLIAM SHENSTONE, Esq;[^
 ---
 
 
-52  
+[52]  
 
 ARGUMENT.  
 
@@ -1864,7 +1869,7 @@ and earthquakes. A tale.*
 ---
 
 
-53  
+[53]  
 
 THE 
 
@@ -2990,9 +2995,7 @@ The END of BOOK II.
 ---
 
 
-85
-
----  
+[85]
 
 THE
 
@@ -3004,7 +3007,7 @@ BOOK III.
 ---
 
 
-86
+[86]
 
 ARGUMENT.
 
@@ -3013,7 +3016,7 @@ ARGUMENT.
 ---
 
 
-87
+[87]
 
 THE 
 
@@ -4374,7 +4377,7 @@ The END of BOOK III.
 ---
 
 
-123
+[123]
 
 THE 
 
@@ -4386,7 +4389,7 @@ BOOK IV.
 ---
 
 
-124
+[124]
 
 ARGUMENT.
 
@@ -4395,7 +4398,7 @@ ARGUMENT.
 ---
 
 
-125
+[125]
 
 THE 
 
@@ -5872,7 +5875,7 @@ The END of BOOK IV.
 ---
 
 
-163
+[163]
 
 I N D E X
 
@@ -6245,9 +6248,9 @@ Zumbadore-bird, [internal] p. 46.
 ---
 
 
-168
+[Errata]
 
-## ERRATA.
+ERRATA.
 
 [internal] Page 5, in note, for *lesser* read *less*.  
 [internal] Page 14, line 128, for *elay* read *clay*.  
@@ -6258,7 +6261,7 @@ Zumbadore-bird, [internal] p. 46.
 [internal] Page 81, for lines 505 and 506, read  
 *The fring'd urtica spreads her purple form*  
 *To catch the gale, and dances o'er the waves:*  
-[internal] Ibid. in the notes, for *nautilus* read *urtica*.  <!--These two lines of poetry should be indented-->  
+[internal] Ibid. in the notes, for *nautilus* read *urtica*.    
 [internal] Page 100, line 252, for *thro'* read *through*.  
 [internal] Page 102, line 285, the same.  
 [internal] Page 110, line 425, for *weighed* read *weigh'd*.  
