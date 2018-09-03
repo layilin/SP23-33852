@@ -8,7 +8,7 @@ order: 9
 ---
 
 
-[1]({{site.baseurl}}/images/{{page.img}})
+[[1]]({{site.baseurl}}/images/{{page.img}})
 
 THE
 
