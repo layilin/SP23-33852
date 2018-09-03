@@ -24,14 +24,12 @@ order: 104
 - YE! who in bundles bind the lopt-off Canes; [180]
 - But chiefly ye! who feed the tight-brac'd mill;
 
-> Pere Labat[^f96n2] says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
+> Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
 > Indeed the bare suspicion of such a piece of barbarity leaves a stain: and therefore authors cannot be too cautious of admitting into their writings, any insinuation that bears hard on the humanity of a people.  
 
 > Daily observation affords but too many proofs, where domestic slavery does not obtain, of the fatal consequences of indulged passion and revenge; but where one man is the absolute property of another, those passions may perhaps receive additional activity: planters, therefore, cannot be too much on their guard against the first sallies of passion; as by indulgence, passion, like a favourite, will at last grow independently powerful.
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
-
-[^f96n2]: Jean Baptiste Labat (1663-1738), Dominican missionary who worked in Guadeloupe for several years and authored the *Nouveau voyage aux isles de l'Amerique* (1722).
 
 ---
