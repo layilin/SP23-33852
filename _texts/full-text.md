@@ -1845,7 +1845,7 @@ BOOK II.
 
 ADVERTISEMENT to BOOK II.  
 
-THE following Book having been originally addressed to WILLIAM SHENSTONE, Esq; and by him approved of; the Author should deem it a kind of poetical sacrilege, now, to address it to any other. To his memory, therefore, be it sacred; as a small but sincere testimony of the high opinion the Author entertained of that Gentleman's genius and manners; and as the only return now, alas! in his power to make, for the friendship wherewith Mr. SHENSTONE had condescended to honour him.[^f51n1]
+THE following Book having been originally addressed to WILLIAM SHENSTONE, Esq;[^f51n1] and by him approved of; the Author should deem it a kind of poetical sacrilege, now, to address it to any other. To his memory, therefore, be it sacred; as a small but sincere testimony of the high opinion the Author entertained of that Gentleman's genius and manners; and as the only return now, alas! in his power to make, for the friendship wherewith Mr. SHENSTONE had condescended to honour him.
 
 [^f51n1]: William Shenstone (1714-1763), English poet and famed innovator of landscape gardening, which he practiced on his estate, The Leasowes. Grainger enclosed a draft of *The Sugar-Cane* in a 5 June 1762 letter to his friend Bishop Thomas Percy, asking he and Shenstone to read and comment on it. He added that "The second book you will see is addressed to our friend at the Leasowes; and I must tell you it is my favourite of the whole" (Nichols 279).  
 
@@ -1878,9 +1878,9 @@ BOOK II.
 - Hath oft beheld, deep-pierc'd with generous woe.  
 - For she, poor exile! boasts no waving crops;[^f53n1] [5]  
 - For her no circling mules press dulcet streams;[^f53n2]  
-- No Negro-band huge foaming coppers[^f53n3] skim;  
+- No Negro-band huge foaming coppers skim;  
 - Nor fermentation \(wine's dread fire\) for her,  
-- With Vulcan's[^f53n4] aid, from Cane a spirit draws,  
+- With Vulcan's[^f53n3] aid, from Cane a spirit draws,  
 - Potent to quell the madness of despair. [10]  
 - Yet, oft, the range she walks, at shut of eve;  
 
@@ -1888,9 +1888,7 @@ BOOK II.
 
 [^f53n2]: Animals like mules, horses, and cattle were used to power sugar mills if wind and water were not readily available.  
 
-[^f53n3]: Copper pots used for boiling cane juice.  
-
-[^f53n4]: Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits (rum) from fermented molasses.  
+[^f53n3]: Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits (rum) from fermented molasses.  
 
 ---
 
@@ -1941,31 +1939,25 @@ BOOK II.
 - And thoughtless of to-morrow, on a die  
 - He hazards millions; or, perhaps, reclines  
 - On Luxury's soft lap, the pest of wealth;  
-- And, inconsiderate, deems his Indian crops[^f55n3]  
-- Will amply her insatiate wants supply.[^f55n4] [45]  
+- And, inconsiderate, deems his Indian crops  
+- Will amply her insatiate wants supply.[^f55n3] [45]  
 
-- FROM these insidious droles[^f55n5] \(peculiar pest  
-- Of Liamuiga's[^f55n6] hills\) would'st thou defend  
+- FROM these insidious droles[^f55n4] \(peculiar pest  
+- Of Liamuiga's hills\) would'st thou defend  
 - Thy waving wealth; in traps put not thy trust,  
 - However baited: Treble every watch,  
 - And well with arms provide them; faithful dogs, [50]  
 - Of nose sagacious, on their footsteps wait.  
 
-> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*,[^f55n7] who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
+> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*, who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
 
 [^f55n1]: Monkeys are not indigenous to St. Kitts, but the vervet or African green monkey (*Cercopithecus aethiops*) had been introduced by the seventeenth century. Vervets most likely arrived in the Caribbean via slave ships from Africa. They quickly came to be considered pests because they established themselves in large numbers on the island and traveled around it in troops, raiding colonists' crops. Today, the St. Kitts vervet population exceeds the human one, and vervets are still known for destroying farmers' crops (and stealing tourists' cocktails). Controversially, many of the vervets are now killed or trapped to serve in medical experiments.  
 
 [^f55n2]: Leaps or capers, as made in dancing or playing.  
 
-[^f55n3]: Sugar. 
+[^f55n3]: Grainger warns that despite the fact that sugar plantations seem like sure investments with guaranteed profits, they nevertheless require expert knowledge and labor to succeed.   
 
-[^f55n4]: Grainger warns that despite the fact that sugar plantations seem like sure investments with guaranteed profits, they nevertheless require expert knowledge and labor to succeed.   
-
-[^f55n5]: Also droll, a buffoon or jester.  
-
-[^f55n6]: Indigenous name for St. Kitts.  
-
-[^f55n7]: Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Libertated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).  
+[^f55n4]: Also droll, a buffoon or jester.   
 
 ---
 
@@ -1997,11 +1989,11 @@ BOOK II.
 
 [^f56n2]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.
 
-[^f56n3]: Refers either to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two Old World species of rats that arrived in the Caribbean with colonization and are now considered invasive species. There also was a rat known as the Nevis rice rat (*Pennatomys nivalis*) that was native to Nevis, St. Kitts, and St. Eustatius, but there are no definitive reports of its existence from the colonial era. The Nevis rice rat is now considered extinct. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. In his *Life of Johnson*, James Boswell recalls a reading of a manuscript draft of the poem that took place at the home of painter Sir Joshua Reynolds. The line, "Now, Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391). 
+[^f56n3]: Refers either to the black rat (*Rattus rattus*) or the brown rat (*Rattus norvegicus*), two species of rats that arrived in the Caribbean from Europe and are now considered invasive species. There also was a rat known as the Nevis rice rat (*Pennatomys nivalis*) that was native to Nevis, St. Kitts, and St. Eustatius, but there are no definitive reports of its existence from the colonial era. The Nevis rice rat is now considered extinct. This line of the poem also relates to one of the most famous and perhaps apocryphal stories about the reception and publication of *The Sugar-Cane*. In his *Life of Johnson*, James Boswell recalls a reading of a manuscript draft of the poem that took place at the home of painter Sir Joshua Reynolds. The line, "Now, Muse, let's sing of *rats*," is supposed to have caused the audience to burst into laughter. In response, Grainger deleted the word "rats" from the poem and replaced it with "whisker'd vermine-race" (Irlam 390-391). 
 
 [^f56n4]: Castore Durante da Gualdo (1529-1590), botanist and physician to the Popes Gregory XIII and Sixtus V. Author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).
 
-[^f56n5]: Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats.
+[^f56n5]: Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats. These may not have been black and brown rats from Europe, however, but Jamaican rice rats (*Oryzomys antillarum*), which are now considered extinct. 
 
 ---
 
