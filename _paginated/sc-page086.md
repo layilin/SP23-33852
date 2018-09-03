@@ -8,7 +8,7 @@ order: 94
 ---
 
 
-[86]({{site.baseurl}}/images/{{page.img}})
+[[86]]({{site.baseurl}}/images/{{page.img}})
 
 ARGUMENT.
 
