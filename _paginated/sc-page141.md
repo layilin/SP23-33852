@@ -28,7 +28,7 @@ order: 149
 
 > VER. 317. *The mineral product of the Cornish mine*\] Tin-filings are a better vermifuge than tin in powder. The western parts of Britain, and the neighbouring isles, have been famous for this useful metal from the remotest antiquity; for we find from Strabo,[^f141n5] that the Phaenicians made frequent voyages to those parts (which they called *Cassiterides* from *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;*[^f141n6] stannum) in quest of that commodity, which turned out so beneficial to them, that a pilot of that nation stranded his vessel, rather than show a Roman ship, that watched him, the way to those mines. For this public spirited action he was amply rewarded, says that accurate writer, upon his return to his country. The Romans, however, soon made themselves masters of the secret, and shared with them in the profit of that merchandize.
 
-[^f141n1]: Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.  
+[^f141n1]: Gilmore suggests that this is knotted grass (*Spigelia anthelmia*).  
 
 [^f141n2]: Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
 
