@@ -1490,7 +1490,7 @@ BOOK I.
 
 > grow in the barrenest soils, and on the tops of walls, if a small portion of earth be added. There are two sorts of it, one whose fruit is roundish and sweet, the other, which has more the shape of a fig, is sour. The former is sometimes eaten, but the other seldom. The French call them *Pomme de Raquette*. Both fruit and leaves are guarded with sharp prickles, and, even in the interior part of the fruit, there is one which must be removed before it is eaten. The leaves, which are half an inch thick, having a sort of pulp interposed between their surfaces, being deprived of their spines, and softened by the fire, make no bad poultice for inflammations. The juice of the fruit is an innocent fucus,[^f38n5] and is often used to tinge guava jellies. The opuntia, upon which the cochineal insect breeds, has no spines, and is cultivated with care in South-America, where it also grows wild. The prickly pear makes a strong fence, and is easily trimmed with a scymitar.[^f38n6] It grows naturally in some parts of Spain.[^f38n7]
 
-> VER. 538. *wild liquorice*\] This is a scandent plant, from which the Negroes gather what they call *Jumbee Beeds*. These are about the size of pigeon-peas,[^f38n8] almost round, of a red colour, with a black speck on one extremity. They act as an emetic, but, being violent in their operation, great caution should be observed in using them. The leaves make a good pectoral drink[^f38n9] in disorders of the breast. By the French it is named *Petit Panacoco*, to distinguish it from a large tree, which bears seeds of the same colours, only much bigger. This tree is a species of black ebony.[^f38n10]
+> VER. 538. *wild liquorice*\] This is a scandent plant, from which the Negroes gather what they call *Jumbee Beeds*. These are about the size of pigeon-peas, almost round, of a red colour, with a black speck on one extremity. They act as an emetic, but, being violent in their operation, great caution should be observed in using them. The leaves make a good pectoral drink[^f38n8] in disorders of the breast. By the French it is named *Petit Panacoco*, to distinguish it from a large tree, which bears seeds of the same colours, only much bigger. This tree is a species of black ebony.[^f38n9]
 
 [^f38n1]: Wild liquorice (*Abrus precatorius*) is a slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
@@ -1506,11 +1506,9 @@ BOOK I.
 
 [^f38n7]: *Opuntia ficus-indica*, which is native to Mexico, was introduced to Spain by Columbus upon his return from his first voyage.  
 
-[^f38n8]: *Cajanus cajan*. Pigeon pea is a drought-resistant crop that historically has been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.
+[^f38n8]: Pectoral drinks aid in digestion.
 
-[^f38n9]: Pectoral drinks aid in digestion.
-
-[^f38n10]: Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
+[^f38n9]: Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
 
 ---
 
@@ -1603,7 +1601,7 @@ BOOK I.
 
 [^f41n1]: Cassava \(*Manihot esculenta*\), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69).  
 
-[^f41n2]: Roots commonly consumed by enslaved Africans because they were easy to cultivate and had a high yield. The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*), another common root crop cultivated by the enslaved. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food (Higman 82-86).  
+[^f41n2]: The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*). *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia (Higman 82-86).  
 
 [^f41n3]: Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour (Higman 62).   
 
@@ -4859,7 +4857,7 @@ BOOK IV.
 
 [^f137n2]: Grainger claims that even after they were freed, formerly enslaved Africans would continue to work on sugar plantations by choice, but this sentiment was a pro-slavery fantasy that was not borne out by reality after emancipation.  
 
-[^f137n3]: The abrubt shift in tone marks Grainger's turn away from his abolitionist fantasy and toward a policy of amelioration, in which physicians like himself were to play a central role. Recall his words at the end of the preface: "I beg leave to be understood as a physician, and not as a poet." See also Steven Thomas' "Doctoring Ideology."  
+[^f137n3]: The abrupt shift in tone marks Grainger's turn away from his abolitionist fantasy and toward a policy of amelioration, in which physicians like himself were to play a central role. Recall his words at the end of the preface: "I beg leave to be understood as a physician, and not as a poet." See also Steven Thomas' "Doctoring Ideology."  
 
 [^f137n4]: Guinea worm or the dragon worm (*Dracunculus medinensis*) is a parasitic nematode acquired by drinking water contaminated by the water flea (genus *Cyclops*), which carries the worm's larvae. The larvae break through the stomach lining and enter the bloodstream, growing to full size within a year. A pregnant female worm lives in connective tissues beneath the skin and eventually will release its larvae into a large blister, usually on the legs or arms. The worm's migration produces such symptoms as itching, giddiness, breathing difficulties, vomiting, and diarrhea. The worm may come out spontaneously with the released larvae, but treatment typically involves attaching the worm to the end of a stick and winding it slowly out of the opening in the skin over the course of several days (the "leaden cylinder" that Grainger mentions in line 252 refers to this form of treatment). A broken worm causes an extreme allergic reaction that can be fatal, and blisters on the skin may ulcerate and become infected, resulting in an abscess and the "annual lameness" of which Grainger warns in line 255. Today, the worm may also be treated through anthelmintics.  
 
@@ -4891,7 +4889,7 @@ BOOK IV.
 
 [^f138n1]: *Dracunculus medinensis* (see note to line 246).  
 
-[^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such important description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
+[^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
 
 [^f138n3]: Black.  
 
@@ -4920,14 +4918,14 @@ BOOK IV.
 - Ere, clear'd, thy slave from all infection shine. [280]
 - Nor then be confident; successive crops
 - Of defaedations[^f139n3] oft will spot the skin:
-- These thou, with turpentine and guaiac pods,[^f139n4]
+- These thou, with turpentine and guaiac pods,
 - Reduc'd by coction to a wholesome draught,
 - Total remove, and give the blood its balm. [285]
 
 - SAY, as this malady but once infests
 - The sons of Guinea, might not skill ingraft
 - (Thus, the small-pox are happily convey'd;)
-- This ailment early to thy Negroe-train?[^f139n5]
+- This ailment early to thy Negroe-train?[^f139n4]
 
 [^f139n1]: In Greek mythology, the ethereal fluid believed to have flowed through the veins of the gods. Here, Grainger means fluid from yaw lesions.
 
@@ -4935,9 +4933,7 @@ BOOK IV.
 
 [^f139n3]: The action of contaminating, polluting, or infecting something, especially the blood or skin. In this case, the periodic eruption of yaws sores.
 
-[^f139n4]: Refers to *Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean. In the eighteenth century, the guaiac tree also was known as lignum vitae ("wood of life") because it was used to treat a variety of diseases, including syphilis and yaws. Also widely believed to be an abortifacient. Both *Guaiacum officinale* and *Guaiacum sanctum* are now endangered due to overexploitation and habitat loss.
-
-[^f139n5]: Because yaws, like smallpox, seemed to infect a person only once in life, Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a live smallpox sore. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with a case of smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox naturally.  
+[^f139n4]: Because yaws, like smallpox, seemed to infect a person only once in life, Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a live smallpox sore. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with a case of smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox naturally.  
 
 ---
 
@@ -4964,8 +4960,8 @@ BOOK IV.
 - SAY, to such various mimic forms of death;
 - What remedies shall puzzled art oppose?—
 - Thanks to the Almighty, in each path-way hedge,
-- Rank cow-itch[^f140n5] grows, whose sharp unnumber'd stings,
-- Sheath'd in Melasses,[^f140n6] from their dens expell, [310]
+- Rank cow-itch grows, whose sharp unnumber'd stings,
+- Sheath'd in Melasses, from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
 > VER. 309. *Cow-itch*] See notes in Book II.
@@ -4977,10 +4973,6 @@ BOOK IV.
 [^f140n3]: An acute or high fever or a disease that causes such. Often used to refer to malaria.  
 
 [^f140n4]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
-
-[^f140n5]: Cowitch \(*Mucuna pruriens*\) is a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
-
-[^f140n6]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
 
 ---
 
@@ -5005,7 +4997,7 @@ BOOK IV.
 
 > VER. 317. *The mineral product of the Cornish mine*\] Tin-filings are a better vermifuge than tin in powder. The western parts of Britain, and the neighbouring isles, have been famous for this useful metal from the remotest antiquity; for we find from Strabo,[^f141n5] that the Phaenicians made frequent voyages to those parts (which they called *Cassiterides* from *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;*[^f141n6] stannum) in quest of that commodity, which turned out so beneficial to them, that a pilot of that nation stranded his vessel, rather than show a Roman ship, that watched him, the way to those mines. For this public spirited action he was amply rewarded, says that accurate writer, upon his return to his country. The Romans, however, soon made themselves masters of the secret, and shared with them in the profit of that merchandize.
 
-[^f141n1]: Gilmore suggests that this is knotted grass (*Spigelia anthelmia*), a plant known for its ability to rid the body of intestinal parasites, including tapeworms. Its native range is the tropical and subtropical Americas.  
+[^f141n1]: Gilmore suggests that this is knotted grass (*Spigelia anthelmia*).  
 
 [^f141n2]: Places of tin deposits in Cornwall and the surrounding areas in western Britain. Grainger notes that tin acts as an effective vermifuge.
 
@@ -5041,7 +5033,7 @@ BOOK IV.
 - Her following close, her secret treasures find,
 - To pour them plenteous on the laughing world.
 - On thee Sylvanus,[^f142n4] thee each rural god, [345]
-- On thee chief Ceres,[^f142n5] with unfailing love
+- On thee chief Ceres, with unfailing love
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
 - Far-distant kingdoms; endless storms in vain
@@ -5050,11 +5042,9 @@ BOOK IV.
 
 [^f142n2]: Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege.  
 
-[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession (1701-1714). After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
+[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
 [^f142n4]: Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
-
-[^f142n5]: Italo-Roman goddess of growth and agriculture.  
 
 ---
 
@@ -5064,41 +5054,32 @@ BOOK IV.
 - With double night brood o'er them; thou dost throw, [350]
 - O'er far-divided nature's realms, a chain
 - To bind in sweet society mankind.
-- By thee white Albion,[^f143n1] once a barbarous clime,
+- By thee white Albion, once a barbarous clime,
 - Grew fam'd for arms, for wisdom, and for laws;
 - By thee she holds the balance of the world, [355]
-- Acknowledg'd now sole empress of the main.[^f143n2]
+- Acknowledg'd now sole empress of the main.
 - Coy though thou art, and mutable of love,
 - There may'st thou ever fix thy wandering steps;
-- While Eurus[^f143n3] rules the wide atlantic foam! 
-- By thee, thy favourite, great Columbus[^f143n4] found [360]
+- While Eurus rules the wide atlantic foam! 
+- By thee, thy favourite, great Columbus found [360]
 - That world, where now thy praises I rehearse
 - To the resounding main and palmy shore;
-- And Lusitania's[^f143n5] chiefs those realms explor'd,
+- And Lusitania's chiefs those realms explor'd,
 - Whence negroes spring, the subject of my song.
 
 - NOR pine the Blacks, alone, with real ills, [365]
 - That baffle oft the wisest rules of art:
-- They likewise feel imaginary woes;[^f143n6]
+- They likewise feel imaginary woes;[^f143n1]
 - Woes no less deadly. Luckless he who owns
 - The slave, who thinks himself bewitch'd; and whom,
-- In wrath, a conjurer's snake-mark'd staff[^f143n7] hath struck! [370]
+- In wrath, a conjurer's snake-mark'd staff[^f143n2] hath struck! [370]
 
 > VER. 370. *snake-mark'd*\] The negroe-conjurers, or Obia-men, as they are called, carry about them a staff, which is marked with frogs, snakes, *&c.* The
+  
 
-[^f143n1]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
+[^f143n1]: Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as fixed melancholy in the latter half of the eighteenth century. Often associated with longing for friends and family, fixed melancholy became a common diagnosis for the enslaved, and physicians expressed concern that the illness would lead to suicide.  
 
-[^f143n2]: Main refers to the open sea. Here, Grainger refers to Britain as the ruler of the sea. See, for example, the eighteenth-century poem by James Thomson, "Rule, Britannia!"
-
-[^f143n3]: In Greek mythology, the east wind.
-
-[^f143n4]: Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime.  
-
-[^f143n5]: Lusitania's. Lusitania (now modern Portugal) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.  
-
-[^f143n6]: Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as "fixed melancholy" in the latter half of the eighteenth century. Often associated with longing for friends and family, fixed melancholy became a common diagnosis for the enslaved, and physicians expressed concern that the illness would lead to suicide.  
-
-[^f143n7]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see [internal] "Obeah" on this site.  
+[^f143n2]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
 
 ---
 
@@ -5117,19 +5098,15 @@ BOOK IV.
 - To save the wretch by antidote or spell. [380]
 
 - IN magic spells, in Obia, all the sons
-- Of sable Africk trust:—Ye, sacred nine![^f144n2]
+- Of sable Africk trust:—Ye, sacred nine!
 - (For ye each hidden preparation know)
 - Transpierce the gloom, which ignorance and fraud
 - Have render'd awful; tell the laughing world [385]
 - Of what these wonder-working charms are made.
 
-> blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic is inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea,[^f144n3] the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
+> blacks imagine that its blow, if not mortal, will at least occasion long and troublesome disorders. A belief in magic is inseparable from human nature, but those nations are most addicted thereto, among whom learning, and of course, philosophy have least obtained. As in all other countries, so in Guinea, the conjurers, as they have more understanding, so are they almost always more wicked than the common herd of their deluded countrymen; and as the negroe-magicians can do mischief, so they can also do good on a plantation, provided they are kept by the white people in proper subordination.
 
 [^f144n1]: Dryness, thirst.  
-
-[^f144n2]: The nine muses of art, literature, and science.  
-
-[^f144n3]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. It included parts of modern-day Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon but is not to be confused with the modern nation of Guinea on the western coast of Africa.  
 
 ---
 
@@ -5229,7 +5206,7 @@ BOOK IV.
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
 
-[^f147n1]: Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
+[^f147n1]: This and the preceding two lines mark the beginning of Grainger's description of food provisioning on plantations. Grainger begins by addressing planters and asking them to provide more imported foodstuffs for the enslaved, but he switches in the next stanza to a discussion of provision grounds or gardens cultivated by the enslaved. Provision grounds were an important source of food for the enslaved and others living in the Caribbean. They also laid the foundation for what is now called the counter-plantation. For more on counter-plantations and provision grounds, see "Provision Grounds" on this site.   
 
 [^f147n2]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
 
@@ -5248,33 +5225,28 @@ BOOK IV.
 - SUFFICE not this; to every slave assign [445]
 - Some mountain-ground: or, if waste broken land
 - To thee belong, that broken land divide.
-- This let them cultivate, one day, each week;[^f148n1]
-- And there raise yams,[^f148n2] and there cassada's root:[^f148n3]
+- This let them cultivate, one day, each week;
+- And there raise yams, and there cassada's root:
 - From a good daemon's staff cassada sprang, [450]
 - Tradition says, and Caribbees believe;
 - Which into three the white-rob'd genius broke,
 - And bade them plant, their hunger to repel.
-- There let angola's bloomy bush[^f148n4] supply
+- There let angola's bloomy bush[^f148n1] supply
 - For many a year, with wholesome pulse their board. [455]
-- There let the bonavist,[^f148n5] his fringed pods
+- There let the bonavist,[^f148n2] his fringed pods
 
-> VER. 449. *cassada*\] To an antient Carribean, bemoaning the savage uncomfortable life of his countrymen, a deity clad in white apparel appeared, and told him, he would have come sooner to have taught him the ways of civil life, had he been addressed before. He then showed him sharp-cutting stones to fell trees and build houses; and bade him cover them with the palm leaves. Then he broke his staff in three; which, being planted, soon after produced cassada. See Ogilvy's America.[^f148n6]
+> VER. 449. *cassada*\] To an antient Carribean, bemoaning the savage uncomfortable life of his countrymen, a deity clad in white apparel appeared, and told him, he would have come sooner to have taught him the ways of civil life, had he been addressed before. He then showed him sharp-cutting stones to fell trees and build houses; and bade him cover them with the palm leaves. Then he broke his staff in three; which, being planted, soon after produced cassada. See Ogilvy's America.[^f148n3]
 
 > VER. 454. *angola*\] This is called *Pidgeon-pea*, and grows on a sturdy shrub, that will last for years. It is justly reckoned among the most wholesome legumens. The juice of the leaves, dropt into the eye, will remove incipient films. The botanic name is *Cytisus*.
 
 > VER. 456. *bonavist*\] This is the Spanish name of a plant, which produces an excellent bean. It is a parasitical plant. There are five sorts of bonavist, the green, the white, the
+  
 
-[^f148n1]: Enslaved laborers were generally required to go to their provision grounds one day per week to tend them. In certain colonies, however, an internal marketing system gradually emerged that may have encouraged some to spend extra time cultivating their provision grounds. For instance, in Jamaica, those who participated in the system were able to sell or trade their provisions for other goods and currency. They were also able to supplement the inadequate diet provided to them by planters, although those individuals who cultivated provision grounds did not enjoy, on average, better health or longer lifespans than those dependent primarily on imported rations. Still, the provision grounds did offer their cultivators some control over what they ate, as they were responsible for choosing what plants to cultivate, and, in limited cases, they also offered some degree of economic autonomy. They also laid the foundation for agricultural production in the British Caribbean in the years following emancipation. Eschewing the model of industrial agriculture represented by the plantation, the newly freed turned instead to small-scale farming.  
+[^f148n1]: Refers to the pigeon pea. Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in provision grounds because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
-[^f148n2]: One of many species of tubers within the *Dioscorea* genus. One of the most important food crops for enslaved persons in the Caribbean. There are several reasons yams became important to Afro-Caribbean diets: yam crop yields are high, yams are easily stored, and they can be prepared in several different ways. Just as crucially, yams formed a part of West African diets long before the commencement of the slave trade. As a result, slave traders often shipped large quantities of yams on trans-Atlantic voyages to feed the people on board, and yams accompanied Africans to the Americas, where they were able to continue cultivating them. Although there is one South American species of yam (*Dioscorea trifida*) that was transplanted to the Caribbean by Amerindians and consumed by subsequent inhabitants of the region, more important species to the diets of the enslaved were *Dioscorea cayenensis*, which is native to West Africa, and *Dioscorea alata*, which is native to Southeast Asia but had been introduced to the west coast of Africa by the Portuguese and Spanish by the sixteenth century (Higman 72-81).  
+[^f148n2]: A species of bean (*Lablab purpureus*) whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.
 
-[^f148n3]: Cassava \(*Manihot esculenta*\), also known as manioc, yuca, and bitter cassava, was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. It was one of the most important food sources for Amerindians during the precolonial era and subsequently adopted by Africans and Europeans in the Caribbean as well, although it was not as important a food source as the yam. Nevertheless, it still appeared in provision grounds because it is an easy crop to cultivate: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. These advantages offset cassava's toxic nature: its roots, which are the parts of the plant prepared for consumption, contain cyanide, and the raw roots are poisonous to human beings. The poison can be neutralized by proper processing, however: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69).  
-
-[^f148n4]: Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in the provision grounds or gardens of the enslaved because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
-
-[^f148n5]: A species of bean (*Lablab purpureus*) whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.
-
-[^f148n6]: John Ogilby's *America: being the latest, and most accurate description of the New World* (1671). Ogilby (1600-1676) was a Scottish publisher and geographer.
+[^f148n3]: John Ogilby's *America: being the latest, and most accurate description of the New World* (1671). Ogilby (1600-1676) was a Scottish publisher and geographer.
 
 ---
 
@@ -5306,11 +5278,11 @@ BOOK IV.
 
 [^f149n2]: Grainger refers to sweet potatoes (*Ipomoea batatas*), which probably originated in Central America or northwestern South America.  
 
-[^f149n3]: Edda or eddo commonly referred to taro (*Colocasia esculenta*). It is also, however, sometimes referred to as yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were commonly consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
+[^f149n3]: Edda or eddo commonly referred to taro (*Colocasia esculenta*). It also, however, sometimes referred to yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
 
 [^f149n4]: The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant whose native range is the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they were a hardy and reliable source of food (Higman 100-107).  
 
-[^f149n5]: Mint refers to plants of the genus *Mentha*, distributed around the world. Thyme refers to plants of the genus *Thymus*, whose native range extends from Greenland and temperate and subtropical Eurasia to northeastern tropical Africa. Balm is the name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
+[^f149n5]: Balm is the name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
 [^f149n6]: Butterfly-shaped.
 
@@ -5330,17 +5302,17 @@ BOOK IV.
 - THIS tract secure, with hedges or of limes, [465]
 - Or bushy citrons, or the shapely tree
 - That glows at once with aromatic blooms,
-- And golden fruit mature.[^f150n1] To these be join'd,
-- In comely neighbourhood, the cotton shrub;[^f150n2]
+- And golden fruit mature. To these be join'd,
+- In comely neighbourhood, the cotton shrub;
 - In this delicious clime the cotton bursts [470]
-- On rocky soils.—The coffee[^f150n3] also plant;
+- On rocky soils.—The coffee also plant;
 - White as the skin of Albion's lovely fair,
 - Are the thick snowy fragrant blooms it boasts:
-- Nor wilt thou, cocô,[^f150n4] thy rich pods refuse;[^f150n5]
-- Tho' years, and heat, and moisture they require,[^f150n6] [475]
-- Ere the stone grind them to the food of health.[^f150n7]
+- Nor wilt thou, cocô,[^f150n1] thy rich pods refuse;[^f150n2]
+- Tho' years, and heat, and moisture they require,[^f150n3] [475]
+- Ere the stone grind them to the food of health.[^f150n4]
 - Of thee, perhaps, and of thy various sorts,
-- And that kind sheltering tree, thy mother nam'd,[^f150n8]
+- And that kind sheltering tree, thy mother nam'd,[^f150n5]
 - With crimson flowerets prodigally grac'd;
 - In future times, the enraptur'd muse may sing: [480]
 - If public favour crown her present lay.
@@ -5348,29 +5320,24 @@ BOOK IV.
 - BUT let some antient, faithful slave erect
 - His sheltered mansion near; and with his dog,
 - His loaded gun, and cutlass, guard the whole:
-- Else negro-fugitives,[^f150n9] who skulk 'mid rocks [485]
+- Else negro-fugitives,[^f150n6] who skulk 'mid rocks [485]
 
 > VER. 466. *the shapely tree*\] The orange tree.
 
 > VER. 478. *thy mother nam'd*\] See Book I p. 43.
 
-[^f150n1]: Grainger refers here to various citrus trees, which originated in Southeast Asia and spread from there to the Mediterranean and Spain. Christopher Columbus brought several citrus fruits to the Caribbean, including the lime (*Citrus aurantifolia*) and the citron (*Citrus medica*) (Higman 175). 
 
-[^f150n2]: Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. 
+[^f150n1]: Another name for cacao. 
 
-[^f150n3]: Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.
+[^f150n2]: Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts. 
 
-[^f150n4]: Another name for cacao. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
+[^f150n3]: Cacao trees take several years to produce pods that can be harvested.  
 
-[^f150n5]: Cacao trees produce large pods that contain the cacao seeds, also known as cacao beans or nuts. 
+[^f150n4]: Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131). 
 
-[^f150n6]: Cacao trees take several years to produce pods that can be harvested.  
+[^f150n5]: Madre de Cacao (*Gliricidia sepium*). Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
 
-[^f150n7]: Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131). 
-
-[^f150n8]: Madre de Cacao (*Gliricidia sepium*). Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
-
-[^f150n9]: Grainger refers here to enslaved persons running away from plantations.  
+[^f150n6]: Grainger refers here to enslaved persons who have run away from plantations.  
 
 ---
 
@@ -5384,45 +5351,41 @@ BOOK IV.
 - Beyond what bloom'd on blest Phaeacia's isle,[^f151n2]
 - Or eastern climes admir'd in days of yore: [490]
 - How Europe's foodful, culinary plants;
-- How gay Pomona's[^f151n3] ruby-tinctured births;
-- And gawdy Flora's[^f151n4] various-vested train;
+- How gay Pomona's ruby-tinctured births;
+- And gawdy Flora's[^f151n3] various-vested train;
 - Might be instructed to unlearn their clime,
 - And by due discipline adopt the sun. [495]
 - The muse might tell what culture will entice
 - The ripened melon, to perfume each month;
-- And with the anana[^f151n5] load the fragrant board.
+- And with the anana[^f151n4] load the fragrant board.
 - The muse might tell, what trees will best exclude
-- ("Insuperable height of airiest shade")[^f151n6] [500]
-- With their vast umbrage[^f151n7] the noon's fervent ray.
-- Thee, verdant mammey,[^f151n8] first, her song should praise:
+- ("Insuperable height of airiest shade")[^f151n5] [500]
+- With their vast umbrage[^f151n6] the noon's fervent ray.
+- Thee, verdant mammey,[^f151n7] first, her song should praise:
 
-> VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour,[^f151n9] and therefore the French call them *Les apricots de St. Domingue*:[^f151n10] accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them.[^f151n11] The fruit, eaten raw, is of an aperient[^f151n12] quality; and made into sweet-meats,[^f151n13]
+> VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour,[^f151n8] and therefore the French call them *Les apricots de St. Domingue*:[^f151n9] accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them.[^f151n10] The fruit, eaten raw, is of an aperient[^f151n11] quality; and made into sweet-meats,
 
 [^f151n1]: Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.
 
 [^f151n2]: Phaeacia refers to Scheria, the island that Odysseus arrives at after his shipwreck; home of the Phaeacians. Whether Scheria corresponds to a real place is unclear, however.
 
-[^f151n3]: Pomona was the Roman goddess of fruit.
+[^f151n3]: Flora was the Roman goddess of springtime. 
 
-[^f151n4]: Flora was the Roman goddess of springtime. 
+[^f151n4]: Pineapple.
 
-[^f151n5]: The pineapple (*Ananas comosus*) originated in Central or South America. It was brought by Amerindians to the Caribbean (Higman 188).  
+[^f151n5]: Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
 
-[^f151n6]: Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
+[^f151n6]: Shade.
 
-[^f151n7]: Shade.
+[^f151n7]: The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America. 
 
-[^f151n8]: The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America. 
+[^f151n8]: An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches. 
 
-[^f151n9]: An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches. 
+[^f151n9]: The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.  
 
-[^f151n10]: The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.  
+[^f151n10]: L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
 
-[^f151n11]: L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
-
-[^f151n12]: Laxative.  
-
-[^f151n13]: Preserved or candied fruits.  
+[^f151n11]: Laxative.  
 
 ---
 
@@ -5484,19 +5447,19 @@ BOOK IV.
 
 > VER. 523. *palmeto*,\] This being the most beautiful of palms, nay, perhaps, superior to any other known tree in the world, has with propriety obtained the name of *Royal*. The botanical name is *Palma Maxima*. It will shoot up perpendicularly to an hundred feet and more. The stem is perfectly circular; only towards the root, and immediately under the branches at top, it bulges out. The bark is smooth, and of an ash-brown colour, except at the top where it is green. It grows very fast, and the seed from whence it springs is not bigger than an acorn. In this, as in all the palm-genus, what the natives call *Cabbage* is found; but it resembles in taste an almond, and is in fact the pith of the upper, or greenish part of the stem. But it would be the most unpardonable luxury to cut down so lovely a tree, for so mean a gratification; especially as the wild, or mountain cabbage tree, sufficiently supplies the table with that esculent. I never ride past the charming vista of royal palms on the Cayon-estate of Daniel Mathew, Esq; in St. Christopher,[^f153n6] without being put in mind of the pillars of the Temple of the Sun at Palmyra.[^f153n7] This tree grows on the tops of hills, as well as in valleys; its hard cortical part makes very durable laths for houses.[^f153n8] There is a smaller species not quite so beautiful.
 
-[^f153n1]: Grainger is referring to what he calls elsewhere the royal palm (*Roystonea oleracea*), which can reach forty meters in height and is native to the Lesser Antilles, northern South America, and Guatemala.
+[^f153n1]: Grainger is referring to what he calls elsewhere the royal palm.
 
 [^f153n2]: Inigo Jones (1573-1652) was an English architect and theatre designer. Christopher Wren (1632-1723) was an English architect, mathematician, and astronomer.  
 
 [^f153n3]: Andrea Palladio (1508-1580), an Italian architect. 
 
-[^f153n4]: Also known as the bearded fig or wild banyan tree (*Ficus citrifolia*). It is the national tree of Barbados, and its native range includes Florida and the tropical Americas.  
+[^f153n4]: Also known as the bearded fig or wild banyan tree.
 
 [^f153n5]: A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length. 
 
 [^f153n6]: Mathew \(1718-1777\) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
 
-[^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. Destroyed in 2015 by the Islamic State in Iraq and Syria (ISIS).  
+[^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. 
 
 [^f153n8]: Grainger is saying its bark can be used to make laths or strips of wood used in building. 
 
@@ -5552,19 +5515,17 @@ BOOK IV.
 - Or on some dry hill's gently-sloping sides,
 - In streets, at distance due.——When near the beach,
 - Let frequent coco cast its wavy shade;
-- \'Tis Neptune's tree; and, nourish'd by the spray,[^f155n2]
+- \'Tis Neptune's tree; and, nourish'd by the spray,
 - Soon round the bending stem's aerial height, [560]
 - Clusters of mighty nuts, with milk and fruit
 - Delicious fraught, hang clattering in the sky.
-- There let the bay-grape,[^f155n3] too, its crooked limbs
+- There let the bay-grape,[^f155n2] too, its crooked limbs
 
 > VER. 563. *bay-grape*\] Or sea side grape, as it is more commonly called. This is a large, crooked, and shady tree, \(the leaves being broad, thick, and almost
 
 [^f155n1]: Basins. 
 
-[^f155n2]: Coco refers to the coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
-
-[^f155n3]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
+[^f155n2]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
 
 ---
 
@@ -5579,8 +5540,8 @@ BOOK IV.
 - But, round the upland huts, bananas plant;
 - A wholesome nutriment bananas yield, [570]
 - And sun-burnt labour loves its breezy shade.
-- Their graceful screen let kindred plantanes join,[^f156n2]
-- And with their broad vans[^f156n3] shiver in the breeze;
+- Their graceful screen let kindred plantanes join,
+- And with their broad vans shiver in the breeze;
 - So flames design'd, or by imprudence caught,
 - Shall spread no ruin to the neighbouring roof. [575]
 
@@ -5588,17 +5549,13 @@ BOOK IV.
 
 > circular;\) and succeeds best in sandy places. It bears large clusters of grapes once a year; which, when ripe, are not disagreeable. The stones, seeds, or *acini*, contained in them, are large in proportion; and, being reduced to a powder, are an excellent astringent. The bark of the tree has the same property. The grapes, steept in water and fermented with sugar, make an agreeable wine.
 
-> VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n4] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n5] will also grow in the sand, and is most useful upon a plantation. 
+> VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n2] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n3] will also grow in the sand, and is most useful upon a plantation. 
 
 [^f156n1]: By Indian millet, Grainger means Guinea corn (*Sorghum bicolor*). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231). 
 
-[^f156n2]: Bananas and plantains (family Musaceae) are closely related. Both formed a part of the diets of the enslaved, although plantains were by far a more significant source of food than bananas. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
+[^f156n2]: Maize, great corn, and Indian corn are all different names for *Zea mays*.
 
-[^f156n3]: Vantages, heights, summits.
-
-[^f156n4]: Maize, great corn, and Indian corn are all different names for *Zea mays*.
-
-[^f156n5]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
+[^f156n3]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
 
 ---
 
@@ -5608,12 +5565,12 @@ BOOK IV.
 - Nor gently sloping side of breezy hill,
 - Nor streets, at distance due, imbower'd in trees;
 - Will half the health, or half the pleasure yield,
-- Unless some pitying naiad[^f157n1] deign to lave, [580]
+- Unless some pitying naiad deign to lave, [580]
 - With an unceasing stream, thy thirsty bounds.
 
 - ON festal days; or when their work is done; 
 - Permit thy slaves to lead the choral dance,
-- To the wild banshaw's melancholy sound.[^f157n2]
+- To the wild banshaw's melancholy sound.[^f157n1]
 - Responsive to the sound, head feet and frame [585]
 - Move aukwardly harmonious; hand in hand
 - Now lock'd, the gay troop circularly wheels,
@@ -5623,17 +5580,16 @@ BOOK IV.
 - Bound in the center, and fantastic twine.
 - Meanwhile some stripling, from the choral ring,
 - Trips forth; and, not ungallantly, bestows
-- On her who nimblest hath the greensward[^f157n3] beat,
+- On her who nimblest hath the greensward[^f157n2] beat,
 - And whose flush'd beauties have inthrall'd his soul, [595]
 - A silver token of his fond applause.
 
 > VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound. 
+ 
 
-[^f157n1]: A nymph of springs, rivers, and lakes in Greek mythology. 
+[^f157n1]: The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). For more on music and dance, see "Movement" on this site. 
 
-[^f157n2]: This stanza describes the dances that the enslaved participated in on days of rest and holidays. The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). These songs can be heard at www.musicalpassage.org, a site created by Laurent Dubois, David K. Garner, Mary Caton Lingold, and others. Although colonists may have understood the dances and music as entertainment, Dubois and others have argued that dance and music helped the enslaved create spaces of autonomy for themselves, as they moved and created sounds that hearkened back to the performance traditions of Africa.
-
-[^f157n3]: Grass-covered ground, turf. 
+[^f157n2]: Grass-covered ground, turf. 
 
 ---
 
@@ -5648,28 +5604,25 @@ BOOK IV.
 - But let not thou the drum their mirth inspire;
 - Nor vinous spirits: else, to madness fir'd, 
 - (What will not bacchanalian frenzy dare?)
-- Fell acts of blood, and vengeance they pursue.[^f158n1] [605]
+- Fell acts of blood, and vengeance they pursue. [605]
 
 - COMPEL by threats, or win by soothing arts,
 - Thy slaves to wed their fellow slaves at home;
 - So shall they not their vigorous prime destroy,
-- By distant journeys, at untimely hours,[^f158n2]
+- By distant journeys, at untimely hours,
 - When muffled midnight decks her raven-hair [610]
-- With the white plumage of the prickly vine.[^f158n3]
+- With the white plumage of the prickly vine.[^f158n1]
 
 - WOULD'ST thou from countless ails preserve thy gang;
 
-> VER. 611. *prickly vine*\] This beautiful white rosaceous flower is as large as the crown of one's hat, and only blows[^f158n4] at midnight. The plant, which is prickly and attaches itself firmly to the sides of houses, trees, *&c.* produces a fruit, which some call *Wythe Apple*, and others with more propriety, *Mountain strawberry*. But though it resembles the large Chili-strawberry[^f158n5] in looks and size; yet being inelegant of taste, it is seldom eaten. The botanical name is *Cereus scandens minor*. The rind of the fruit is here and there studded with tufts of small sharp prickles.
+> VER. 611. *prickly vine*\] This beautiful white rosaceous flower is as large as the crown of one's hat, and only blows[^f158n2] at midnight. The plant, which is prickly and attaches itself firmly to the sides of houses, trees, *&c.* produces a fruit, which some call *Wythe Apple*, and others with more propriety, *Mountain strawberry*. But though it resembles the large Chili-strawberry[^f158n3] in looks and size; yet being inelegant of taste, it is seldom eaten. The botanical name is *Cereus scandens minor*. The rind of the fruit is here and there studded with tufts of small sharp prickles.
 
-[^f158n1]: Various colonies throughout the Caribbean and North America outlawed the use of drums and horns, which had military uses in Africa and were believed to be capable of inciting rebellion among the enslaved. St. Kitts passed laws banning drum and horn use in 1711 and 1722.
 
-[^f158n2]: Planters were often concerned about the enslaved marrying across plantations, since they believed that such marriages would lead to lost time from work. They also believed that traveling between plantations would foster ideas of independence since such travel often happened at night, when it would be easier for the enslaved to escape the surveillance of planters. 
+[^f158n1]: Grainger refers here to the night-blooming cereus (*Selenicereus grandiflorus*), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua.  
 
-[^f158n3]: Grainger refers here to the night-blooming cereus (*Selenicereus grandiflorus*), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua.  
+[^f158n2]: Blooms. 
 
-[^f158n4]: blooms. 
-
-[^f158n5]: The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).
+[^f158n3]: The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).
 
 ---
 
@@ -5695,14 +5648,14 @@ BOOK IV.
 - But, chief, for those mild laws his wisdom fram'd,
 - To guard the AEthiop from tyrannic sway![^f159n8]
 
-- DID such, in these green isles which Albion[^f159n9] claims, [630]
+- DID such, in these green isles which Albion claims, [630]
 - Did such obtain; the muse, at midnight-hour,
 
-> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n10] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n11] but this I do not know from experience.
+> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n9] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n10] but this I do not know from experience.
 
 [^f159n1]: *Senna alata*, also known today as the candle bush or king of the forest. Its native range is southwestern Mexico to the tropical Americas.  
 
-[^f159n2]: Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits it in mid-February.
+[^f159n2]: Aquarius is often represented by a figure pouring water from a jar. 
 
 [^f159n3]: Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.
 
@@ -5714,13 +5667,11 @@ BOOK IV.
 
 [^f159n7]: Greek goddess of law and justice.
 
-[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.  
+[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.   
 
-[^f159n9]: A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
+[^f159n9]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
 
-[^f159n10]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
-
-[^f159n11]: A substance that promotes the excretion of urine.
+[^f159n10]: A substance that promotes the excretion of urine.
 
 ---
 
