@@ -4506,13 +4506,13 @@ BOOK IV.
 
 [^f128n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "art" should read "want." 
 
-[^f128n2]: Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slaving ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they turned west and followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).
+[^f128n2]: Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slave ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they turned west and followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).
 
 [^f128n3]: Papaws or Popos. Name of people from the region between Accra in modern Ghana and Ouidah in Benin.
 
 [^f128n4]: The Volta is the Volta river in Ghana, which empties into the Atlantic Ocean northeast of Accra. The Rey is likely the Rey (or Rio del Rey) estuary in modern Cameroon. It is not clear whether Grainger means a specific river within this estuarial system.
 
-[^f128n5]: Suicide was prevalent in the Atlantic slave trade and occurred during various stages of the process of transportation. Europeans proposed various theories to explain these suicides. In particular, physicians like Grainger often suggested that suicide by the enslaved was caused by physical illness or by a disease known as fixed melancholy. European Christians considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern when it came to the enslaved was almost solely economic, as Grainger suggests in these and later lines.  
+[^f128n5]: Suicide was prevalent in the Atlantic slave trade and occurred during various stages of the process of transportation. It also occurred on plantations. Europeans proposed various theories to explain these suicides. In particular, physicians like Grainger often suggested that suicide by the enslaved was caused by physical illness or by a disease known as fixed melancholy. European Christians considered suicide to be a sin (it was a breach of the sixth commandment forbidding murder), but their concern for preventing suicide among the enslaved stemmed primarily from economic motives, as Grainger suggests in these and later lines. 
 
 [^f128n6]: Gang was the general term used to designate groups of enslaved persons. 
 
@@ -4551,7 +4551,7 @@ BOOK IV.
 
 [^f129n3]: Dagger. 
 
-[^f129n4]: Grainger is describing Africans smoking tobacco out of pipes. Tobacco (*Nicotiana tabacum*) is native to the Americas and was introduced to Africa in the 1500s.
+[^f129n4]: Grainger is describing Africans smoking tobacco out of pipes. Tobacco was introduced from the Americas to Africa in the 1500s. 
 
 [^f129n5]: Rice, yams, and maize were three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not: maize's native range is Mexico and Guatemala. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).
 
@@ -4573,13 +4573,13 @@ BOOK IV.
 - Thou buy'st, for sturdy and laborious they, [105]
 - Straight let some learned leach[^f130n5] strong medicines give,
 - Till food and climate both familiar grow.
-- Thus, tho' from rise to set, in Phoebus' eye,[^f130n6]
+- Thus, tho' from rise to set, in Phoebus' eye,
 - They toil, unceasing; yet, at night, they'll sleep,
-- Lap'd in Elysium;[^f130n7] and, each day, at dawn, [110]
+- Lap'd in Elysium;[^f130n6] and, each day, at dawn, [110]
 - Spring from their couch, as blythsome as the sun.
 
 - ONE precept more, it much imports to know.—
-- The Blacks, who drink the Quanza's[^f130n8] lucid stream,
+- The Blacks, who drink the Quanza's[^f130n7] lucid stream,
 - Fed by ten thousand springs, are prone to bloat, 
 - Whether at home or in these ocean-isles: [115]
 - And tho' nice art the water may subdue,
@@ -4594,11 +4594,9 @@ BOOK IV.
 
 [^f130n5]: Physician. 
 
-[^f130n6]: Phoebus is an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun. 
+[^f130n6]: Part of the Greek underworld reserved for heroes.
 
-[^f130n7]: Part of the Greek underworld reserved for heroes.
-
-[^f130n8]: Cuanzo \(or Kwanza\) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
+[^f130n7]: Cuanzo \(or Kwanza\) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
 ---
 
@@ -4608,39 +4606,36 @@ BOOK IV.
 - Yet many die; and few, for many a year,
 - Just strength attain to labour for their lord.
 
-- WOULD'ST thou secure thine Ethiop[^f131n1] from those ails,
+- WOULD'ST thou secure thine Ethiop from those ails,
 - Which change of climate, change of waters breed, [120]
-- And food unusual? let Machaon[^f131n2] draw
+- And food unusual? let Machaon draw
 - From each some blood, as age and sex require;
-- And well with vervain, well with sempre-vive,[^f131n3]
+- And well with vervain, well with sempre-vive,[^f131n1]
 - Unload their bowels.—These, in every hedge,
 - Spontaneous grow.—Nor will it not conduce [125]
 - To give what chemists, in mysterious phrase,
-- Term the white eagle;[^f131n4] deadly foe to worms.
+- Term the white eagle;[^f131n2] deadly foe to worms.
 - But chief do thou, my friend, with hearty food,
 - Yet easy of digestion, likest that
 - Which they at home regal'd on; renovate [130]
 - Their sea-worn appetites. Let gentle work,
 - Or rather playful exercise, amuse
-- The novel gang:[^f131n5] and far be angry words;
+- The novel gang:[^f131n3] and far be angry words;
 - Far ponderous chains; and far disheartning blows.—
 - From fruits restrain their eagerness; yet if [135]
-- The acajou,[^f131n6] haply, in thy garden bloom,
+- The acajou,[^f131n4] haply, in thy garden bloom,
 - With cherries, or of white or purple hue,
 
 > VER. 137. *cherries,*\] The tree which produces this wholesome fruit is tall, shady, and of quick growth. Its Indian name is *Acajou*; hence corruptly called *Cashew* by 
 
-[^f131n1]: Ethiop and Ethiopia (also Aethiop and Aethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
 
-[^f131n2]: In Greek mythology, a physician and the son of Asclepius, the god of healing. 
+[^f131n1]: Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
 
-[^f131n3]: Vervain \(*Verbena officinalis*\) is an herbal shrub whose native range is the Old World and Australia. The dried plant is used to make tea. Sempre-vive refers to the genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia. Gilmore notes that Grainger may not have been referring to European vervain but to *Aloe vera*, a plant highly valued for its medicinal properties and native to the Arabian Peninsula.  
+[^f131n2]: Calomel or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge or drug used to eliminate parasitic worms from the body.
 
-[^f131n4]: Calomel or mercuric chloride. Medicine widely used in the eighteenth century for its laxative and purgative effects, also described here by Grainger as a vermifuge or drug used to eliminate parasitic worms from the body.
+[^f131n3]: Enslaved Africans newly arrived in the Caribbean.  
 
-[^f131n5]: Enslaved Africans newly arrived in the Caribbean.  
-
-[^f131n6]: The cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. As Grainger and others note, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
+[^f131n4]: The cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. As Grainger and others note, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
 
 ---
 
@@ -4650,31 +4645,31 @@ BOOK IV.
 - Thrice wholesome fruit in this relaxing clime!
 - Safely thou may'st their appetite indulge.
 - Their arid skins will plump, their features shine: [140]
-- No rheums, no dysenteric ails torment:
-- The thirsty hydrops flies.[^f132n1]—'Tis even averr'd, 
+- No rheums,[^f132n1] no dysenteric ails torment:
+- The thirsty hydrops[^f132n2] flies.—'Tis even averr'd, 
 - (Ah, did experience sanctify the fact;
 - How many Lybians now would dig the soil,
 - Who pine in hourly agonies away!) [145]
-- This pleasing fruit, if turtle[^f132n2] join its aid,
+- This pleasing fruit, if turtle[^f132n3] join its aid,
 - Removes that worst of ails, disgrace of art,
-- The loathsome leprosy's[^f132n3] infectious bane.
+- The loathsome leprosy's[^f132n4] infectious bane.
 
 - THERE are, the muse hath oft abhorrent seen,
-- Who swallow dirt;[^f132n4] (so the chlorotic fair[^f132n5] [150]
+- Who swallow dirt;[^f132n5] (so the chlorotic fair[^f132n6] [150]
 
-> the English. The fruit has no resemblance to a cherry, either in shape or size; and bears, at its lower extremity, a nut (which the Spaniards name *Anacardo*, and physicians *Anacardium*) that resembles a large kidney-bean. Its kernel is as grateful as an almond,[^f132n6] and more easy of digestion. Between its rhinds[^f132n7] is contained a highly caustic oil; which, being held to a candle, emits bright salient sparkles, in which the American fortune-tellers pretended they saw spirits who gave answers to whatever questions were put to them by their ignorant followers. This oil is used as a cosmetic by the ladies, to remove freckles and sun-burning; but the pain they necessarily suffer makes its use not very frequent. This tree also produces a gum not inferior to Gum-Arabic;[^f132n8] and its bark is an approved astringent. The juice of the cherry stains exceedingly. The long citron, or amber-coloured, is the best. The cashew-nuts, when unripe, are of a green colour; but, ripe, they assume that of a pale olive. This tree bears fruit but once a year.
+> the English. The fruit has no resemblance to a cherry, either in shape or size; and bears, at its lower extremity, a nut (which the Spaniards name *Anacardo*, and physicians *Anacardium*) that resembles a large kidney-bean. Its kernel is as grateful as an almond, and more easy of digestion. Between its rhinds[^f132n7] is contained a highly caustic oil; which, being held to a candle, emits bright salient sparkles, in which the American fortune-tellers pretended they saw spirits who gave answers to whatever questions were put to them by their ignorant followers. This oil is used as a cosmetic by the ladies, to remove freckles and sun-burning; but the pain they necessarily suffer makes its use not very frequent. This tree also produces a gum not inferior to Gum-Arabic;[^f132n8] and its bark is an approved astringent. The juice of the cherry stains exceedingly. The long citron, or amber-coloured, is the best. The cashew-nuts, when unripe, are of a green colour; but, ripe, they assume that of a pale olive. This tree bears fruit but once a year.
 
-[^f132n1]: The rheums refers to mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold but often thought by eighteenth-century physicians to lead to further (and more serious) illnesses. Dysentery is a gastrointestinal disorder that remained a major public health concern throughout the eighteenth and nineteenth centuries. Hydrops refers to an accumulation of fluid in the soft tissue of the body, more commonly known as dropsy. The modern term is edema (or oedema).  
+[^f132n1]: Mucous secretions from the eyes, nose, and mouth. Comparable perhaps to a head cold but often thought by eighteenth-century physicians to lead to further (and more serious) illnesses. 
 
-[^f132n2]: Probably refers to the green turtle (*Chelonia mydas*), the only species of turtle indigenous to the Caribbean that has served as a significant food source for human beings.  
+[^f132n2]: An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy. The modern term is edema (or oedema).
 
-[^f132n3]: A chronic condition affecting the skin and nerves, caused by the microorganism *Mycobacterium leprae*.  
+[^f132n3]: Probably refers to the green turtle (*Chelonia mydas*), the only species of turtle indigenous to the Caribbean that has served as a significant food source for human beings.  
 
-[^f132n4]: Geophagy or pica are the medical terms used for the practice of eating dirt. Eighteenth-century physicians and planters were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a means of committing suicide and thus a form of enslaved resistance.  
+[^f132n4]: A chronic condition affecting the skin and nerves, caused by the microorganism *Mycobacterium leprae*.  
 
-[^f132n5]: Chlorosis \(also called green sickness\) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
+[^f132n5]: Geophagy or pica are the medical terms used for the practice of eating dirt. Eighteenth-century physicians and planters were fascinated with geophagy, which they believed to be a disorder that led to death. In certain instances, they posited that eating dirt was a means of committing suicide and thus a form of enslaved resistance.  
 
-[^f132n6]: *Prunus dulcis*, primarily native to western Asia. 
+[^f132n6]: Chlorosis \(also called green sickness\) was thought to be an illness that afflicted young women. It could be accompanied by a greenish hue and produce a desire to eat dirt.  
 
 [^f132n7]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "rhinds" should read "rinds."  
 
@@ -4685,43 +4680,37 @@ BOOK IV.
 
 133
 
-- Oft chalk prefer to the most poignant cates:\)[^f133n1]
+- Oft chalk prefer to the most poignant cates:\)
 - Such, dropsy bloats, and to sure death consigns;
 - Unless restrain'd from this unwholesome food,
 - By soothing words, by menaces, by blows:
 - Nor yet will threats, or blows, or soothing words, [155]
-- Perfect their cure; unless thou, Paean,[^f133n2] deign'st
+- Perfect their cure; unless thou, Paean, deign'st
 - By medicine's power their cravings to subdue.
 
 - TO easy labour first inure thy slaves;
-- Extremes are dangerous.[^f133n3] With industrious search,
-- Let them fit grassy provender[^f133n4] collect [160]
+- Extremes are dangerous.[^f133n1] With industrious search,
+- Let them fit grassy provender collect [160]
 - For thy keen stomach'd herds.—But when the earth
 - Hath made her annual progress round the sun,
-- What time the conch[^f133n5] or bell resounds, they may
+- What time the conch[^f133n2] or bell resounds, they may
 - All to the Cane-ground, with thy gang, repair.
 
-- NOR, Negroe, at thy destiny repine,[^f133n6] [165]
+- NOR, Negroe, at thy destiny repine,[^f133n3] [165]
 - Tho' doom'd to toil from dawn to setting sun.
 - How far more pleasant is thy rural task,
 - Than theirs who sweat, sequester'd from the day,
-- In dark tartarean caves,[^f133n7] sunk far beneath
+- In dark tartarean caves,[^f133n4] sunk far beneath
 
 > VER. 163. *the conch*\] Plantations that have no bells, assemble their Negroes by sounding a conch-shell.  
 
-[^f133n1]: Choice foods, viands, or delicacies.  
+[^f133n1]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
 
-[^f133n2]: Greek god of healing.  
+[^f133n2]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
 
-[^f133n3]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
+[^f133n3]: This and the following forty lines are the only ones in the poem where the narrator addresses the enslaved directly. Despite this direct address, the passage is framed by a set of rhetorical questions that help the planter justify his actions to himself. The justifications that follow were standard to pro-slavery tracts.  
 
-[^f133n4]: Dried cattle feed (e.g., hay).  
-
-[^f133n5]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
-
-[^f133n6]: This and the following forty lines are the only ones in the poem where the narrator addresses the enslaved directly. Despite this direct address, the passage is framed by a set of rhetorical questions that help the planter justify his actions to himself. The justifications that follow were standard to pro-slavery tracts.  
-
-[^f133n7]: Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here, Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. Deep mines, sometimes extending hundreds of feet into the earth, were necessary because the rising demand for coal quickly exhausted accessible deposits.  
+[^f133n4]: Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here, Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. Deep mines, sometimes extending hundreds of feet into the earth, were necessary because the rising demand for coal quickly exhausted accessible deposits.  
 
 ---
 
@@ -4806,7 +4795,7 @@ BOOK IV.
 
 - YET, planter, let humanity prevail.[^f136n1]—
 - Perhaps thy Negroe, in his native land,
-- Possest large fertile plains,[^f136n2] and slaves, and herds:
+- Possest large fertile plains, and slaves, and herds:[^f136n2]
 - Perhaps, whene'er he deign'd to walk abroad,
 - The richest silks, from where the Indus[^f136n3] rolls, [215]
 - His limbs invested in their gorgeous pleats:
@@ -4822,11 +4811,11 @@ BOOK IV.
 - Ye, to whom Learning opes her amplest page!
 - Ye, whom the knowledge of a living God
 - Should lead to virtue! Are ye free from crimes?
-- Ah pity, then, these uninstructed swains;[^f136n4]
+- Ah pity, then, these uninstructed swains;
 - And still let mercy soften the decrees [230]
 - Of rigid justice, with her lenient hand.
 
-- OH, did the tender muse possess the power,[^f136n5]
+- OH, did the tender muse possess the power,[^f136n4]
 - Which monarchs have, and monarchs oft abuse:
 
 [^f136n1]: From here to the end of *The Sugar-Cane*, Grainger settles on a strategy of amelioration for dealing with the problem of slavery. This strategy involves accepting the continuation of slavery as an institution but advocating for the humane treatment of the enslaved as an economically prudent measure. Note that his recommendations mirror the actions of Montano at the end of Book I.  
@@ -4835,9 +4824,7 @@ BOOK IV.
 
 [^f136n3]: Indus, a river in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
 
-[^f136n4]: Country or farm laborers, shepherds. The swain is a key figure in georgic poetry.  
-
-[^f136n5]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's *Considerations on Slavery* (1767).  
+[^f136n4]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's 1767 *Considerations on Slavery* (15-16).  
 
 ---
 
