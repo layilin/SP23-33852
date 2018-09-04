@@ -36,7 +36,7 @@ order: 86
 
 [^f78n2]: Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park. 
 
-[^f78n3]: Thomas Percy's *Reliques of Ancient English Poetry* (1765) contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana. 
+[^f78n3]: Bishop Thomas Percy (1729-1811) was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana. 
 
 [^f78n4]: Greek god of marriage.
 
