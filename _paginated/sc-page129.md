@@ -41,7 +41,7 @@ order: 137
 
 [^f129n3]: Dagger. 
 
-[^f129n4]: Grainger is describing Africans smoking tobacco out of pipes. Tobacco (*Nicotiana tabacum*) is native to the Americas and was introduced to Africa in the 1500s.
+[^f129n4]: Grainger is describing Africans smoking tobacco out of pipes. Tobacco was introduced from the Americas to Africa in the 1500s.
 
 [^f129n5]: Rice, yams, and maize were three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not: maize's native range is Mexico and Guatemala. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).
 
