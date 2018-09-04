@@ -26,7 +26,7 @@ order: 120
 - His muscovado gave. But, not content
 - With this pre-eminence of honest gain, [470]
 - He baser sugars started in his casks;
-- His own, by mixing fordid things, debas'd.
+- His own, by mixing sordid things, debas'd.
 - One year the fraud succeeded; wealth immense
 - Flowed in upon him, and he blest his wiles:
 - The next, the brokers spurn'd the adulterate mass, [475]
