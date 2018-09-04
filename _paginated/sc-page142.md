@@ -29,7 +29,7 @@ order: 150
 - Her following close, her secret treasures find,
 - To pour them plenteous on the laughing world.
 - On thee Sylvanus,[^f142n4] thee each rural god, [345]
-- On thee chief Ceres,[^f142n5] with unfailing love
+- On thee chief Ceres, with unfailing love
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
 - Far-distant kingdoms; endless storms in vain
@@ -38,10 +38,8 @@ order: 150
 
 [^f142n2]: Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege.  
 
-[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession (1701-1714). After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
+[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
 [^f142n4]: Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
-
-[^f142n5]: Italo-Roman goddess of growth and agriculture.  
 
 ---
