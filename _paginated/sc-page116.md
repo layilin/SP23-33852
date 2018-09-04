@@ -31,7 +31,7 @@ order: 124
 
 > VER. 549. *papaws*\] This singular tree, whose fruits surround its summit immediately under the branches and leaves, like a necklace; grows quicker than almost any other in the West Indies. The wood is of no use, being spungy, hollow, and herbacious; however, the blossoms and fruit make excellent sweet-meats;[^f116n2] but above all, the juice of the fruit being rubbed upon a spit, will intenerate[^f116n3] new killed fowls, *&c*. a circumstance of great consequence in a climate, where the warmth soon renders whatever meats are attempted to be made tender by keeping, unfit for culinary purposes. Nor, will it only intenerate fresh meat; but, being boiled with salted beef, will render it easily digestible. Its milky juice is sometimes used to cure ringworms.[^f116n4] It
 
-[^f116n1]: Tamarind refers to the tamarind tree (*Tamarindus indica*), which is probably native to tropical Africa and Madagascar. Its fruit pulp is used in food and beverages, including punch, and for medicinal purposes. According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas. The pawpaw is better known as the papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela. 
+[^f116n1]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas. The pawpaw is better known as the papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela. 
 
 [^f116n2]: Preserved or candied fruits. 
 
