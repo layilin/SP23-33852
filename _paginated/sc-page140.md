@@ -30,8 +30,8 @@ order: 148
 - SAY, to such various mimic forms of death;
 - What remedies shall puzzled art oppose?—
 - Thanks to the Almighty, in each path-way hedge,
-- Rank cow-itch[^f140n5] grows, whose sharp unnumber'd stings,
-- Sheath'd in Melasses,[^f140n6] from their dens expell, [310]
+- Rank cow-itch grows, whose sharp unnumber'd stings,
+- Sheath'd in Melasses, from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
 > VER. 309. *Cow-itch*] See notes in Book II.
@@ -43,9 +43,5 @@ order: 148
 [^f140n3]: An acute or high fever or a disease that causes such. Often used to refer to malaria.  
 
 [^f140n4]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
-
-[^f140n5]: Cowitch (*Mucuna pruriens*) is a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.  
-
-[^f140n6]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
 ---
