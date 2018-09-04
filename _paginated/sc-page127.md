@@ -37,7 +37,7 @@ order: 135
 
 [^f127n1]: Jetty means jet black. Seventeenth- and eighteenth-century British writers often used the terms "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko: Or, the Royal Slave* (1688), where the narrator describes Oroonoko as having skin of "perfect Ebony, or polish'd Jett" (Behn 13).  
 
-[^f127n2]: Grainger indicates that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader and/or buyer, who made judgments about Africans based on similar considerations.  
+[^f127n2]: Grainger indicates that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader or buyer, who made judgments about Africans based on similar considerations.  
 
 [^f127n3]: Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC).
 
