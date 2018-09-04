@@ -2784,7 +2784,7 @@ BOOK II.
 
 [^f78n2]: Sheen is the old name for what is now the London borough of Richmond upon Thames. According to Gilmore, Sheen's royal walks probably refers to Richmond Park, a royal park. 
 
-[^f78n3]: Thomas Percy's *Reliques of Ancient English Poetry* (1765) contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana.
+[^f78n3]: Bishop Thomas Percy (1729-1811) was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana. 
 
 [^f78n4]: Greek god of marriage.
 
@@ -3575,24 +3575,24 @@ BOOK III.
 - To full perfection shot, by day, by night,
 - Indesinent[^f102n3] demand their vigorous toil.
 
-- THEN happiest he, for whom the Naiads[^f102n4] pour,
+- THEN happiest he, for whom the Naiads pour,
 - From rocky urns, the never-ceasing stream, [280]
 - To turn his rollers with unbought dispatch.
 
-- IN Karukera's[^f102n5] rich well-water'd isle!
-- In Matanina![^f102n6] boast of Albion's arms,
+- IN Karukera's[^f102n4] rich well-water'd isle!
+- In Matanina![^f102n5] boast of Albion's arms,
 - The brawling Naiads for the planters toil,
-- Howe'er unworthy; and, thro'[^f102n7] solemn scenes, [285]
+- Howe'er unworthy; and, thro'[^f102n6] solemn scenes, [285]
 - Romantic, cool, with rocks and woods between,
 - Enchant the senses! but, among thy swains,
-- Sweet Liamuiga![^f102n8] who such bliss can boast?
-- Yes, Romney,[^f102n9] thou may'st boast; of British heart,
+- Sweet Liamuiga! who such bliss can boast?
+- Yes, Romney,[^f102n7] thou may'st boast; of British heart,
 - Of courtly manners, join'd to antient worth: [290]
 - Friend to thy Britain's every blood-earn'd right,
 
 > VER. 282. *Karukera*\] The Indian name of Guadaloupe.
 
-> VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah[^f102n10] had not then been taken.
+> VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah[^f102n8] had not then been taken.
 
 [^f102n1]: Farcy is A disease of animals, especially of horses. Tabid (or tabetic) is to be wasted by disease, corrupted.
 
@@ -3600,19 +3600,15 @@ BOOK III.
 
 [^f102n3]: Incessant.
 
-[^f102n4]: Nymphs of springs, rivers, and lakes in Greek mythology.
+[^f102n4]: Guadeloupe. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.
 
-[^f102n5]: Guadeloupe. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.
+[^f102n5]: Martinique. The French colony of Martinique surrendered to British forces in February 1762.
 
-[^f102n6]: Martinique. The French colony of Martinique surrendered to British forces in February 1762.
+[^f102n6]: The \"Errata\" list at the end of The Sugar-Cane indicates that "thro'" should read "through."
 
-[^f102n7]: The \"Errata\" list at the end of The Sugar-Cane indicates that "thro'" should read "through."
+[^f102n7]: According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla Pym, the heiress of the St. Kitts planter Charles Pym.
 
-[^f102n8]: Indigenous name for the island of St. Kitts.
-
-[^f102n9]: According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla Pym, the heiress of the St. Kitts planter Charles Pym.
-
-[^f102n10]: Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.
+[^f102n8]: Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.
 
 ---
 
@@ -3634,7 +3630,7 @@ BOOK III.
 - The palm of eloquence,[^f103n1] securely bold;
 - But rear'd'st thy banners, fluttering in the wind: [305]
 - Kent,[^f103n2] from each hamlet, pour'd her marshal'd swains,
-- To hurl defiance on the threatening Gaul.[^f103n3]
+- To hurl defiance on the threatening Gaul.
 
 - THY foaming coppers well with fewel feed;
 - For a clear, strong, continued fire improves
@@ -3646,9 +3642,7 @@ BOOK III.
 
 [^f103n1]: Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
 
-[^f103n2]: Kent is a county in southeastern England facing France.
-
-[^f103n3]: France.
+[^f103n2]: Kent faces France.
 
 ---
 
@@ -3666,8 +3660,8 @@ BOOK III.
 - NOR small the risque, \(when piety, or chance, [320]
 - Force thee from boiling to desist\) to lave[^f104n3]
 - Thy heated furnace, with the gelid[^f104n4] stream.
-- The chemist knows, when all-dissolving fire
-- Bids the metalline ore abruptly flow;[^f104n5]
+- The chemist[^f104n5] knows, when all-dissolving fire
+- Bids the metalline ore abruptly flow;
 - What dread explosions, and what dire effects, [325]
 - A few cold drops of water will produce,
 - Uncautious, on the novel fluid thrown.
@@ -3687,7 +3681,7 @@ BOOK III.
 
 [^f104n4]: Cold.  
 
-[^f104n5]: The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and additional ingredients to the cane juice to rid it of impurities.  
+[^f104n5]: When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and other ingredients to the cane juice to rid it of impurities.  
 
 ---
 
@@ -3745,23 +3739,21 @@ BOOK III.
 - MUSE, sing the ways to quell them. Some use Cane,
 - That Cane, whose juices to the tongue apply'd,
 
-> VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in the short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these are in general so well known, it is needless. A few properties of it, however, wherewith the learned are not commonly acquainted, I shall mention. In some places of the East-Indies, an excellent arrack[^f106n2] is made from the Sugar-Cane: And, in South-America, Sugar is used as an antidote against one of the most sudden, as well as fatal poisons in the world. Taken by mouth, *pocula morte carent*, this poison is quite innocent; but the slightest wound made by an arrow, whose point is tinged therewith, proves immediate death; for, by driving all the blood of the body immediately to the heart, it forthwith bursts it.[^f106n3] The fish and birds killed by these poisoned arrows \(in the use of which the Indians are astonishingly expert\) are perfectly wholesome to feed on. See Ulloa and De la Condamine's account of the great river of Amazon.[^f106n4] It is a vegetable preparation.
+> VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in the short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these are in general so well known, it is needless. A few properties of it, however, wherewith the learned are not commonly acquainted, I shall mention. In some places of the East-Indies, an excellent arrack is made from the Sugar-Cane: And, in South-America, Sugar is used as an antidote against one of the most sudden, as well as fatal poisons in the world. Taken by mouth, *pocula morte carent*, this poison is quite innocent; but the slightest wound made by an arrow, whose point is tinged therewith, proves immediate death; for, by driving all the blood of the body immediately to the heart, it forthwith bursts it.[^f106n2] The fish and birds killed by these poisoned arrows \(in the use of which the Indians are astonishingly expert\) are perfectly wholesome to feed on. See Ulloa and De la Condamine's account of the great river of Amazon.[^f106n3] It is a vegetable preparation.
 
-> VER. 357. *That Cane*\] This, by the natives, is emphatically called the *Dumb Cane*;[^f106n5] for a small quantity of its juice being rubbed on the brim of a drinking vessel, whoever drinks out of it, soon after will have his lips and tongue enormously swelled. A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time, recommends it both by the mouth and externally, in dropsical and other cases:[^f106n6] But I cannot say, I have had any experience of its efficacy in these disorders. It grows wild in the mountains; and, by its use in Sugar-making, should seem to be somewhat of an alcalescent[^f106n7] nature. It grows to four feet high, having, at the top, two green shining leaves, about nine inches long; and, between these, a small spire emerges.
+> VER. 357. *That Cane*\] This, by the natives, is emphatically called the *Dumb Cane*;[^f106n4] for a small quantity of its juice being rubbed on the brim of a drinking vessel, whoever drinks out of it, soon after will have his lips and tongue enormously swelled. A physician, however, who wrote a short account of the diseases of Jamaica, in Charles II.'s time, recommends it both by the mouth and externally, in dropsical and other cases:[^f106n5] But I cannot say, I have had any experience of its efficacy in these disorders. It grows wild in the mountains; and, by its use in Sugar-making, should seem to be somewhat of an alcalescent[^f106n6] nature. It grows to four feet high, having, at the top, two green shining leaves, about nine inches long; and, between these, a small spire emerges.
 
 [^f106n1]: Acidic or sour substance.
 
-[^f106n2]: An alcoholic spirit distilled from fermented rice and molasses, to which is often added the fermented sap of the coconut palm (*Cocos nucifera*).
+[^f106n2]: The poison Grainger refers to is curare, an extract obtained from the bark of South American trees of the genera *Strychnos* and *Chondrodendron* that relaxes and paralyzes voluntary muscles. Curare's use as an arrow poison was reported by Europeans from their earliest encounters with Amerindians in South America.
 
-[^f106n3]: The poison Grainger refers to is curare, an extract obtained from the bark of South American trees of the genera *Strychnos* and *Chondrodendron* that relaxes and paralyzes voluntary muscles. Curare's use as an arrow poison was reported by Europeans from their earliest encounters with Amerindians in South America.
+[^f106n3]: Charles-Marie de La Condamine (1701-1774), a French scientist, participated with Ulloa in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751).
 
-[^f106n4]: Antonio de Ulloa (1716-1795), a Spanish military officer, and Charles-Marie de La Condamine (1701-1774), a French scientist, participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).  
+[^f106n4]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
 
-[^f106n5]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
+[^f106n5]: Grainger is referring to Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679). 
 
-[^f106n6]: Grainger is referring to Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679). 
-
-[^f106n7]: Also alkalescent. Tending to become alkaline (having a pH greater than 7).  
+[^f106n6]: Also alkalescent. Tending to become alkaline (having a pH greater than 7).  
 
 ---
 
@@ -3833,7 +3825,7 @@ BOOK III.
 - Rings in the cask; and or a light-brown hue,
 - Or thine, more precious silvery-grey, assumes. [400]
 
-[^f108n1]: Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
+[^f108n1]: A poetic name for the River Severn, which is Britain's longest river and empties into the Bristol Channel.  
 
 [^f108n2]: A metamorphic rock formed by applying great heat and pressure to limestone.
 
@@ -3846,7 +3838,7 @@ BOOK III.
 
 - THE fam'd Bermuda's[^f109n1] ever-healthy isles,
 - More fam'd by gentle Waller's[^f109n2] deathless strains,
-- Than for their cedars,[^f109n3] which, insulting, fly
+- Than for their cedars, which, insulting, fly
 - O'er the wide ocean; 'mid their rocks contain
 - A stone, which, when calcin'd, (experience says,) [405]
 - Is only second to Sabrina's lime.
@@ -3862,7 +3854,7 @@ BOOK III.
 - How blithe, how jocund, the plantation smiles!
 - By day, by night, resounds the choral song [415]
 - Of glad barbarity; serene, the sun
-- Shines not intensely hot; the trade-wind[^f109n4] blows:
+- Shines not intensely hot; the trade-wind blows:
 - How sweet, how silken, is its noontide breath?
 - While to far climes the fell destroyer, Death,
 - Wings his dark flight. Then seldom pray for rain: [420]
@@ -3871,10 +3863,6 @@ BOOK III.
 [^f109n1]: Bermuda was colonized by the English in the early seventeenth century and is now an overseas territory of Britain in the north Atlantic. 
 
 [^f109n2]: Edmund Waller (1606-1687), English poet and politician and author of "The Battle of the Summer Islands" (1645), a mock-heroic set in Bermuda.
-
-[^f109n3]: The Bermuda cedar (*Juniperus bermudiana*) is native to Bermuda and was used by early colonists as building material and fuel. By the 1830s, the ship-building industry had denuded Bermuda of most of its indigenous cedars. It is still a critically endangered species.
-
-[^f109n4]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe. 
 
 ---
 
@@ -3895,16 +3883,12 @@ BOOK III.
 - An heterogeneous, an uncertain mass,
 - And never in thy coolers to condense.
 
-- OR, planter, if the coction[^f110n2] they prolong
+- OR, planter, if the coction they prolong
 - Beyond its stated time; the viscous wave [435]
 
-> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses[^f110n3] drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
+> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
 
 [^f110n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
-
-[^f110n2]: Boiling, cooking. 
-
-[^f110n3]: Also molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
 ---
 
@@ -3960,7 +3944,7 @@ BOOK III.
 - His muscovado gave. But, not content
 - With this pre-eminence of honest gain, [470]
 - He baser sugars started in his casks;
-- His own, by mixing fordid things, debas'd.
+- His own, by mixing sordid things, debas'd.
 - One year the fraud succeeded; wealth immense
 - Flowed in upon him, and he blest his wiles:
 - The next, the brokers spurn'd the adulterate mass, [475]
@@ -4019,18 +4003,18 @@ BOOK III.
 - For not Marne's flowery banks, nor Tille's green bounds,[^f114n2]
 - Where Ceres with the God of vintage reigns,
 - In happiest union; not Vigornian[^f114n3] hills,
-- Pomona's[^f114n4] lov'd abode, afford to man
+- Pomona's lov'd abode, afford to man
 - Goblets more priz'd, or laudable of taste, [505]
 - To slake parch'd thirst, and mitigate the clime.
 
-- YET, 'mid this blest ebriety,[^f114n5] some tears,
-- For friends I left in Albion's[^f114n6] distant isle,
-- For Johnson, Percy, White, escape mine eyes:[^f114n7]
-- For her, fair Auth'ress![^f114n8] whom first Calpe's[^f114n9] rocks [510]
+- YET, 'mid this blest ebriety,[^f114n4] some tears,
+- For friends I left in Albion's distant isle,
+- For Johnson, Percy, White, escape mine eyes:[^f114n5]
+- For her, fair Auth'ress![^f114n6] whom first Calpe's[^f114n7] rocks [510]
 - A sportive infant saw; and whose green years
 - True genius blest with her benignest gifts
 - Of happiest fancy. O, were ye all here,
-- O, were ye here; with him, my Paeon's son![^f114n10]
+- O, were ye here; with him, my Paeon's son![^f114n8]
 - Long-known, of worth approv'd, thrice candid soul! [515]
 - How would your converse charm the lonely hour?
 - Your converse, where mild wisdom tempers mirth;
@@ -4046,19 +4030,15 @@ BOOK III.
 
 [^f114n3]: Vigornian is the Latin name for Worcester, a center of cider production in England.
 
-[^f114n4]: Pomona, the Roman goddess of fruit.
+[^f114n4]: State or habit of being intoxicated, drunk.
 
-[^f114n5]: State or habit of being intoxicated, drunk.
+[^f114n5]: In this line, Grainger lists literary figures he knew from his time in London. Johnson is Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see the note for lines 72-118 in Book IV (the lines that Johnson objected to). Percy is the already mentioned Bishop Thomas Percy, Grainger's frequent correspondent. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811 (Anderson 9.59, 9.67-68, 9.269).   
 
-[^f114n6]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
+[^f114n6]: Charlotte Lennox (1730/1731?-1804), British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). A close friend of Samuel Johnson.
 
-[^f114n7]: In this line, Grainger lists literary figures he knew from his time in London. Johnson is Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see the note for lines 72-118 in Book IV (the lines that Johnson objected to). Percy is Bishop Thomas Percy (1729-1811), an English cleric, writer, and translator. A friend and frequent correspondent of Grainger, he is best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811 (Anderson 9.59, 9.67-68, 9.269).  
+[^f114n7]: Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar. 
 
-[^f114n8]: Charlotte Lennox (1730/1731?-1804), British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). A close friend of Samuel Johnson.
-
-[^f114n9]: Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar. 
-
-[^f114n10]: Paeon is the Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
+[^f114n8]: Paeon is the Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
 
 ---
 
@@ -4080,20 +4060,16 @@ BOOK III.
 - With galleries, porches, or piazzas grac'd! [530]
 - Nor not delightful are those reed-built huts,[^f115n3]
 - On yonder hill, that front the rising sun;
-- With plantanes, with banana's bosom'd-deep,[^f115n4]
+- With plantanes, with banana's bosom'd-deep,
 - That flutter in the wind: where frolick goats,
 
-> VER. 522. *sand-box*\] So called, from the pericarpium's being often made use of for containing sand; when the seeds, which are a violent emetic,[^f115n5] are taken out. This is a fine shady tree, especially when young; and its leaves are efficaciously applied in headachs to the temples, which they sweat. It grows fast; but loses much of its beauty by age. Its wood is brittle, and when cut emits a milky juice, which is not caustic. The sand-box thrives best in warm shady places. The sun often splits the pericarpium, which then cracks like a pistol. It is round, flatted both above and below, and divided into a great number of regular compartments, each of which contains one seed flatted ovularly. The botanical name is *Hura*.
+> VER. 522. *sand-box*\] So called, from the pericarpium's being often made use of for containing sand; when the seeds, which are a violent emetic, are taken out. This is a fine shady tree, especially when young; and its leaves are efficaciously applied in headachs to the temples, which they sweat. It grows fast; but loses much of its beauty by age. Its wood is brittle, and when cut emits a milky juice, which is not caustic. The sand-box thrives best in warm shady places. The sun often splits the pericarpium, which then cracks like a pistol. It is round, flatted both above and below, and divided into a great number of regular compartments, each of which contains one seed flatted ovularly. The botanical name is *Hura*.
 
 [^f115n1]: Unskilled or unrefined poetry.
 
 [^f115n2]: The sandbox tree (*Hura crepitans*) gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph. Its native range is the tropical Americas. 
 
-[^f115n3]: Dwellings of enslaved Africans.
-
-[^f115n4]: Plantains and bananas (family Musaceae) are closely related. Both also formed a part of the diets of the enslaved, but plantains were by far a more significant source of food than bananas. Grainger's description of plantain and banana trees growing around "reed-built huts" probably is meant to evoke the provision grounds and gardens that the enslaved often cultivated to provide for their daily subsistence. Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
-
-[^f115n5]: A medicine that excites vomiting.  
+[^f115n3]: Dwellings of the enslaved.
 
 ---
 
@@ -4121,7 +4097,7 @@ BOOK III.
 
 > VER. 549. *papaws*\] This singular tree, whose fruits surround its summit immediately under the branches and leaves, like a necklace; grows quicker than almost any other in the West Indies. The wood is of no use, being spungy, hollow, and herbacious; however, the blossoms and fruit make excellent sweet-meats;[^f116n2] but above all, the juice of the fruit being rubbed upon a spit, will intenerate[^f116n3] new killed fowls, *&c*. a circumstance of great consequence in a climate, where the warmth soon renders whatever meats are attempted to be made tender by keeping, unfit for culinary purposes. Nor, will it only intenerate fresh meat; but, being boiled with salted beef, will render it easily digestible. Its milky juice is sometimes used to cure ringworms.[^f116n4] It
 
-[^f116n1]: Tamarind refers to the tamarind tree (*Tamarindus indica*), which is probably native to tropical Africa and Madagascar. Its fruit pulp is used in food and beverages, including punch, and for medicinal purposes. According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas. The pawpaw is better known as the papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela. 
+[^f116n1]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas. The pawpaw is better known as the papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela. 
 
 [^f116n2]: Preserved or candied fruits. 
 
@@ -4147,7 +4123,7 @@ BOOK III.
 - Here leave his couch, high-towering to descry
 - The approach of dawn, and hail her with his song: [560]
 - Yet not unmusical the tinkling lapse
-- Of yon cool argent rill, which Phoebus[^f117n5] gilds
+- Of yon cool argent rill, which Phoebus gilds
 - With his first orient rays; yet musical, 
 - Those buxom airs that through the plantanes play,
 - And tear with wantonness their leafy scrolls; [565]
@@ -4156,7 +4132,7 @@ BOOK III.
 - Yet musical those little insects hum,
 - That hover round us, and to reason's ear,
 
-> is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic.[^f117n6] The botanical name is *Papaya*.
+> is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic.[^f117n5] The botanical name is *Papaya*.
 
 [^f117n1]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra and sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid. 
 
@@ -4166,9 +4142,7 @@ BOOK III.
 
 [^f117n4]: Larks are any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
 
-[^f117n5]: Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.
-
-[^f117n6]: Anthelmintic \(also anthelminthic, antihelminthic\) drugs are used to expel or kill parasitic worms, especially intestinal ones. 
+[^f117n5]: Anthelmintic \(also anthelminthic, antihelminthic\) drugs are used to expel or kill parasitic worms, especially intestinal ones. 
 
 ---
 
@@ -4178,13 +4152,13 @@ BOOK III.
 - Deep, moral truths convey;[^f118n1] while every beam [570]
 - Flings on them transient tints, which vary when
 - They wave their purple plumes; yet musical
-- The love-lorn cooing of the mountain-dove,[^f118n2]
+- The love-lorn cooing of the mountain-dove,
 - That woos to pleasing thoughtfulness the soul;
 - But chief the breeze, that murmurs through yon canes, [575]
 - Enchants the ear with tunable delight.
 
 - WHILE such fair scenes adorn these blissful isles;
-- Why will their sons, ungrateful, roam abroad?[^f118n3]
+- Why will their sons, ungrateful, roam abroad?[^f118n2]
 - Why spend their opulence in other climes?
 
 - SAY, is pre-eminence your partial aim?—— [580]
@@ -4192,25 +4166,23 @@ BOOK III.
 - Here, crouching slaves, attendant wait your nod:
 - While there, unnoted, but for folly's garb,
 - For folly's jargon; your dull hours ye pass,
-- Eclips'd by titles,[^f118n4] and superior wealth. [585]
+- Eclips'd by titles,[^f118n3] and superior wealth. [585]
 
 - DOES martial ardour fire your generous veins?
-- Fly to your native isles: Bellona,[^f118n5] there,
+- Fly to your native isles: Bellona,[^f118n4] there,
 - Hath long time rear'd her bloody flag; these isles
 - Your strenuous arms demand; for ye are brave!
-- Nor longer to the lute and taber's[^f118n6] sound [590]
+- Nor longer to the lute and taber's[^f118n5] sound [590]
 
 [^f118n1]: By the time Grainger wrote *The Sugar-Cane*, there was a long-standing tradition in European literature of using insects to represent moral, religious, and philosophical ideas.  
 
-[^f118n2]: May refer to the Zenaida dove (*Zenaida aurita*), a bird native to the Caribbean.
+[^f118n2]: Grainger refers here either to the common practice of absentee plantership, in which plantation owners lived in Britain and managed their plantations from afar, or to the equally common practice of sending children of planters to Britain for education.  
 
-[^f118n3]: Grainger refers here either to the common practice of absentee plantership, in which plantation owners lived in Britain and managed their plantations from afar, or to the equally common practice of sending children of planters to Britain for education.  
+[^f118n3]: Metropolitan British attitudes toward creoles were inevitably condescending, regardless of how wealthy planters were. Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Bishop Thomas Percy on 5 June 1762, Grainger noted that "reading, I assure you, is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (Nichols 278).
 
-[^f118n4]: Metropolitan British attitudes toward creoles was inevitably condescending, regardless of how wealthy planters were. Grainger himself looked down upon creoles when he lived in St. Kitts. Writing to his friend Bishop Thomas Percy on 5 June 1762, Grainger noted that "reading, I assure you, is the least part of a Creole's consideration. It is even happy if they can read at all; Spell few of them can; and when they take up a book, modern romance, magazines or newspapers are the extent of their lucubrations" (Nichols 278).
+[^f118n4]: Bellona, the Roman goddess of war. Once again, Grainger is referencing the Seven Years' War.
 
-[^f118n5]: Bellona, the Roman goddess of war. Once again, Grainger is referencing the Seven Years' War.
-
-[^f118n6]: A one-handed snare drum often played as a military instrument.
+[^f118n5]: A one-handed snare drum often played as a military instrument.
 
 ---
 
@@ -4263,16 +4235,16 @@ BOOK III.
 
 120
 
-- The large, black, female, moulting crab[^f120n1] excel? [610]
-- A richer flavour not wild Cambria's[^f120n2] hills,
-- Nor Scotia's[^f120n3] rocks with heath and thyme[^f120n4] o'erspread,
-- Give to their flocks; than, lone Barbuda,[^f120n5] you,
-- Than you, Anguilla,[^f120n6] to your sheep impart.
+- The large, black, female, moulting crab excel? [610]
+- A richer flavour not wild Cambria's[^f120n1] hills,
+- Nor Scotia's[^f120n2] rocks with heath and thyme[^f120n3] o'erspread,
+- Give to their flocks; than, lone Barbuda,[^f120n4] you,
+- Than you, Anguilla,[^f120n5] to your sheep impart.
 - Even Britain's vintage, here, improv'd, we quaff; [615]
-- Even Lusitanian,[^f120n7] even Hesperian wines.
-- Those from the Rhine's[^f120n8] imperial banks (poor Rhine!
+- Even Lusitanian,[^f120n6] even Hesperian wines.
+- Those from the Rhine's[^f120n7] imperial banks (poor Rhine!
 - How have thy banks been died with brother-blood?
-- Unnatural warfare!\)[^f120n9] strength and flavour gain
+- Unnatural warfare!\)[^f120n8] strength and flavour gain
 - In this delicious clime. Besides, the Cane [620]
 - Wafted to every quarter of the globe,
 - Makes the vast produce of the world your own.
@@ -4280,31 +4252,30 @@ BOOK III.
 - OR rather, doth the love of nature charm;
 - Its mighty love your chief attention claim?
 
-> VER. 613. *Barbuda*,] This is a low, and not large stock-island, belonging to the Codrington family. Part of this island, as also two plantations in Barbadoes, were left by Colonel Christopher Codrington, for building a college in Barbardoes, and converting Negroes to the Christian religion.[^f120n10]
+> VER. 613. *Barbuda*,] This is a low, and not large stock-island, belonging to the Codrington family. Part of this island, as also two plantations in Barbadoes, were left by Colonel Christopher Codrington, for building a college in Barbardoes, and converting Negroes to the Christian religion.[^f120n9]
 
-> VER. 614. *Anguilla*,] This island is about thirty miles long and ten broad. Though not mountainous, it is rocky, and abounds with strong passes; so that a few of its inhabitants, who are indeed expert in the use of fire-arms, repulsed, with great slaughter, a considerable detachment of French, who made a descent thereon in the war preceding the last.[^f120n11] Cotton and cattle are its chief commodities. Many of the inhabitants are rich; the captain-general of the Leeward-Islands nominates the governor and council. They have no assembly.
+> VER. 614. *Anguilla*,] This island is about thirty miles long and ten broad. Though not mountainous, it is rocky, and abounds with strong passes; so that a few of its inhabitants, who are indeed expert in the use of fire-arms, repulsed, with great slaughter, a considerable detachment of French, who made a descent thereon in the war preceding the last.[^f120n10] Cotton and cattle are its chief commodities. Many of the inhabitants are rich; the captain-general of the Leeward-Islands nominates the governor and council. They have no assembly.
 
-[^f120n1]: One of several species of terrestrial or land crabs, the black land crab (*Gecarcinus ruricola*) lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs. 
 
-[^f120n2]: Cambria is the Latin name for Wales.
+[^f120n1]: Cambria is the Latin name for Wales.
 
-[^f120n3]: Scotia is the Latin name for Scotland.
+[^f120n2]: Scotia is the Latin name for Scotland.
 
-[^f120n4]: Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeastern tropical Africa.
+[^f120n3]: Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeastern tropical Africa.
 
-[^f120n5]: A small island near Antigua and now part of the nation of Antigua and Barbuda.
+[^f120n4]: A small island near Antigua and now part of the nation of Antigua and Barbuda.
 
-[^f120n6]: Anguilla, the most northerly of the Leeward Islands.
+[^f120n5]: Anguilla, the most northerly of the Leeward Islands.
 
-[^f120n7]: Lusitania \(now modern Portugal\) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
+[^f120n6]: Lusitania \(now modern Portugal\) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
 
-[^f120n8]: A major river that flows through Germany. Rieslings are the best-known Rhenish wines.
+[^f120n7]: A major river that flows through Germany. Rieslings are the best-known Rhenish wines.
 
-[^f120n9]: Refers to the Thirty Years' War (1618-1648), a series of wars that eventually enveloped most of continental Europe and included the Franco-Hapsburg War (1635-1648), which was fought in part along the Rhine. 
+[^f120n8]: Refers to the Thirty Years' War (1618-1648), a series of wars that eventually enveloped most of continental Europe and included the Franco-Hapsburg War (1635-1648), which was fought in part along the Rhine. 
 
-[^f120n10]: Christopher Codrington (1668-1710) was born in Barbados and belonged to the wealthy Codrington family, which owned sugar plantations in Antigua and Barbados and leased land in Barbuda. Codrington served as deputy-governor of Barbados and governor-general of the Leeward Islands. At his death in 1710, he bequeathed his Barbados plantations and a share of the island of Barbuda to the Society for the Propagation of the Gospel in Foreign Parts (SPG), an Anglican missionary organization that aimed to convert colonial inhabitants, including enslaved and free Africans, to Christianity. In 1745, the SPG opened Codrington College, which initially served only white colonists. 
+[^f120n9]: Christopher Codrington (1668-1710) was born in Barbados and belonged to the wealthy Codrington family, which owned sugar plantations in Antigua and Barbados and leased land in Barbuda. Codrington served as deputy-governor of Barbados and governor-general of the Leeward Islands. At his death in 1710, he bequeathed his Barbados plantations and a share of the island of Barbuda to the Society for the Propagation of the Gospel in Foreign Parts (SPG), an Anglican missionary organization that aimed to convert colonial inhabitants, including enslaved and free Africans, to Christianity. In 1745, the SPG opened Codrington College, which initially served only white colonists. 
 
-[^f120n11]: The War of Austrian Succession (1740-1748), during which a French force unsuccessfully tried to invade Anguilla in 1745. 
+[^f120n10]: The War of Austrian Succession (1740-1748), during which a French force unsuccessfully tried to invade Anguilla in 1745. 
 
 ---
 
@@ -4317,13 +4288,13 @@ BOOK III.
 - On yonder peak, whence giddy fancy looks,
 - Affrighted, on the labouring main below.
 - Heavens! what stupendous, what unnumbered trees, [630]
-- "Stage above stage, in various verdure drest,"
+- "Stage above stage, in various verdure drest,"[^f121n1]
 - Unprofitable shag its airy cliffs!
 - Heavens! what new shrubs, what herbs with useless bloom,
 - Adorn its channel'd sides; and, in its caves 
 - What sulphurs, ores, what earths and stones abound! [635]
 - There let philosphy conduct thy steps,
-- "For naught is useless made:"[^f121n1] With candid search,
+- "For naught is useless made:"[^f121n2] With candid search,
 - Examine all the properties of things;
 - Immense discoveries soon will crown your toil,
 - Your time will soon repay. Ah, when will cares, [640]
@@ -4335,7 +4306,10 @@ BOOK III.
 - To Nature; see me prostrate at her shrine!
 - And, O, if haply I may aught invent
 
-[^f121n1]: Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests that the pursuit of knowledge is a good in its own right and ought to take precedence over the more mundane pursuit of wealth.
+
+[^f121n1]: Gilmore identifies Pope's *Odyssey* and Virgil's *Aeneid* as the source of the phrase "Stage above stage."  
+
+[^f121n2]: Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests that the pursuit of knowledge is a good in its own right and ought to take precedence over the more mundane pursuit of wealth.
 
 ---
 
@@ -4397,13 +4371,13 @@ BOOK IV.
 - In search of gold, to brede[^f125n7] thy wooly locks,
 - Or with bright ringlets ornament thine ears,
 
-[^f125n1]: Grainger is using genius in the sense of a supernatural being or guardian spirit associated with a place, institution, or thing. "Genius of Africk" thus means something like the spirit of Africa.
+[^f125n1]: Here, Grainger is using genius in the sense of a supernatural being or guardian spirit associated with a place, institution, or thing. "Genius of Africk" thus means something like the spirit of Africa.
 
 [^f125n2]: The combination of an elephant and a castle (often with the castle on the elephant's back) is an old heraldic sign. Grainger may be calling on the image of Hannibal's elephants during the Second Punic War (218-201 BCE).
 
 [^f125n3]: The Niger river. One of Africa's largest rivers. Its source lies in modern Guinea, and it empties into the Atlantic Ocean in Nigeria.
 
-[^f125n4]: Papaws, better known as papaya (*Carica papaya*). Its native range is southern Mexico to Venezuela.
+[^f125n4]: Papaya. 
 
 [^f125n5]: Major estuary in modern Guinea-Bissau.
 
@@ -4436,7 +4410,7 @@ BOOK IV.
 - An Indian wreath[^f126n8] to mingle with thy bays,
 - And deck the hero, and the scholar's brow!
 - Wilt thou, whose mildness smooths the face of war, [30]
-- Who round the victor-blade the myrtle[^f126n9] twin'st,
+- Who round the victor-blade the myrtle twin'st,
 - And mak'st subjection loyal and sincere;
 - O wilt thou gracious hear the unartful strain,
 - Whose mild instructions teach, no trivial theme,
@@ -4444,7 +4418,7 @@ BOOK IV.
 
 [^f126n1]: Despite the fact that *The Sugar-Cane* is unequivocally pro-slavery, Grainger affects a tone of regret and sympathy for the enslaved in these opening lines of Book IV.  
 
-[^f126n2]: By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races, and to support slavery.  
+[^f126n2]: By invoking a singular "race of man," Grainger seems to promote the theory of monogenesis. Supporters of monogenesis believed, in keeping with the creation story of Genesis, that all human beings had descended from a common ancestor. According to the alternate theory of polygenesis, different races represented different species, each descended from different ancestors. In the eighteenth century, the concept of polygenesis was often used to argue for the relative superiority and inferiority of races and to support slavery.  
 
 [^f126n3]: Caribbe's. The Caribbean's.  
 
@@ -4454,11 +4428,9 @@ BOOK IV.
 
 [^f126n6]: By Sylvan bard, Grainger literally means poet from the wilderness. Grainger seems to be referring to himself insofar as he was writing from the Caribbean rather than from metropolitan London.
 
-[^f126n7]: Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War (1756-1763), he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French and then governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.
+[^f126n7]: Robert Melville (1723-1809), Scottish army officer and colonial governor. Like Grainger, he studied medicine at the University of Edinburgh before joining the British army and fighting in the War of Austrian Succession (1740-1748). During the Seven Years' War, he fought in the Caribbean, becoming temporary governor of Guadeloupe after defeating the French and then governor of Grenada, Tobago, Dominica, St. Vincent, and the Grenadines in 1764. He was also the founder of the St. Vincent botanic garden, which became a major scientific research station later in the eighteenth century.
 
 [^f126n8]: Grainger's invocation of an Indian wreath further makes the point that the poem is a product of the Caribbean.
-
-[^f126n9]: Myrtle \(*Myrtus communis*\) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love.
 
 ---
 
@@ -4492,7 +4464,7 @@ BOOK IV.
 
 [^f127n1]: Jetty means jet black. Seventeenth- and eighteenth-century British writers often used the terms "jetty" or "jet" when describing what they saw as the idealized beauty of exceptional Africans. See, for example, Aphra Behn's *Oroonoko: Or, the Royal Slave* (1688), where the narrator describes Oroonoko as having skin of "perfect Ebony, or polish'd Jett" (Behn 13).  
 
-[^f127n2]: Grainger indicates that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader and/or buyer, who made judgments about Africans based on similar considerations.  
+[^f127n2]: Grainger indicates that he is going to distinguish Africans by what he considers to be their different mental abilities and aptitudes for work. As such, he is taking on the perspective of the slave trader or buyer, who made judgments about Africans based on similar considerations.  
 
 [^f127n3]: Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC).
 
