@@ -34,7 +34,7 @@ order: 116
 - Rings in the cask; and or a light-brown hue,
 - Or thine, more precious silvery-grey, assumes. [400]
 
-[^f108n1]: Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
+[^f108n1]: A poetic name for the River Severn, which is Britain's longest river and empties into the Bristol Channel.
 
 [^f108n2]: A metamorphic rock formed by applying great heat and pressure to limestone.
 
