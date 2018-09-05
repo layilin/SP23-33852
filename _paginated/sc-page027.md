@@ -31,7 +31,7 @@ order: 35
 
 [^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century. 
 
 [^f27n4]: The American alligator, *Alligator mississippiensis*.  
 
