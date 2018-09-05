@@ -1,16 +1,19 @@
 ---
 layout: poem
 title: excerpt on fire
-source: pp 
+source: pp 90-92
 editor: Lina
 ---
 
 
-# Fire
+## Fire
 
 At the beginning of Book 3, Grainger turns to the subject of crop time, the harvesting and processing of sugar cane. He portrays the enslaved laborers as happy to begin this work. But at line 55, an interesting thing happens: Grainger pivots to the subject of fire and imagines the cane field being set on fire, perhaps accidentally but also perhaps intentionally. Grainger does not specify whether the fire is caused by “the heavenly bolt” or by the “hand of malice;” nor does he specify who the arsonists might be. However, the fire at midnight might be the result of enslaved resistance on Caribbean plantations, since Grainger hints in Book 2 line 123 that enslaved Africans would sometimes set fire to cane fields to avoid working in fields that have been infested with cowitch (see Grainger's footnote of Book 2, line 123 on cowitch: "This extraordinary vine should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded."). This excerpt about the fire at midnight not only echoes the nexus between nature and human in Book I, but also insinuates the tension between Caribbean plantations and enslaved laborers. Why does Grainger bring up fire? How does he describe it and its origins? What roles do the enslaved laborers play in the process of sugar production? What does the turn to fire suggest about crop time and labor?
 
-[90]()
+---
+
+
+[90]({{site.baseurl}}/images/p0104.jpg)
 
 - YE swains,[^f90n2] to Heaven bend low in grateful prayer,
 - Worship the Almighty; whose kind-fostering hand
@@ -42,7 +45,7 @@ At the beginning of Book 3, Grainger turns to the subject of crop time, the harv
 ---
 
 
-[91]()
+[91]({{site.baseurl}}/images/p0105.jpg)
 
 - Aid not, ye winds! with your destroying breath,
 - The spreading vengeance.—They contemn my prayer. [65]
@@ -76,7 +79,7 @@ At the beginning of Book 3, Grainger turns to the subject of crop time, the harv
 ---
 
 
-[92]()
+[92]({{site.baseurl}}/images/p0106.jpg)
 
 - Oft to prevent the earliest dawn of day, [85]
 - And walk thy ranges, at the noon of night?
