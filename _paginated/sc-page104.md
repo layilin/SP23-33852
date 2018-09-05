@@ -38,7 +38,7 @@ order: 112
 
 [^f104n2]: Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign that indicates a change of season.  
 
-[^f104n3]: To pour or ladle out.  
+[^f104n3]: To wash.  
 
 [^f104n4]: Cold.  
 
