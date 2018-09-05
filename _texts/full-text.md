@@ -262,7 +262,7 @@ BOOK I.
 
 [^f4n3]: George III (1738-1820) was king of Britain from 1760 to 1820. The main is the ocean.
 
-[^f4n4]: Lucan or Marcus Annaeus Lucanus (39-65 CE) was the nephew of Seneca the younger and the author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE) was the author of *Historia Naturalis*. Arrian or Lucius Flavius Arrianus (86-160 CE) was the author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*.
+[^f4n4]: Lucan or Marcus Annaeus Lucanus (39-65 CE) was the nephew of Seneca the younger and the author of *The Civil War*. Gaius Plinius Secondus or Pliny the Elder (23-79 CE) was the author of *Naturalis Historia*. Arrian or Lucius Flavius Arrianus (86-160 CE) was the author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*.
 
 [^f4n5]: Pompey or Gnaeus Pompeius Magnus (106-48 BCE) was a member of the First Triumvirate. He defeated Mithridates, King of Pontus, and established military order in the eastern provinces of the Roman empire.
 
@@ -2334,7 +2334,7 @@ BOOK II.
 - Of which the graceful wood-nymphs erst compos'd
 - The greenest garlands to adorn their brows,
 
-> VER. 205. *Tho' seasons*\] Without a rainy season, the Sugar-cane could not be cultivated to any advantage: For what Pliny the Elder writes of another plant may be applied to this, *Gaudet irriguis, et toto anno bibere amat*.
+> VER. 205. *Tho' seasons*\] Without a rainy season, the Sugar-cane could not be cultivated to any advantage: For what Pliny the Elder writes of another plant may be applied to this, *Gaudet irriguis, et toto anno bibere amat*.[^f65n7]
 
 > VER. 205. *this pestilence*\] It must, however, be confessed, that the blast is less frequent in lands naturally rich, or such as are made so by well-rotted manure.
 
@@ -2349,6 +2349,8 @@ BOOK II.
 [^f65n5]: Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*). 
 
 [^f65n6]: Period of immaturity.  
+
+[^f65n7]: "It rejoices in watering, and it loves to drink the whole year round." Adapted from Pliny the Elder's *Naturalis Historia*, Book XIII, Chapter 7. The original line reads, "*Gaudet riguis totoque anno bibere, cum amet sitientia*." 
 
 ---
 
