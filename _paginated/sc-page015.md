@@ -38,6 +38,6 @@ order: 23
 
 [^f15n9]: Columbus's second voyage took place from 1493 to 1496.
 
-[^f15n10]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
+[^f15n10]: Antigua is one of the Leeward Islands. It lies just to the east of St. Kitts. It was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
 ---
