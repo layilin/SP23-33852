@@ -5011,7 +5011,7 @@ BOOK IV.
 
 [^f141n5]: Strabo \(64 BCE-21 CE\), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
 
-[^f141n6]: Κασσι τερον. The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
+[^f141n6]: The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
 
 ---
 
