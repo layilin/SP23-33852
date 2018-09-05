@@ -1045,11 +1045,13 @@ BOOK I.
 
 > VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
 
-> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer. Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
+> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer.[^f26n2] Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
 
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
 [^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
+
+[^f26n2]: *Blaberus discoidalis*. 
 
 ---
 
@@ -1077,7 +1079,7 @@ BOOK I.
 
 [^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century. 
 
 [^f27n4]: The American alligator, *Alligator mississippiensis*.  
 
@@ -1415,13 +1417,13 @@ BOOK I.
 
 [^f36n2]: Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn. 
 
-[^f36n3]: Jewry, stiff-neck'd race. The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity.  
+[^f36n3]: The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity.  
 
 [^f36n4]: Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia; commonly used for hedging. Some species are invasive.
 
 [^f36n5]: Grampia's piny hills. The Grampian Mountains in Scotland.
 
-[^f36n6]: *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
+[^f36n6]: *Caesalpinia pulcherrima*, a shrub that produces showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
 
 [^f36n7]: Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique* (1694).
 
@@ -1581,7 +1583,7 @@ BOOK I.
 
 [^f40n1]: Yellow fever, a viral disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea, vomiting, and bleeding. This disease was extremely deadly to newcomers from Europe. Eighteenth-century physicians did not understand the mechanisms via which yellow fever was caused or transmitted, but they took note of immunological patterns in which people who had lived in the Caribbean seemed immune to the disease, while those who had not were susceptible. They further believed, erroneously, that Africans and Afro-Caribbeans had an innate immunity to yellow fever.  
 
-[^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
+[^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating the enslaved laborers on his plantation humanely. Montano serves as proof of Grainger's belief in amelioration or the reform (versus abolition) of slavery. Although Grainger presents Montano's behavior as virtuous, he ultimately justifies it on economic grounds. 
 
 [^f40n3]: In the eighteenth century, the term creole was used to refer to individuals born in the Americas, regardless of ancestry.
 
@@ -1693,45 +1695,44 @@ BOOK I.
 
 44  
 
-- Well-fed,[^f44n1] well-cloath'd, all emulous to gain  
+- Well-fed, well-cloath'd, all emulous to gain  
 - Their master's smile, who treated them like men;  
 - Blacken'd his Cane-lands: which with vast increase,  
 - Beyond the wish of avarice, paid his toil.  
 - No cramps, with sudden death, surpriz'd his mules; [615]  
-- No glander-pest[^f44n2] his airy stables thinn'd:  
+- No glander-pest[^f44n1] his airy stables thinn'd:  
 - And, if disorder seized his Negroe-train,  
-- Celsus[^f44n3] was call'd, and pining Illness flew.  
+- Celsus[^f44n2] was call'd, and pining Illness flew.  
 - His gate stood wide to all; but chief the poor,  
 - The unfriended stranger, and the sickly, shar'd [620]  
 - His prompt munificence: No surly dog,  
-- Nor surlier Ethiop,[^f44n4] their approach debarr'd.  
+- Nor surlier Ethiop,[^f44n3] their approach debarr'd.  
 - The Muse, that pays this tribute to his fame,  
 - Oft hath escap'd the sun's meridian blaze,  
-- Beneath yon tamarind-vista,[^f44n5] which his hands [625]  
+- Beneath yon tamarind-vista,[^f44n4] which his hands [625]  
 
-> Pasqua,[^f44n6] a Greek, having opened a coffee-house in London about the middle of the last century. The famous traveller, Thevenot,[^f44n7] introduced coffee into France. This plant is cultivated in the West-Indies, particularly by the French, with great success; but the berry from thence is not equal to that from Mocha.[^f44n8] It is a species of Arabian jasmine; the flower is particularly redolent, and from it a pleasant cordial water is distilled. It produces fruit twice every year; but the shrub must be three years old before any can be gathered. It should not be allowed to grow above six foot high. It is very apt to be destroyed by a large fly, which the French call *Mouche a caffe*; as well as by the white grub, which they name *Puceron*.[^f44n9] Its medical and alimentary qualities are as generally known as those of tea.[^f44n10]  
+> Pasqua,[^f44n5] a Greek, having opened a coffee-house in London about the middle of the last century. The famous traveller, Thevenot,[^f44n6] introduced coffee into France. This plant is cultivated in the West-Indies, particularly by the French, with great success; but the berry from thence is not equal to that from Mocha.[^f44n7] It is a species of Arabian jasmine; the flower is particularly redolent, and from it a pleasant cordial water is distilled. It produces fruit twice every year; but the shrub must be three years old before any can be gathered. It should not be allowed to grow above six foot high. It is very apt to be destroyed by a large fly, which the French call *Mouche a caffe*; as well as by the white grub, which they name *Puceron*.[^f44n8] Its medical and alimentary qualities are as generally known as those of tea.[^f44n9]  
 
 > VER. 625. *tamarind-vista,*\] This large, shady, and beautiful tree grows fast even in the driest soils, and lasts long; and yet its wood is hard, and very fit for mechanical uses. The leaves are smaller than those of senna, and pennated: they taste sour-
 
-[^f44n1]: In Book IV, line 430, Grainger admits that planters did not always provide enslaved laborers with sufficient food for survival.  
 
-[^f44n2]: Grainger is referring to the glanders, a contagious disease in horses.  
+[^f44n1]: Grainger is referring to the glanders, a contagious disease in horses.  
 
-[^f44n3]: Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
+[^f44n2]: Aulus Cornelius Celsus (14-37 CE), Roman medical writer and author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used here to refer more generally to a doctor.  
 
-[^f44n4]: Ethiop and Ethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about “washing the Ethiopian” or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
+[^f44n3]: Ethiop and Ethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about “washing the Ethiopian” or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
 
-[^f44n5]: The tamarind tree (*Tamarindus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
+[^f44n4]: The tamarind tree (*Tamarindus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
 
-[^f44n6]: Pasqua Rosée (fl. 1651-1656) was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England. 
+[^f44n5]: Pasqua Rosée (fl. 1651-1656) was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England. 
 
-[^f44n7]: Jean de Thévenot (1633-1667) traveled to Egypt, Arabia, Persia, and India. His five-volume *Voyages* was published in 1689.  
+[^f44n6]: Jean de Thévenot (1633-1667) traveled to Egypt, Arabia, Persia, and India. His five-volume *Voyages* was published in 1689.  
 
-[^f44n8]: A seaport in Yemen at the entrance to the Red Sea. Also a term applied to coffee of high grade that was once exported from Mocha. 
+[^f44n7]: A seaport in Yemen at the entrance to the Red Sea. Also a term applied to coffee of high grade that was once exported from Mocha. 
 
-[^f44n9]: According to Gilmore, the large fly is possibly *Xyleutes (Psychonoctua) lillianae*, and the white grub is possibly *Planococcus citri* (Gilmore cites Kevan for this information).  
+[^f44n8]: According to Gilmore, the large fly is possibly *Xyleutes (Psychonoctua) lillianae*, and the white grub is possibly *Planococcus citri* (Gilmore cites Kevan for this information).  
 
-[^f44n10]: *Camellia sinensis* is the species from which commercially produced tea is derived. Its native range is Southeastern Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
+[^f44n9]: *Camellia sinensis* is the species from which commercially produced tea is derived. Its native range is Southeastern Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
 ---
 
@@ -2013,30 +2014,28 @@ BOOK II.
 57
 
 - Nor kill the winding snake, thy foes they eat.
-- Thus, on the mangrove-banks[^f57n1] of Guayaquil,[^f57n2]
+- Thus, on the mangrove-banks of Guayaquil,[^f57n1]
 - Child of the rocky desert, sea-like stream, [70]
 - With studious care, the American preserves
-- The gallinazo,[^f57n3] else that sea-like stream
+- The gallinazo,[^f57n2] else that sea-like stream
 - (Whence traffic pours her bounties on mankind)
-- Dread alligators[^f57n4] would alone possess.
-- Thy foes, the teeth-fil'd Ibbos[^f57n5] also love; [75]
+- Dread alligators[^f57n3] would alone possess.
+- Thy foes, the teeth-fil'd Ibbos[^f57n4] also love; [75]
 - Nor thou their wayward appetite restrain.
 
-> VER. 69. *mangrove-banks*\] This tree, which botanists call *Rizophora*, grows in marshy soils, and on the sides of rivers; and, as the branches take root, they frequently render narrow streams impassable to boats. Osyters often adhere to their roots, *&c*. The French name of this strange water-shrub is *Paltuvier*. The species meant here is the red mangrove.
+> VER. 69. *mangrove-banks*\] This tree, which botanists call *Rizophora*, grows in marshy soils, and on the sides of rivers; and, as the branches take root, they frequently render narrow streams impassable to boats. Oysters often adhere to their roots, *&c*. The French name of this strange water-shrub is *Paltuvier*. The species meant here is the red mangrove.
 
 > VER. 74. *Dread alligators*\] This dreadful animal is amphibious, and seldom lays fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding this precaution, the gallinazo (a large species of carrion-crow) conceals itself among the thick boughs of the neighbouring trees, and thus often discovers the hoard of the alligator, which she no sooner leaves, than the gallinazo souses down upon it, and greedily scraping off the sand, regales on its contents. Nor is the male alligator less an enemy to the increase of his own horrid brood, than these useful birds; for, when Instinct prompts the female to let her young fry out by breaking the eggs, he never fails to accompany her, and to devour as many of them as he can: So that the mother scarce ever escapes into the river with more than five out of all her hundred. Thus providence doubly prevents the otherwise immense propagation of that voracious animal, on the banks of the river Guayaquil; for the gallinazo is not always found, where alligators are. *Ulloa*.
 
 > VER. 75. *teeth-fil'd Ibbos*\] Or *Ebbos*, as they are more commonly called, are a numerous nation. Many of them have their teeth filed, and blackened in an extraordinary manner. They make good slaves when bought young; but are, in ge-
 
-[^f57n1]: Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.
+[^f57n1]: Guayaquil refers to a gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.
 
-[^f57n2]: Gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas.
+[^f57n2]: The American black vulture (*Coragyps atratus*), whose native range includes North, Central, and South America.
 
-[^f57n3]: The American black vulture (*Coragyps atratus*), whose native range includes North, Central, and South America.
+[^f57n3]: The American alligator, *Alligator mississippiensis*.
 
-[^f57n4]: The American alligator, *Alligator mississippiensis*.
-
-[^f57n5]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
+[^f57n4]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
 
 ---
 
@@ -2158,7 +2157,7 @@ BOOK II.
 
 [^f60n10]: Bristles.
 
-[^f60n11]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
+[^f60n11]: *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
 ---
 
@@ -2218,7 +2217,7 @@ BOOK II.
 
 > should. However, we have this comfort on our side, that our not knowing it is of no detriment to us; for as spells cannot affect us, we are at no loss for antidotes to guard against them.
 
-> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei*[^f62n4] on rhubarb.[^f62n5]
+> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei* on rhubarb.[^f62n4]
 
 
 [^f62n1]: Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. The phrase "Halcyon days" previously designated a fourteen-day period around the winter solstice that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.
@@ -2227,9 +2226,7 @@ BOOK II.
 
 [^f62n3]: Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range is the Old World to Australia.
 
-[^f62n4]: Gift of god.
-
-[^f62n5]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
+[^f62n4]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit. *Donum Dei* means the gift of God. 
 
 ---
 
@@ -2646,17 +2643,15 @@ BOOK II.
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+- Oft shake the astonied[^f74n2] isles: The solfaterre
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 [^f74n1]: Sour, acidic.
 
 [^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
 
-[^f74n3]: Volcano.
-
-[^f74n4]: An astringent mineral salt.
+[^f74n3]: An astringent mineral salt.
 
 ---
 
@@ -2877,7 +2872,7 @@ BOOK II.
 
 81
 
-- Like clouds dim rising in the distant sky[^f81n1]. [500]
+- Like clouds dim rising in the distant sky.[^f81n1] [500]
 - Glad Eurus whistles; laugh the sportive crew;
 - Each sail is set to catch the favouring gale,
 - While on the yard-arm[^f81n2] the harpooner sits,
@@ -3147,7 +3142,7 @@ BOOK III.
 
 [^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations.  
+[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations. For more on this section of the poem and related passages, see "Fire" on this site. 
 
 [^f90n3]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
@@ -3331,7 +3326,7 @@ BOOK III.
 
 [^f95n4]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
 
-[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
+[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, Grainger encourages planters to supply their mills with axes so that injured limbs could be amputated without delay.  
 
 [^f95n6]: To put a windmill "out of the wind" is to stop the mill by turning the sails so that they no longer catch the wind.  
 
@@ -3443,7 +3438,7 @@ BOOK III.
 
 [^f98n3]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
-[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
+[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs. Thus, 30,000 hogsheads represents more than 20,000 tons. 
 
 [^f98n5]: A watershed in Antigua. 
 
@@ -3468,10 +3463,10 @@ BOOK III.
 - Through heart of British oak,[^f99n4] reluctant leaves [235]
 - The closer calaba.—By transverse beams
 - Secure the whole; and in the pillar'd frame,
-- Sink, artist, the vast bridge-tree's[^f99n5] mortis'd[^f99n6] form
+- Sink, artist, the vast bridge-tree's[^f99n5] mortis'd form
 - Of ponderous hiccory; hiccory time defies:
 
-> VER. 227. *Hiccory*\] This is a lofty spreading tree, of very hard wood, excellently adapted to the purposes of the mill-wright. The nut, whose shell is thick, hard, and roughish, contains an agreeable and wholesome kernel. It grows in great abundance in St. Croix,[^f99n7] Crab island,[^f99n8] and Tobago.
+> VER. 227. *Hiccory*\] This is a lofty spreading tree, of very hard wood, excellently adapted to the purposes of the mill-wright. The nut, whose shell is thick, hard, and roughish, contains an agreeable and wholesome kernel. It grows in great abundance in St. Croix,[^f99n6] Crab island,[^f99n7] and Tobago.
 
 > VER. 227. *Calaba*\] This lofty tree is commonly called Mastic: it is a hard wood, and is found in the places where the Hiccory grows. The flowers are yellow, and are succeeded by a fruit, which bears a distant resemblance to a shrub.
 
@@ -3485,11 +3480,9 @@ BOOK III.
 
 [^f99n5]: An adjustable beam that supports the spindle of the runner or upper stone in a grain mill.
 
-[^f99n6]: Mortised. To be fixed in or joined together closely and firmly.
+[^f99n6]: An island that now forms part of the US Virgin Islands. 
 
-[^f99n7]: An island that now forms part of the US Virgin Islands. 
-
-[^f99n8]: Isla de Vieques, a part of Puerto Rico that lies immediately east of the main island.    
+[^f99n7]: Isla de Vieques, a part of Puerto Rico that lies immediately east of the main island.    
 
 ---
 
@@ -3598,7 +3591,7 @@ BOOK III.
 
 > VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah[^f102n8] had not then been taken.
 
-[^f102n1]: Farcy is A disease of animals, especially of horses. Tabid (or tabetic) is to be wasted by disease, corrupted.
+[^f102n1]: Farcy is a disease of animals, especially of horses. Tabid (or tabetic) is to be wasted by disease, corrupted.
 
 [^f102n2]: Colic or painful stomach contractions.
 
@@ -3681,7 +3674,7 @@ BOOK III.
 
 [^f104n2]: Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign that indicates a change of season.  
 
-[^f104n3]: To pour or ladle out.  
+[^f104n3]: To wash. 
 
 [^f104n4]: Cold.  
 
@@ -4269,7 +4262,7 @@ BOOK III.
 
 [^f120n4]: A small island near Antigua and now part of the nation of Antigua and Barbuda.
 
-[^f120n5]: Anguilla, the most northerly of the Leeward Islands.
+[^f120n5]: Anguilla is a British overseas territory and the most northerly of the Leeward Islands.
 
 [^f120n6]: Lusitania \(now modern Portugal\) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
 
@@ -4510,7 +4503,7 @@ BOOK IV.
 
 [^f128n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "art" should read "want." 
 
-[^f128n2]: Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slave ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they turned west and followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the region denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).
+[^f128n2]: Term used by Europeans to define one of the four major trading region on the West African coast. Although it is difficult to establish the borders of these regions with exactitude, they included the Grain Coast (roughly corresponding to modern Sierra Leone and Liberia), the Ivory Coast (modern Côte d'Ivoire), the Gold Coast (modern Ghana), and the Slave Coast (modern Togo, Benin, and Nigeria). British slave ships often made port on the Cape Verde islands off the coast of modern Senegal before sailing down the coast of Africa, trading goods along the way. Once they had rounded the Bight of Benin, they turned west and followed the equator past the island of Saint Thomas (São Tomé) and toward the Caribbean. It is important to note that people were enslaved and embarked from a much larger region than the one denominated by the Slave Coast (the region of embarkation ranged from at least Senegal to Angola).
 
 [^f128n3]: Papaws or Popos. Name of people from the region between Accra in modern Ghana and Ouidah in Benin.
 
@@ -4708,7 +4701,7 @@ BOOK IV.
 
 > VER. 163. *the conch*\] Plantations that have no bells, assemble their Negroes by sounding a conch-shell.  
 
-[^f133n1]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and be given easy versus strenuous labor, although such a practice would have been uncommon.  
+[^f133n1]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and given easy versus strenuous labor. Such a practice was uncommon, however.   
 
 [^f133n2]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
 
@@ -4757,7 +4750,7 @@ BOOK IV.
 
 [^f134n6]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
 
-[^f134n7]: proud insulting tyrants. The Spanish conquistadors.  
+[^f134n7]: The Spanish conquistadors.  
 
 ---
 
@@ -5027,8 +5020,8 @@ BOOK IV.
 - What swarms of useful citizens spring up,
 - Hatch'd by thy fostering wing. Ah where is flown
 - That dauntless free-born spirit, which of old,
-- Taught them to shake off the tyrannic yoke[^f142n3]
-- Of Spains insulting King; on whose wide realms, [335]
+- Taught them to shake off the tyrannic yoke
+- Of Spains insulting King;[^f142n3] on whose wide realms, [335]
 - The sun still shone with undiminished beam?
 - Parent of wealth! in vain, coy nature hoards
 - Her gold and diamonds; toil, thy firm compeer,
@@ -5463,7 +5456,7 @@ BOOK IV.
 
 [^f153n5]: A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length. 
 
-[^f153n6]: Mathew \(1718-1777\) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
+[^f153n6]: Mathew \(1718-1777\) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the eastern shore of St. Kitts. 
 
 [^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. 
 
