@@ -31,7 +31,7 @@ order: 70
 
 > should. However, we have this comfort on our side, that our not knowing it is of no detriment to us; for as spells cannot affect us, we are at no loss for antidotes to guard against them.
 
-> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei*[^f62n4] on rhubarb.[^f62n5]
+> VER. 149. *For not the costly root*,\] Some medical writers have bestowed the high appellation of *Donum Dei* on rhubarb.[^f62n4]
 
 [^f62n1]: Mythical birds usually identified with kingfishers (genus *Halcyon*) that were believed to calm the seas in order to breed in floating nests. The phrase "Halcyon days" previously designated a fourteen-day period around the winter solstice that supposedly was the time when the ocean was becalmed by the birds. It now designates more generally a period of time in the past that was idyllic and peaceful.
 
@@ -39,8 +39,6 @@ order: 70
 
 [^f62n3]: Also known as verbena (*Verbena officinalis*), an herbal shrub whose native range is the Old World to Australia.
 
-[^f62n4]: Gift of god.
-
-[^f62n5]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
+[^f62n4]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit. *Donum Dei* means the gift of God. 
 
 ---
