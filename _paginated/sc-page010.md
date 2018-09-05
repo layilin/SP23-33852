@@ -28,6 +28,6 @@ order: 18
 
 [^f10n6]: Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
 
-[^f10n7]: The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
+[^f10n7]: The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to cede the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
 
 ---
