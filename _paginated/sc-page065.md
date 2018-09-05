@@ -32,7 +32,7 @@ order: 73
 - Of which the graceful wood-nymphs erst compos'd
 - The greenest garlands to adorn their brows,
 
-> VER. 205. *Tho' seasons*\] Without a rainy season, the Sugar-cane could not be cultivated to any advantage: For what Pliny the Elder writes of another plant may be applied to this, *Gaudet irriguis, et toto anno bibere amat*.
+> VER. 205. *Tho' seasons*\] Without a rainy season, the Sugar-cane could not be cultivated to any advantage: For what Pliny the Elder writes of another plant may be applied to this, *Gaudet irriguis, et toto anno bibere amat*.[^f65n7]
 
 > VER. 205. *this pestilence*\] It must, however, be confessed, that the blast is less frequent in lands naturally rich, or such as are made so by well-rotted manure.
 
@@ -47,5 +47,7 @@ order: 73
 [^f65n5]: Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*). 
 
 [^f65n6]: Period of immaturity.  
+
+[^f65n7]: "It rejoices in watering, and it loves to drink the whole year round." Adapted from Pliny the Elder's *Naturalis Historia*, Book XIII, Chapter 7. The original line reads, "*Gaudet riguis totoque anno bibere, cum amet sitientia*." 
 
 ---
