@@ -51,6 +51,6 @@ order: 68
 
 [^f60n10]: Bristles.
 
-[^f60n11]: Pisum sativum, also known as the English pea, garden pea, or green pea. Native to Eurasia.
+[^f60n11]: *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
 ---
