@@ -5,8 +5,8 @@ editor: Steve Fragano
 source: pp. 55-69
 ---
 
-## Animals
 
+## Animals
 
 In Book II of *The Sugar-Cane*, James Grainger forewarns his readers of a peril to Torrid Zone plantations; that being animals. Whether referring to monkeys, rats, or a myriad of insect species, the speaker includes several references to the quotidian inconveniences and setbacks that animals pose to planters' economic, and consequently social, wellbeing. With crops becoming "devour'd" (II, 166), readers can see the consequences of unchecked animal presences on plantations. Beyond the practical knowledge of plantation vulnerabilities in the face of animal life, animals can additionally be interpreted as one of Grainger's tools to unearth more than just agricultural facets of plantation life.
 
@@ -14,7 +14,7 @@ Referring to some insects as being "From distant islands" (II, 163) and being of
 
 Writers of natural histories during the Renaissance through the eighteenth-century did not rely solely on empirical data (as is the practice of modern-day natural sciences). Emblematic natural history often took into account the symbolic and metaphorical associations that a culture attached to elements of the natural world. For instance, societies often associate the abstract notions of being sly, sneaky, or cunning with foxes. These associations could be found side-by-side with more empirical, visual, and verifiable observations of an animal or other part of the natural world. This cultural projection of abstract meaning onto nature can lead to a consequent projection of a society's fears, hopes, dreams, etc. Tenets of emblematic natural history could exist in parts of Book II, and they can reveal Grainger's work as more than just a manual about plantation management.
 
-If the animals and insects of the plantation can come to signify more than just the actual fauna of St. Kitt's, then the descriptions of assembled animal populations can come to be important elements of Book II. As we have seen earlier, Grainger describes assembled insects as in "tribes," and he also refers to "[B]ugs, confederate in destructive league" (II, 228). The poet mentions "The ants' republic...a villain crew" (II, 229) as well as rats, or as he describes them, "A countless clan" that "despoil the low-land Cane" (II, 63). Monkeys are not without a specific adjective of assemblage, as Grainger warns his readers, "Destructive, on the upland sugar-groves/ The monkey-nation preys..." (II, 34-35). The political terms that accompany animal groupings can signify deeper meanings of these plantation intruders. Europeans' familiarity with certain kinds of animal can also affect the terms used to describe their groupings. Grainger's specific and varied language used to describe animal grouping reflects a preoccupation with assembly, and it could be for a good reason.
+If the animals and insects of the plantation can come to signify more than just the actual fauna of St. Kitt's, then the descriptions of assembled animal populations can come to be important elements of Book II. As we have seen earlier, Grainger describes assembled insects as in "tribes," and he also refers to "[B]ugs, confederate in destructive league" (II, 228). The poet mentions "The ants' republic...a villain crew" (II, 229) as well as rats, or as he describes them, "A countless clan" that "despoil the low-land Cane" (II, 63). Monkeys are not without a specific adjective of assemblage, as Grainger warns his readers, "Destructive, on the upland sugar-groves / The monkey-nation preys..." (II, 34-35). The political terms that accompany animal groupings can signify deeper meanings of these plantation intruders. Europeans' familiarity with certain kinds of animal can also affect the terms used to describe their groupings. Grainger's specific and varied language used to describe animal grouping reflects a preoccupation with assembly, and it could be for a good reason.
 
 Fear of slave gatherings and slave revolts were feasible and apparent threats during the years in which Grainger lived and wrote. Tacky's Revolt on the island of Jamaica was one of the crucial slave revolts of the eighteenth-century Caribbean world and occurred only four years previous to Grainger's 1764 edition of *The Sugar-Cane* (see "Obeah"). Before Tacky's Revolt, there was a slave insurrection on the island of St. John in 1733, and slave revolts continued even after the publication of Grainger's poem. From August of 1791 to January of 1804, the Haitian Slave Revolt took place, marking the continued decline of white plantation-owner power in the region. The steady breakdown of traditional plantation hierarchy was a realistic threat that did occur, but to acknowledge this fear and disempowerment was to, in a way, also admit a sentiment of defeat. The ability to assemble is foundational to revolts and revolutions, and the preoccupation with the ways in which animals group themselves can open this text up to significances beyond the cultivation of the ideal sugar plantation.
 
@@ -22,8 +22,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 
 ---
 
-54
-
+[54]({{site.baseurl}}/images/p0068.jpg)
 
 - \"O WERE my pipe as soft, my dittied song\"[^f54n2]  
 - As smooth as thine, my too too distant friend, [30]  
@@ -37,7 +36,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-55  
+[55]({{site.baseurl}}/images/p0069.jpg)  
 
 - DESTRUCTIVE, on the upland sugar-groves  
 - The monkey-nation[^f55n1] preys: from rocky heights, [35]  
@@ -78,7 +77,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-56  
+[56]({{site.baseurl}}/images/p0070.jpg)  
 
 - With these attack the predatory bands;  
 - Quickly the unequal conflict they decline,  
@@ -114,7 +113,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-63
+[63]({{site.baseurl}}/images/p0077.jpg)
 
 - STILL other maladies infest the Cane, [155]
 - And worse to be subdu'd. The insect-tribe[^f63n2]
@@ -135,7 +134,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-64
+[64]({{site.baseurl}}/images/p0078.jpg)
 
 - But YE, base insects! no bright scarlet yield,
 - To deck the British Wolf;[^f64n2] who now, perhaps, [175]
@@ -154,7 +153,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-66
+[66]({{site.baseurl}}/images/p0080.jpg)
 
 - Innumerous as the leaves the plumb-tree[^f66n2] sheds,
 - When, proud of her faecundity, she shows,
@@ -180,7 +179,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-67
+[67]({{site.baseurl}}/images/p0081.jpg)
 
 - As the waves, countless, that plough up the deep, [230]
 - (Where Eurus reigns vicegerent[^f67n1] of the sky,
@@ -196,7 +195,7 @@ Grainger's descriptions of animal threats to sugar plantations become methods th
 ---
 
 
-68
+[68]({{site.baseurl}}/images/p0082.jpg)
 
 - Labour immense! and yet, if small the pest;
 - If numerous, if industrious be thy gang;
