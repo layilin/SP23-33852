@@ -10,7 +10,7 @@ order: 89
 
 [81]({{site.baseurl}}/images/{{page.img}})
 
-- Like clouds dim rising in the distant sky[^f81n1]. [500]
+- Like clouds dim rising in the distant sky.[^f81n1] [500]
 - Glad Eurus whistles; laugh the sportive crew;
 - Each sail is set to catch the favouring gale,
 - While on the yard-arm[^f81n2] the harpooner sits,
