@@ -22,6 +22,8 @@ As you read the below passages, then, think about how Grainger describes the pro
 
 Note: B. W. Higman's *Jamaican Food* was an invaluable source of information for many of the notes about specific plants mentioned in this section of the poem.
 
+---
+
 
 [147]({{site.baseurl}}/images/p0161.jpg)
 
