@@ -14,10 +14,10 @@ order: 20
 - Derive their opulence: thrice fertile land,
 - \"The pride, the glory of the sea-girt isles, [90]
 - \"Which, like to rich and various gems, inlay
-- \"The unadorned bosom of the deep,"
-- Which first Columbus' daring keel[^f12n1] explor'd.
+- \"The unadorned bosom of the deep,"[^f12n1]
+- Which first Columbus' daring keel[^f12n2] explor'd.
 
-- DAUGHTERS of Heaven,[^f12n2] with reverential awe,
+- DAUGHTERS of Heaven,[^f12n3] with reverential awe,
 - Pause at that godlike name; for not your flights [95]
 - Of happiest fancy, can outsoar his fame.
 
@@ -36,8 +36,10 @@ order: 20
 - What storms, what monsters, what new forms of death,
 - In a vast ocean, never cut by keel, [110]
 
-[^f12n1]: Poetic term for a ship or vessel. 
+[^f12n1]: Gilmore identifies this quotation as an adaptation from Milton’s *Comus* (ll.21-23).
 
-[^f12n2]: The Muses.
+[^f12n2]: Poetic term for a ship or vessel. 
+
+[^f12n3]: The Muses.
 
 ---
