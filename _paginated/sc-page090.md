@@ -37,7 +37,7 @@ order: 98
 
 [^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations.  
+[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations. For more on this section of the poem and related passages, see "Fire" on this site. 
 
 [^f90n3]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
