@@ -283,11 +283,11 @@ BOOK I.
 
 [^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
-[^f5n4]: The "Errata" list at the end of *The Sugar-Cane* indicates that "lesser" (or "Lesser") should read "less" (or "Less"). The term Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago \(Cuba, Jamaica, Hispaniola, and Puerto Rico\). The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
+[^f5n4]: The "Errata" list at the end of *The Sugar-Cane* indicates that "lesser" (or "Lesser") should read "less" (or "Less"). The term Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago and include Cuba, Jamaica, Hispaniola (Haiti and the Dominican Republic), and Puerto Rico. The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
 [^f5n5]: King Ferdinand V of Castile and León and II of Aragon \(1452-1516\), husband of Queen Isabella of Castille and patron with Isabella of Columbus' 1492 voyage.
 
-[^f5n6]: Hispaniola, the island that includes the modern nations of Haiti and the Dominican Republic.
+[^f5n6]: Hispaniola.
 
 [^f5n7]: Four pounds per hundredweight. A hundredweight \(equivalent to 112 lbs\) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman \(see http://www.nationalarchives.gov.uk/currency-converter/\).
 
@@ -301,45 +301,44 @@ BOOK I.
 6
 
 - Roll'd numerous on the Bay, all fully fraught
-- With strong-grain'd muscovado, silvery-grey,[^f6n1]
+- With strong-grain'd muscovado, silvery-grey,
 - Joy of the planter; and if happy Fate [30]
 - Permit a choice: avoid the rocky slope,
 - The clay-cold bottom, and the sandy beach. 
 - But let thy biting ax with ceaseless stroke
-- The wild red cedar, the tough locust fell:[^f6n2]
+- The wild red cedar, the tough locust fell:[^f6n1]
 
 
-> of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical search after gold mines in Florida and Guiana,[^f6n3] settled themselves soon after at the mouth of the river Surinam, where they cultivated the Cane with such success, that when the colony was ceded to the Dutch by the treaty of Breda,[^f6n4] it maintained not less than 40,000 Whites, half that number of slaves, and employed one year with another 15,000 ton of shipping. This cession was a severe blow to the English-trade, which it did not recover for several years, though many of the Surinam Planters carried their art and Negroes to the Leeward Islands[^f6n5] and Jamaica[^f6n6], which then began to be the object of political consideration in England.  
+> of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical search after gold mines in Florida and Guiana,[^f6n2] settled themselves soon after at the mouth of the river Surinam, where they cultivated the Cane with such success, that when the colony was ceded to the Dutch by the treaty of Breda,[^f6n3] it maintained not less than 40,000 Whites, half that number of slaves, and employed one year with another 15,000 ton of shipping. This cession was a severe blow to the English-trade, which it did not recover for several years, though many of the Surinam Planters carried their art and Negroes to the Leeward Islands[^f6n4] and Jamaica[^f6n5], which then began to be the object of political consideration in England.  
 
-> Sugar is twice mentioned by Chaucer,[^f6n7] who flourished in the fourteenth century; and succeeding poets, down to the middle of the last, use the epithet *Sugar'd*, whenever they would express any thing uncommonly pleasing: since that time, the more elegant writers seldom admit of that adjective in a metaphorical sense; but herein perhaps they are affectedly squeamish. 
+> Sugar is twice mentioned by Chaucer,[^f6n6] who flourished in the fourteenth century; and succeeding poets, down to the middle of the last, use the epithet *Sugar'd*, whenever they would express any thing uncommonly pleasing: since that time, the more elegant writers seldom admit of that adjective in a metaphorical sense; but herein perhaps they are affectedly squeamish. 
 
-> VER. 29. *Muscovado,*\] The Cane-juice being brought to the consistence of syrup, and, by subsequent coction,[^f6n8] granulated, is then called *muscovado* (a Spanish word probably, though not to be found in Pineda[^f6n9]) vulgarly brown Sugar; the French term it *sucre brut*.
+> VER. 29. *Muscovado,*\] The Cane-juice being brought to the consistence of syrup, and, by subsequent coction,[^f6n7] granulated, is then called *muscovado* (a Spanish word probably, though not to be found in Pineda[^f6n8]) vulgarly brown Sugar; the French term it *sucre brut*.
 
-> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white and red, which differ from the cedars cultivated in the Bermudas:[^f6n10] both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison.[^f6n11] The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
+> VER. 34. *wild red Cedar*\] There are two species of Cedar commonly to be met with in the West-Indies, the white and red, which differ from the cedars cultivated in the Bermudas:[^f6n9] both are lofty, shady, and of quick growth. The white succeeds in any soil, and produces a flower which, infused like tea, is useful against fish poison.[^f6n10] The red requires a better mould, and always emits a disagreeable smell before rain. The wood of both are highly useful for many mechanical purposes, and but too little planted.
 
 > VER. 34. *Locust*\] This is also a lofty tree. It is of quick growth and handsome, and produces a not disagreeable fruit in a flat pod or legumen, about three inches long. It is a serviceable wood. In botanical books, I find three different names for the locust-tree; that meant here is the *Siliqua edulis*.
 
-[^f6n1]: Although Grainger calls muscovado silvery grey, it was actually a dark brown sugar. Muscovado was typically the end product of the sugar-making process in the Caribbean. It was often described as unrefined since it was usually processed further in Europe and lightened in color before being sold to consumers.
 
-[^f6n2]: The wild red cedar is *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. It is now considered vulnerable to extinction due to unsustainable levels of harvesting. The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey. It is the source of carob, which is often used today as a chocolate substitute.
+[^f6n1]: The wild red cedar is *Cedrela odorata*, an important timber tree found in Central and South America, as well as in the Caribbean. It is now considered vulnerable to extinction due to unsustainable levels of harvesting. The locust bean tree or carob tree (*Ceratonia siliqua*) is native to Mediterranean Europe, North Africa, the Middle East, and Turkey. It is the source of carob, which is often used today as a chocolate substitute.
 
-[^f6n3]: Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern Venezuela) and the mouth of the Amazon (in Brazil). Also included parts of Guyana, Suriname, and French Guiana. Colonizers included Portugal, France, the Netherlands, England, and Spain.
+[^f6n2]: Aggregate name for the colonies located along the northern coast of South America between the mouth of the Orinoco River (in modern Venezuela) and the mouth of the Amazon (in modern Brazil). Colonizers included Portugal, France, the Netherlands, England, and Spain.
 
-[^f6n4]: The Treaty of Breda (1667) concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gaining control of Surinam; and the French reclaiming Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
+[^f6n3]: The Treaty of Breda (1667) concluded the Anglo-Dutch War between England, the Netherlands, France, and Denmark. The treaty formalized a major reorganization of colonial power, with the English taking control of New York, New Jersey, Antigua, and Montserrat; the Dutch gaining control of Surinam; and the French reclaiming Acadia in Atlantic Canada. Significantly for *The Sugar-Cane*, the treaty restored the French and British partition of St. Kitts.
 
-[^f6n5]: Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.
+[^f6n4]: Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.
 
-[^f6n6]: Jamaica became an English colony in 1655. It gained its independence from the United Kingdom in 1962. 
+[^f6n5]: Jamaica became an English colony in 1655. It gained its independence from the United Kingdom in 1962. 
 
-[^f6n7]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
+[^f6n6]: Geoffrey Chaucer (1340-1400), author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
-[^f6n8]: Boiling, cooking.
+[^f6n7]: Boiling, cooking.
 
-[^f6n9]: Pineda is Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
+[^f6n8]: Francisco Núñez de Pineda y Bascuñá (1607-1680), author of *Cautiverio feliz y razón individual de las guerras dilatadas del reino de Chile* (finished 1672).  
 
-[^f6n10]: The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean. The Bermuda cedar (*Juniperus bermudiana*) is native to Bermuda and was used by early colonists as building material and fuel. By the 1830s, the ship-building industry had denuded Bermuda of most of its indigenous cedars. It is still a critically endangered species.  
+[^f6n9]: The white cedar is probably *Tabebuia heterophylla*, a timber tree widely distributed throughout the Caribbean. The Bermuda cedar (*Juniperus bermudiana*) is native to Bermuda and was used by early colonists as building material and fuel. By the 1830s, the ship-building industry had denuded Bermuda of most of its indigenous cedars. It is still a critically endangered species.  
 
-[^f6n11]: By fish poison, Grainger is probably referring to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.
+[^f6n10]: By fish poison, Grainger is probably referring to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.
 
 ---
 
@@ -471,7 +470,7 @@ BOOK I.
 
 [^f10n6]: Martinico. Spanish name for the island of Martinique, the northernmost of the Windward Islands. Now an overseas department of France.  
 
-[^f10n7]: The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to give the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
+[^f10n7]: The Treaty of Utrecht (1713) was part of the general settlement ending the War of Spanish Succession (1701-1714). The treaty confirmed Philip V as King of Spain but required him to abandon his claim to the French throne. Additional provisions included the Spanish forfeiture of Gibraltar and Minorca to the British and the French forfeiture of claims to Newfoundland, Nova Scotia, and Prince Rupert's Land in northern Canada. The French also had to cede the formerly partitioned St. Kitts entirely to the British. The British received the Asiento as well, a monopoly contract to supply the Spanish Americas with enslaved Africans.  
 
 ---
 
@@ -513,7 +512,7 @@ BOOK I.
 
 [^f11n4]: Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil.
 
-[^f11n5]: Colonists worried about their skin color changing in tropical climates since they believed that it signified racial identity.  
+[^f11n5]: Europeans generally believed in climatist theories of health and identity. These suggested that human bodies adapted to their environments and that temperate climates (and societies) were superior to tropical ones. As a result, colonists worried that their skin color would change in tropical climates and that this change would be a sign of physical and moral degeneration.  
 
 ---
 
@@ -524,10 +523,10 @@ BOOK I.
 - Derive their opulence: thrice fertile land,
 - \"The pride, the glory of the sea-girt isles, [90]
 - \"Which, like to rich and various gems, inlay
-- \"The unadorned bosom of the deep,"
-- Which first Columbus' daring keel[^f12n1] explor'd.
+- \"The unadorned bosom of the deep,"[^f12n1]
+- Which first Columbus' daring keel[^f12n2] explor'd.
 
-- DAUGHTERS of Heaven,[^f12n2] with reverential awe,
+- DAUGHTERS of Heaven,[^f12n3] with reverential awe,
 - Pause at that godlike name; for not your flights [95]
 - Of happiest fancy, can outsoar his fame.
 
@@ -546,9 +545,11 @@ BOOK I.
 - What storms, what monsters, what new forms of death,
 - In a vast ocean, never cut by keel, [110]
 
-[^f12n1]: Poetic term for a ship or vessel. 
+[^f12n1]: Gilmore identifies this quotation as an adaptation from Milton’s *Comus* (ll.21-23).
 
-[^f12n2]: The Muses.
+[^f12n2]: Poetic term for a ship or vessel. 
+
+[^f12n3]: The Muses.
 
 ---
 
@@ -667,7 +668,7 @@ BOOK I.
 
 [^f15n9]: Columbus's second voyage took place from 1493 to 1496.
 
-[^f15n10]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
+[^f15n10]: Antigua is one of the Leeward Islands. It lies just to the east of St. Kitts. It was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
 ---
 
@@ -727,13 +728,15 @@ BOOK I.
 - Yet will the arrow, ornament of woe, [170]
 - (Such monarchs oft-times give) their jointing stint;
 - Yet will winds lodge them, ravening rats destroy,
-- Or troops of monkeys thy rich harvest steal.
+- Or troops of monkeys thy rich harvest steal.[^f17n1]
 - The earth must also wheel around the sun,
-- And half perform that circuit; ere the bill[^f17n1] [175]
+- And half perform that circuit; ere the bill[^f17n2] [175]
 
 >VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
 
-[^f17n1]: Also bill-hook. Cutlass used for cutting cane.
+[^f17n1]: Grainger portrays rats and monkeys as threats to the plantation later in the poem as well. For these related passages, see "Animals" on this site. 
+
+[^f17n2]: Also bill-hook. Cutlass used for cutting cane.
 
 ---
 
@@ -1004,25 +1007,28 @@ BOOK I.
 - His wife, his babes, his friends, will soon deplore;
 - Unless hot wines, dry cloaths, and friction's aid, [325]
 - His fleeting spirits stay. Yet not even these,
-- Nor all Apollo's arts, will always bribe
+- Nor all Apollo's arts,[^f25n1] will always bribe
 - The insidious tyrant death, thrice tyrant here:
-- Else good Amyntor,[^f25n1]  him the graces lov'd,
-- Wisdom caress'd, and Themis[^f25n2] call'd her own, [330]
+- Else good Amyntor,[^f25n2]  him the graces lov'd,
+- Wisdom caress'd, and Themis[^f25n3] call'd her own, [330]
 - Had liv'd by all admir'd, had now perus'd
-- "These lines, with all the malice of a friend."[^f25n3]
+- "These lines, with all the malice of a friend."[^f25n4]
 
 - YET future rains the careful may foretell:
 - Mosquitos, sand-flies, seek the shelter'd roof,
 
->VER. 334. *Mosquitos,*\] This is a Spanish word, signifying a Gnat, or Fly. The are very troublesome, especially to strangers, whom they bite unmercifully, causing a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often been occasioned by scratching those swellings, in persons of a bad habit of body. Though natives of the West-Indies, they are not less common in the coldest regions; for Mr. Maupertuis[^f25n4] takes notice how troublesome they were to him and his attendants on the snowy summit of certain mountains within the arctic circle. They, however, chiefly love shady, moist, and warm places. Accordingly they are commonest to be met with in the corners of rooms, towards evening, and before rain. They are so light, as not to be felt when they pitch on the skin; and, as soon as they have darted in their proboscis, fly off, so that the first intimation one has of being bit by them, is the itching tumour. Warm lime-juice is its remedy. The Mosquito makes a humming noise, especially in the night-time.
+>VER. 334. *Mosquitos,*\] This is a Spanish word, signifying a Gnat, or Fly. The are very troublesome, especially to strangers, whom they bite unmercifully, causing a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often been occasioned by scratching those swellings, in persons of a bad habit of body. Though natives of the West-Indies, they are not less common in the coldest regions; for Mr. Maupertuis[^f25n5] takes notice how troublesome they were to him and his attendants on the snowy summit of certain mountains within the arctic circle. They, however, chiefly love shady, moist, and warm places. Accordingly they are commonest to be met with in the corners of rooms, towards evening, and before rain. They are so light, as not to be felt when they pitch on the skin; and, as soon as they have darted in their proboscis, fly off, so that the first intimation one has of being bit by them, is the itching tumour. Warm lime-juice is its remedy. The Mosquito makes a humming noise, especially in the night-time.
 
-[^f25n1]: King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.
 
-[^f25n2]: The Greek goddess of wisdom and good counsel; often the personification of justice and the interpreter of the gods' will.
+[^f25n1]: The Greek god Apollo was associated with healing and disease.
 
-[^f25n3]: Gilmore identifies this quotation as an adaptation from Edward Young's *The Universal Passion. Satire III. To the Right Honourable Mr. Dodington* (1).
+[^f25n2]: King of Thessalian Hellas and the father of Phoenix, one of Achilles's Myrmidons.
 
-[^f25n4]: Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
+[^f25n3]: In Greek mythology, Themis was the Titan daughter of Uranus and Gaia. She was the goddess of wisdom and good counsel; she also was the personification of justice and the interpreter of the gods' will.
+
+[^f25n4]: Gilmore identifies this quotation as an adaptation from Edward Young's *The Universal Passion. Satire III. To the Right Honourable Mr. Dodington* (1).
+
+[^f25n5]: Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
 ---
 
@@ -3555,7 +3561,7 @@ BOOK III.
 
 [^f101n1]: Scattered, spread. 
 
-[^f101n2]: In Greek mythology, Machaon was a Greek physician and the son of Asclepius, the god of healing. 
+[^f101n2]: In Greek mythology, Machaon was a physician and the son of Asclepius, a god of healing. 
 
 [^f101n3]: Henry VII (1457-1509) was the first Tudor king of England. He succeeded Richard III, ending the Wars of the Roses, and was himself followed by his son, Henry VIII.
 
@@ -4036,7 +4042,7 @@ BOOK III.
 
 [^f114n7]: Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar. 
 
-[^f114n8]: Paeon is the Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
+[^f114n8]: Paeon is a Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
 
 ---
 
