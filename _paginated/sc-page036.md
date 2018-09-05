@@ -36,13 +36,13 @@ order: 44
 
 [^f36n2]: Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn. 
 
-[^f36n3]: Jewry, stiff-neck'd race. The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity.  
+[^f36n3]: The book of Exodus contains a passage referring to Israelites as a "stiff-necked people" (32:9). The passage refers to the refusal of those accompanying Moses out of Egypt to give up their worship of idols. Yet the passage also has been cited by those seeking to characterize the Jewish people as obstinate for refusing to accept Christianity.  
 
 [^f36n4]: Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia; commonly used for hedging. Some species are invasive.
 
 [^f36n5]: Grampia's piny hills. The Grampian Mountains in Scotland.
 
-[^f36n6]: *Caesalpinia pulcherrima*, a shrub that produes showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
+[^f36n6]: *Caesalpinia pulcherrima*, a shrub that produces showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.   
 
 [^f36n7]: Joseph Pitton de Tournefort (1656-1708), French physician and botanist, author of *Éléments de botanique* (1694).
 
