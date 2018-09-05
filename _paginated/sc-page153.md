@@ -37,7 +37,7 @@ order: 161
 
 [^f153n5]: A rod, a unit used for measuring land approximately 5 1/2 yards (5.03 meters) in length. 
 
-[^f153n6]: Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the western shore of St. Kitts. 
+[^f153n6]: Mathew (1718-1777) was a cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the eastern shore of St. Kitts. 
 
 [^f153n7]: Also known as the Temple of Bel in Palmyra, an ancient city in Syria. 
 
