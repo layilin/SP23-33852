@@ -17,8 +17,8 @@ order: 150
 - What swarms of useful citizens spring up,
 - Hatch'd by thy fostering wing. Ah where is flown
 - That dauntless free-born spirit, which of old,
-- Taught them to shake off the tyrannic yoke[^f142n3]
-- Of Spains insulting King; on whose wide realms, [335]
+- Taught them to shake off the tyrannic yoke
+- Of Spains insulting King;[^f142n3] on whose wide realms, [335]
 - The sun still shone with undiminished beam?
 - Parent of wealth! in vain, coy nature hoards
 - Her gold and diamonds; toil, thy firm compeer,
