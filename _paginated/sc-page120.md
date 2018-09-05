@@ -40,7 +40,7 @@ order: 128
 
 [^f120n4]: A small island near Antigua and now part of the nation of Antigua and Barbuda.
 
-[^f120n5]: Anguilla, the most northerly of the Leeward Islands.
+[^f120n5]: Anguilla is a British overseas territory and the most northerly of the Leeward Islands.
 
 [^f120n6]: Lusitania (now modern Portugal) was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
 
