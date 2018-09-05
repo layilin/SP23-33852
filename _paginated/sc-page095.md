@@ -41,7 +41,7 @@ order: 103
 
 [^f95n4]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
 
-[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
+[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, Grainger encourages planters to supply their mills with axes so that injured limbs could be amputated without delay.  
 
 [^f95n6]: To put a windmill "out of the wind" is to stop the mill by turning the sails so that they no longer catch the wind.  
 
