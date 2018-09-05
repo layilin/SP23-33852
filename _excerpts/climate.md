@@ -6,7 +6,7 @@ editor: ami yoon
 ---
 
 
-# Climate  
+## Climate  
 
 The tropical climate of the West Indian islands can broadly be divided into the wet season of the summer months and the dry season of the winter months. The warm waters of the Atlantic Ocean and the Caribbean Sea determine a general equability of temperature across the region, with maximum temperatures rarely rising above 100°F/38°C. Such a climate enabled cane cultivation within the British Empire on a widespread scale in the eighteenth century. Topographical variabilities such as mountainous areas, however, contribute to differences in rainfall, which increases in amount with altitude. Unsurprisingly, periods of greatest rainfall coincide with the hurricane season, which falls between June and November, and peaks in August and September. During such months, up to twenty inches of rain may fall within the span of two or three days, and strong winds are apt to cause significant damage. Accordingly, we may trace a recalcitrance to colonial mastery on the part of the environment itself in Grainger's treatment of the tropical climate, and apprehend intimate contiguities among the human and the nonhuman under its compass.  
 
