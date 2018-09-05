@@ -15,7 +15,7 @@ Despite such attempts to limit the bounds and influence of indigenous knowledge,
 ---
  
 
-[vii]({{site.baseurl}}/images/{{page.img}})
+[vii]({{site.baseurl}}/images/p0013.jpg)
 
 IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known.[^fviin3] And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet.[^fviin4]
 
@@ -28,21 +28,21 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 ---
 
 
-[10]({{site.baseurl}}/images/{{page.img}}) 
+[10]({{site.baseurl}}/images/p0024.jpg) 
 
 "The Indian name of St. Christopher is *Liamuiga*, or the Fertile Island."
 
 ---
 
 
-[17]({{site.baseurl}}/images/{{page.img}})
+[17]({{site.baseurl}}/images/p0031.jpg)
 
 VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
 
 ---
 
 
-[41]({{site.baseurl}}/images/{{page.img}}) 
+[41]({{site.baseurl}}/images/p0055.jpg) 
 
 VER. 596. *cassada,*\] Cassavi, cassava, is called *Jatropha* by botanists. Its meal makes a wholesome and well-tasted bread, although its juice be poisonous. There is a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*.[^f41n3] The colour of its root is white, like a parsnip; that of the common kind is of a brownish red, before it is scraped. By coction the cassada-juice becomes an excellent sauce for fish; and the Indians prepare many wholesome dishes from it. I have given it internally mixed with flour without any bad consequences; it did not however produce any of the salutary effects I expected. A good starch is made from it. The stem is knotty, and, being cut into small junks and planted, young sprouts shoot up from each knob. Horses have been poisoned by eating its leaves. The French name it *Manihot*, *Magnoc*, and *Manioc*, and the Spaniards *Mandiocha*. It is pretended that all creatures but man eat the raw root of the cassada with impunity; and, when dried, that it is a sovereign antidote against venomous bites. A wholesome drink[^f41n4] is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There is one species of this plant which the Indians only use, and is by them called *Baccacoua*.[^f41n5]
 
@@ -55,7 +55,7 @@ VER. 596. *cassada,*\] Cassavi, cassava, is called *Jatropha* by botanists. Its 
 ---
 
 
-[42]({{site.baseurl}}/images/{{page.img}}) 
+[42]({{site.baseurl}}/images/p0056.jpg) 
 
 VER. 598. *to the soursop*\] The true Indian name of this tree is *Suirsaak*. It grows in the barrenest places to a considerable height. Its fruit will often weigh two pounds. Its skin is green, and somewhat prickly. The pulp is not disagreeable to the palate, being cool, and having its sweetness tempered with some degree of an acid. It is one of the *Anonas*, as are also the custard, star, and sugar-apples.[^f42n5] The leaves of the soursop are very shining and green. The fruit is wholesome, but seldom admitted to the tables of the elegant. The seeds are dispersed through the pulp like the guava. It has a peculiar flavour. It grows in the East as well as the West-Indies. The botanical name is *Guanabanus*. The French call it *Petit Corosol*, or *Coeur de Boeuf*, to which the fruit bears a resemblance. The root, being reduced to a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by the mouth, the Indians pretend it is a specific in the epilepsy.
 
@@ -66,7 +66,7 @@ VER. 605. *cacao-walk*\] It is also called *Cocao* and *Cocô*. It is a native o
 ---
 
 
-[43]({{site.baseurl}}/images/{{page.img}})  
+[43]({{site.baseurl}}/images/p0057.jpg)  
 
 the provinces of South America, and a drink made from it was the common food of the Indians before the Spaniards came among them, who were some time in those countries ere they could be prevailed upon to taste it; and it must be confessed, that the Indian chocolate had not a tempting aspect; yet I much doubt whether the Europeans have greatly improved its wholesomeness, by the addition of vanellas and other hot ingredients.[^f43n2] The tree often grows fifteen or twenty feet high, and is streight and handsome. The pods, which seldom contain less than thirty nuts of the size of a slatted olive,[^f43n3] grow upon the stem and principal branches. The tree loves a moist, rich and shaded soil: Hence those who plant cacao-walks, sometimes screen them by a hardier tree, which the Spaniards aptly term *Madre de Cacao*.[^f43n4] They may be planted fifteen or twenty feet distant, though some advise to plant them much nearer, and perhaps wisely; for it is an easy matter to thin them, when they are past the danger of being destroyed by dry weather, *&c*. Some recommend planting cassada, or bananas, in the intervals, when the cacao-trees are young, to destroy weeds, from which the walk cannot be kept too free. It is generally three years before they produce good pods;[^f43n5] but, in six years, they are in highest perfection. The pods are commonly of the size and shape of a large cucumber.[^f43n6] There are three or four sorts of cacao, which differ from one another in the colour and goodness of their nuts.[^f43n7] That from the Caraccas is certainly the best. None of the species grow in Peru. Its alimentary, as well as physical properties, are sufficiently known. This word is Indian.[^f43n8]
 
@@ -87,7 +87,7 @@ the provinces of South America, and a drink made from it was the common food of 
 ---
 
 
-[106]({{site.baseurl}}/images/{{page.img}})
+[106]({{site.baseurl}}/images/p0120.jpg)
 
 VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in the short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these are in general so well known, it is needless. A few properties of it, however, wherewith the learned are not commonly acquainted, I shall mention. In some places of the East-Indies, an excellent arrack[^f106n2] is made from the Sugar-Cane: And, in South-America, Sugar is used as an antidote against one of the most sudden, as well as fatal poisons in the world. Taken by mouth, *pocula morte carent*, this poison is quite innocent; but the slightest wound made by an arrow, whose point is tinged therewith, proves immediate death; for, by driving all the blood of the body immediately to the heart, it forthwith bursts it.[^f106n3] The fish and birds killed by these poisoned arrows \(in the use of which the Indians are astonishingly expert\) are perfectly wholesome to feed on. See Ulloa and De la Condamine's account of the great river of Amazon.[^f106n4] It is a vegetable preparation.
 
@@ -100,8 +100,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[151]({{site.baseurl}}/images/{{page.img}})
-
+[151]({{site.baseurl}}/images/p0165.jpg)
 
 - And shrubby wilds, in bands will soon destroy
 - Thy labourer's honest wealth; their loss and yours.
@@ -155,7 +154,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[152]({{site.baseurl}}/images/{{page.img}})
+[152]({{site.baseurl}}/images/p0166.jpg)
 
 - Thee, the first natives of these Ocean-isles,
 - Fell anthropophagi,[^f152n1] still sacred held;
@@ -197,7 +196,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[153]({{site.baseurl}}/images/{{page.img}})
+[153]({{site.baseurl}}/images/p0167.jpg)
 
 - Thy fragrant shade to beautify the scene.
 - But, chief of palms, and pride of Indian-groves,
@@ -235,7 +234,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[154]({{site.baseurl}}/images/{{page.img}})
+[154]({{site.baseurl}}/images/p0168.jpg)
 
 - Of Typhon, or of hurricane, destroy.
 - Nor should, tho' small, the anata[^f154n1] not be sung:
@@ -268,7 +267,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[155]({{site.baseurl}}/images/{{page.img}})
+[155]({{site.baseurl}}/images/p0169.jpg)
 
 - Call'd water-lemon; grateful to the taste:
 - Nor should she not pursue the mountain-streams, [545]
@@ -304,7 +303,7 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 ---
 
 
-[156]({{site.baseurl}}/images/{{page.img}})
+[156]({{site.baseurl}}/images/p0170.jpg)
 
 VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n4] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n5] will also grow in the sand, and is most useful upon a plantation. 
 
