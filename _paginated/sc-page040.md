@@ -34,7 +34,7 @@ order: 48
 
 [^f40n1]: Yellow fever, a viral disease transmitted by the *Aedes aegypti* mosquito, occurs mostly in tropical climates and is characterized by aches, fever, jaundice, nausea, vomiting, and bleeding. This disease was extremely deadly to newcomers from Europe. Eighteenth-century physicians did not understand the mechanisms via which yellow fever was caused or transmitted, but they took note of immunological patterns in which people who had lived in the Caribbean seemed immune to the disease, while those who had not were susceptible. They further believed, erroneously, that Africans and Afro-Caribbeans had an innate immunity to yellow fever. 
 
-[^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating his slaves humanely. It should be noted that this behavior, though presented as virtuous, is justified on economic grounds.  
+[^f40n2]: Grainger spends the next few pages describing Montano, a fictional planter whom he lauds for treating the enslaved laborers on his plantation humanely. Montano serves as proof of Grainger's belief in amelioration or the reform (versus abolition) of slavery. Although Grainger presents Montano's behavior as virtuous, he ultimately justifies it on economic grounds.  
 
 [^f40n3]: In the eighteenth century, the term creole was used to refer to individuals born in the Americas, regardless of ancestry.
 
