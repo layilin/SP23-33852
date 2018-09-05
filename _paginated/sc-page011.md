@@ -45,6 +45,6 @@ order: 19
 
 [^f11n4]: Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil.
 
-[^f11n5]: Colonists worried about their skin color changing in tropical climates since they believed that it signified racial identity.  
+[^f11n5]: Europeans generally believed in climatist theories of health and identity. These suggested that human bodies adapted to their environments and that temperate climates (and societies) were superior to tropical ones. As a result, colonists worried that their skin color would change in tropical climates and that this change would be a sign of physical and moral degeneration.   
 
 ---
