@@ -36,7 +36,7 @@ order: 110
 
 > VER. 283. *Matanina*\] The Caribbean name of Martinico. The Havannah[^f102n8] had not then been taken.
 
-[^f102n1]: Farcy is A disease of animals, especially of horses. Tabid (or tabetic) is to be wasted by disease, corrupted.
+[^f102n1]: Farcy is a disease of animals, especially of horses. Tabid (or tabetic) is to be wasted by disease, corrupted.
 
 [^f102n2]: Colic or painful stomach contractions.
 
