@@ -6,14 +6,16 @@ editor: Lina
 ---
 
 
-# Sugar Work
+## Sugar Work
 
 The passages in this section “Sugar Work” come mostly from Book 3, yet a few passages from Book 1 contribute to the understanding of Grainger's general concept of the relationship between human labor and nature. In Book 1, Grainger first describes what soil the sugar-cane grows best in and emphasizes that extra labor is not needed since the fertile land is the gift from nature. Grainger emphasizes that sugar production is not solely about human activity. By using the poetic device of apostrophe to address the “Planter,” Grainger often gives advice with an imperative tone of voice in the poem, reminding the “Planter” of his responsibility of balancing nature and culture. Too much labor and the “redundant harvests” exhaust the “willing soil,” and much effort has to be put into re-fertilization. On the other hand, Grainger encourages “Planter" to make improvements with human wisdom, and the toil will be rewarded in the end. Grainger describes the right degree of human interference in nature, showing both his reverence for the power of nature and admiration for human labor. 
 
 Grainger focuses on manual labor and cropping in Book 3, which is replete actions and labor, indicating the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. During the harvest time, constant heavy work may result in some accidents. Grainger talks about the windmills powering the sugar mill. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Grainger also shows his attitude towards plantation management and the treatment of the enslaved Africans, who should not be prohibited from drinking the cane-juice. Grainger suggests the need of making “labour light,” but punishments and ill treatment might still exist at that time.
 
+---
 
-[8]()
+
+[8]({{site.baseurl}}/images/p0022.jpg)
 
 - THRICE happy he, to whom such fields are given!
 - For him the Cane with little labour grows;
@@ -21,7 +23,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[9]()
+[9]({{site.baseurl}}/images/p0023.jpg)
 
 - 'Spite of the dog-star,[^f9n1] shoots long yellow joints;[^f9n2] [55]
 - Concocts rich juice, tho' deluges descend.
@@ -38,7 +40,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[19]()
+[19]({{site.baseurl}}/images/p0033.jpg)
 
 - PLANTER, if thou with wonder wouldst survey
 - Redundant harvests,[^f19n1] load thy willing soil;
@@ -74,7 +76,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[20]()
+[20]({{site.baseurl}}/images/p0034.jpg)
 
 - OF composts shall the Muse descend to sing,
 - Nor soil her heavenly plumes? The sacred Muse
@@ -90,7 +92,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[92]()
+[92]({{site.baseurl}}/images/p0106.jpg)
 
 - For now the sail-clad points,[^f92n1] impatient, wait
 - The hour of sweet release, to court the gale.
@@ -122,7 +124,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[93]()
+[93]({{site.baseurl}}/images/p0107.jpg)
 
 - \(Ere Phosphor[^f93n1] his pale circlet yet withdraws,
 - What time grey dawn stands tip-toe on the hill,\)
@@ -159,7 +161,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[94]()
+[94]({{site.baseurl}}/images/p0108.jpg)
 
 - With sweet abundance. As on Lincoln-plains, [130]
 - \(Ye plains of Lincoln sound your Dyer's praise!\)[^f94n1]
@@ -198,7 +200,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[95]()
+[95]({{site.baseurl}}/images/p0109.jpg)
 
 - When health danc'd frolic in her youthful veins,
 - And vacant gambols wing'd the laughing hours;
@@ -240,7 +242,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[96]()
+[96]({{site.baseurl}}/images/p0110.jpg)
 
 - ARE there, the muse can scarce believe the tale; [170]
 - Are there, who lost to every feeling sense,
@@ -266,7 +268,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[105]()
+[105]({{site.baseurl}}/images/p0119.jpg)
 
 - FROM bloating dropsy,[^f105n1] from pulmonic ails,[^f105n2]
 - Would'st thou defend thy boilers, \(prime of slaves,\) [335]
@@ -288,7 +290,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[109]()
+[109]({{site.baseurl}}/images/p0123.jpg)
 
 - WHILE flows the juice mellifluent from the Cane,
 - Grudge not, my friend, to let thy slaves, each morn,
@@ -312,7 +314,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 ---
 
 
-[110]()
+[110]({{site.baseurl}}/images/p0124.jpg)
 
 - For, if the skies too frequently relent,
 - Crude flows the Cane-juice, and will long elude
