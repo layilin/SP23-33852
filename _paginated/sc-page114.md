@@ -49,6 +49,6 @@ order: 122
 
 [^f114n7]: Calpe refers to one of the Pillars of Hercules in Greek mythology, now known as the Rock of Gibraltar. 
 
-[^f114n8]: Paeon is the Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
+[^f114n8]: Paeon is a Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
 
 ---
