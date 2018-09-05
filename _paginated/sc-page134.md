@@ -46,6 +46,6 @@ order: 142
 
 [^f134n6]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
 
-[^f134n7]: proud insulting tyrants. The Spanish conquistadors.  
+[^f134n7]: The Spanish conquistadors.  
 
 ---
