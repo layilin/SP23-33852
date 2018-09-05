@@ -11,13 +11,13 @@ order: 65
 [57]({{site.baseurl}}/images/{{page.img}})
 
 - Nor kill the winding snake, thy foes they eat.
-- Thus, on the mangrove-banks[^f57n1] of Guayaquil,[^f57n2]
+- Thus, on the mangrove-banks of Guayaquil,[^f57n1]
 - Child of the rocky desert, sea-like stream, [70]
 - With studious care, the American preserves
-- The gallinazo,[^f57n3] else that sea-like stream
+- The gallinazo,[^f57n2] else that sea-like stream
 - (Whence traffic pours her bounties on mankind)
-- Dread alligators[^f57n4] would alone possess.
-- Thy foes, the teeth-fil'd Ibbos[^f57n5] also love; [75]
+- Dread alligators[^f57n3] would alone possess.
+- Thy foes, the teeth-fil'd Ibbos[^f57n4] also love; [75]
 - Nor thou their wayward appetite restrain.
 
 > VER. 69. *mangrove-banks*\] This tree, which botanists call *Rizophora*, grows in marshy soils, and on the sides of rivers; and, as the branches take root, they frequently render narrow streams impassable to boats. Osyters often adhere to their roots, *&c*. The French name of this strange water-shrub is *Paltuvier*. The species meant here is the red mangrove.
@@ -26,14 +26,12 @@ order: 65
 
 > VER. 75. *teeth-fil'd Ibbos*\] Or *Ebbos*, as they are more commonly called, are a numerous nation. Many of them have their teeth filed, and blackened in an extraordinary manner. They make good slaves when bought young; but are, in ge-
 
-[^f57n1]: Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.
+[^f57n1]: Guayaquil refers to a gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.
+ 
+[^f57n2]: The American black vulture (*Coragyps atratus*), whose native range includes North, Central, and South America.
 
-[^f57n2]: Gulf and river in Ecuador leading to the city of Guayaquil. The modern name of the river is the Rio Guayas.
+[^f57n3]: The American alligator, *Alligator mississippiensis*.
 
-[^f57n3]: The American black vulture (*Coragyps atratus*), whose native range includes North, Central, and South America.
-
-[^f57n4]: The American alligator, *Alligator mississippiensis*.
-
-[^f57n5]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
+[^f57n4]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
 
 ---
