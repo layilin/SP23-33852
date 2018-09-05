@@ -40,7 +40,7 @@ order: 106
 
 [^f98n3]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
-[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs.
+[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs. Thus, 30,000 hogsheads represents more than 20,000 tons. 
 
 [^f98n5]: A watershed in Antigua. 
 
