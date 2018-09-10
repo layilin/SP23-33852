@@ -37,7 +37,7 @@ order: 141
 
 [^f133n1]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and given easy versus strenuous labor. Such a practice was uncommon, however.  
 
-[^f133n2]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
+[^f133n2]: Family of marine molluscs best known for their large shells, which can be used as musical horns when properly blown.  
 
 [^f133n3]: This and the following forty lines are the only ones in the poem where the narrator addresses the enslaved directly. Despite this direct address, the passage is framed by a set of rhetorical questions that help the planter justify his actions to himself. The justifications that follow were standard to pro-slavery tracts.  
 
