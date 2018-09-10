@@ -1375,7 +1375,7 @@ BOOK I.
 
 > VER. 508. *Nor shall the ricinus*\] This shrub is commonly called the physic-nut. It is generally divided into three kinds, the common, the French, and the Spanish, which differ from each other in their leaves and flowers, if not in their fruit or seeds. The plant from which the castor-oil is extracted is also called *Ricinus*, though it has no resemblance to any of the former, in leaves, flowers, or seeds. In one particular they all agree, *viz*. in their yielding to coction or expression a purgative or emetic[^f35n5] oil. The Spaniards name these nuts *Avellanas purgativas*; hence Ray[^f35n6] terms them *Avellanae purgatrices novi orbis*. By roasting they are supposed to lose part of their virulency, which is wholly destroyed, say some people, by taking out a leaf-like substance that is to be found between the lobes. The nut exceeds a walnut, or even an almond,[^f35n7] in sweetness, and yet three or four of them will operate briskly both up and down. The French call this useful shrub *Medecinier*. That species of it which bears red coral like flowers is named *Bellyach*[^f35n8] by the Barbadians; and its ripe seeds are supposed to be specific against melancholy.[^f35n9]
 
-[^f35n1]: Logwood is the commericial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin, which produces blue, red, and purple colors.  
+[^f35n1]: Logwood is the commercial product of a tree (*Haematoxylum campechianum*) indigenous to Belize and the southeastern coast of the Gulf of Campeche and the Yucatan Peninsula in Mexico. A source of the dye substance haematoxylin, which produces blue, red, and purple colors.  
 
 [^f35n2]: The flux is a general term for gastrointestinal disorders like dysentery (also known as the "bloody flux"). Dysentery remained a major public health concern throughout the eighteenth and nineteenth centuries. Endemial means endemic or habitually present in a certain country or area.  
 
@@ -4714,7 +4714,7 @@ BOOK IV.
 
 [^f133n1]: Here, Grainger makes a specific recommendation about the "seasoning" of newly transported enslaved Africans. Seasoning was a term used during the eighteenth century to describe the process of acclimatization that it was believed all individuals went through when moving from one climate to another. Physicians believed that patients were more susceptible to illness and death in the weeks and months after they first arrived in new climates. This observation was broadly true for those who were new to the Caribbean but not because there was something inherently harmful about its climate. Instead, travel across long distances often meant coming into contact with new and potentially fatal diseases like yellow fever or typhus. Grainger recommends that enslaved Africans be seasoned for a year and given easy versus strenuous labor. Such a practice was uncommon, however.   
 
-[^f133n2]: Family of marine molluscs best know for their large shells, which can be used as musical horns when properly blown.  
+[^f133n2]: Family of marine molluscs best known for their large shells, which can be used as musical horns when properly blown.  
 
 [^f133n3]: This and the following forty lines are the only ones in the poem where the narrator addresses the enslaved directly. Despite this direct address, the passage is framed by a set of rhetorical questions that help the planter justify his actions to himself. The justifications that follow were standard to pro-slavery tracts.  
 
@@ -4903,7 +4903,7 @@ BOOK IV.
 
 [^f138n3]: Black.  
 
-[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see [internal] "Obeah" on this site.  
+[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
 [^f138n5]: Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range is the subtropical and tropical parts of the world.  
 
