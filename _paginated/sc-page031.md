@@ -40,7 +40,7 @@ order: 39
 
 [^f31n4]: Refers to Sagittarius, the southern zodiacal constellation depicted as a centaur aiming an arrow; popularly known as the Archer. By "the arrow's deadening power," Grainger means the November cold. Sagittarius is the ninth sign of the zodiac; the sun enters it in mid-November and exits it in mid-December.  
 
-[^f31n5]: Members of the genus *Citrus*. Citus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*) (Higman 175). 
+[^f31n5]: Members of the genus *Citrus*. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*) (Higman 175). 
 
 [^f31n6]: Plantains (family Musaceae) are closely related to the banana, and they both formed an important part of the diets of the enslaved (although plantains were more important than bananas). Wild species of plantain and banana originated from and were first cultivated in ancient Southeast Asia, but cultivated species reached Africa in prehistoric times. They were then introduced to Spain by the tenth century and the Canary Islands by the fifteenth. They subsequently were introduced to the Caribbean by the Spanish (Higman 134).  
 [^f31n7]: Capricorn is the tenth sign of the zodiac; the sun enters it in mid-December and exits it in mid-January.  
