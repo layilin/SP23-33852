@@ -50,7 +50,7 @@ order: 167
 
 [^f159n7]: Greek goddess of law and justice.
 
-[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.   
+[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed enslavers to inflict harsh punishments on the enslaved and treat them as property.   
 
 [^f159n9]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
 
