@@ -25,7 +25,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 *Basseterre, Jan. 1763.*[^fviin5]
 
-[^fviin1]: A passage from the Roman poet and philosopher Lucretius' *De rerum natura* or *The Nature of Things*. One translation reads, "You I follow, Glory of the Greeks, and place my feet/Within your very footsteps. Not because I would compete/With you, but for the sake of love, because I long to follow/And long to emulate you" (Stallings).
+[^fviin1]: A passage from the Roman poet and philosopher Lucretius' *De rerum natura* or *The Nature of Things*. One translation reads, "You I follow, Glory of the Greeks, and place my feet/Within your very footsteps. Not because I would compete/With you, but for the sake of love, because I long to follow/And long to emulate you" (Stallings 73).
 
 [^fviin2]: A term of Grainger's invention. Building on his opening claim that the Caribbean would transform the face of poetry, Grainger simultaneously leans on a traditional mode (the georgic) and imagines a new form for it (West-India). It is worth considering what specifically about this poem makes it West Indian or Caribbean.
 
