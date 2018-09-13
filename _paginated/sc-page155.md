@@ -17,7 +17,7 @@ order: 163
 - Or fall o'er fern-clad cliffs, with foaming rage;
 - Or in huge basons[^f155n1] float, a fair expanse;
 - Or, bound in chains of artificial force, [550]
-- Arise thro' sculptured stone, or breathing brass.---
+- Arise thro' sculptured stone, or breathing brass.——
 - But I'm in haste to furl my wind-worn sails,
 - And anchor my tir'd vessel on the shore.
 
