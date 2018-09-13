@@ -168,7 +168,7 @@ creator: Kimberly Takahata
 
 - Wren, Christopher (1632-1723). English architect, mathematician, and astronomer.  
 
-- Xantippe (5th–4th c. BCE). Also Xanthippe. Wife of Socrates, often described as bad tempered.  
+- Xantippe (5th–4th century BCE). Also Xanthippe. Wife of Socrates, often described as bad tempered.  
 
 
 ---
