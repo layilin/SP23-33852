@@ -10,74 +10,74 @@ order: 173
 
 [165]({{site.baseurl}}/images/{{page.img}})
 
-Guayaquil river, [internal] p. 57.  
-Gold-coast Negroes, [internal] p. 128.  
-Guinea-worm, [internal] p. 137.  
-Gallinazo, a bird, [internal] p. 57.  
-Granadilla, a vine, [internal] p. 154.  
-Grape, sea-side tree, [internal] p. 155.  
-Greece, [internal] p. 79.  
-Ginger-root, [internal] p. 42.  
-Grampian hills, [internal] p. 36.  
-Guilandina, shrub, [internal] p. 138.  
+Guayaquil river, p. 57.  
+Gold-coast Negroes, p. 128.  
+Guinea-worm, p. 137.  
+Gallinazo, a bird, p. 57.  
+Granadilla, a vine, p. 154.  
+Grape, sea-side tree, p. 155.  
+Greece, p. 79.  
+Ginger-root, p. 42.  
+Grampian hills, p. 36.  
+Guilandina, shrub, p. 138.  
 
 H.
 
-HUmming-bird, [internal] p. 37.  
-Hurricane described, [internal] p. 69.  
-Hesperia, [internal] p. 79.  
-Hiccory, large tree, [internal] p. 99.  
-Helen, [internal] p. 97.  
-Hura, a tree, [internal] p. 115.  
+HUmming-bird, p. 37.  
+Hurricane described, p. 69.  
+Hesperia, p. 79.  
+Hiccory, large tree, p. 99.  
+Helen, p. 97.  
+Hura, a tree, p. 115.  
 
 I.
 
-IBbo Negroes, [internal] p. 57.  
-Jumbee beeds, [internal] p. 38.  
-Jamaica, praise of, [internal] p. 12.  
-Iërne, [internal] p. 147.  
-Jamaica plumb-tree, [internal] p. 66.  
-Jalap, [internal] p. 146.  
-Indus river, [internal] p. 136.  
-Jew-fish, [internal] p. 119.  
-Junio, tale of, [internal] p. 76.  
-Isis, [internal] p. 76.  
-Indian-fig, shrub, [internal] p. 64.  
-Johnson, Mr. S. praise of, [internal] p. 114.  
+IBbo Negroes, p. 57.  
+Jumbee beeds, p. 38.  
+Jamaica, praise of, p. 12.  
+Iërne, p. 147.  
+Jamaica plumb-tree, p. 66.  
+Jalap, p. 146.  
+Indus river, p. 136.  
+Jew-fish, p. 119.  
+Junio, tale of, p. 76.  
+Isis, p. 76.  
+Indian-fig, shrub, p. 64.  
+Johnson, Mr. S. praise of, p. 114.  
 
 K. 
 
-Karukera island, [internal] p. 102.  
+Karukera island, p. 102.  
 
 L.
 
-LEnnox, Mrs. praise of, [internal] p. 114.  
-Locust, large tree, [internal] p. 6.  
-Logwood-tree, [internal] p. 35.  
-Lizard, [internal] p. 26.  
-Labat, Pere, [internal] p. 96.  
-Lemon-tree, [internal] p. 31.  
-Lime-tree, [internal] p. 31.  
-Lime-marble, [internal] p. 107.  
-Liamuiga island, [internal] p. 18.  
-Liquorice, wild, a vine, [internal] p. 38.  
-Leprosy, [internal] p. 132.  
-Lybia, [internal] p. 126.  
-Lusitania, [internal] p. 143.  
-Lincoln, [internal] p. 94.  
+LEnnox, Mrs. praise of, p. 114.  
+Locust, large tree, p. 6.  
+Logwood-tree, p. 35.  
+Lizard, p. 26.  
+Labat, Pere, p. 96.  
+Lemon-tree, p. 31.  
+Lime-tree, p. 31.  
+Lime-marble, p. 107.  
+Liamuiga island, p. 18.  
+Liquorice, wild, a vine, p. 38.  
+Leprosy, p. 132.  
+Lybia, p. 126.  
+Lusitania, p. 143.  
+Lincoln, p. 94.  
 
 M. 
 
-MAro, praise of, [internal] p. 3.  
-Mountserrat island, praise of, [internal] p. 15.  
-Madre de Cacao, a tree, [internal] p. 43.  
-Monkey, [internal] p. 55.  
-Mosquito, [internal] p. 25.  
-Mundingo Negroes, [internal] p. 130.  
-Minnah Negroes, [internal] p. 130.  
-Moco Negroes, [internal] p. 130.  
-Muscovado, what, [internal] p. 6.  
-Melon, [internal] p. 151.  
-Montano, a character, [internal] p. 40.  
+MAro, praise of, p. 3.  
+Mountserrat island, praise of, p. 15.  
+Madre de Cacao, a tree, p. 43.  
+Monkey, p. 55.  
+Mosquito, p. 25.  
+Mundingo Negroes, p. 130.  
+Minnah Negroes, p. 130.  
+Moco Negroes, p. 130.  
+Muscovado, what, p. 6.  
+Melon, p. 151.  
+Montano, a character, p. 40.  
 
 ---
