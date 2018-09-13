@@ -144,10 +144,11 @@ IT must be confessed, that terms of art look awkward in poetry; yet didactic[^fv
 
 vii
 
-*Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
-*Fixa pedum pono pressis vestigia signis;*  
-*Non ita certandi cupidus, quam propter amorem,*  
-*Quod vos imitari aveo.——*[^fviin1]  
+> *Vos sequor, ô Graiae gentis decus, inque vestris nunc*  
+> *Fixa pedum pono pressis vestigia signis;*  
+> *Non ita certandi cupidus, quam propter amorem,*  
+> *Quod vos imitari aveo.——*[^fviin1]  
+{:.indented}
 
 Yet, like them too, I have generally preferred the way of description, wherever that could be done without hurting the subject.
 
@@ -252,7 +253,8 @@ BOOK I.
 
 > VER. 22. *the spiry Cane,*\] The botanical name of the Cane is *Saccharum*. The Greeks and Romans seem to have known very little of this most useful and beautiful plant. Lucan and Pliny are the only Authors among the former who mention it; and, so far as I can find, Arrian is the only Greek.[^f4n4] The first of these Writers, in enumerating Pompey’s Eastern auxiliaries,[^f4n5] describes a nation who made use of the Cane-juice as a drink:      
 
->   *Dulces bibebant ex arundine succos.*[^f4n6]
+> *Dulces bibebant ex arundine succos.*[^f4n6]
+{:.centered}
 
 > The industrious Naturalist says, *Saccharum et Arabia fert, sed laudatius India*;[^f4n7] and the Greek Historian, in his *&#960;&#949;&#961;&#953;&#960;&#955;&#959;&#965;&#987;* of the Red-sea, tells us of a neighbouring nation who drank it also; his words are, *&#956;&#949;&#955;&#953; &#964;&#959; &#967;&#945;&#955;&#945;&#956;&#953;&#957;&#959;&#957; &#964;&#959; &#955;&#949;&#947;&#959;&#956;&#949;&#957;&#959;&#957; &#963;&#945;&#967;&#935;&#945;&#961;&#953;*. The Cane, however, as it was a native of the East, so has it been probably cultivated there time immemorial. The raw juice was doubtless first made use of; they afterwards boiled it into a syrup; and, in process of time, an inebriating spirit was prepared therefrom by fermentation. This conjecture is confirmed by the etymology, for the Arabic word &#1505;&#1499;&#1512;[^f4n8] is evidently derived from the Hebrew &#1513;&#1499;&#1512;,[^f4n9] which signifies an *intoxicating liquor*. When the Indians began to make the Cane-juice into sugar, I cannot discover;[^f4n10] probably, it soon found its way into Europe in that form, first by the Red-sea, and afterwards through Persia, by the Black-sea and Caspian; but the plant itself was not known to Europe, till the Arabians introduced it into the southern parts of Spain, Sicily, and those provinces of France which bor-  
 
@@ -437,6 +439,7 @@ BOOK I.
 > VER. 60. *green St. Christopher,*\] This beautiful and fertile island, and which, in Shakespear's words, may justly be stiled
 
 > "A precious stone set in the silver sea,"[^f9n5]
+{:.centered}
 
 > lies in seventeenth degree N. L.[^f9n6] It was discovered by the great Christopher Columbus,[^f9n7] in his second voyage, 1493, who was so pleased with its appearance, that he honoured it with his Christian name. Though others pretend, that appellation was given it from an imaginary resemblance between a high mountain in its centre, now called Mount Misery, to the fabulous legend of the Devil's carrying St. Christopher on his shoulders.[^f9n8] But, be this as it will, the Spaniards soon after settled it, and lived in tolerable harmony with the natives for many years; and, as their fleets commonly called in there to and from America for provision and water, the settlers, no doubt, reaped some advantage from their situation. By Templeman's Survey,[^f9n9] it contains eighty square miles, and is about seventy miles in circumference. It is of an irregular oblong figure, and has a chain of mountains, that run South and North almost from the one end of it to the other, formerly covered with wood, but now the Cane-plantations reach almost to their summits, and extend all the way, down their easy declining sides, to the sea. From these mountains some rivers take their rise, which never dry up; and there are many others which, after rain, run into the sea, but which, at other times, are lost before they reach it. Hence, as this island consists of mountain-land and valley, it must always make a midling crop; for when the low grounds fail, the uplands supply that deficiency; and, when the mountain canes are lodged (or become watery from too much rain) those in the plains yield surprisingly. Nor are the plantations here only seasonable, their Sugar sells for more than the Sugar of any other of his Majesty's islands; as
 
@@ -631,6 +634,7 @@ BOOK I.
 > "There oft the Indian herdsman, shunning heat,  
 > "Shelters in cool, and tends his pasturing herds  
 > "At Loop-holes cut through thickest shade."——  
+{:.indented}
 
 > What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island[^f14n6]
 
@@ -6161,8 +6165,9 @@ ERRATA.
 [internal] Page 61, line 129, for *eoily* read *coily*.  
 [internal] Page 81, line 500, for *sky* read *air*.  
 [internal] Page 81, for lines 505 and 506, read  
-*The fring'd urtica spreads her purple form*  
-*To catch the gale, and dances o'er the waves:*  
+> *The fring'd urtica spreads her purple form*  
+> *To catch the gale, and dances o'er the waves:*  
+{:.indented}
 [internal] Ibid. in the notes, for *nautilus* read *urtica*.    
 [internal] Page 100, line 252, for *thro'* read *through*.  
 [internal] Page 102, line 285, the same.  
