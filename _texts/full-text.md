@@ -157,7 +157,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 *Basseterre, Jan. 1763.*[^fviin5]
 
-[^fviin1]: A passage from the Roman poet and philosopher Lucretius' *De rerum natura* or *The Nature of Things*. One translation reads, "You I follow, Glory of the Greeks, and place my feet/Within your very footsteps. Not because I would compete/With you, but for the sake of love, because I long to follow/And long to emulate you" (Stallings).
+[^fviin1]: A passage from the Roman poet and philosopher Lucretius' *De rerum natura* or *The Nature of Things*. One translation reads, "You I follow, Glory of the Greeks, and place my feet/Within your very footsteps. Not because I would compete/With you, but for the sake of love, because I long to follow/And long to emulate you" (Stallings 73).
 
 [^fviin2]: A term of Grainger's invention. Building on his opening claim that the Caribbean would transform the face of poetry, Grainger simultaneously leans on a traditional mode (the georgic) and imagines a new form for it (West-India). It is worth considering what specifically about this poem makes it West Indian or Caribbean.
 
@@ -5677,7 +5677,7 @@ BOOK IV.
 
 [^f159n7]: Greek goddess of law and justice.
 
-[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.   
+[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed enslavers to inflict harsh punishments on the enslaved and treat them as property.   
 
 [^f159n9]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
 
