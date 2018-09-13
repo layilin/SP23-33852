@@ -5787,369 +5787,369 @@ I N D E X
 
 A.
 
-ACajou, a tree, [internal] p. 8, [internal] 131.  
-Acassee, [internal] p. 36.  
-Africk, [internal] p. 125.  
-Anguilla, [internal] p. 120.  
-Antigua, praise of, [internal] p. 98.  
-Anatto, [internal] p. 152.  
-Anana, [internal] p. 31.  
-Alligator, [internal] p. 57.  
-Ausonia, [internal] p. 79.  
-Atlantic ocean, [internal] p. 100.  
-Avaro, a character, [internal] p. 112.  
-Avocato pear-tree, [internal] p. 8.  
-Avon, [internal] p. 107.  
-Arrow, what, [internal] p. 17.  
-Annan, [internal] p. 95.  
-Aurelius, [internal] p. 4.  
-Arsenic, [internal] p. 58.  
-Amyntor, [internal] p. 25.  
-Albion, [internal] p. 143.  
-Attic land, [internal] p. 141.  
-Asia's king, [internal] p. 141.  
-Ants, [internal] p. 66.  
-Antillé isles, [internal] p. 16.  
-Angola pea, [internal] p. 148.  
-Apple, blest, [internal] p. 61.  
+ACajou, a tree, p. 8, 131.  
+Acassee, p. 36.  
+Africk, p. 125.  
+Anguilla, p. 120.  
+Antigua, praise of, p. 98.  
+Anatto, p. 152.  
+Anana, p. 31.  
+Alligator, p. 57.  
+Ausonia, p. 79.  
+Atlantic ocean, p. 100.  
+Avaro, a character, p. 112.  
+Avocato pear-tree, p. 8.  
+Avon, p. 107.  
+Arrow, what, p. 17.  
+Annan, p. 95.  
+Aurelius, p. 4.  
+Arsenic, p. 58.  
+Amyntor, p. 25.  
+Albion, p. 143.  
+Attic land, p. 141.  
+Asia's king, p. 141.  
+Ants, p. 66.  
+Antillé isles, p. 16.  
+Angola pea, p. 148.  
+Apple, blest, p. 61.  
 
 B.
 
-BArbadoes-island, praise of, [internal] p. 15.  
-Barbuda-island, [internal] p. 120.  
-Bonavist, [internal] p. 148.  
-Bermudas, islands of, [internal] p. 109.  
-Blight, or blast, [internal] p. 65.  
-Burr, what, [internal] p. 71.  
-Bird, tropic, [internal] p. 82.  
-Boneta-fish, [internal] p. 81.  
-Bristol, [internal] p. 107.  
-Broom-bush, [internal] p. 146.  
-Banana, a tree, [internal] p. 156.  
-Barbecue, [internal] p. 113.  
-Biscay, bay of, [internal] p. 80.  
-Belgium, [internal] p. 79.  
-Banshaw, Negro-instrument of musick, [internal] p. 157.  
-Banian-tree, [internal] p. 14.  
-Bay-grape tree, [internal] p. 155.  
+BArbadoes-island, praise of, p. 15.  
+Barbuda-island, p. 120.  
+Bonavist, p. 148.  
+Bermudas, islands of, p. 109.  
+Blight, or blast, p. 65.  
+Burr, what, p. 71.  
+Bird, tropic, p. 82.  
+Boneta-fish, p. 81.  
+Bristol, p. 107.  
+Broom-bush, p. 146.  
+Banana, a tree, p. 156.  
+Barbecue, p. 113.  
+Biscay, bay of, p. 80.  
+Belgium, p. 79.  
+Banshaw, Negro-instrument of musick, p. 157.  
+Banian-tree, p. 14.  
+Bay-grape tree, p. 155.  
 
 C.
 
-CEdar-tree, [internal] p. 6.  
-Cassia-tree, [internal] p. 7.  
-Ceiba, large tree, [internal] p. 7.  
-Cassada-shrub, [internal] p. 41.  
-Cotton-shrub, [internal] p. 42.  
-Cacao-tree, [internal] p. 42.  
+CEdar-tree, p. 6.  
+Cassia-tree, p. 7.  
+Ceiba, large tree, p. 7.  
+Cassada-shrub, p. 41.  
+Cotton-shrub, p. 42.  
+Cacao-tree, p. 42.  
 
 ---
 
 
 164
 
-Coffee-shrub, [internal] p. 43.  
-Carnation, Spanish-shrub, [internal] p. 36.  
-Chickweed, [internal] p. 61.  
-Crabs, land, [internal] p. 27.  
-Cockroach, insect, [internal] p. 26.  
-Cathäy, [internal] p. 68.  
-Cormantee Negroes, [internal] p. 129.  
-Chigres, small insect, [internal] p. 138.  
-Chirimoya, fruit, [internal] p. 152.  
-Congo Negroes, [internal] p. 127.  
-Congaw Negroes, [internal] p. 130.  
-Crickets, [internal] p. 146.  
-Cherry, [internal] p. 131.  
-Calm, effects of a,[internal]  p. 73.  
-Cowitch, [internal] p. 60.  
-Cochinille, [internal] p. 64.  
-Coco-nut tree, [internal] p. 77.  
-China-shrub, [internal] p. 88.  
-Calpe, [internal] p. 114.  
-Cambria, [internal] p. 120.  
-Cooler, what, [internal] p. 108.  
-Cane, [internal] p. 3.  
-Cane, dumb, [internal] p. 106.  
-Calaloo, [internal] p. 149.  
-Charente, a river, [internal] p. 80.  
-Calaba, large tree, [internal] p. 99.  
-Condor, a large bird, [internal] p. 46.  
-Coco-shrub, [internal] p. 42.  
-Cassiterides, [internal] p. 141.  
-Conch, [internal] p. 133.   
-Columbus, praise of, [internal] p. 12.  
-Cale, Indian, [internal] p. 149.  
+Coffee-shrub, p. 43.  
+Carnation, Spanish-shrub, p. 36.  
+Chickweed, p. 61.  
+Crabs, land, p. 27.  
+Cockroach, insect, p. 26.  
+Cathäy, p. 68.  
+Cormantee Negroes, p. 129.  
+Chigres, small insect, p. 138.  
+Chirimoya, fruit, p. 152.  
+Congo Negroes, p. 127.  
+Congaw Negroes, p. 130.  
+Crickets, p. 146.  
+Cherry, p. 131.  
+Calm, effects of a, p. 73.  
+Cowitch, p. 60.  
+Cochinille, p. 64.  
+Coco-nut tree, p. 77.  
+China-shrub, p. 88.  
+Calpe, p. 114.  
+Cambria, p. 120.  
+Cooler, what, p. 108.  
+Cane, p. 3.  
+Cane, dumb, p. 106.  
+Calaloo, p. 149.  
+Charente, a river, p. 80.  
+Calaba, large tree, p. 99.  
+Condor, a large bird, p. 46.  
+Coco-shrub, p. 42.  
+Cassiterides, p. 141.  
+Conch, p. 133.   
+Columbus, praise of, p. 12.  
+Cale, Indian, p. 149.  
 
 D.
 
-DYer, praise of, [internal] p. 3.  
-Dolphin, [internal] p. 81.  
-Drave, river, [internal] p. 134.  
-Dorchestria, [internal] p. 20.  
-Dove, mountain, [internal] p. 60.  
-Dioscoria, a vine, [internal] p. 20.  
-Death, yellow, [internal] p. 40.  
+DYer, praise of, p. 3.  
+Dolphin, p. 81.  
+Drave, river, p. 134.  
+Dorchestria, p. 20.  
+Dove, mountain, p. 60.  
+Dioscoria, a vine, p. 20.  
+Death, yellow, p. 40.  
 
 E.
 
-EDda, an esculent root, [internal] p. 41.  
-Ebbo Negroes, [internal] p. 57.  
-Eagle, white, [internal] p. 131.  
-Eton, [internal] p. 76.  
-Enna, [internal] p. 142.  
+EDda, an esculent root, p. 41.  
+Ebbo Negroes, p. 57.  
+Eagle, white, p. 131.  
+Eton, p. 76.  
+Enna, p. 142.  
 
 F.
 
-FRuit, forbidden, [internal] p. 8.  
-Fire-fly, [internal] p. 46.  
-Fly, yellow, [internal] p. 63.  
-Fly, sand, [internal] p. 25.  
-Fig, Indian, large tree, [internal] p. 14.  
-Fig, bearded, [internal] p. 14.  
-Fishes, winged, [internal] p. 81.  
-Fern-tree, [internal] p. 29.  
+FRuit, forbidden, p. 8.  
+Fire-fly, p. 46.  
+Fly, yellow, p. 63.  
+Fly, sand, p. 25.  
+Fig, Indian, large tree, p. 14.  
+Fig, bearded, p. 14.  
+Fishes, winged, p. 81.  
+Fern-tree, p. 29.  
 
 G. 
 
-GUava-tree, [internal] p. 7.  
-Guaiac-tree, [internal] p. 7.  
+GUava-tree, p. 7.  
+Guaiac-tree, p. 7.  
 
 ---
 
 
 165
 
-Guayaquil river, [internal] p. 57.  
-Gold-coast Negroes, [internal] p. 128.  
-Guinea-worm, [internal] p. 137.  
-Gallinazo, a bird, [internal] p. 57.  
-Granadilla, a vine, [internal] p. 154.  
-Grape, sea-side tree, [internal] p. 155.  
-Greece, [internal] p. 79.  
-Ginger-root, [internal] p. 42.  
-Grampian hills, [internal] p. 36.  
-Guilandina, shrub, [internal] p. 138.  
+Guayaquil river, p. 57.  
+Gold-coast Negroes, p. 128.  
+Guinea-worm, p. 137.  
+Gallinazo, a bird, p. 57.  
+Granadilla, a vine, p. 154.  
+Grape, sea-side tree, p. 155.  
+Greece, p. 79.  
+Ginger-root, p. 42.  
+Grampian hills, p. 36.  
+Guilandina, shrub, p. 138.  
 
 H.
 
-HUmming-bird, [internal] p. 37.  
-Hurricane described, [internal] p. 69.  
-Hesperia, [internal] p. 79.  
-Hiccory, large tree, [internal] p. 99.  
-Helen, [internal] p. 97.  
-Hura, a tree, [internal] p. 115.  
+HUmming-bird, p. 37.  
+Hurricane described, p. 69.  
+Hesperia, p. 79.  
+Hiccory, large tree, p. 99.  
+Helen, p. 97.  
+Hura, a tree, p. 115.  
 
 I.
 
-IBbo Negroes, [internal] p. 57.  
-Jumbee beeds, [internal] p. 38.  
-Jamaica, praise of, [internal] p. 12.  
-Iërne, [internal] p. 147.  
-Jamaica plumb-tree, [internal] p. 66.  
-Jalap, [internal] p. 146.  
-Indus river, [internal] p. 136.  
-Jew-fish, [internal] p. 119.  
-Junio, tale of, [internal] p. 76.  
-Isis, [internal] p. 76.  
-Indian-fig, shrub, [internal] p. 64.  
-Johnson, Mr. S. praise of, [internal] p. 114.  
+IBbo Negroes, p. 57.  
+Jumbee beeds, p. 38.  
+Jamaica, praise of, p. 12.  
+Iërne, p. 147.  
+Jamaica plumb-tree, p. 66.  
+Jalap, p. 146.  
+Indus river, p. 136.  
+Jew-fish, p. 119.  
+Junio, tale of, p. 76.  
+Isis, p. 76.  
+Indian-fig, shrub, p. 64.  
+Johnson, Mr. S. praise of, p. 114.  
 
 K. 
 
-Karukera island, [internal] p. 102.  
+Karukera island, p. 102.  
 
 L.
 
-LEnnox, Mrs. praise of, [internal] p. 114.  
-Locust, large tree, [internal] p. 6.  
-Logwood-tree, [internal] p. 35.  
-Lizard, [internal] p. 26.  
-Labat, Pere, [internal] p. 96.  
-Lemon-tree, [internal] p. 31.  
-Lime-tree, [internal] p. 31.  
-Lime-marble, [internal] p. 107.  
-Liamuiga island, [internal] p. 18.  
-Liquorice, wild, a vine, [internal] p. 38.  
-Leprosy, [internal] p. 132.  
-Lybia, [internal] p. 126.  
-Lusitania, [internal] p. 143.  
-Lincoln, [internal] p. 94.  
+LEnnox, Mrs. praise of, p. 114.  
+Locust, large tree, p. 6.  
+Logwood-tree, p. 35.  
+Lizard, p. 26.  
+Labat, Pere, p. 96.  
+Lemon-tree, p. 31.  
+Lime-tree, p. 31.  
+Lime-marble, p. 107.  
+Liamuiga island, p. 18.  
+Liquorice, wild, a vine, p. 38.  
+Leprosy, p. 132.  
+Lybia, p. 126.  
+Lusitania, p. 143.  
+Lincoln, p. 94.  
 
 M. 
 
-MAro, praise of, [internal] p. 3.  
-Mountserrat island, praise of, [internal] p. 15.  
-Madre de Cacao, a tree, [internal] p. 43.  
-Monkey, [internal] p. 55.  
-Mosquito, [internal] p. 25.  
-Mundingo Negroes, [internal] p. 130.  
-Minnah Negroes, [internal] p. 130.  
-Moco Negroes, [internal] p. 130.  
-Muscovado, what, [internal] p. 6.  
-Melon, [internal] p. 151.  
-Montano, a character, [internal] p. 40.  
+MAro, praise of, p. 3.  
+Mountserrat island, praise of, p. 15.  
+Madre de Cacao, a tree, p. 43.  
+Monkey, p. 55.  
+Mosquito, p. 25.  
+Mundingo Negroes, p. 130.  
+Minnah Negroes, p. 130.  
+Moco Negroes, p. 130.  
+Muscovado, what, p. 6.  
+Melon, p. 151.  
+Montano, a character, p. 40.  
 
 ---
 
 
 166
 
-Melasses, [internal] p. 111.  
-Mangrove-tree, [internal]  p. 57.  
-Markley-hill, [internal] p. 18.  
-Mill-points, what, [internal] p. 70.  
-Mammey-tree, [internal] p. 151.  
-Magosse, what, [internal] p. 91.  
-Matanina island, [internal] p. 102.  
-Maize, [internal] p. 156.  
-Marne-river, [internal] p. 114.  
-Millet, Indian, [internal] p. 156.  
-Myrtle, [internal] p. 39.  
-Migua, [internal] p. 138.  
-Mastic, a large tree, [internal] p. 99.  
-Melvil, General, praise of, [internal] p. 126.  
-Mungoes, [internal] p. 59.  
+Melasses, p. 111.  
+Mangrove-tree, p. 57.  
+Markley-hill, p. 18.  
+Mill-points, what, p. 70.  
+Mammey-tree, p. 151.  
+Magosse, what, p. 91.  
+Matanina island, p. 102.  
+Maize, p. 156.  
+Marne-river, p. 114.  
+Millet, Indian, p. 156.  
+Myrtle, p. 39.  
+Migua, p. 138.  
+Mastic, a large tree, p. 99.  
+Melvil, General, praise of, p. 126.  
+Mungoes, p. 59.  
 
 N. 
 
-NEwfoundland, [internal] p. 147.  
-Nevis island, praise of, [internal] p. 15.  
-Nightshade, [internal] p. 59.  
-Nautilus, [internal] p. 81.  
-Niger-river, [internal] p. 125.  
-Niccars, a shrub, [internal] p. 138.  
+NEwfoundland, p. 147.  
+Nevis island, praise of, p. 15.  
+Nightshade, p. 59.  
+Nautilus, p. 81.  
+Niger-river, p. 125.  
+Niccars, a shrub, p. 138.  
 
 O.
 
-OBia, Negro-magic, [internal] p. 144.  
-Obia-men, [internal] p. 144.  
-Orange-tree, [internal] p. 31.  
-Ochra-shrub, [internal] p. 149.  
-Rhine-river, [internal] p. 120.  
-Opuntia-shrub, [internal] p. 64.  
+OBia, Negro-magic, p. 144.  
+Obia-men, p. 144.  
+Orange-tree, p. 31.  
+Ochra-shrub, p. 149.  
+Rhine-river, p. 120.  
+Opuntia-shrub, p. 64.  
 
 P. 
 
-PApaw Negroes, [internal] p. 130.  
-Palaemon, [internal] p. 91.  
-Papaw-tree, [internal] p. 125.  
-Papaya-tree, [internal] p. 125.  
-Philips, praise of, [internal] p. 3.  
-Pine-apple, [internal] p. 31.  
-Panspan-tree, [internal] p. 116.  
-Plantane-tree, [internal] p. 31.  
-Palmeto, [internal] p. 72.  
-Potatos, [internal] p. 149.  
-Pensilvania, [internal] p. 147.  
-Porto Sancto island, [internal] p. 80.  
-Po, name of a ship, [internal] p. 80.  
-Polydamna, [internal] p. 97.  
-Passiflora, a vine, [internal] p. 154.  
-Prickly pear, shrub, [internal] p. 37.  
-Physic-nut, shrub, [internal] p. 35.  
-Percy, praise of, [internal] p. 78.  
-Privet shrub, [internal] p. 36.  
+PApaw Negroes, p. 130.  
+Palaemon, p. 91.  
+Papaw-tree, p. 125.  
+Papaya-tree, p. 125.  
+Philips, praise of, p. 3.  
+Pine-apple, p. 31.  
+Panspan-tree, p. 116.  
+Plantane-tree, p. 31.  
+Palmeto, p. 72.  
+Potatos, p. 149.  
+Pensilvania, p. 147.  
+Porto Sancto island, p. 80.  
+Po, name of a ship, p. 80.  
+Polydamna, p. 97.  
+Passiflora, a vine, p. 154.  
+Prickly pear, shrub, p. 37.  
+Physic-nut, shrub, p. 35.  
+Percy, praise of, p. 78.  
+Privet shrub, p. 36.  
 
 Q.
 
-Quanza river, [internal] p. 130.  
+Quanza river, p. 130.  
 
 R. 
 
-RIcinus, [internal] p. 35.  
-Rats, [internal] p. 56.  
-Rey-river, [internal] p. 128.  
-Rocou, [internal] p. 152.  
-Rum, [internal] p. 113.  
-Rhubarb, [internal] p. 62.  
-Rio-grande river, [internal] p. 125.  
-Rhine river, [internal] p. 120.  
-Raleigh, Sir Walter, [internal] p. 100.  
-Romney, Lord, praise of, [internal] p. 102.  
+RIcinus, p. 35.  
+Rats, p. 56.  
+Rey-river, p. 128.  
+Rocou, p. 152.  
+Rum, p. 113.  
+Rhubarb, p. 62.  
+Rio-grande river, p. 125.  
+Rhine river, p. 120.  
+Raleigh, Sir Walter, p. 100.  
+Romney, Lord, praise of, p. 102.  
 
 S. 
 
-SAbbaca, a tree, [internal] p. 8.  
-Sugar, [internal] p. 3.  
+SAbbaca, a tree, p. 8.  
+Sugar, p. 3.  
 
 ---
 
 
 167
 
-Soursop-tree, [internal] p. 42.  
-Solanum-plant, [internal] p. 146.  
-St. Christopher, island, praise of, [internal] p. 9.  
-Senega-river, [internal] p. 125.  
-Smart, praise of, [internal] p. 3.  
-Sommerville, praise of, [internal] p. 3.  
-Snakes, [internal] p. 57.  
-Season, what, [internal] p. 65.  
-Stocks, what, [internal] p. 70.  
-Solfaterre, what, [internal] p. 74.  
-Sapadilla-tree, [internal] p. 78.  
-Shark, [internal] p. 81.  
-Skimmings, sugar, use of, [internal] p. 113.  
-Scotia, [internal] p. 120.  
-Shaddock, [internal] p. 8.  
-Semprevive, a vegetable, [internal] p. 131.  
-Sabrina, a river, [internal] p. 108.  
-Shakespear, praise of, [internal] p. 107.  
-Shenstone, praise of, [internal] p. 54.  
-Sheen, [internal] p. 78.  
-Sensitive plant, [internal] p. 61.  
-Spain, [internal] p. 142.  
+Soursop-tree, p. 42.  
+Solanum-plant, p. 146.  
+St. Christopher, island, praise of, p. 9.  
+Senega-river, p. 125.  
+Smart, praise of, p. 3.  
+Sommerville, praise of, p. 3.  
+Snakes, p. 57.  
+Season, what, p. 65.  
+Stocks, what, p. 70.  
+Solfaterre, what, p. 74.  
+Sapadilla-tree, p. 78.  
+Shark, p. 81.  
+Skimmings, sugar, use of, p. 113.  
+Scotia, p. 120.  
+Shaddock, p. 8.  
+Semprevive, a vegetable, p. 131.  
+Sabrina, a river, p. 108.  
+Shakespear, praise of, p. 107.  
+Shenstone, praise of, p. 54.  
+Sheen, p. 78.  
+Sensitive plant, p. 61.  
+Spain, p. 142.  
 
 T.
 
-TAnies, a root, [internal] p. 41.  
-Tamarind-tree, [internal] p. 44.  
-Thames, praise of, [internal] p. 115.  
-Temper, [internal] p. 18.  
-Turtle, [internal] p. 119.  
-Tops, gemmy, [internal] p. 22.  
-Tyrtaeus, [internal] p. 119.  
-Tille, a river, [internal] p. 114.  
-Tobago-island, [internal] p. 99.  
-Thone, [internal] p. 97.  
-Tobacco, [internal] p. 42.  
-Turpentine-tree, [internal] p. 139.  
-Thistle, yellow, [internal] p. 60.  
-Townshend, the Honourable General, praise of, [internal] p. 119.  
-Theana, tale of, [internal] p. 76.  
-Tull, praise of, [internal] p. 23.  
+TAnies, a root, p. 41.  
+Tamarind-tree, p. 44.  
+Thames, praise of, p. 115.  
+Temper, p. 18.  
+Turtle, p. 119.  
+Tops, gemmy, p. 22.  
+Tyrtaeus, p. 119.  
+Tille, a river, p. 114.  
+Tobago-island, p. 99.  
+Thone, p. 97.  
+Tobacco, p. 42.  
+Turpentine-tree, p. 139.  
+Thistle, yellow, p. 60.  
+Townshend, the Honourable General, praise of, p. 119.  
+Theana, tale of, p. 76.  
+Tull, praise of, p. 23.  
 
 V.
 
-VOlga-river, [internal] p. 63.  
-Volta-river, [internal] p. 128.  
-Vigornia, [internal] p. 114.  
-Vine, prickly, [internal] p. 158.  
-Venus of Medici, [internal] p. 79.  
-Virginia, [internal] p. 100.  
-Virgin-isles, [internal] p. 66.  
-Vervain-plant, [internal] p. 63.  
+VOlga-river, p. 63.  
+Volta-river, p. 128.  
+Vigornia, p. 114.  
+Vine, prickly, p. 158.  
+Venus of Medici, p. 79.  
+Virginia, p. 100.  
+Virgin-isles, p. 66.  
+Vervain-plant, p. 63.  
 
 W.
 
-WInd-trade, [internal] p. 67.  
-Worms, [internal] p. 60.  
-Worm-grass, [internal] p. 60.  
-Wolfe, General, praise of, [internal] p. 64.  
-Whitehead, praise of, [internal] p. 107.  
-Waller, praise of, [internal] p. 109.  
-White, praise of, [internal] p. 114.  
-Water-lemon, [internal] p. 155.  
+WInd-trade, p. 67.  
+Worms, p. 60.  
+Worm-grass, p. 60.  
+Wolfe, General, praise of, p. 64.  
+Whitehead, praise of, p. 107.  
+Waller, praise of, p. 109.  
+White, praise of, p. 114.  
+Water-lemon, p. 155.  
 
 Y.
 
-YAws, [internal] p. 138.  
-Yams, [internal] p. 20.  
+YAws, p. 138.  
+Yams, p. 20.  
 
 Z.
 
-ZAire-river, [internal] p. 127.  
-Zumbadore-bird, [internal] p. 46.  
+ZAire-river, p. 127.  
+Zumbadore-bird, p. 46.   
 
 ---
 
@@ -6158,22 +6158,22 @@ Zumbadore-bird, [internal] p. 46.
 
 ERRATA.
 
-[internal] Page 5, in note, for *lesser* read *less*.  
-[internal] Page 14, line 128, for *elay* read *clay*.  
-[internal] Page 19, line 2, dele *comma* after *harvests*.  
-[internal] Page 43, note on ver. 606, for *eighty* read *one hundred and fifty*.  
-[internal] Page 61, line 129, for *eoily* read *coily*.  
-[internal] Page 81, line 500, for *sky* read *air*.  
-[internal] Page 81, for lines 505 and 506, read  
+Page 5, in note, for *lesser* read *less*.  
+Page 14, line 128, for *elay* read *clay*.  
+Page 19, line 2, dele *comma* after *harvests*.  
+Page 43, note on ver. 606, for *eighty* read *one hundred and fifty*.  
+Page 61, line 129, for *eoily* read *coily*.  
+Page 81, line 500, for *sky* read *air*.  
+Page 81, for lines 505 and 506, read  
 > *The fring'd urtica spreads her purple form*  
 > *To catch the gale, and dances o'er the waves:*  
 {:.indented}
-[internal] Ibid. in the notes, for *nautilus* read *urtica*.    
-[internal] Page 100, line 252, for *thro'* read *through*.  
-[internal] Page 102, line 285, the same.  
-[internal] Page 110, line 425, for *weighed* read *weigh'd*.  
-[internal] Page 128, line 58, for *art* read *want*.  
-[internal] Page 132, in note, for *rhinds* read *rinds*.  
-[internal] Page 141, in note, for *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;* read *&#922;&#945;&#963;&#963;&#953; &#932;&#949;&#961;&#959;&#957;*.
+Ibid. in the notes, for *nautilus* read *urtica*.  <!--These two lines of poetry should be indented-->  
+Page 100, line 252, for *thro'* read *through*.  
+Page 102, line 285, the same.  
+Page 110, line 425, for *weighed* read *weigh'd*.  
+Page 128, line 58, for *art* read *want*.  
+Page 132, in note, for *rhinds* read *rinds*.  
+Page 141, in note, for *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;* read *&#922;&#945;&#963;&#963;&#953; &#932;&#949;&#961;&#959;&#957;*.
 
 ---
