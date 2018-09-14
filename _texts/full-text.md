@@ -1642,15 +1642,15 @@ BOOK I.
 - \(Which nature to the soursop[^f42n1] had resign'd,\)  
 - With ginger, and with Raleigh's pungent plant,[^f42n2]  
 - Gave wealth; and gold bought better land and slaves. [600]  
-- Heaven bless'd his labour: now the cotton-shrub,[^f42n3]  
+- Heaven bless'd his labour: now the cotton-shrub,  
 - Grac'd with broad yellow flowers, unhurt by worms,  
 - O'er many an acre shed its whitest down:  
 - The power of rain, in genial moisture bath'd  
-- His cacao-walk,[^f42n4] which teem'd with marrowy pods; [605]  
+- His cacao-walk,[^f42n3] which teem'd with marrowy pods; [605]  
 
-> VER. 598. *to the soursop*\] The true Indian name of this tree is *Suirsaak*. It grows in the barrenest places to a considerable height. Its fruit will often weigh two pounds. Its skin is green, and somewhat prickly. The pulp is not disagreeable to the palate, being cool, and having its sweetness tempered with some degree of an acid. It is one of the *Anonas*, as are also the custard, star, and sugar-apples.[^f42n5] The leaves of the soursop are very shining and green. The fruit is wholesome, but seldom admitted to the tables of the elegant. The seeds are dispersed through the pulp like the guava. It has a peculiar flavour. It grows in the East as well as the West-Indies. The botanical name is *Guanabanus*. The French call it *Petit Corosol*, or *Coeur de Boeuf*, to which the fruit bears a resemblance. The root, being reduced to a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by the mouth, the Indians pretend it is a specific in the epilepsy.
+> VER. 598. *to the soursop*\] The true Indian name of this tree is *Suirsaak*. It grows in the barrenest places to a considerable height. Its fruit will often weigh two pounds. Its skin is green, and somewhat prickly. The pulp is not disagreeable to the palate, being cool, and having its sweetness tempered with some degree of an acid. It is one of the *Anonas*, as are also the custard, star, and sugar-apples.[^f42n4] The leaves of the soursop are very shining and green. The fruit is wholesome, but seldom admitted to the tables of the elegant. The seeds are dispersed through the pulp like the guava. It has a peculiar flavour. It grows in the East as well as the West-Indies. The botanical name is *Guanabanus*. The French call it *Petit Corosol*, or *Coeur de Boeuf*, to which the fruit bears a resemblance. The root, being reduced to a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by the mouth, the Indians pretend it is a specific in the epilepsy.
 
-> VER. 601. *cotton*\] The fine down, which this shrub produces to invelope its seeds, is sufficiently known. The English, Italian, and French names, evidently are derived from the Arabic *Algodon*, as the Spaniards at this day call it. It was first brought by the Arabians into the Levant, where it is now cultivated with great success. Authors mention four species of cotton, but they confound the silk-cotton tree, or *Ceiba*, among them. The flower of the West-India cotton-shrub is yellow, and campanulated.[^f42n6] It produces twice every year. That of Cayenne is the best of any that comes from America. This plant is very apt to be destroyed by a grub within a short time; bating that, it is a profitable production. Pliny mentions *Gossipium*, which is the common botanical name of cotton. It is likewise called *Zylon*. Martinus, in his Philological Lexicon,[^f42n7] derives cotton from the Hebrew word &#1511;&#1496;&#1503; *Katon*, (or, as pronounced by the German-Jews, *Kotoun*.)  
+> VER. 601. *cotton*\] The fine down, which this shrub produces to invelope its seeds, is sufficiently known. The English, Italian, and French names, evidently are derived from the Arabic *Algodon*, as the Spaniards at this day call it. It was first brought by the Arabians into the Levant, where it is now cultivated with great success. Authors mention four species of cotton, but they confound the silk-cotton tree, or *Ceiba*, among them. The flower of the West-India cotton-shrub is yellow, and campanulated.[^f42n5] It produces twice every year. That of Cayenne is the best of any that comes from America. This plant is very apt to be destroyed by a grub within a short time; bating that, it is a profitable production. Pliny mentions *Gossipium*, which is the common botanical name of cotton. It is likewise called *Zylon*. Martinus, in his Philological Lexicon,[^f42n6] derives cotton from the Hebrew word &#1511;&#1496;&#1503; *Katon*, (or, as pronounced by the German-Jews, *Kotoun*.)  
 
 > VER. 605. *cacao-walk*\] It is also called *Cocao* and *Cocô*. It is a native of some of
 
@@ -1658,15 +1658,13 @@ BOOK I.
 
 [^f42n2]: Refers to tobacco, which Walter Raleigh (1554-1618) was sometimes credited with introducing to England. Raleigh was an English courtier during Queen Elizabeth I's reign, as well as an explorer and author who obtained a patent for and helped to organize the expeditions to Roanoke in 1585 and 1587. He set out for South America in 1595, exploring the Orinoco River in present-day Venezuela, and again in 1617 to search for the famed city of El Dorado. He was executed for treason in 1618. He is the author of *Discoverie of the Large, Rich, and Bewtiful Empyre of Guiana* (1596).   
 
-[^f42n3]: Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World.  
+[^f42n3]: A grove of cacao trees. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
 
-[^f42n4]: A grove of cacao trees. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
+[^f42n4]: The custard apple (*Annona reticulata*) is the fruit of a tree whose native range is Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
-[^f42n5]: The custard apple (*Annona reticulata*) is the fruit of a tree whose native range is Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
+[^f42n5]: Bell-shaped. 
 
-[^f42n6]: Bell-shaped. 
-
-[^f42n7]: According to Gilmore, Matthias Martinius (1572-1630) authored the *Lexicon Philologicum* (1623).  
+[^f42n6]: According to Gilmore, Matthias Martinius (1572-1630) authored the *Lexicon Philologicum* (1623).  
 
 ---
 
@@ -2287,10 +2285,10 @@ BOOK II.
 - The foster plant, its worth that harm repays:
 - But YE, base insects! no bright scarlet yield,
 - To deck the British Wolf;[^f64n1] who now, perhaps, [175]
-- (So Heaven and George[^f64n2] ordain) in triumph mounts
+- (So Heaven and George ordain) in triumph mounts
 - Some strong-built fortress, won from haughty Gaul!
 - And tho' no plant such luscious nectar yields,
-- As yields the Cane-plant; yet, vile paricides![^f64n3]
+- As yields the Cane-plant; yet, vile paricides![^f64n2]
 - Ungrateful ye! the Parent-cane destroy. [180] 
 
 - MUSE! say, what remedy hath skill devis'd
@@ -2299,21 +2297,19 @@ BOOK II.
 - Have made too firm a lodgment; and, with care,
 - Wipe every tainted blade, and liberal lave [185]
 - With sacred Neptune's purifying stream.
-- But this Augaean toil[^f64n4] long time demands,
+- But this Augaean toil[^f64n3] long time demands,
 - Which thou to more advantage may'st employ:
 - If vows for rain thou ever did'st prefer,
 
-> VER. 171. *Thus cochinille*\] This is a Spanish word. For the manner of propagating this useful insect, see Sir Hans Sloane's Natural History of Jamaica.[^f64n5] It was long believed in Europe to be a seed, or vegetable production. The botanical name of the plant on which the cochinille feeds, is *Opuntia maxima*, *folio oblongo*, *majore*, *spinulis obtusis*, *mollibus et innocentibus obsito*, *flore*, *striis rubris variegato*. Sloane.
+> VER. 171. *Thus cochinille*\] This is a Spanish word. For the manner of propagating this useful insect, see Sir Hans Sloane's Natural History of Jamaica.[^f64n4] It was long believed in Europe to be a seed, or vegetable production. The botanical name of the plant on which the cochinille feeds, is *Opuntia maxima*, *folio oblongo*, *majore*, *spinulis obtusis*, *mollibus et innocentibus obsito*, *flore*, *striis rubris variegato*. Sloane.
 
 [^f64n1]: The red coats of British officers were dyed with cochineal. James Wolfe (1727-1759) was an English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
-[^f64n2]: George III (1738-1820), king of Britain from 1760 to 1820.
+[^f64n2]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
 
-[^f64n3]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
+[^f64n3]: Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.
 
-[^f64n4]: Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.
-
-[^f64n5]: Sloane discusses the propagation of cochineal in his *Voyage* (2.208).
+[^f64n4]: Sloane discusses the propagation of cochineal in his *Voyage* (2.208).
 
 ---
 
@@ -2794,7 +2790,7 @@ BOOK II.
 - AND shall not Hymen[^f78n4] light his brightest torch,
 - For this delighted pair? Ah, Junio knew,
 
-> VER. 441. *sappadillas*\] This is a pleasant-tasted fruit, somewhat resembling a bergamot-pear, in shape and colour. The tree which produces it, is large and shady. Its leaves are of a shining green; but the flowers, which are monopetalous, are of a palish white. The fruit is coronated when ripe, and contains, in its pulp, several longish black seeds. It is wholesome. Antigua[^f78n5] produces the best sappadillas I ever tasted. The trivial name is Spanish. Botanists call it *Cainito*.
+> VER. 441. *sappadillas*\] This is a pleasant-tasted fruit, somewhat resembling a bergamot-pear, in shape and colour. The tree which produces it, is large and shady. Its leaves are of a shining green; but the flowers, which are monopetalous, are of a palish white. The fruit is coronated when ripe, and contains, in its pulp, several longish black seeds. It is wholesome. Antigua produces the best sappadillas I ever tasted. The trivial name is Spanish. Botanists call it *Cainito*.
 
 [^f78n1]: The sapodilla (*Manilkara zapota*), also known as the nasebery or nispero, is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean.
 
@@ -2803,8 +2799,6 @@ BOOK II.
 [^f78n3]: Bishop Thomas Percy (1729-1811) was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana. 
 
 [^f78n4]: Greek god of marriage.
-
-[^f78n5]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
 ---
 
@@ -3444,20 +3438,18 @@ BOOK III.
 - Soft-stealing dews, with liquid pearls adorn'd,
 - Fat-fostering rains, and buxom genial airs [220]
 - Attend triumphant! Why, ah why so oft,
-- Why hath Antigua,[^f98n3] sweetly social isle,
+- Why hath Antigua, sweetly social isle,
 
-> VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads[^f98n4] of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds[^f98n5] may be used for every purpose of life. Antigua is well fortified, and has a good militia.
+> VER. 222. *Why hath Antigua*\] This beautiful island lies in 16 degrees and 14 min. N. lat. It was long uninhabited on account of its wanting fresh-water rivers; but is now more fully peopled, and as well cultivated as any of the leeward islands. In a seasonable year, it has made 30,000 hogsheads[^f98n3] of sugar. It has no very high mountains. The soil is, in general, clayey. The water of the body-ponds[^f98n4] may be used for every purpose of life. Antigua is well fortified, and has a good militia.
 
 
 [^f98n1]: The informer is the sun, and the planetary train is the movement of the planets across the sky. Gilmore identifies the source of this quotation as James Thomson's *The Seasons* (1730).  
 
 [^f98n2]: Attend, wait upon. 
 
-[^f98n3]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
+[^f98n3]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs. Thus, 30,000 hogsheads represents more than 20,000 tons. 
 
-[^f98n4]: A hogshead was a large cask used to hold and ship sugar. One hogshead of sugar weighed about 1500 lbs. Thus, 30,000 hogsheads represents more than 20,000 tons. 
-
-[^f98n5]: A watershed in Antigua. 
+[^f98n4]: A watershed in Antigua. 
 
 ---
 
@@ -3806,7 +3798,7 @@ BOOK III.
 
 [^f107n3]: Limestone is a rock that yields lime when calcined or burnt. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitated impurities.
 
-[^f107n4]: Bristol was located in the southwest of England and was one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
+[^f107n4]: Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
 
 [^f107n5]: A line from William Whitehead's poem, "An Hymn to the Nymph of Bristol Spring" (1751). 
 
@@ -4741,35 +4733,34 @@ BOOK IV.
 - The exhalations of the deep-dug mine, [175]
 - Tho' slow, shake from their wings as sure a death.
 - With what intense severity of pain
-- Hath the afflicted muse, in Scotia,[^f134n1] seen
-- The miners rack'd, who toil for fatal lead?[^f134n2]
-- What cramps, what palsies[^f134n3] shake their feeble limbs, [180]
-- Who, on the margin of the rocky Drave,[^f134n4]
-- Trace silver's fluent ore?[^f134n5] Yet white men these!
+- Hath the afflicted muse, in Scotia, seen
+- The miners rack'd, who toil for fatal lead?[^f134n1]
+- What cramps, what palsies[^f134n2] shake their feeble limbs, [180]
+- Who, on the margin of the rocky Drave,[^f134n3]
+- Trace silver's fluent ore?[^f134n4] Yet white men these!
 
 - HOW far more happy ye, than those poor slaves,
 - Who, whilom, under native, gracious chiefs,
-- Incas[^f134n6] and emperors, long time enjoy'd [185]
+- Incas[^f134n5] and emperors, long time enjoy'd [185]
 - Mild government, with every sweet of life,
 - In blissful climates? See them dragg'd in chains,
-- By proud insulting tyrants,[^f134n7] to the mines
+- By proud insulting tyrants,[^f134n6] to the mines
 - Which once they call'd their own, and then despis'd!
 
 > VER. 181. *rocky Drave,*\] A river in Hungary, on whose banks are found mines of quicksilver.  
 
-[^f134n1]: Scotland.  
 
-[^f134n2]: Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
+[^f134n1]: Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
 
-[^f134n3]: Paralysis of the skeletal muscles.  
+[^f134n2]: Paralysis of the skeletal muscles.  
 
-[^f134n4]: A river in central Europe that forms the boundary between Croatia and Hungary. 
+[^f134n3]: A river in central Europe that forms the boundary between Croatia and Hungary. 
 
-[^f134n5]: Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
+[^f134n4]: Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
 
-[^f134n6]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
+[^f134n5]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
 
-[^f134n7]: The Spanish conquistadors.  
+[^f134n6]: The Spanish conquistadors.  
 
 ---
 
@@ -5375,13 +5366,13 @@ BOOK IV.
 - And by due discipline adopt the sun. [495]
 - The muse might tell what culture will entice
 - The ripened melon, to perfume each month;
-- And with the anana[^f151n4] load the fragrant board.
+- And with the anana load the fragrant board.
 - The muse might tell, what trees will best exclude
-- ("Insuperable height of airiest shade")[^f151n5] [500]
-- With their vast umbrage[^f151n6] the noon's fervent ray.
-- Thee, verdant mammey,[^f151n7] first, her song should praise:
+- ("Insuperable height of airiest shade")[^f151n4] [500]
+- With their vast umbrage[^f151n5] the noon's fervent ray.
+- Thee, verdant mammey,[^f151n6] first, her song should praise:
 
-> VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour,[^f151n8] and therefore the French call them *Les apricots de St. Domingue*:[^f151n9] accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them.[^f151n10] The fruit, eaten raw, is of an aperient[^f151n11] quality; and made into sweet-meats,
+> VER. 502. *mammey*\] This is a lofty, shady, and beautiful tree. Its fruit is as large as the largest melon, and of an exquisite smell, greatly superior to it in point of taste. Within the fruit are contained one or two large stones, which when distilled, give to spirits a ratafia flavour,[^f151n7] and therefore the French call them *Les apricots de St. Domingue*:[^f151n8] accordingly, the *l'eau des noiaux*, one of the best West-Indian cordials, is made from them.[^f151n9] The fruit, eaten raw, is of an aperient[^f151n10] quality; and made into sweet-meats,
 
 [^f151n1]: Early colonial reports from the Caribbean describe flourishing Amerindian gardens. Amerindians generally practiced conuco or mound cultivation, in which various plants were intercropped or cultivated together in ecologically sustainable fashion.
 
@@ -5389,21 +5380,19 @@ BOOK IV.
 
 [^f151n3]: Flora was the Roman goddess of springtime. 
 
-[^f151n4]: Pineapple.
+[^f151n4]: Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
 
-[^f151n5]: Gilmore identifies this quotation as an adaptation from Milton's *Paradise Lost*.  
+[^f151n5]: Shade.
 
-[^f151n6]: Shade.
+[^f151n6]: The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America. 
 
-[^f151n7]: The mammee apple (*Mammea americana*) is a large fruit native to the Caribbean and northern South America. 
+[^f151n7]: An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches. 
 
-[^f151n8]: An essence used as a flavouring for food and drink, typically extracted from almonds or the kernels of cherries, apricots, and peaches. 
+[^f151n8]: The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.  
 
-[^f151n9]: The apricots of St. Domingue. St. Domingue was a French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.  
+[^f151n9]: L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
 
-[^f151n10]: L'eau de noiaux refers to an alcoholic drink made by infusing a spirit with ratafia. Noyaux is the French term for the kernels of stone fruits.  
-
-[^f151n11]: Laxative.  
+[^f151n10]: Laxative.  
 
 ---
 
@@ -5416,20 +5405,20 @@ BOOK IV.
 - With pious awe; for thine high-flavoured fruit,
 - The airy phantoms of their friends deceas'd
 - Joy'd to regale on.——Such their simple creed.
-- The tamarind[^f152n2] likewise should adorn her theme,
+- The tamarind likewise should adorn her theme,
 - With whose tart fruit the sweltering fever loves [510]
 - To quench his thirst, whose breezy umbrage soon
 - Shades the pleas'd planter, shades his children long.
-- Nor, lofty cassia,[^f152n3] should she not recount
+- Nor, lofty cassia, should she not recount
 - Thy woodland honours! See, what yellow flowers
 - Dance in the gale, and scent the ambient air; [515]
 - While thy long pods, full-fraught with nectared sweets,
 - Relieve the bowels from their lagging load.
-- Nor chirimoia,[^f152n4] though these torrid isles
+- Nor chirimoia,[^f152n2] though these torrid isles
 - Boast not thy fruit, to which the anana yields
 - In taste and flavour, wilt thou coy refuse [520]
 
-> *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart.[^f152n5] The botanical name is *Achras*.
+> *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart.[^f152n3] The botanical name is *Achras*.
 
 > VER. 509. *tamarind*\] See Book I. p. 44.
 
@@ -5437,13 +5426,9 @@ BOOK IV.
 
 [^f152n1]: A term used in the ancient and medieval periods to signify man-eaters. It is now much less used than the term cannibal, which Columbus invented to name the Carib peoples that he encountered in the Americas. Columbus suggested that the Caribs were "Caniba" or subjects of the Great Khan, whose lands he was hoping to find. He also suggested that the Caribs ate human flesh, although there is little to no evidence that they actually did.  
 
-[^f152n2]: The tamarind tree (*Tamarindicus indica*) is probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.  
+[^f152n2]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
 
-[^f152n3]: Cassia is probably *Cassia fistula*, commonly used as a purgative. It is likely native to India and Sri Lanka.  
-
-[^f152n4]: *Annona cherimola*, a fruit that originated in South America and is perhaps native to Ecuador.  
-
-[^f152n5]: The mammee sapota is actually different from the mammee apple (the fruit Grainger describes in lines 502-508). The mammee sapota (*Pouteria sapota*) is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
+[^f152n3]: The mammee sapota is actually different from the mammee apple (the fruit Grainger describes in lines 502-508). The mammee sapota (*Pouteria sapota*) is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
 
 ---
 
