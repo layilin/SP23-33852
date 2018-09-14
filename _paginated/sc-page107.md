@@ -40,7 +40,7 @@ order: 115
 
 [^f107n3]: Limestone is a rock that yields lime when calcined or burnt. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitated impurities.
 
-[^f107n4]: Bristol was located in the southwest of England and was one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
+[^f107n4]: Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
 
 [^f107n5]: A line from William Whitehead's poem, "An Hymn to the Nymph of Bristol Spring" (1751). 
 
