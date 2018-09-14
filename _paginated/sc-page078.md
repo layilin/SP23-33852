@@ -30,7 +30,7 @@ order: 86
 - AND shall not Hymen[^f78n4] light his brightest torch,
 - For this delighted pair? Ah, Junio knew,
 
-> VER. 441. *sappadillas*\] This is a pleasant-tasted fruit, somewhat resembling a bergamot-pear, in shape and colour. The tree which produces it, is large and shady. Its leaves are of a shining green; but the flowers, which are monopetalous, are of a palish white. The fruit is coronated when ripe, and contains, in its pulp, several longish black seeds. It is wholesome. Antigua[^f78n5] produces the best sappadillas I ever tasted. The trivial name is Spanish. Botanists call it *Cainito*.
+> VER. 441. *sappadillas*\] This is a pleasant-tasted fruit, somewhat resembling a bergamot-pear, in shape and colour. The tree which produces it, is large and shady. Its leaves are of a shining green; but the flowers, which are monopetalous, are of a palish white. The fruit is coronated when ripe, and contains, in its pulp, several longish black seeds. It is wholesome. Antigua produces the best sappadillas I ever tasted. The trivial name is Spanish. Botanists call it *Cainito*.
 
 [^f78n1]: The sapodilla (*Manilkara zapota*), also known as the nasebery or nispero, is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean.
 
@@ -39,7 +39,5 @@ order: 86
 [^f78n3]: Bishop Thomas Percy (1729-1811) was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana. 
 
 [^f78n4]: Greek god of marriage.
-
-[^f78n5]: One of the Leeward Islands; St. Kitts lies just to the west of it. Antigua was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
 ---
