@@ -715,7 +715,7 @@ BOOK I.
 
 [^f16n1]: Earth, lands.  
 
-[^f16n2]: Refers to William III (1650-1702), king of England, Scotland, and Ireland and prince of Orange, and Queen Anne (1665-1714), queen of England, Scotland, and Ireland. William III and his wife Mary II ascended to the throne after the abdication of James II at the end of the Glorious Revolution (1688-1689). Anne, sister to Mary II, succeeded William III in 1702 as he and Mary died without issue.  
+[^f16n2]: Refers to William III (1650-1702), king of England, Scotland, and Ireland and prince of Orange, and Queen Anne (1665-1714), queen of England, Scotland, and Ireland. William III and his wife Mary II ascended to the throne after the abdication of James II at the end of the Glorious Revolution (1688-1689). Anne, sister to Mary II, succeeded William III in 1702.  
 
 [^f16n3]: Thomas Warner (c.1580-1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. In 1624, he settled in St. Kitts, where he established tobacco plantations and formed an alliance with the French against the Caribs. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
 
