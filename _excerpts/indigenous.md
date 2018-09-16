@@ -2,9 +2,14 @@
 layout: poem
 title: "Indigeneity"
 editor: Kimberly Takahata
----
+--- 
 
-## Indigeneity  
+<img src="{{site.baseurl}}/assets/indigenous.jpg"
+alt="Cassava plant"
+class="center-image" />
+
+
+## Indigeneity 
 
 Long before the arrival of European imperial agents, the Caribbean was home for milennia to Amerindians who learned to use its vast natural resources. Indeed, the Caribbean itself draws its name from the Carib peoples. The Kalinago Caribs inhabited the Leeward and Windward Islands, while the Kalina Caribs resided in northern South America. The Arawaks, so named because of their language, also inhabited the Greater and Lesser Antilles and coastal South America, and as a result, the Caribs and Arawaks often clashed over territorial rights. Each of these groups relied upon and utilized the region's natural resources: cultivating crops for food and drink and learning which plants' shoots and juices could be used as medicine or wielded as poison. 
 
