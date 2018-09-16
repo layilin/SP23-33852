@@ -4,7 +4,7 @@ title: "page 144"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0158.jpg"
-order: 152
+order: 158
 ---
 
 
@@ -32,4 +32,3 @@ order: 152
 
 [^f144n1]: Dryness, thirst.  
 
----

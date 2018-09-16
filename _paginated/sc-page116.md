@@ -4,7 +4,7 @@ title: "page 116"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0130.jpg"
-order: 124
+order: 130
 ---
 
 
@@ -39,4 +39,3 @@ order: 124
 
 [^f116n4]: Ringworm, or *tinea*, is the name given to a fungal infection of the skin, scalp, or nails that produces lesions in the shape of partial or complete rings. It spreads by direct contact or through infected materials.
 
----

@@ -4,7 +4,7 @@ title: "page 90"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0104.jpg"
-order: 98
+order: 104
 ---
 
 
@@ -43,4 +43,3 @@ order: 98
 
 [^f90n4]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
 
----

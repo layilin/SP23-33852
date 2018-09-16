@@ -4,7 +4,7 @@ title: "page 52"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0066.jpg"
-order: 60
+order: 66
 ---
 
 
@@ -17,4 +17,3 @@ Of rats and other vermin. Of weeds. Of the yellow fly. Of
 the greasy fly. Of the blast. A hurricane described. Of calms  
 and earthquakes. A tale.*
 
----

@@ -4,7 +4,7 @@ title: "page 149"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0163.jpg"
-order: 157
+order: 163
 ---
 
 
@@ -51,4 +51,3 @@ order: 157
 
 [^f149n10]: Suitable for food, edible.  
 
----

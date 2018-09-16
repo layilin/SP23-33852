@@ -4,7 +4,7 @@ title: "page 61"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0075.jpg"
-order: 69
+order: 75
 ---
 
 
@@ -37,4 +37,3 @@ order: 69
 
 [^f61n7]: Medicine in the form of a paste or preserve.
 
----

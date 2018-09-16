@@ -4,7 +4,7 @@ title: "page 129"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0143.jpg"
-order: 137
+order: 143
 ---
 
 
@@ -45,4 +45,3 @@ order: 137
 
 [^f129n5]: Rice, yams, and maize were three major food crops in West Africa. While rice (*Oryza glaberrima*) and yams (one of many species of tuber within the *Dioscorea* genus) were native to the region, maize or corn (*Zea mays*) was not: maize's native range is Mexico and Guatemala. Maize was, however, introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).
 
----

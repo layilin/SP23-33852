@@ -4,7 +4,7 @@ title: "page 131"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0145.jpg"
-order: 139
+order: 145
 ---
 
 
@@ -44,4 +44,3 @@ order: 139
 
 [^f131n4]: The cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. As Grainger and others note, the fruit of the cashew tree is caustic, and it was supposedly used by women as a chemical peel to remove freckles (Riddell 82-83).  
 
----

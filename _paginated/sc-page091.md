@@ -4,7 +4,7 @@ title: "page 91"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0105.jpg"
-order: 99
+order: 105
 ---
 
 
@@ -41,4 +41,3 @@ order: 99
 
 [^f91n1]: Bagasse refers to the crushed sugar cane stalks that are the byproduct of milling cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
 
----

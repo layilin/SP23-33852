@@ -4,7 +4,7 @@ title: "page 60"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0074.jpg"
-order: 68
+order: 74
 ---
 
 
@@ -53,4 +53,3 @@ order: 68
 
 [^f60n11]: *Pisum sativum*, also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
----

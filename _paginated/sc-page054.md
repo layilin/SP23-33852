@@ -4,7 +4,7 @@ title: "page 54"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0068.jpg"
-order: 62
+order: 68
 ---
 
 
@@ -40,4 +40,3 @@ order: 62
 
 [^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86).  
 
----

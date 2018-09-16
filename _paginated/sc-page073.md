@@ -4,7 +4,7 @@ title: "page 73"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0087.jpg"
-order: 81
+order: 87
 ---
 
 
@@ -41,4 +41,3 @@ order: 81
 
 [^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
 
----

@@ -4,7 +4,7 @@ title: "page 80"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0094.jpg"
-order: 88
+order: 94
 ---
 
 
@@ -44,4 +44,3 @@ order: 88
 
 [^f80n3]: River in southwest France that empties into the Bay of Biscay near Rochefort; the site of an important French naval base.  
 
----

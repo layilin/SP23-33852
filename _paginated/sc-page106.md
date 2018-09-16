@@ -4,7 +4,7 @@ title: "page 106"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0120.jpg"
-order: 114
+order: 120
 ---
 
 
@@ -37,4 +37,3 @@ order: 114
 
 [^f106n7]: Also alkalescent. Tending to become alkaline (having a pH greater than 7).  
 
----

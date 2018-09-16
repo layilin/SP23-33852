@@ -4,7 +4,7 @@ title: "page 118"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0132.jpg"
-order: 126
+order: 132
 ---
 
 
@@ -45,4 +45,3 @@ order: 126
 
 [^f118n5]: A one-handed snare drum often played as a military instrument.
 
----

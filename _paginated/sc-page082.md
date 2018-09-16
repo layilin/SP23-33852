@@ -4,7 +4,7 @@ title: "page 82"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0096.jpg"
-order: 90
+order: 96
 ---
 
 
@@ -41,4 +41,3 @@ order: 90
 
 [^f82n3]: A swift horse, a racer. 
 
----

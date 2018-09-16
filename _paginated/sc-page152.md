@@ -4,7 +4,7 @@ title: "page 152"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0166.jpg"
-order: 160
+order: 166
 ---
 
 
@@ -43,4 +43,3 @@ order: 160
 
 [^f152n3]: The mammee sapota is actually different from the mammee apple (the fruit Grainger describes in lines 502-508). The mammee sapota (*Pouteria sapota*) is a sweet fruit whose native range is Mexico and Central America. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
 
----

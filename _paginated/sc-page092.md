@@ -4,7 +4,7 @@ title: "page 92"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0106.jpg"
-order: 100
+order: 106
 ---
 
 
@@ -41,4 +41,3 @@ order: 100
 
 [^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.  
 
----

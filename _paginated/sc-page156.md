@@ -4,7 +4,7 @@ title: "page 156"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0170.jpg"
-order: 164
+order: 170
 ---
 
 
@@ -37,4 +37,3 @@ order: 164
 
 [^f156n3]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
 
----

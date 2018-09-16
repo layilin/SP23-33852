@@ -4,7 +4,7 @@ title: "page 89"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0103.jpg"
-order: 97
+order: 103
 ---
 
 
@@ -45,4 +45,3 @@ order: 97
 
 [^f89n6]: Gout is metabolic arthritis, frequently in the joints of the large toe, resulting in painful inflammations caused by deposits of uric acid crystals. Palsy is paralysis of the skeletal muscles. Sciatica is irritation or inflammation of the sciatic nerve. It causes severe pain from the lower back to the legs. Obstructions are blocks in any tubular organ or structure, (i.e., an intestinal bowel blockage, which causes vomiting, distension, and abdominal pain).  
 
----

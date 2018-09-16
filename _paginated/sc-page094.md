@@ -4,7 +4,7 @@ title: "page 94"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0108.jpg"
-order: 102
+order: 108
 ---
 
 
@@ -42,4 +42,3 @@ order: 102
 
 [^f94n4]: Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and planters also saw them as helping to lighten the burden of the labor being performed. In short, they saw music and singing as making work more pleasant and thereby ensuring compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see <a href="https://gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/" target="blank">"Song of slaves in Barbados"</a>). A <a href="https://gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3" target="blank">recording of the song</a> by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, which imbues it with a sorrowful and tragic dimension.
 
----

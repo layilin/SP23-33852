@@ -4,7 +4,7 @@ title: "page 53"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0067.jpg"
-order: 61
+order: 67
 ---
 
 
@@ -35,4 +35,3 @@ BOOK II.
 
 [^f53n3]: Roman god of fire. Here, Grainger refers to the use of fire in the process of distilling spirits (rum) from fermented molasses.  
 
----

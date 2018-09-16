@@ -4,7 +4,7 @@ title: "page 64"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0078.jpg"
-order: 72
+order: 78
 ---
 
 
@@ -41,4 +41,3 @@ order: 72
 
 [^f64n4]: Sloane discusses the propagation of cochineal in his *Voyage* (2.208).
 
----

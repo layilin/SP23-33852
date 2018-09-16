@@ -4,7 +4,7 @@ title: "page 115"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0129.jpg"
-order: 123
+order: 129
 ---
 
 
@@ -36,4 +36,3 @@ order: 123
 
 [^f115n3]: Dwellings of the enslaved.
 
----

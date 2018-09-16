@@ -4,7 +4,7 @@ title: "page 143"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0157.jpg"
-order: 151
+order: 157
 ---
 
 
@@ -40,4 +40,3 @@ order: 151
 
 [^f143n2]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
 
----

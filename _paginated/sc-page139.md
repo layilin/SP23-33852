@@ -4,7 +4,7 @@ title: "page 139"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0153.jpg"
-order: 147
+order: 153
 ---
 
 
@@ -41,4 +41,3 @@ order: 147
 
 [^f139n4]: Because yaws, like smallpox, seemed to infect a person only once in life, Grainger wonders whether inoculation might not be a good way to fight yaws. Popularized in Europe and the Americas as a treatment against smallpox in 1722, inoculation involved puncturing the skin of a healthy individual and deliberately infecting him or her with pustulent matter from a live smallpox sore. This procedure was extremely dangerous by modern standards because the virus was not attenuated and the inoculee came down with a case of smallpox. Inoculation nevertheless had a much lower rate of mortality than being infected by smallpox naturally.  
 
----

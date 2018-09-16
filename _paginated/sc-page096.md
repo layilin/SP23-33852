@@ -4,7 +4,7 @@ title: "page 96"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0110.jpg"
-order: 104
+order: 110
 ---
 
 
@@ -32,4 +32,3 @@ order: 104
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
 
----

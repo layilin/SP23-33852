@@ -4,7 +4,7 @@ title: "page 145"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0159.jpg"
-order: 153
+order: 159
 ---
 
 
@@ -38,4 +38,3 @@ order: 153
 
 [^f145n2]: Also known as Phosphorus. In Greek mythology, the bringer of morning light.  
 
----

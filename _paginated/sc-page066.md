@@ -4,7 +4,7 @@ title: "page 66"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0080.jpg"
-order: 74
+order: 80
 ---
 
 
@@ -39,4 +39,3 @@ order: 74
 
 [^f66n3]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas.  
 
----

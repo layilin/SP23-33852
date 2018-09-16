@@ -4,7 +4,7 @@ title: "page 125"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0139.jpg"
-order: 133
+order: 139
 ---
 
 
@@ -43,4 +43,3 @@ BOOK IV.
 
 [^f125n7]: Braid.
 
----

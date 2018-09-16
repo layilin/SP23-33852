@@ -4,7 +4,7 @@ title: "page 105"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0119.jpg"
-order: 113
+order: 119
 ---
 
 
@@ -48,4 +48,3 @@ order: 113
 
 [^f105n6]: Eighteenth-century scientists studying the composition of plants posited that they contained essential salts or acids and minerals obtained by the crystallization of plant juices. 
 
----

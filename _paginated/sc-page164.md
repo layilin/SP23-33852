@@ -4,7 +4,7 @@ title: "page 164"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0178.jpg"
-order: 172
+order: 178
 ---
 
 
@@ -77,4 +77,3 @@ G.
 GUava-tree, p. 7.  
 Guaiac-tree, p. 7.  
 
----

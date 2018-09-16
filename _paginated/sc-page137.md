@@ -4,7 +4,7 @@ title: "page 137"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0151.jpg"
-order: 145
+order: 151
 ---
 
 
@@ -44,4 +44,3 @@ order: 145
 
 [^f137n5]: Moor, a name for a native or inhabitant of Mauretania in North Africa (modern Morocco and Algeria versus Mauritania).  
 
----

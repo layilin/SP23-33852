@@ -4,7 +4,7 @@ title: "page 100"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0114.jpg"
-order: 108
+order: 114
 ---
 
 
@@ -50,4 +50,3 @@ order: 108
 
 [^f100n8]: Sebastian Cabot (c. 1481/2-1557) was a Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).
 
----

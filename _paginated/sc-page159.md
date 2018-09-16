@@ -4,7 +4,7 @@ title: "page 159"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0173.jpg"
-order: 167
+order: 173
 ---
 
 
@@ -56,4 +56,3 @@ order: 167
 
 [^f159n10]: A substance that promotes the excretion of urine.
 
----

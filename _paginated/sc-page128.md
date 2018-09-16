@@ -4,7 +4,7 @@ title: "page 128"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0142.jpg"
-order: 136
+order: 142
 ---
 
 
@@ -47,4 +47,3 @@ order: 136
 
 [^f128n6]: Gang was the general term used to designate groups of enslaved persons. 
 
----

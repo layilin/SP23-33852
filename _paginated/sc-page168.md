@@ -3,7 +3,7 @@ layout: poem-page
 title: "page 168"
 editor: Julie Kim
 source: "1764 edition"
-order: 176
+order: 182
 ---
 
 
@@ -29,4 +29,3 @@ Page 128, line 58, for *art* read *want*.
 Page 132, in note, for *rhinds* read *rinds*.  
 Page 141, in note, for *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;* read *&#922;&#945;&#963;&#963;&#953; &#932;&#949;&#961;&#959;&#957;*.
 
----

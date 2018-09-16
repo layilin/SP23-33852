@@ -4,7 +4,7 @@ title: "page 67"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0081.jpg"
-order: 75
+order: 81
 ---
 
 
@@ -41,4 +41,3 @@ order: 75
 
 [^f67n4]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
 
----

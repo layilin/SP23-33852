@@ -4,7 +4,7 @@ title: "page 77"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0091.jpg"
-order: 85
+order: 91
 ---
 
 
@@ -32,4 +32,3 @@ order: 85
 
 [^f77n8]: The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range is western South America, and *Erythroxylum novogranatense*, whose native range is Colombia to northwestern Venezuela and Peru.  
 
----

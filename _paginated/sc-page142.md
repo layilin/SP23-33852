@@ -4,7 +4,7 @@ title: "page 142"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0156.jpg"
-order: 150
+order: 156
 ---
 
 
@@ -42,4 +42,3 @@ order: 150
 
 [^f142n4]: Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
 
----

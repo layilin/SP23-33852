@@ -4,7 +4,7 @@ title: "page 120"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0134.jpg"
-order: 128
+order: 134
 ---
 
 
@@ -52,4 +52,3 @@ order: 128
 
 [^f120n10]: The War of Austrian Succession (1740-1748), during which a French force unsuccessfully tried to invade Anguilla in 1745. 
 
----

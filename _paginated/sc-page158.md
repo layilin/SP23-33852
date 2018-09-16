@@ -4,7 +4,7 @@ title: "page 158"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0172.jpg"
-order: 166
+order: 172
 ---
 
 
@@ -39,4 +39,3 @@ order: 166
 
 [^f158n3]: The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).
 
----

@@ -4,7 +4,7 @@ title: "page 65"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0079.jpg"
-order: 73
+order: 79
 ---
 
 
@@ -50,4 +50,3 @@ order: 73
 
 [^f65n7]: "It rejoices in watering, and it loves to drink the whole year round." Adapted from Pliny the Elder's *Naturalis Historia*, Book XIII, Chapter 7. The original line reads, "*Gaudet riguis totoque anno bibere, cum amet sitientia*." 
 
----

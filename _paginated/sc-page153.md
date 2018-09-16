@@ -4,7 +4,7 @@ title: "page 153"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0167.jpg"
-order: 161
+order: 167
 ---
 
 
@@ -41,4 +41,3 @@ order: 161
 
 [^f153n7]: Grainger is saying its bark can be used to make laths or strips of wood used in building. 
 
----

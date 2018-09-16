@@ -4,7 +4,7 @@ title: "page 141"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0155.jpg"
-order: 149
+order: 155
 ---
 
 
@@ -40,4 +40,3 @@ order: 149
 
 [^f141n6]: The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
 
----

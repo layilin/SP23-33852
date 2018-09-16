@@ -4,7 +4,7 @@ title: "page 71"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0085.jpg"
-order: 79
+order: 85
 ---
 
 
@@ -38,4 +38,3 @@ order: 79
 
 [^f71n2]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
----

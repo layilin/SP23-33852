@@ -4,7 +4,7 @@ title: "page 109"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0123.jpg"
-order: 117
+order: 123
 ---
 
 
@@ -38,4 +38,3 @@ order: 117
 
 [^f109n2]: Edmund Waller (1606-1687), English poet and politician and author of "The Battle of the Summer Islands" (1645), a mock-heroic set in Bermuda.
 
----

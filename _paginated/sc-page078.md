@@ -4,7 +4,7 @@ title: "page 78"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0092.jpg"
-order: 86
+order: 92
 ---
 
 
@@ -40,4 +40,3 @@ order: 86
 
 [^f78n4]: Greek god of marriage.
 
----

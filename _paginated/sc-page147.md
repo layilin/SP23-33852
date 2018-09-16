@@ -4,7 +4,7 @@ title: "page 147"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0161.jpg"
-order: 155
+order: 161
 ---
 
 
@@ -43,4 +43,3 @@ order: 155
 
 [^f147n4]: The waters off the coast of Newfoundland in the North Atlantic constituted one of the major fisheries of the world for the Atlantic cod (*Gadus morhua*) in the eighteenth century. Planters imported cod for enslaved laborers, who needed protein, but they imported what came to be known as "West India cod," which was salted cod of the poorest quality. 
 
----

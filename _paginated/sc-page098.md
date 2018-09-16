@@ -4,7 +4,7 @@ title: "page 98"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0112.jpg"
-order: 106
+order: 112
 ---
 
 
@@ -42,4 +42,3 @@ order: 106
 
 [^f98n4]: A watershed in Antigua. 
 
----

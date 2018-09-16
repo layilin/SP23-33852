@@ -4,7 +4,7 @@ title: "page 102"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0116.jpg"
-order: 110
+order: 116
 ---
 
 
@@ -52,4 +52,3 @@ order: 110
 
 [^f102n8]: Havana, the capital of Cuba, which the British took in 1762 during the Seven Years' War.
 
----

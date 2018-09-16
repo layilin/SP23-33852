@@ -4,7 +4,7 @@ title: "page 63"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0077.jpg"
-order: 71
+order: 77
 ---
 
 
@@ -40,4 +40,3 @@ order: 71
 
 [^f63n3]: May be *Diachlorus ferrugatus*, a small biting fly native to Central America and the southeastern United States.
 
----

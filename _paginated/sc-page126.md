@@ -4,7 +4,7 @@ title: "page 126"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0140.jpg"
-order: 134
+order: 140
 ---
 
 
@@ -52,4 +52,3 @@ order: 134
 
 [^f126n8]: Grainger's invocation of an Indian wreath further makes the point that the poem is a product of the Caribbean.
 
----

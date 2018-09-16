@@ -4,7 +4,7 @@ title: "page 113"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0127.jpg"
-order: 121
+order: 127
 ---
 
 
@@ -38,4 +38,3 @@ order: 121
 
 [^f113n2]: Also bayard. A bay horse or mule.
 
----

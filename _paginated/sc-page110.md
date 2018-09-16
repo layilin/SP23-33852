@@ -4,7 +4,7 @@ title: "page 110"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0124.jpg"
-order: 118
+order: 124
 ---
 
 
@@ -31,4 +31,3 @@ order: 118
 
 [^f110n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."   
 
----

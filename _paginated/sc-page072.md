@@ -4,7 +4,7 @@ title: "page 72"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0086.jpg"
-order: 80
+order: 86
 ---
 
 
@@ -36,4 +36,3 @@ order: 80
 
 [^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
 
----

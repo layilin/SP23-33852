@@ -4,7 +4,7 @@ title: "page 148"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0162.jpg"
-order: 156
+order: 162
 ---
 
 
@@ -39,4 +39,3 @@ order: 156
 
 [^f148n3]: John Ogilby's *America: being the latest, and most accurate description of the New World* (1671). Ogilby (1600-1676) was a Scottish publisher and geographer.
 
----

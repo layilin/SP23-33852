@@ -4,7 +4,7 @@ title: "page 107"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0121.jpg"
-order: 115
+order: 121
 ---
 
 
@@ -46,4 +46,3 @@ order: 115
 
 [^f107n6]: Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
 
----

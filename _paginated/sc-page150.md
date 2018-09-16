@@ -4,7 +4,7 @@ title: "page 150"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0164.jpg"
-order: 158
+order: 164
 ---
 
 
@@ -51,4 +51,3 @@ order: 158
 
 [^f150n6]: Grainger refers here to enslaved persons who have run away from plantations.  
 
----

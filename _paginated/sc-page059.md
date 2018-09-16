@@ -4,7 +4,7 @@ title: "page 59"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0073.jpg"
-order: 67
+order: 73
 ---
 
 
@@ -44,4 +44,3 @@ order: 67
 
 [^f59n5]: The mongoose refers to a small carnivore and member of the family *Herpestidae*. There are many different species of mongoose, all native to the Old World. After the eighteenth century, the mongoose was purposefully introduced to the Caribbean and Pacific islands to exterminate the rat population. Because the mongoose also eats birds, amphibians, and reptiles, it has contributed to the destruction of local biodiversity on those islands and is considered an invasive species.
 
----

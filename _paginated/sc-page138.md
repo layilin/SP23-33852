@@ -4,7 +4,7 @@ title: "page 138"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0152.jpg"
-order: 146
+order: 152
 ---
 
 
@@ -42,4 +42,3 @@ order: 146
 
 [^f138n6]: Consisting or made of flour or meal, starchy.
 
----

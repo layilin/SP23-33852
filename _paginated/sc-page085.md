@@ -4,7 +4,7 @@ title: "page 85"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0099.jpg"
-order: 93
+order: 99
 ---
 
 
@@ -19,4 +19,3 @@ S U G A R - C A N E.
 
 BOOK III.  
 
----

@@ -4,7 +4,7 @@ title: "page 57"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0071.jpg"
-order: 65
+order: 71
 ---
 
 
@@ -34,4 +34,3 @@ order: 65
 
 [^f57n4]: Igbo (also Ibo) refers to an ethnic and linguistic group in the Bight of Biafra (now Bight of Bonny) in southern Nigeria. The Bight of Biafra was a major slave-trading region in the sixteenth through nineteenth centuries, and Igbo came to be a name designation used by slavers and planters. Although he was not Grainger's contemporary, Olaudah Equiano was a person of Igbo origin.  
 
----

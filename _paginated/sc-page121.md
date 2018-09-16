@@ -4,7 +4,7 @@ title: "page 121"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0135.jpg"
-order: 129
+order: 135
 ---
 
 
@@ -38,4 +38,3 @@ order: 129
 
 [^f121n2]: Gilmore identifies John Philips's *Cyder* as the source of this quotation. In these final lines of Book III, Grainger compares the Caribbean to Europe and enjoins scientists and natural philosophers to explore and learn about the New World's vast natural resources. As he does in his preface to the poem, he suggests that the pursuit of knowledge is a good in its own right and ought to take precedence over the more mundane pursuit of wealth.
 
----

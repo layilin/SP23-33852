@@ -4,7 +4,7 @@ title: "page 79"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0093.jpg"
-order: 87
+order: 93
 ---
 
 
@@ -44,4 +44,3 @@ order: 87
 
 [^f79n5]: Also known as the Venus de' Medici, a first-century BCE marble sculpture of Venus. It was housed in the Villa Medici in Rome before being transferred to Florence in the late seventeenth century. The sculpture was widely admired across Western Europe.  
 
----

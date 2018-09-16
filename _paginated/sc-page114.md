@@ -4,7 +4,7 @@ title: "page 114"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0128.jpg"
-order: 122
+order: 128
 ---
 
 
@@ -51,4 +51,3 @@ order: 122
 
 [^f114n8]: Paeon is a Greek god of healing, also known as Paean. By Paeon's son, Grainger is referring to himself.  
 
----

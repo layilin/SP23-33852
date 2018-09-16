@@ -4,7 +4,7 @@ title: "page 95"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0109.jpg"
-order: 103
+order: 109
 ---
 
 
@@ -45,4 +45,3 @@ order: 103
 
 [^f95n6]: To put a windmill "out of the wind" is to stop the mill by turning the sails so that they no longer catch the wind.  
 
----

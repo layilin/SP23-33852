@@ -4,7 +4,7 @@ title: "page 75"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0089.jpg"
-order: 83
+order: 89
 ---
 
 
@@ -39,4 +39,3 @@ order: 83
 
 [^f75n2]: Grainger is describing a tsunami or tidal wave. 
 
----

@@ -4,7 +4,7 @@ title: "page 104"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0118.jpg"
-order: 112
+order: 118
 ---
 
 
@@ -43,7 +43,4 @@ order: 112
 [^f104n4]: Cold.  
 
 [^f104n5]: When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and other ingredients to the cane juice to rid it of impurities.  
-
-
----
 

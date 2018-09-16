@@ -4,7 +4,7 @@ title: "page 112"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0126.jpg"
-order: 120
+order: 126
 ---
 
 
@@ -43,4 +43,3 @@ order: 120
 
 [^f112n4]: The thick syrup or scum produced during the sugar-boiling step of refining.
 
----

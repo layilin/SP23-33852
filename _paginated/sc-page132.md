@@ -4,7 +4,7 @@ title: "page 132"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0146.jpg"
-order: 140
+order: 146
 ---
 
 
@@ -43,4 +43,3 @@ order: 140
 
 [^f132n8]: Edible sap of some trees in the genus *Acacia*. Used as a binder or stabilizer in foods and medicines. 
 
----

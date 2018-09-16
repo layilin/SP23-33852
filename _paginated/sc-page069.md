@@ -4,7 +4,7 @@ title: "page 69"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0083.jpg"
-order: 77
+order: 83
 ---
 
 
@@ -44,4 +44,3 @@ order: 77
 
 [^f69n5]: House.
 
----

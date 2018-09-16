@@ -4,7 +4,7 @@ title: "page 133"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0147.jpg"
-order: 141
+order: 147
 ---
 
 
@@ -43,4 +43,3 @@ order: 141
 
 [^f133n4]: Having to do with Tartarus, the part of the Greek underworld reserved for the wicked. Here, Grainger refers to the work of miners. Improved technology in the seventeenth century facilitated the construction of deeper coal mines in Scotland, where coal became a major domestic export. Deep mines, sometimes extending hundreds of feet into the earth, were necessary because the rising demand for coal quickly exhausted accessible deposits.  
 
----

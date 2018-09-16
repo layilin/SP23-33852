@@ -4,7 +4,7 @@ title: "page 154"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0168.jpg"
-order: 162
+order: 168
 ---
 
 
@@ -38,4 +38,3 @@ order: 162
 
 [^f154n5]: Sticky, adhesive. 
 
----

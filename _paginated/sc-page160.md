@@ -4,7 +4,7 @@ title: "page 160"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0174.jpg"
-order: 168
+order: 174
 ---
 
 
@@ -44,4 +44,3 @@ order: 168
 
 [^f160n3]: If commerce has been the implicit theme of *The Sugar-Cane*, here Grainger personifies it explicitly as the core of Britain's power.
 
----

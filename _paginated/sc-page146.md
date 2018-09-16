@@ -4,7 +4,7 @@ title: "page 146"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0160.jpg"
-order: 154
+order: 160
 ---
 
 
@@ -40,4 +40,3 @@ order: 154
 
 [^f146n6]: Dr. Stork was Anton von Störck (1731-1803), a physician from Vienna known for his research on poisonous plants.  
 
----

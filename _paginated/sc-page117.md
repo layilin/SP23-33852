@@ -4,7 +4,7 @@ title: "page 117"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0131.jpg"
-order: 125
+order: 131
 ---
 
 
@@ -44,4 +44,3 @@ order: 125
 
 [^f117n5]: Anthelmintic (also anthelminthic, antihelminthic) drugs are used to expel or kill parasitic worms, especially intestinal ones. 
 
----

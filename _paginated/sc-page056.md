@@ -4,7 +4,7 @@ title: "page 56"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0070.jpg"
-order: 64
+order: 70
 ---
 
 
@@ -41,4 +41,3 @@ order: 64
 
 [^f56n5]: Grainger may have been referring to a passage from Hans Sloane's *A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725) that reads, "Rats are likewise sold by the dozen, and when they have been bred amongst the Sugar-Canes, are thought by some discerning people very delicious Victuals" (1.xx). Sloane seems to imply that all Jamaicans, and not just the enslaved, ate rats. These may not have been black and brown rats from Europe, however, but Jamaican rice rats (*Oryzomys antillarum*), which are now considered extinct. 
 
----

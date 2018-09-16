@@ -4,7 +4,7 @@ title: "page 62"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0076.jpg"
-order: 70
+order: 76
 ---
 
 
@@ -41,4 +41,3 @@ order: 70
 
 [^f62n4]: *Rheum rhabarbarum*, a plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit. *Donum Dei* means the gift of God. 
 
----

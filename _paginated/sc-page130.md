@@ -4,7 +4,7 @@ title: "page 130"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0144.jpg"
-order: 138
+order: 144
 ---
 
 
@@ -49,4 +49,3 @@ order: 138
 
 [^f130n7]: Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
----

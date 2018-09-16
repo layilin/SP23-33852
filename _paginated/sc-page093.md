@@ -4,7 +4,7 @@ title: "page 93"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0107.jpg"
-order: 101
+order: 107
 ---
 
 
@@ -40,4 +40,3 @@ order: 101
 
 [^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
 
----

@@ -4,7 +4,7 @@ title: "page 136"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0150.jpg"
-order: 144
+order: 150
 ---
 
 
@@ -43,4 +43,3 @@ order: 144
 
 [^f136n4]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's 1767 *Considerations on Slavery* (15-16).  
 
----

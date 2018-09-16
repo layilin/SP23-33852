@@ -4,7 +4,7 @@ title: "page 140"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0154.jpg"
-order: 148
+order: 154
 ---
 
 
@@ -44,4 +44,3 @@ order: 148
 
 [^f140n4]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
 
----

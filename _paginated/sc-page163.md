@@ -4,7 +4,7 @@ title: "page 163"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0177.jpg"
-order: 171
+order: 177
 ---
 
 
@@ -69,4 +69,3 @@ Cassada-shrub, p. 41.
 Cotton-shrub, p. 42.  
 Cacao-tree, p. 42.  
 
----

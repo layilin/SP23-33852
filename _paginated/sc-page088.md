@@ -4,7 +4,7 @@ title: "page 88"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0102.jpg"
-order: 96
+order: 102
 ---
 
 
@@ -36,4 +36,3 @@ order: 96
 
 [^f88n3]: Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
 
----

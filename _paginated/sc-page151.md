@@ -4,7 +4,7 @@ title: "page 151"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0165.jpg"
-order: 159
+order: 165
 ---
 
 
@@ -53,4 +53,3 @@ order: 159
 
 [^f151n10]: Laxative.   
 
----

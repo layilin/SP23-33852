@@ -4,7 +4,7 @@ title: "page 76"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0090.jpg"
-order: 84
+order: 90
 ---
 
 
@@ -44,4 +44,3 @@ order: 84
 
 [^f76n5]: Egyptian goddess associated with agriculture and marriage. Isis was eventually apropriated into Greek and Roman mythology, becoming a common figure in eighteenth-century British poetry. In the context of these lines, Isis is used as a name for the Thames as it passes through Oxford. 
 
----

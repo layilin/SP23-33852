@@ -4,7 +4,7 @@ title: "page 81"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0095.jpg"
-order: 89
+order: 95
 ---
 
 
@@ -52,4 +52,3 @@ order: 89
 
 [^f81n11]: One of the Lesser Antilles; colonized by the English in 1627. Gained independence in 1966.  
 
----
