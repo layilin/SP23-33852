@@ -4,7 +4,7 @@ title: "page 25"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0039.jpg"
-order: 33
+order: 39
 ---
 
 
@@ -39,4 +39,3 @@ order: 33
 
 [^f25n5]: Pierre-Louis Moreau de Maupertuis (1698-1759), French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
----

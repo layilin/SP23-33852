@@ -4,7 +4,7 @@ title: "page 23"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0037.jpg"
-order: 31
+order: 37
 ---
 
 
@@ -44,4 +44,3 @@ order: 31
 
 [^f23n3]: By Ceres' son, Grainger means Jethro Tull (1674-1741), an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731). Ceres is the Italo-Roman goddess of growth and agriculture.   
 
----

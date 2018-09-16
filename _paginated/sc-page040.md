@@ -4,7 +4,7 @@ title: "page 40"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0054.jpg"
-order: 48
+order: 54
 ---
 
 
@@ -38,4 +38,3 @@ order: 48
 
 [^f40n3]: In the eighteenth century, the term creole was used to refer to individuals born in the Americas, regardless of ancestry.
 
----

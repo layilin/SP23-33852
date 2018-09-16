@@ -4,7 +4,7 @@ title: "page 46"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0060.jpg"
-order: 54
+order: 60
 ---
 
 
@@ -40,4 +40,3 @@ order: 54
 
 [^f46n3]: The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the US Virgin Islands.
 
----

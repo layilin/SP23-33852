@@ -4,7 +4,7 @@ title: "page 13"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0027.jpg"
-order: 21
+order: 27
 ---
 
 
@@ -41,4 +41,3 @@ order: 21
 
 [^f13n8]: Thomas Modyford, first baronet (c. 1620-1679), served as governor of Jamaica from 1664 to 1669.
 
----

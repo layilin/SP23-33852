@@ -4,7 +4,7 @@ title: "page 8"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0022.jpg"
-order: 16
+order: 22
 ---
 
 
@@ -43,5 +43,4 @@ order: 16
 
 [^f8n8]: Anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.
 
----
 

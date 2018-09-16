@@ -4,7 +4,7 @@ title: "page vii"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0013.jpg"
-order: 7
+order: 13
 ---
 
 
@@ -35,4 +35,3 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [^fviin5]: Basseterre is the capital of St. Kitts.  
 
----

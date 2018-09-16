@@ -4,7 +4,7 @@ title: "page 41"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0055.jpg"
-order: 49
+order: 55
 ---
 
 
@@ -37,4 +37,3 @@ order: 49
 
 [^f41n6]: Tannia and taro leaves were primarily consumed by the enslaved because they contained needle-like crystals of calcium oxalate. These crystals irritated the mouth and throat when eaten, and the leaves had to be boiled for a long period of time to reduce what was known as the "scratching" effect (Higman 86-87).  
 
----

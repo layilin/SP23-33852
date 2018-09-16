@@ -4,7 +4,7 @@ title: "page 33"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0047.jpg"
-order: 41
+order: 47
 ---
 
 
@@ -39,4 +39,3 @@ order: 41
 
 [^f33n1]: Roman god of the sea.  
 
----

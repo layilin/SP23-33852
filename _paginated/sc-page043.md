@@ -4,7 +4,7 @@ title: "page 43"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0057.jpg"
-order: 51
+order: 57
 ---
 
 
@@ -43,4 +43,3 @@ order: 51
 
 [^f43n11]: The "Errata" list at the end of *The Sugar-Cane* indicates that "eighty" should read "one hundred and fifty."  
 
----

@@ -4,7 +4,7 @@ title: "page 11"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0025.jpg"
-order: 19
+order: 25
 ---
 
 
@@ -47,4 +47,3 @@ order: 19
 
 [^f11n5]: Europeans generally believed in climatist theories of health and identity. These suggested that human bodies adapted to their environments and that temperate climates (and societies) were superior to tropical ones. As a result, colonists worried that their skin color would change in tropical climates and that this change would be a sign of physical and moral degeneration.   
 
----

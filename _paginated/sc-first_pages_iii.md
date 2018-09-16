@@ -4,7 +4,7 @@ title: "title page 2"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0009.jpg"
-order: 3
+order: 9
 ---
 
 
@@ -39,4 +39,3 @@ MDCCLXIV.
 
 [^ftp2n1]: A passage from the Roman poet Manilius' *Astronomica*. One translation reads, "[A]nd to be the first to stir with these new strains the nodding leaf-capped woods of Helicon, as I bring novel offerings untold by any before me: this is my aim" (Goold 5). Helicon is a mountain sacred to the Muses and hence a site associated with poetic inspiration. 
 
----

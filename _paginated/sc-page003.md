@@ -4,7 +4,7 @@ title: "page 3"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0017.jpg"
-order: 11
+order: 17
 ---
 
 
@@ -46,4 +46,3 @@ BOOK I.
 
 [^f3n7]: Grainger is listing other eighteenth-century authors of georgic poems. Dyer is John Dyer (1699-1757), a Welsh painter and poet and author of *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Pomona's bard is John Philips (1676-1709), an English poet and author of the *Cyder* (1708). Pomona is the Roman goddess of fruit. Smart is Christopher Smart (1722-1771), an English poet and author of *The Hop-Garden* (1752). Sommerville is William Somerville (1675-1742), an English poet and author of *The Chace* (1735).  
 
----

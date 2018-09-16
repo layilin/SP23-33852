@@ -4,7 +4,7 @@ title: "page 27"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0041.jpg"
-order: 35
+order: 41
 ---
 
 
@@ -39,4 +39,3 @@ order: 35
 
 [^f27n6]: May be the berries from the blue mahoe (*Hibiscus elatus*), a tree whose native range is Cuba and Jamaica. Also naturalized to other parts of the Caribbean; now the national tree of Jamaica.  
 
----

@@ -4,7 +4,7 @@ title: "page 30"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0044.jpg"
-order: 38
+order: 44
 ---
 
 
@@ -42,4 +42,3 @@ order: 38
 
 [^f30n4]: In Greek mythology, one of a race of one-eyed giants who forged thunderbolts for Zeus.  
 
----

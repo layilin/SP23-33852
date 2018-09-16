@@ -4,7 +4,7 @@ title: "page 4"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0018.jpg"
-order: 12
+order: 18
 ---
 
 
@@ -51,4 +51,3 @@ order: 12
 
 [^f4n10]: In this note, Grainger traces the movement of sugar cane from India to the Americas. Sugar cane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).   
 
----

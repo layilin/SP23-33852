@@ -4,7 +4,7 @@ title: "page 6"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0020.jpg"
-order: 14
+order: 20
 ---
 
 
@@ -50,4 +50,3 @@ order: 14
 
 [^f6n10]: By fish poison, Grainger is probably referring to ciguatera, a disease long associated with the consumption of predatory fish in the Caribbean. Ciguatera is a toxin produced by a marine microalgae called *Gambierdiscus toxicus*, and, like mercury, it becomes more concentrated in fish as they rise in the food chain. Symptoms of ciguatera include nausea, vomiting, and tingling fingers or toes. Symptoms usually go away in days or weeks but can last for years.
 
----

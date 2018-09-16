@@ -4,7 +4,7 @@ title: "page 16"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0030.jpg"
-order: 24
+order: 30
 ---
 
 
@@ -39,4 +39,3 @@ order: 24
 
 [^f16n3]: Thomas Warner (c.1580-1649), English settler and colonial governor. Was in Guiana from 1620 to 1622 before returning to England. In 1624, he settled in St. Kitts, where he established tobacco plantations and formed an alliance with the French against the Caribs. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.
 
----

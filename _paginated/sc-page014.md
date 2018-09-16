@@ -4,7 +4,7 @@ title: "page 14"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0028.jpg"
-order: 22
+order: 28
 ---
 
 
@@ -54,4 +54,3 @@ order: 22
 
 [^f14n6]: Grainger means that the Spanish left livestock to breed in Barbados so that the island would supply them with provisions on future trips. 
 
----

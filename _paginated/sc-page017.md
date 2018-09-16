@@ -4,7 +4,7 @@ title: "page 17"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0031.jpg"
-order: 25
+order: 31
 ---
 
 
@@ -39,4 +39,3 @@ order: 25
 
 [^f17n2]: Also bill-hook. Cutlass used for cutting cane.
 
----

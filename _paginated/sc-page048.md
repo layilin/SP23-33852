@@ -4,7 +4,7 @@ title: "page 48"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0062.jpg"
-order: 56
+order: 62
 ---
 
 
@@ -12,4 +12,3 @@ order: 56
 
 [Blank]
 
----

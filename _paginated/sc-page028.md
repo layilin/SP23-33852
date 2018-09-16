@@ -4,7 +4,7 @@ title: "page 28"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0042.jpg"
-order: 36
+order: 42
 ---
 
 
@@ -38,4 +38,3 @@ order: 36
 
 [^f28n2]: Fugitive, fleeting, transient.  
 
----

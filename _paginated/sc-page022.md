@@ -4,7 +4,7 @@ title: "page 22"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0036.jpg"
-order: 30
+order: 36
 ---
 
 
@@ -40,4 +40,3 @@ order: 30
 
 [^f22n3]: A gathering of stems or stalks.
 
----

@@ -4,7 +4,7 @@ title: "page 31"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0045.jpg"
-order: 39
+order: 45
 ---
 
 
@@ -51,4 +51,3 @@ order: 39
 
 [^f31n10]: *Bromelia pinguin*. Its native range is Mexico and the tropical Americas.  
 
----

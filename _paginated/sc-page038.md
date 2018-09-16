@@ -4,7 +4,7 @@ title: "page 38"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0052.jpg"
-order: 46
+order: 52
 ---
 
 
@@ -44,4 +44,3 @@ order: 46
 
 [^f38n9]: Ebony refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
 
----

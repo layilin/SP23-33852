@@ -4,7 +4,7 @@ title: "page 15"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0029.jpg"
-order: 23
+order: 29
 ---
 
 
@@ -40,4 +40,3 @@ order: 23
 
 [^f15n10]: Antigua is one of the Leeward Islands. It lies just to the east of St. Kitts. It was colonized by the English in 1632 and now forms part of the nation of Antigua and Barbuda.
 
----

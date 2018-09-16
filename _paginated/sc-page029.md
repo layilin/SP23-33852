@@ -4,7 +4,7 @@ title: "page 29"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0043.jpg"
-order: 37
+order: 43
 ---
 
 
@@ -39,4 +39,3 @@ order: 37
 
 [^f29n4]: Tree ferns are primitive plants that belong to the order Cyatheales. Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to nine meters tall.  
 
----

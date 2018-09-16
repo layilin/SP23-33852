@@ -4,7 +4,7 @@ title: "page 44"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0058.jpg"
-order: 52
+order: 58
 ---
 
 
@@ -49,4 +49,3 @@ order: 52
 
 [^f44n9]: *Camellia sinensis* is the species from which commercially produced tea is derived. Its native range is Southeastern Asia. Tea and coffee, as well as chocolate, were introduced to Europe as exotic beverages in the seventeenth century.
 
----

@@ -4,7 +4,7 @@ title: "page 36"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0050.jpg"
-order: 44
+order: 50
 ---
 
 
@@ -60,4 +60,3 @@ order: 44
 
 [^f36n14]: Another common name for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.  
 
----

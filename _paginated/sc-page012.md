@@ -4,7 +4,7 @@ title: "page 12"
 editor: Steve Fragano
 source: "1764 edtion"
 img: "p0026.jpg"
-order: 20
+order: 26
 ---
 
 
@@ -42,4 +42,3 @@ order: 20
 
 [^f12n3]: The Muses.
 
----

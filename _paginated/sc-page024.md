@@ -4,7 +4,7 @@ title: "page 24"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0038.jpg"
-order: 32
+order: 38
 ---
 
 
@@ -40,4 +40,3 @@ order: 32
 
 [^f24n2]:  Virgil was born in the Italian provice of Mantua.
 
----

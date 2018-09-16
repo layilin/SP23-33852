@@ -4,7 +4,7 @@ title: "page 35"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0049.jpg"
-order: 43
+order: 49
 ---
 
 
@@ -45,4 +45,3 @@ order: 43
 
 [^f35n9]: Prior to the eighteenth century, melancholy was understood within the framework of humoral theories of the body (articulated by Aristotle, Galen, and Hippocrates) as a disease caused by an excess of "black bile" and characterized by such emotions as fear or sadness without explicit cause. Use of the term had expanded by the time of Grainger's writing to speak more generally of physiological disturbance, listlessness, or dejection.  
 
----

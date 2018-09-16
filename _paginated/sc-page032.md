@@ -4,7 +4,7 @@ title: "page 32"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0046.jpg"
-order: 40
+order: 46
 ---
 
 
@@ -37,4 +37,3 @@ order: 40
 
 [^f32n1]: The pointed ends of the crescent moon are sometimes referred to as its horns. Grainger thus means that six moons or months must pass.  
 
----

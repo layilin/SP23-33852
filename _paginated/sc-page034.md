@@ -4,7 +4,7 @@ title: "page 34"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0048.jpg"
-order: 42
+order: 48
 ---
 
 
@@ -48,4 +48,3 @@ order: 42
 
 [^f34n6]: In the Caribbean, seasons are generally divided into wet and dry, versus the four seasons commonly known in temperate zones.  
 
----

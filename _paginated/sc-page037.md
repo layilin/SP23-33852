@@ -4,7 +4,7 @@ title: "page 37"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0051.jpg"
-order: 45
+order: 51
 ---
 
 
@@ -43,4 +43,3 @@ order: 45
 
 [^f37n6]: George Edwards (1694-1773), English artist and ornithologist. Author of *A Natural History of Uncommon Birds* (1743-1751).  
 
----

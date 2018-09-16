@@ -4,7 +4,7 @@ title: "page 20"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0034.jpg"
-order: 28
+order: 34
 ---
 
 
@@ -48,4 +48,3 @@ order: 28
 
 [^f20n6]: Watermelon (*Citrullus lanatus*) is native to Egypt, Ethiopia, Libya, and Sudan.  
 
----

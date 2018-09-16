@@ -4,7 +4,7 @@ title: "page 18"
 editor: Steve Fragano
 source: 1764 edition
 img: "p0032.jpg"
-order: 26
+order: 32
 ---
 
 
@@ -41,4 +41,3 @@ order: 26
 
 [^f18n3]: Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitates impurities.  
 
----

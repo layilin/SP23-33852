@@ -4,7 +4,7 @@ title: "page 21"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0035.jpg"
-order: 29
+order: 35
 ---
 
 
@@ -39,4 +39,3 @@ order: 29
 
 [^f21n2]: A region on the west coast of Africa that served as a center of the Atlantic slave trade. Although its precise borders are difficult to pinpoint, it ranged from Sierra Leone to Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and Cameroon. It should not be confused with the modern nation of Guinea. It is important to note that European names for African places and ethnicities were imprecise. Slave traders and planters often identified enslaved individuals by their ports of embarkation (for example, Minnah, Papaw, and Coromantin), even though Africans may have identified themselves by their villages or districts of origin instead. 
 
----

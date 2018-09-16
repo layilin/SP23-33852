@@ -4,7 +4,7 @@ title: "page 9"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0023.jpg"
-order: 17
+order: 23
 ---
 
 
@@ -44,4 +44,3 @@ order: 17
 
 [^f9n9]: Grainger is referring to Thomas Templeman's *A New Survey of the Globe: Or, an Accurate Mensuration of all the...Countries...in the World* (1729).
 
----

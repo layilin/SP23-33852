@@ -4,7 +4,7 @@ title: "page 42"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0056.jpg"
-order: 50
+order: 56
 ---
 
 
@@ -37,4 +37,3 @@ order: 50
 
 [^f42n6]: According to Gilmore, Matthias Martinius (1572-1630) authored the *Lexicon Philologicum* (1623).  
 
----
