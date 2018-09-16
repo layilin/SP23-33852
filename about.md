@@ -13,9 +13,7 @@ This project originated from a desire to create an openly accessible edition of 
 
 ## Contact information  
 
-Julie Kim jukim@fordham.edu  
-Cristobal Silva cs2889@columbia.edu  
-Kimberly Takahata kat2163@columbia.edu  
+digitalgrainger@gmail.com
 
 ## Site design
 
