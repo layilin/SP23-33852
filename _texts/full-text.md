@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "merge"
+title: "full-text"
 source: "1764 edition"
 ---
 
