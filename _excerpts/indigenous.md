@@ -279,41 +279,18 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 - Or, bound in chains of artificial force, [550]
 - Arise thro' sculptured stone, or breathing brass.---
 - But I'm in haste to furl my wind-worn sails,
-- And anchor my tir'd vessel on the shore.
+- And anchor my tir'd vessel on the shore....
 
-- IT much imports to build thy Negroe-huts,
-- Or on the sounding margin of the main, [555]
-- Or on some dry hill's gently-sloping sides,
-- In streets, at distance due.——When near the beach,
-- Let frequent coco cast its wavy shade;
-- \'Tis Neptune's tree; and, nourish'd by the spray,[^f155n2]
-- Soon round the bending stem's aerial height, [560]
-- Clusters of mighty nuts, with milk and fruit
-- Delicious fraught, hang clattering in the sky.
-- There let the bay-grape,[^f155n3] too, its crooked limbs
-
-
-> VER. 563. *bay-grape*\] Or sea side grape, as it is more commonly called. This is a large, crooked, and shady tree, \(the leaves being broad, thick, and almost
 
 [^f155n1]: Basins. 
-
-[^f155n2]: Coco refers to the coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
-
-[^f155n3]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
 
 ---
 
 
 [156]({{site.baseurl}}/images/p0170.jpg)
 
-- Project enormous; of impurpled hue
-- Its frequent clusters glow. And there, if thou [565]
-- Would'st make the sand yield salutary food,
-- Let Indian millet[^f156n1] rear its corny reed,
-- Like arm'd battalions in array of war....
 
 > VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n2] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n3] will also grow in the sand, and is most useful upon a plantation. 
-
 
 [^f156n1]: By Indian millet, Grainger means Guinea corn (*Sorghum bicolor*). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231). 
 
