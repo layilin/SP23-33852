@@ -17,6 +17,9 @@ Faced with the task of describing various plants and reporting their possible us
 
 Despite Grainger's attempts to take possession of indigenous knowledge, we hope to allow the reader to recognize, explore, and meditate upon indigenous, rather than colonial, authority by collating Grainger's mentions of indigenous peoples and the information he gained from them. Questions to consider include, How does Grainger characterize the relationship between indigenous and colonial persons, and what exactly does he credit Amerindians with teaching him and other colonists? How does referring to indigenous peoples as "Indians" rather than "Caribs," "Kalinago," or "Arawak" impact his readers' perception of such nations? Why does Grainger include indigenous words like "Liamuiga" and "suirsaak"? What effect does his frequent use of the passive voice have on our recognition of the origins and applications of plant knowledge? Why does Grainger turn to "Indian gardens" in Book IV, just before the close of the poem? 
 
+> —*Kimberly Takahata*
+{:.indented}
+
 ---
  
 
