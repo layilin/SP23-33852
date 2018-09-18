@@ -11,18 +11,18 @@ class="center-image" />
 
 ## Indigeneity 
 
-Long before the arrival of European imperial agents, the Caribbean was home for milennia to Amerindians who learned to use its vast natural resources. Indeed, the Caribbean itself draws its name from the Carib peoples. The Kalinago Caribs inhabited the Leeward and Windward Islands, while the Kalina Caribs resided in northern South America. The Arawaks, so named because of their language, also inhabited the Greater and Lesser Antilles and coastal South America, and as a result, the Caribs and Arawaks often clashed over territorial rights. Each of these groups relied upon and utilized the region's natural resources: cultivating crops for food and drink and learning which plants' shoots and juices could be used as medicine or wielded as poison. 
+Long before the arrival of European colonists, the Caribbean was home for millennia to Amerindians. Indeed, the Caribbean draws its name from the Carib peoples. The Kalinago Caribs inhabited the Leeward and Windward Islands, while the Kalina Caribs resided in northern South America. The Arawaks, so named because of their language, also inhabited the Greater and Lesser Antilles and coastal South America, and, as a result, the Caribs and Arawaks often clashed over territorial rights. In spite of their conflicts, all of these groups relied upon and utilized the region's natural resources: they cultivated crops for food and drink, and they learned which plants could be used as medicine or wielded as poison. 
 
-Faced with the task of describing various plants and reporting their possible uses, Grainger credits Kalinago persons, whom he most often calls "Indians," with this knowledge in several passages primarily in Book I but also in Books III and IV of the poem. These references, although limited in number, demonstrate the depth of indigneous botanical and bodily knowledge, ranging from medicine to food and resistance to cataloguing. In some cases, such as his description of the part of the cane called the "arrow," named for its usage by indigenous persons, these applications are so crucial to recognizing and describing these plants (in this case, the part of the sugar cane that drops at a specific point in the maturation process) that they actually dictate the names that colonial planters and writers use to reference them. Yet at the same time, Grainger relegates almost all mentions of indigenous peoples and knowledge in *The Sugar-Cane* to footnotes. Additionally, he appropriates this knowledge in his preface to the poem, claiming that he has learned about "indigneous remedies" so thoroughlly as to make his own "trials" of them. Moreover, by arguing that such knowledge and abilities should be "universally known," Grainger further distributes this knowledge outside of indigenous communities, positioning his own text as the new source of such information.  
+Faced with the task of describing various plants and reporting their possible uses, Grainger credits Kalinago persons, whom he most often calls "Indians," with this knowledge in several passages. These passages appear primarily in Book I, but there are also mentions in Books III and IV. These references, although limited in number, demonstrate the depth of indigenous botanical and ecological knowledge. At the same time, Grainger relegates most mentions of indigenous peoples and knowledge in *The Sugar-Cane* to footnotes. Additionally, he appropriates this knowledge in his preface to the poem, claiming that he has learned about "indigneous remedies" so thoroughlly as to make his own "trials" of them. Moreover, by arguing that such knowledge and abilities should be "universally known," Grainger further distributes this knowledge outside of indigenous communities, positioning his own text as the source of such information.  
 
-Despite such attempts to limit the bounds and influence of indigenous knowledge, by collating such mentions here, we hope to allow the reader to recognize, explore, and meditate upon indigenous, rather than colonial, authority. How does Grainger characterize the relationship between indigenous and colonial persons, and what exactly does he credit Amerindians with teaching him and other colonists? How does referring to indigenous peoples as "Indians" rather than "Caribs" or "Kalinago" impact his readers' perception of such nations? What do you make of Grainger's inclusion of indigenous words like "Liamuiga" and "suirsaak"? What effect his frequent use of the passive voice in his description of these plants' uses have on our recognition of their origins and applications? What could it mean that Grainger includes this allusions primarily in Book I but turns to "Indian gardens" just before the close of the poem?
+Despite Grainger's attempts to take possession of indigenous knowledge, we hope to allow the reader to recognize, explore, and meditate upon indigenous, rather than colonial, authority by collating Grainger's mentions of indigenous peoples and the information he gained from them. Questions to consider include, How does Grainger characterize the relationship between indigenous and colonial persons, and what exactly does he credit Amerindians with teaching him and other colonists? How does referring to indigenous peoples as "Indians" rather than "Caribs," "Kalinago," or "Arawak" impact his readers' perception of such nations? Why does Grainger include indigenous words like "Liamuiga" and "suirsaak"? What effect does his frequent use of the passive voice have on our recognition of the origins and applications of plant knowledge? Why does Grainger turn to "Indian gardens" in Book IV, just before the close of the poem? 
 
 ---
  
 
 [vii]({{site.baseurl}}/images/p0013.jpg)
 
-IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known.[^fviin3] And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet.[^fviin4]
+IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as well as diseases, was unavoidable. The truth is, I have rather courted opportunities of this nature, than avoided them. Medicines of such amazing efficacy, as I have had occasion to make trials of in these islands, deserve to be universally known.[^fviin3] And wherever, in the following poem, I recommend any such, I beg leave to be understood as a physician, and not as a poet....[^fviin4]
 
 [^fviin2]: A term of Grainger's invention. Building on his opening claim that the Caribbean would transform the face of poetry, Grainger simultaneously leans on a traditional mode (the georgic) and imagines a new form for it (West-India). It is worth considering what specifically about this poem makes it West Indian or Caribbean.
 
@@ -35,21 +35,14 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 
 [10]({{site.baseurl}}/images/p0024.jpg) 
 
-"The Indian name of St. Christopher is *Liamuiga*, or the Fertile Island."
-
----
-
-
-[17]({{site.baseurl}}/images/p0031.jpg)
-
-VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
+The Indian name of St. Christopher is *Liamuiga*, or the Fertile Island....
 
 ---
 
 
 [41]({{site.baseurl}}/images/p0055.jpg) 
 
-VER. 596. *cassada,*\] Cassavi, cassava, is called *Jatropha* by botanists. Its meal makes a wholesome and well-tasted bread, although its juice be poisonous. There is a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*.[^f41n3] The colour of its root is white, like a parsnip; that of the common kind is of a brownish red, before it is scraped. By coction the cassada-juice becomes an excellent sauce for fish; and the Indians prepare many wholesome dishes from it. I have given it internally mixed with flour without any bad consequences; it did not however produce any of the salutary effects I expected. A good starch is made from it. The stem is knotty, and, being cut into small junks and planted, young sprouts shoot up from each knob. Horses have been poisoned by eating its leaves. The French name it *Manihot*, *Magnoc*, and *Manioc*, and the Spaniards *Mandiocha*. It is pretended that all creatures but man eat the raw root of the cassada with impunity; and, when dried, that it is a sovereign antidote against venomous bites. A wholesome drink[^f41n4] is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There is one species of this plant which the Indians only use, and is by them called *Baccacoua*.[^f41n5]
+VER. 596. *cassada,*\] Cassavi, cassava, is called *Jatropha* by botanists. Its meal makes a wholesome and well-tasted bread, although its juice be poisonous. There is a species of cassada which may be eat with safety, without expressing the juice; this the French call *Camagnoc*.[^f41n3] The colour of its root is white, like a parsnip; that of the common kind is of a brownish red, before it is scraped. By coction the cassada-juice becomes an excellent sauce for fish; and the Indians prepare many wholesome dishes from it. I have given it internally mixed with flour without any bad consequences; it did not however produce any of the salutary effects I expected. A good starch is made from it. The stem is knotty, and, being cut into small junks and planted, young sprouts shoot up from each knob. Horses have been poisoned by eating its leaves. The French name it *Manihot*, *Magnoc*, and *Manioc*, and the Spaniards *Mandiocha*. It is pretended that all creatures but man eat the raw root of the cassada with impunity; and, when dried, that it is a sovereign antidote against venomous bites. A wholesome drink[^f41n4] is prepared from this root by the Indians, Spaniards, and Portuguese, according to Pineda. There is one species of this plant which the Indians only use, and is by them called *Baccacoua*....[^f41n5]
 
 [^f41n3]: Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour (Higman 62).   
 
@@ -62,11 +55,13 @@ VER. 596. *cassada,*\] Cassavi, cassava, is called *Jatropha* by botanists. Its 
 
 [42]({{site.baseurl}}/images/p0056.jpg) 
 
-VER. 598. *to the soursop*\] The true Indian name of this tree is *Suirsaak*. It grows in the barrenest places to a considerable height. Its fruit will often weigh two pounds. Its skin is green, and somewhat prickly. The pulp is not disagreeable to the palate, being cool, and having its sweetness tempered with some degree of an acid. It is one of the *Anonas*, as are also the custard, star, and sugar-apples.[^f42n5] The leaves of the soursop are very shining and green. The fruit is wholesome, but seldom admitted to the tables of the elegant. The seeds are dispersed through the pulp like the guava. It has a peculiar flavour. It grows in the East as well as the West-Indies. The botanical name is *Guanabanus*. The French call it *Petit Corosol*, or *Coeur de Boeuf*, to which the fruit bears a resemblance. The root, being reduced to a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by the mouth, the Indians pretend it is a specific in the epilepsy.
+
+> VER. 598. *to the soursop*\] The true Indian name of this tree is *Suirsaak*. It grows in the barrenest places to a considerable height. Its fruit will often weigh two pounds. Its skin is green, and somewhat prickly. The pulp is not disagreeable to the palate, being cool, and having its sweetness tempered with some degree of an acid. It is one of the *Anonas*, as are also the custard, star, and sugar-apples.[^f42n4] The leaves of the soursop are very shining and green. The fruit is wholesome, but seldom admitted to the tables of the elegant. The seeds are dispersed through the pulp like the guava. It has a peculiar flavour. It grows in the East as well as the West-Indies. The botanical name is *Guanabanus*. The French call it *Petit Corosol*, or *Coeur de Boeuf*, to which the fruit bears a resemblance. The root, being reduced to a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by the mouth, the Indians pretend it is a specific in the epilepsy....
 
 VER. 605. *cacao-walk*\] It is also called *Cocao* and *Cocô*. It is a native of some of
 
-[^f42n5]: Custard apple (*Annona reticulata*) is the fruit of a tree whose native range is Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.
+
+[^f42n4]: The custard apple (*Annona reticulata*) is the fruit of a tree whose native range is Mexico to northeastern Venezuela. The star apple (*Chrysophyllum cainito*) is the fruit of a tree native to the Greater Antilles (Higman 202). Sugar apple (*Annona squamosa*), also known as sweetsop, is the fruit of a tree native to lowland Central America.  
 
 ---
 
@@ -94,7 +89,7 @@ the provinces of South America, and a drink made from it was the common food of 
 
 [106]({{site.baseurl}}/images/p0120.jpg)
 
-VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in the short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these are in general so well known, it is needless. A few properties of it, however, wherewith the learned are not commonly acquainted, I shall mention. In some places of the East-Indies, an excellent arrack[^f106n2] is made from the Sugar-Cane: And, in South-America, Sugar is used as an antidote against one of the most sudden, as well as fatal poisons in the world. Taken by mouth, *pocula morte carent*, this poison is quite innocent; but the slightest wound made by an arrow, whose point is tinged therewith, proves immediate death; for, by driving all the blood of the body immediately to the heart, it forthwith bursts it.[^f106n3] The fish and birds killed by these poisoned arrows \(in the use of which the Indians are astonishingly expert\) are perfectly wholesome to feed on. See Ulloa and De la Condamine's account of the great river of Amazon.[^f106n4] It is a vegetable preparation.
+VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in the short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these are in general so well known, it is needless. A few properties of it, however, wherewith the learned are not commonly acquainted, I shall mention. In some places of the East-Indies, an excellent arrack[^f106n2] is made from the Sugar-Cane: And, in South-America, Sugar is used as an antidote against one of the most sudden, as well as fatal poisons in the world. Taken by mouth, *pocula morte carent*, this poison is quite innocent; but the slightest wound made by an arrow, whose point is tinged therewith, proves immediate death; for, by driving all the blood of the body immediately to the heart, it forthwith bursts it.[^f106n3] The fish and birds killed by these poisoned arrows \(in the use of which the Indians are astonishingly expert\) are perfectly wholesome to feed on. See Ulloa and De la Condamine's account of the great river of Amazon.[^f106n4] It is a vegetable preparation....
 
 [^f106n2]: An alcoholic spirit distilled from fermented rice and molasses, to which is often added the fermented sap of the coconut palm (*Cocos nucifera*).
 
@@ -107,8 +102,6 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 
 [151]({{site.baseurl}}/images/p0165.jpg)
 
-- And shrubby wilds, in bands will soon destroy
-- Thy labourer's honest wealth; their loss and yours.
 
 - Perhaps, of Indian gardens[^f151n1] I could sing,
 - Beyond what bloom'd on blest Phaeacia's isle,[^f151n2]
@@ -310,10 +303,19 @@ VER. 350. *For taste, for colour, and for various use:*\] It were impossible, in
 
 [156]({{site.baseurl}}/images/p0170.jpg)
 
-VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n4] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n5] will also grow in the sand, and is most useful upon a plantation. 
+- Project enormous; of impurpled hue
+- Its frequent clusters glow. And there, if thou [565]
+- Would'st make the sand yield salutary food,
+- Let Indian millet[^f156n1] rear its corny reed,
+- Like arm'd battalions in array of war....
 
-[^f156n4]: Maize, great corn, and Indian corn are all different names for *Zea mays*.
+> VER. 567. *Indian millet*\] Or maise. This is commonly called *Guinea-corn*, to distinguish it from the great or Indian-corn, that grows in the southern parts of North-America.[^f156n2] It soon shoots up to a great height, often twenty feet high, and will ratoon like the other; but its blades are not so nourishing to horses as those of the great corn, although its seeds are more so, and rather more agreeable to the taste. The Indians, Negroes, and poor white people, make many (not unsavoury) dishes with them. It is also called *Turkey wheat*. The turpentine tree[^f156n3] will also grow in the sand, and is most useful upon a plantation. 
 
-[^f156n5]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
+
+[^f156n1]: By Indian millet, Grainger means Guinea corn (*Sorghum bicolor*). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231). 
+
+[^f156n2]: Maize, great corn, and Indian corn are all different names for *Zea mays*.
+
+[^f156n3]: Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.
 
 ---
