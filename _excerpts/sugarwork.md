@@ -12,6 +12,9 @@ The passages in this section “Sugar Work” come mostly from Book 3, yet a few
 
 Grainger focuses on manual labor and cropping in Book 3, which is replete actions and labor, indicating the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. During the harvest time, constant heavy work may result in some accidents. Grainger talks about the windmills powering the sugar mill. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Grainger also shows his attitude towards plantation management and the treatment of the enslaved Africans, who should not be prohibited from drinking the cane-juice. Grainger suggests the need of making “labour light,” but punishments and ill treatment might still exist at that time.
 
+> —*Lina Jiang*
+{:.indented}
+
 ---
 
 
