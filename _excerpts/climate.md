@@ -14,6 +14,9 @@ Thus, focusing on the West Indian ecology can open up a way of reading the poem 
 
 By way of an interesting comparison, we may remark that where Grainger foregrounds the vulnerability of not only the colonist but also his neighboring animal and vegetal communities before the West Indian climate, explicitly dwelling on such threats, another major eighteenth-century text on sugar cultivation, Colonel Samuel Martin's popular *An Essay on Plantership*, dispenses with any discussion of climate, however crucial it proves to be for colonial operations. In this treatise on the effective management of a plantation, Martin, an Antiguan-born British planter to whom Grainger alludes in tribute in his Preface as well as at the start of Book III, expatiates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest the cane, but even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin nonetheless stresses the agency of the planter and his administrative practices above all, glossing over the details of "the destruction \[caused\] by hurricanes" (Martin 18). How, then, might we take *The Sugar-Cane*'s resolute commitment to the material realities of its specific West Indian context? How does such a choice situate his text, at the nexus of poetry and natural history?  
 
+> —*Ami Yoon*
+{:.indented}
+
 ---
 
 
