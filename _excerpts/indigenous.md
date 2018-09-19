@@ -1,10 +1,10 @@
 ---
 layout: poem
-title: "Indigeneity"
+title: "Indigenous Presence"
 editor: Kimberly Takahata
 --- 
 
-## Indigeneity 
+## Indigeneous Presence
 
 Long before the arrival of European colonists, the Caribbean was home for millennia to Amerindians. Indeed, the Caribbean draws its name from the Carib peoples. The Kalinago Caribs inhabited the Leeward and Windward Islands, while the Kalina Caribs resided in northern South America. The Arawaks, so named because of their language, also inhabited the Greater and Lesser Antilles and coastal South America, and, as a result, the Caribs and Arawaks often clashed over territorial rights. In spite of their conflicts, all of these groups relied upon and utilized the region's natural resources: they cultivated crops for food and drink, and they learned which plants could be used as medicine or wielded as poison. 
 
@@ -19,7 +19,7 @@ Despite Grainger's attempts to take possession of indigenous knowledge, we hope 
 <img src="{{site.baseurl}}/assets/indigenous.jpg"
 alt="Cassava plant"
 class="center-image" />
-Cassava plant 
+Cassava plant from Maria Sibylla Merian, *Metamorphosis insectorum Surinamensium*, Amsterdam, 1719, pl. 5. 
 {:.centered}
 
 ---
