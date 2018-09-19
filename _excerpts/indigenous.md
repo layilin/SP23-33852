@@ -19,7 +19,8 @@ Despite Grainger's attempts to take possession of indigenous knowledge, we hope 
 <img src="{{site.baseurl}}/assets/indigenous.jpg"
 alt="Cassava plant"
 class="center-image" />
-
+Cassava plant 
+{:.centered}
 
 ---
  
