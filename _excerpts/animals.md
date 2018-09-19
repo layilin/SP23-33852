@@ -20,6 +20,9 @@ Fear of slave gatherings and slave revolts were feasible and apparent threats du
 
 Grainger's descriptions of animal threats to sugar plantations become methods through which the author and readers can explore the struggles and doubts that plantation owners developed. When reading the following excerpts, we can more fully understand the uncertainties of slave-owning and the fear of the enslaved by approaching the text with a few focusing questions. How are depictions of animal metaphorical, and is there enough continuity among metaphors to consider allegorical relationships between the natural world and populations on plantations? How do depictions of animal subscribe to qualities of emblematic natural history? How do the words used to describe animal groupings change a reader's idea of the animal? Why would Grainger change grouping terms depending on the animal or insect, especially if it is not a common or scientific term used to refer to groups of a specific species? Why could Grainger have chosen to use more subtle means to comment on the organization of humans in the plantation system, as opposed to more explicit ways?
 
+> —*Stephen Fragano*
+{:.indented}
+
 ---
 
 [54]({{site.baseurl}}/images/p0068.jpg)
