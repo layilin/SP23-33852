@@ -16,6 +16,8 @@ Grainger continues to emphasize uncontrollable weather conditions as a source of
 
 In contrast to Grainger's preoccupations, the Antiguan-born British planter Samuel Martin dispenses with any discussion of climate in his popular *An Essay on Plantership*. In this major eighteenth-century treatise on the effective management of a plantation, Martin elaborates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest cane. But even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin glosses over the disruptive power of the climate and omits any detail of "the destruction \[caused\] by hurricanes" (Martin 18). This choice places stress on the agency of the planter and his administrative practices, downplaying the effect of environmental contingencies. How, then, might we take *The Sugar-Cane*'s resolute commitment to the material realities of its specific West Indian context? How does such a choice situate his text, at the nexus of poetry and natural history?  
 
+Note: Matthew Mulcahy's *Hurricanes and Society in the British Greater Caribbean, 1624-1783* provides a history of storms and hurricanes in the British colonial context; Grainger's poem is mentioned in the second chapter. In his article "The 'Long'd-for Aera' of an 'Other Race': Climate, Identity, and James Grainger's *The Sugar-Cane*," Jim Egan also explores the influence of climate in shaping theories of identity in the colonies.  
+
 > —*Ami Yoon*
 {:.right}
 
