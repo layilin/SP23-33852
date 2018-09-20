@@ -41,11 +41,13 @@ class="center-image" />
 
 > VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
 
-> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer. Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
+> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer.[^f26n2] Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
 
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
 [^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
+
+[^f26n2]: *Blaberus discoidalis*. 
 
 ---  
 
@@ -73,7 +75,7 @@ class="center-image" />
 
 [^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century. 
 
 [^f27n4]: The American alligator, *Alligator mississippiensis*.  
 
@@ -101,7 +103,7 @@ class="center-image" />
 - While its green face is chang'd to sordid brown. [365]
 - A grateful freshness every sense pervades;
 - While beats the heart with unaccustom'd joy:
-- Her stores fugacious Memory now recalls;
+- Her stores fugacious[^f28n2] Memory now recalls;
 - And Fancy prunes her wings for loftiest flights.
 - The mute creation share the enlivening hour; [370]
 - Bounds the brisk kid, and wanton plays the lamb.
@@ -111,6 +113,8 @@ class="center-image" />
 - Glad Nature's liveliest robe, the vivid green. [375]
 
 [^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
+
+[^f28n2]: Fugitive, fleeting, transient.  
 
 ---  
 
@@ -141,7 +145,7 @@ class="center-image" />
 - Planter, with mighty props thy dome[^f69n5] support; [290]
 - Each flaw repair; and well, with massy bars,
 
-[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
+[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago mentioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
 
 [^f69n2]: welkin. Sky, firmament.
 
@@ -149,7 +153,7 @@ class="center-image" />
 
 [^f69n4]: Grainger is using astrological signs to designate peak hurricane season. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. 
 
-[^f69n5]: House.
+[^f69n5]: House.  
 
 ---
 
@@ -194,7 +198,7 @@ class="center-image" />
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
-- Disperse; the midday-sun looks red; strange burs[^f71n1]
+- Disperse; the midday-sun looks red; strange burs
 - Surround the stars, which vaster fill the eye. [315]
 - A horrid stench the pools, the main emits;
 - Fearful the genius of the forest sighs;
@@ -202,13 +206,13 @@ class="center-image" />
 - A night of vapour, closing fast around,
 - Snatches the golden noon.—Each wind appeas'd, [320]
 - The North flies forth, and hurls the frighted air:
-- Not all the brazen engineries[^f71n2] of man,
+- Not all the brazen engineries[^f71n1] of man,
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
 - Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
-- "Is hush as death."[^f71n3]
+- "Is hush as death."[^f71n2]
 - Soon issues forth the West, with sudden burst;
 - And blasts more rapid, more resistless drives: [330]
 
@@ -216,11 +220,9 @@ class="center-image" />
 > VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
 
 
-[^f71n1]: A bur or burr is a circle of light surrounding the moon or a star.
+[^f71n1]: Engines of war, artillery. 
 
-[^f71n2]: Engines of war, artillery. 
-
-[^f71n3]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
+[^f71n2]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 ---
 
@@ -249,11 +251,9 @@ class="center-image" />
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—[^f72n2]
+- Men, oxen, Cane-lands to the billowy main.—
 
 [^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
-
-[^f72n2]: The ocean.
 
 ---
 
@@ -285,11 +285,11 @@ class="center-image" />
 - The sails hang idly, noiseless, from the mast.[^f73n3] [375]
 
 
-[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+[^f73n1]: Vibratory or quivering flashes of light; lightning.
 
 [^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
 
-[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
+[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.  
 
 ---
 
@@ -315,18 +315,16 @@ class="center-image" />
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+- Oft shake the astonied[^f74n2] isles: The solfaterre
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 
 [^f74n1]: Sour, acidic.
 
 [^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
 
-[^f74n3]: Volcano.
-
-[^f74n4]: An astringent mineral salt.
+[^f74n3]: An astringent mineral salt.
 
 ---
