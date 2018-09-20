@@ -17,7 +17,7 @@ Interestingly, the stanzas of the poem in which Grainger describes dancing is fo
 How Grainger's portrayal of dancing and movement in the below passages shifts is therefore interesting to consider. Does his characterization and attitude towards it remain the same throughout? What does he imagine are the motives of the dancers? Is dance entertainment or something more? How does he paint the nighttime travels of the enslaved, as they moved under the cover of darkness? 
 
 > —*Julie Chun Kim*
-{:.indented}
+{:.right}
 
 ---
 
