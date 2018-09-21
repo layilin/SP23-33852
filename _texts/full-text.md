@@ -2,7 +2,17 @@
 layout: poem
 title: "full-text"
 source: "1764 edition"
+toc:
+- Front Matter
+- Preface
+- Book I
+- Book II
+- Book III
+- Book IV
+- End Matter
 ---
+
+## FRONT MATTER
 
 [Front cover, outside]
 
@@ -98,7 +108,7 @@ MDCCLXIV.
 
 v
 
-P R E F A C E.
+## PREFACE
 
 SOON after my arrival in the West-Indies,[^fvn1] I conceived the design of writing a poem on the cultivation of the Sugar-Cane. My inducements to this arduous undertaking were, not only the importance and novelty of the subject, but more especially this consideration; that, as the face of this country was wholly different from that of Europe, so whatever hand copied its appearances, however rude, could not fail to enrich poetry with many new and picturesque images.[^fvn2]
 
@@ -183,7 +193,7 @@ THE
 S U G A R - C A N E.
 
 
-BOOK I.
+## BOOK I.
 
 ---
 
@@ -1855,7 +1865,7 @@ THE
 S U G A R - C A N E.  
 
 
-BOOK II.
+## BOOK II.
 
 ---  
 
@@ -3015,7 +3025,7 @@ THE
 S U G A R - C A N E.
 
 
-BOOK III.  
+## BOOK III.  
 
 ---
 
@@ -4344,7 +4354,7 @@ THE
 S U G A R - C A N E.
 
 
-BOOK IV.
+## BOOK IV.
 
 ---
 
@@ -5763,6 +5773,8 @@ The END of BOOK IV.
 
 ---
 
+
+## END MATTER
 
 [163]
 
