@@ -18,7 +18,7 @@ Note: For a general overview of the native peoples of the Caribbean, see the ent
 {:.right}
 
 
-<img src="{{site.baseurl}}/assets/indigenous.jpg"
+<img src="{{site.baseurl}}/assets/cassava.jpg"
 alt="Cassava plant"
 class="center-image" />
 Cassava plant from Maria Sibylla Merian, *Metamorphosis insectorum Surinamensium*, Amsterdam, 1719, pl. 5. 
