@@ -24,7 +24,7 @@ in the 1830s involved the use or planned use of fire" (31).
 <img src="{{site.baseurl}}/assets/cutting_the_sugar-cane.jpg"
 alt="Cutting the Sugar-Cane"
 class="center-image" />
-The enslaved people are cutting the sugar-cane and loading the bundles into a horse-drawn cart. The plantation owner on a horse is speaking to a black overseer. The picture also depicts coconut palms and a windmill. *Cutting the Sugar-Cane*, William Clark, Infant School Society Depository, London, 1833, pl. 3. 
+*Cutting the Sugar-Cane*, William Clark, Infant School Society Depository, London, 1833, pl. 3.
 {:.centered}
 
 ---
