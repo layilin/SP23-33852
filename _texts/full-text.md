@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "full-text"
+title: "Full Text"
 source: "1764 edition"
 toc:
 - Front Matter
