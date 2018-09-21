@@ -18,6 +18,8 @@ collections:
     output: true
   paginated:
     output: true
+  info:
+    output: true
 
 kramdown:
   auto_ids:       true
