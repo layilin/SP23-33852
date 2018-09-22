@@ -6,91 +6,25 @@ editor: Lina
 ---
 
 
-## Sugar Work
+## Making Sugar
 
-The passages in this section “Sugar Work” come mostly from Book 3, yet a few passages from Book 1 contribute to the understanding of Grainger's general concept of the relationship between human labor and nature. In Book 1, Grainger first describes what soil the sugar-cane grows best in and emphasizes that extra labor is not needed since the fertile land is the gift from nature. Grainger emphasizes that sugar production is not solely about human activity. By using the poetic device of apostrophe to address the “Planter,” Grainger often gives advice with an imperative tone of voice in the poem, reminding the “Planter” of his responsibility of balancing nature and culture. Too much labor and the “redundant harvests” exhaust the “willing soil,” and much effort has to be put into re-fertilization. On the other hand, Grainger encourages “Planter" to make improvements with human wisdom, and the toil will be rewarded in the end. Grainger describes the right degree of human interference in nature, showing both his reverence for the power of nature and admiration for human labor. 
+Book 3 mainly focuses on the subject of harvesting and processing of sugar cane. Although James Grainger depicts manual labor and cropping, the excerpt indicates the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. The laborers have to cut the sugar canes into "junks a yard in length," and tie them in "small light bundles." They use mules and other animales to help load and carry the bundles to the mills. Grainger uses some positive and cheerful words to describe the toil. He says that the journey is tedious, but he does not think the laborers are weary. He depicts an embellished scene of laboring, where "mills dance eager in the gale," and the laborers sing cheerfully while working in the cane fields. The songs help to create a rhythm and pace for the work, and planters regard singing as an effective way to lighten the burden of the labor being performed. Moreover, singing also compliances with the regime of plantation discipline. As you read this section on singing, do you notice the cheerful and postive words? Try to list them and think about the contrast between Grainger's understanding of "cheerful" labor and the actual condition revealled in this excerpt. How do you understand the irony here? 
 
-Grainger focuses on manual labor and cropping in Book 3, which is replete actions and labor, indicating the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. During the harvest time, constant heavy work may result in some accidents. Grainger talks about the windmills powering the sugar mill. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Grainger also shows his attitude towards plantation management and the treatment of the enslaved Africans, who should not be prohibited from drinking the cane-juice. Grainger suggests the need of making “labour light,” but punishments and ill treatment might still exist at that time.
+ Grainger describes that during the harvest time, constant heavy work in windmills and boiling houses may result in some accidents. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. The importance of using fire is also mentioned in this excerpt, and more information and discussion of the subject "fire" can be found in the excerpt on "Fire."  
+
+Grainger opposes manumission and abolision of slavery, and he supports the amelioration of the conditions of slaves in the British Caribbean colonies. Grainger uses his poem to propose that the planters should treat the enslaved laborers better by making their toil "cheerful" and "light." For instance, Grainger also points out that the enslaved laborers should not be prohibited from drinking the cane-juice. However, what he ends up revealing in this excerpt is controlling of the skilled and expert laborers such as boilers. Grainger criticizes planters who manumit the enslaved that are too old or too injured to work, "Are there, who lost to every feeling sense, / To reason, interest lost; their slaves desert, / And manumit[^f96n1] them, generous boon! to starve / Maim'd by imprudence, or the hand of Heaven?" He thinks that those emancipated laborers can not take care for themselves any more. As you read the poem, do you recognize any gaps between what Grainger thinks he is describing and what is actually revealled in his poetry? What do these gaps indicate?
+
+Note: For further discussions on labor and slavery in Georgic poetry, see Markman Ellis's chapter "'Incessant Labour': Georgic Poetry and the Problem of Slavery" from the book *Discourses of Slavery and Abolition*.
 
 > —*Lina Jiang*
 {:.right}
 
----
 
-
-[8]({{site.baseurl}}/images/p0022.jpg)
-
-- THRICE happy he, to whom such fields are given!
-- For him the Cane with little labour grows;
-
----
-
-
-[9]({{site.baseurl}}/images/p0023.jpg)
-
-- 'Spite of the dog-star,[^f9n1] shoots long yellow joints;[^f9n2] [55]
-- Concocts rich juice, tho' deluges descend.
-- What if an after-offspring[^f9n3] it reject?
-- This land, for many a crop, will feed his mills;
-- Disdain supplies, nor ask from compost aid.
-
-[^f9n1]: The dog star is another name for Sirius, the brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.
-
-[^f9n2]: Sugar cane turns yellow when it is ripe.
-
-[^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon canes").
-
----
-
-
-[19]({{site.baseurl}}/images/p0033.jpg)
-
-- PLANTER, if thou with wonder wouldst survey
-- Redundant harvests,[^f19n1] load thy willing soil;
-- Let sun and rain mature thy deep-hoed land,
-- And old fat dung co-operate with these. [200]
-- Be this great truth still present to thy mind;
-- The half well-cultur'd far exceeds the whole,
-- Which lust of gain, unconscious of its end,
-- Ungrateful vexes with unceasing toil.
-
-- AS, not indulg'd, the richest lands grow poor; [205]
-- And Liamuiga may, in future times,
-- If too much urg'd, her barrenness bewail:
-- So cultivation, on the shallowest soil,
-- O'erspread with rocky cliffs, will bid the Cane,
-- With spiry pomp, all bountifully rise. [210]
-- Thus Britain's flag, should discipline relent,
-- \'Spite of the native courage of her sons,
-- Would to the lily[^f19n2] strike: ah, very far,
-- Far be that woful day: the lily then
-- Will rule wide ocean with resistless sway; [215]
-- And to old Gallia's[^f19n3] haughty shore transport
-- The lessening crops of these delicious isles.
-
-> VER. 206. *And Liamuiga,*\] The Caribbean name of St. Christopher. 
-
-[^f19n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that this comma should be removed.  
-
-[^f19n2]: Fleur-de-lis, a lily-shaped ornament that symbolizes France.  
-
-[^f19n3]: France.
-
----
-
-
-[20]({{site.baseurl}}/images/p0034.jpg)
-
-- OF composts shall the Muse descend to sing,
-- Nor soil her heavenly plumes? The sacred Muse
-- Nought sordid deems, but what is base; nought fair [220]
-- Unless true Virtue stamp it with her seal.
-- Then, Planter, wouldst thou double thine estate;
-- Never, ah never, be asham'd to tread
-- Thy dung-heaps, where the refuse of thy mills,
-- With all the ashes, all thy coppers yield, [225]
-- With weeds, mould, dung, and stale, a compost form,
-- Of force to fertilize the poorest soil.
+<img src="{{site.baseurl}}/assets/a_mill_yard.jpg"
+alt="A Mill Yard"
+class="center-image" />
+*A Mill Yard*,  William Clark, Infant School Society Depository, London, 1833, pl. 4. 
+{:.centered}
 
 ---
 
@@ -99,30 +33,26 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 
 - For now the sail-clad points,[^f92n1] impatient, wait
 - The hour of sweet release, to court the gale.
-- The late-hung coppers[^f92n2] wish to feel the warmth,
+- The late-hung coppers wish to feel the warmth,
 - Which well-dried fewel from the Cane imparts: [95]
 - The Negroe-train, with placid looks, survey
 - Thy fields, which full perfection have attain'd,
 - And pant to wield the bill: \(no surly watch
-- Dare now deprive them of the luscious Cane:\)[^f92n3]
+- Dare now deprive them of the luscious Cane:\)[^f92n2]
 - Nor thou, my friend, their willing ardour check; [100]
 - Encourage rather; cheerful toil is light.
 - So from no field, shall slow-pac'd oxen draw
-- More frequent loaded wanes;[^f92n4] which many a day,
+- More frequent loaded wanes; which many a day,
 - And many a night shall feed thy crackling mills
-- With richest offerings:[^f92n5] while thy far seen flames, [105]
+- With richest offerings:[^f92n3] while thy far seen flames, [105]
 - Bursting thro' many a chimney, bright emblaze
-- The AEthiop-brow[^f92n6] of night. And see, they pour
+- The AEthiop-brow of night. And see, they pour
 
-[^f92n2]: Copper pots used for boiling cane juice.  
+[^f92n1]: Windmill sails.  
 
-[^f92n3]: In his *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, plantesr sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
+[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
 
-[^f92n4]: A wane is a large open vehicle or wagon drawn by horses or oxen and used to carry heavy loads, especially of agricultural produce.  
-
-[^f92n5]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses 24 hours per day during crop time.  
-
-[^f92n6]: Aethiop and Aethiopia (also Ethiop and Ethiopian) were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Aethiop was used to designate a generically black African as well. Aethiopians also were referenced in a classical proverb about "washing the Aethiopian" or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.  
+[^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.    
 
 ---
 
@@ -149,7 +79,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - Even lameness from it's leafy pallet crawls,
 - To join the favoured gang. What of the Cane [125]
 - Remains, and much the largest part remains,
-- Cut into junks[^f93n4] a yard in length, and tied
+- Cut into junks a yard in length, and tied
 - In small light bundles; load the broad-wheel'd wane,
 - The mules crook-harnest, and the sturdier crew,
 
@@ -157,9 +87,7 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 
 [^f93n2]: Sugar cane turns yellow when it is ripe.  
 
-[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
-
-[^f93n4]: A gathering of stems or stalks.  
+[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.   
 
 ---
 
@@ -186,19 +114,17 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - To lash the laughing, labouring, singing throng.[^f94n4]
 
 - WHAT cannot song? all nature feels its power:
-- The hind's[^f94n5] blithe whistle, as thro' stubborn soils
+- The hind's blithe whistle, as thro' stubborn soils
 - He drives the shining share; more than the goad,
 - His tardy steers impells.—The muse hath seen, [150]
 
-[^f94n1]: John Dyer (1699-1757), Welsh painter and poet, author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). Lincoln was a center of wool production, and the Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.  
+[^f94n1]: The georgic poet John Dyer was living in Lincolnshire at the time of his death. Grainger also refers to the fact that Lincoln was a center of wool production. The Lincoln longwool is a breed of sheep known for its copious and heavy white fleece.  
 
 [^f94n2]: The practice of branding sheep. Although he does not make an explicit comparison between the treatment of animals and human beings, this passage recalls the fact that enslaved persons were branded with the marks of their enslavers. See Gilmore, who credits Tobias Döring with this insight.  
 
 [^f94n3]: This is one of several places in the poem where Grainger shrinks from the violence of plantation slavery.  
 
-[^f94n4]: Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and planters also saw them as helping to lighten the burden of the labor being performed. In short, they saw music and singing as making work more pleasant and thereby ensuring compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see "Song of slaves in Barbados" at https://gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/). A recording of the song by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, which imbues it with a sorrowful and tragic dimension (see https://gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3).  
-
-[^f94n5]: A hind is a farm servant or agricultural laborer.  
+[^f94n4]: Grainger refers here to the common practice of enslaved laborers singing while working in the cane fields. The songs were sung in part to help establish a rhythm and pace for the work being performed, and planters also saw them as helping to lighten the burden of the labor being performed. In short, they saw music and singing as making work more pleasant and thereby ensuring compliance with the regime of plantation discipline. At the same time, the songs sung during field work often seem to have contained coded or even overt criticisms of planters and plantation discipline. For example, the Gloucestershire Archives in Britain recently uncovered an eighteenth-century slave song from Barbados that contained the lyrics, "Massa buy me he won't killa me/Oh_ Massa buy me he won't killa me/Oh Massa buy me he won't kill a me/Oh 'for he kill me he ship me regular" (see <a href="https://gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/inhuman-traffic/" target="blank">"Song of slaves in Barbados"</a>). A <a href="https://gloucestershire.gov.uk/media/2126/song_48_1mp3-15777.mp3" target="blank">recording of the song</a> by the Christ Faith Tabernacle of Gloucester also highlights the song's minor key, which imbues it with a sorrowful and tragic dimension.  
 
 ---
 
@@ -214,38 +140,34 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - Lead on his flock o'er crags, thro' bogs, and streams,
 - A tedious journey; yet not weary they,
 - Drawn by the enchantment of his artless song.
-- What cannot musick?—When brown Ceres[^f95n2] asks [160]
+- What cannot musick?—When brown Ceres asks [160]
 - The reapers sickle; what like magic sound,
-- Puff'd from sonorous bellows[^f95n3] by the squeeze
+- Puff'd from sonorous bellows[^f95n2] by the squeeze
 - Of tuneful artist, can the rage disarm
-- Of the swart dog-star,[^f95n4] and make harvest light?
+- Of the swart dog-star,[^f95n3] and make harvest light?
 
 - AND now thy mills dance eager in the gale; [165]
 - Feed well their eagerness: but O beware;
-- Nor trust, between the steel-cas'd cylinders,[^f95n5]
-- The hand incautious: off the member snapt[^f95n6]
+- Nor trust, between the steel-cas'd cylinders,[^f95n4]
+- The hand incautious: off the member snapt[^f95n5]
 - Thou'lt ever rue; sad spectacle of woe!
 
-> VER. 168. *Off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.[^f95n7]
+> VER. 168. *Off the member snapt*\] This accident will sometimes happen, especially in the night: and the unfortunate wretch must fall a victim to his imprudence or sleepiness, if a hatchet do not immediately strike off the entangled member; or the mill be not instantly put out of the wind.[^f95n6]
 
 [^f95n1]: The Annan is a river in Dumfries and Galloway, a unitary council area in southern Scotland near the border with England. During the 1332 Battle of Annan at the outset of the Second War of Scottish Independence (1332-1357), Sir Archibald Douglas attacked Edward Balliol and his army at Annan. Escaping just before being captured, Balliol is said to have fled naked to England.  
 
-[^f95n2]: Italo-Roman goddess of growth and agriculture.  
+[^f95n2]: Bagpipes.  
 
-[^f95n3]: Bagpipes.  
+[^f95n3]: The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
 
-[^f95n4]: The dog star is another name for Sirius, brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.  
+[^f95n4]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
 
-[^f95n5]: Grinders in sugar mills tended to be vertical cylinders that crushed cane stalks as they were turned.  
+[^f95n5]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, Grainger encourages planters to supply their mills with axes so that injured limbs could be amputated without delay.  
 
-[^f95n6]: Milling cane was a dangerous activity, and it was not uncommon for enslaved millers to catch body parts between the rollers. Whether mills were powered by wind, water, or muscle, it was unlikely that the rollers could be stopped instantaneously. Instead, planters were encouraged to supply their mills with axes so that injured limbs could be amputated without delay.  
-
-[^f95n7]: To put a windmill "out of the wind" is to stop the mill by turning the sails so they no longer catch the wind.  
+[^f95n6]: To put a windmill "out of the wind" is to stop the mill by turning the sails so that they no longer catch the wind.  
 
 ---
 
-
-[96]({{site.baseurl}}/images/p0110.jpg)
 
 - ARE there, the muse can scarce believe the tale; [170]
 - Are there, who lost to every feeling sense,
@@ -258,7 +180,10 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - \(For spite of vanity, thy slaves are men\)
 - Deny protection? Muse suppress the tale.
 
-> Pere Labat[^f96n2] says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
+- YE! who in bundles bind the lopt-off Canes; [180]
+- But chiefly ye! who feed the tight-brac'd mill;
+
+> Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
 > Indeed the bare suspicion of such a piece of barbarity leaves a stain: and therefore authors cannot be too cautious of admitting into their writings, any insinuation that bears hard on the humanity of a people.  
 
@@ -266,7 +191,9 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
 
-[^f96n2]: Jean Baptiste Labat (1663-1738), Dominican missionary who worked in Guadeloupe for several years and authored the *Nouveau voyage aux isles de l'Amerique* (1722).
+---
+
+...
 
 ---
 
@@ -288,10 +215,13 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 
 [^f105n2]: Lung infections or diseases.  
 
-[^f105n3]: Ventilation provided by air blowing through a space.  
+[^f105n3]: Ventilation provided by air blowing through a space.    
 
 ---
 
+...
+
+---
 
 [109]({{site.baseurl}}/images/p0123.jpg)
 
@@ -306,13 +236,11 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - How blithe, how jocund, the plantation smiles!
 - By day, by night, resounds the choral song [415]
 - Of glad barbarity; serene, the sun
-- Shines not intensely hot; the trade-wind[^f109n4] blows:
+- Shines not intensely hot; the trade-wind blows:
 - How sweet, how silken, is its noontide breath?
 - While to far climes the fell destroyer, Death,
 - Wings his dark flight. Then seldom pray for rain: [420]
-- Rather for cloudless days thy prayers prefer;
-
-[^f109n4]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe. 
+- Rather for cloudless days thy prayers prefer; 
 
 ---
 
@@ -333,10 +261,11 @@ Grainger focuses on manual labor and cropping in Book 3, which is replete action
 - An heterogeneous, an uncertain mass,
 - And never in thy coolers to condense.
 
-> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses[^f110n3] drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
+- OR, planter, if the coction they prolong
+- Beyond its stated time; the viscous wave [435]
+
+> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
 
 [^f110n1]: The \"Errata\" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
-
-[^f110n3]: Also molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
 
 ---
