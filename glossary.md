@@ -11,7 +11,7 @@ toc:
 
 # Glossary  
 
-This glossary contains definitions of key historical individuals, places, and plants mentioned in *The Sugar-Cane*. We include much of the same information in our footnotes to the poem, but it may be useful for the reader to see Grainger's reference points grouped together in this way. Grainger did mention a wide range of peoples, places, and plants, and he also mentioned many mythological or fictional characters and locations. We did not include the latter our lists, although it would be an interesting project to compare mythological and fictional references to historical ones.  
+This glossary contains definitions of key historical individuals, places, and plants mentioned in *The Sugar-Cane*. We include much of the same information in our footnotes to the poem, but it may be useful for the reader to see Grainger's reference points grouped together in this way. Grainger mentioned a wide range of peoples, places, and plants, and he also mentioned many mythological or fictional characters and locations. We did not include the latter in our lists, although it would be an interesting project to compare mythological and fictional references to historical ones.  
 
 ---
 ## Historical Individuals  
