@@ -10,6 +10,10 @@ toc:
 
 
 # Glossary  
+
+This glossary contains definitions of key historical individuals, places, and plants mentioned in *The Sugar-Cane*. We include much of the same information in our footnotes to the poem, but it may be useful for the reader to see Grainger's reference points grouped together in this way. Grainger did mention a wide range of peoples, places, and plants, and he also mentioned many mythological or fictional characters and locations. We did not include the latter our lists, although it would be an interesting project to compare mythological and fictional references to historical ones.  
+
+---
 ## Historical Individuals  
 
 - Acosta (1539-1600). José de Acosta, a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
@@ -22,7 +26,7 @@ toc:
 
 - Cabot, Sebastian (c. 1481/2-1557). Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).  
 
-- Celsus (14-37 CE). Aulus Cornelius Celsus, a Roman medical writer and the author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory. Celsus is used by Grainger to refer more generally to a doctor.  
+- Celsus (14-37 CE). Aulus Cornelius Celsus, a Roman medical writer and the author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory.  
 
 - Ceres' son. Grainger's epithet for Jethro Tull (1674-1741), an English agricultural innovator and writer who was known for authoring the work *Horse-Hoeing Husbandry* (1731).  
 
@@ -44,7 +48,7 @@ toc:
 
 - Durante (1529-1590). Castore Durante da Gualdo, botanist and physician to the Popes Gregory XIII and Sixtus V. Author of *Herbaria nuovo* (1585) and *Il tesoro della sanità* (1586).
 
-- Dyer, John (1699-1757). Welsh painter, poet, and author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757). As Dyer lived in Lincolnshire at the time of his death, Grainger also associates him with the region.  
+- Dyer, John (1699-1757). Welsh painter, poet, and author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).   
 
 - Earl of Carlisle (c. 1580-1636). James Hay, the first earl of Carlisle, a Scottish courtier and diplomat who came to the English court with James I. In 1627, he obtained a grant from Charles I for all of the Caribbean islands ranging from Barbados to St. Kitts.  
 
@@ -52,7 +56,7 @@ toc:
 
 - Edwards, George (1694-1773). English artist, ornithologist, and author of *A Natural History of Uncommon Birds* (1743-1751).  
 
-- Ferdinand the Catholic (1452-1516). King Ferdinand V of Castile and León and II of Aragon was the husband of Queen Isabella of Castille and, with Isabella, the patron of Columbus' 1492 voyage. Grainger also refers to him as "the Iberian King" in Book I, line 113.
+- Ferdinand the Catholic (1452-1516). King Ferdinand V of Castile and León and II of Aragon was the husband of Queen Isabella of Castille and, with Isabella, the patron of Columbus' 1492 voyage.  
 
 - Gallic Lewis (1638-1715). Louis XIV, king of France from 1643-1715. 
 
@@ -64,7 +68,7 @@ toc:
 
 - Homer (8th-century BCE). Greek poet and author of the *Iliad* and the *Odyssey*.
 
-- Johnson, Samuel (1709-1784). One of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see the note for lines 72-118 in Book IV (the lines that Johnson objected to).
+- Johnson, Samuel (1709-1784). One of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752).  
 
 - Jones, Inigo (1573-1652). English architect and theatre designer.
 
@@ -74,7 +78,7 @@ toc:
 
 - Labat, Jean Baptiste (1663-1738). A French missionary of the Dominican order, Labat served as a priest and procurator in Martinique and Guadaloupe. He liberated the island of Martinique from British control in 1703. Later, he served as a professor of philosophy and mathematics in Nancy, France, and authored the *Nouveau voyage aux isles de l'Amerique* (1722).
 
-- Lennox, Charlotte (1730/1731?-1804). British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). A close friend of Samuel Johnson.
+- Lennox, Charlotte (1730/1731?-1804). British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). 
 
 - Lewis, William (bap. 1708-d. 1781). English physician and experimental chemist. Author of *Chemical Works of Caspar Neumann, M.D.* (1759).
 
@@ -88,7 +92,7 @@ toc:
 
 - Martinus (1572-1630). According to Gilmore, Matthias Martinius authored the *Lexicon Philologicum* (1623).  
 
-- Mathew, Daniel (1718-1777). Cousin of Grainger's wife. Mathew's Cayon estate was in Saint Mary's parish on the eastern shore of St. Kitts. 
+- Mathew, Daniel (1718-1777). Cousin of Grainger's wife; owned an estate in Saint Mary's parish on the eastern shore of St. Kitts. 
 
 - Maupertuis (1698-1759). Pierre-Louis Moreau de Maupertuis, a French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
@@ -100,7 +104,7 @@ toc:
 
 - Modyford, Thomas (c. 1620-1679). A baronet and planter, whom Grainger explains to have lived in Barbardos before he moved to Jamaica in 1660, where served as governor from 1664 to 1669.  
 
-- Newman (1683-1737). Neumann was a German chemist.
+- Newman (1683-1737). Caspar Neumann, a German chemist.
 
 - Ogilvy (1600-1676). John Ogilby, Scottish publisher and geographer. He authored *America: being the latest, and most accurate description of the New World* (1671).  
 
@@ -108,7 +112,7 @@ toc:
 
 - Pasqua (fl. 1651-1656). Pasqua Rosée was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England. 
 
-- Percy, Thomas (1729-1811). Bishop Thomas Percy was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*. Furthermore, the *Reliques* contains a poem by Grainger entitled "Bryan and Pereene. A West-Indian Ballad," a tragic love story whose plot mirrors that of the story of Junio and Theana.  
+- Percy, Thomas (1729-1811). Bishop Thomas Percy was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*.  
 
 - Philips, John (1676-1709). English poet and author of the georgic poem *Cyder* (1708).  
 
@@ -126,7 +130,7 @@ toc:
 
 - Romney (1712-1793). According to Gilmore, refers to Robert Marsham, 2nd Baron Romney, who married Priscilla Pym, the heiress of the St. Kitts planter Charles Pym.  
 
-- Shenstone, William (1714-1763). English poet and a famed innovator of landscape gardening, which he practiced on his estate, The Leasowes. Grainger enclosed a draft of *The Sugar-Cane* in a 5 June 1762 letter to his friend Bishop Thomas Percy, asking him and Shenstone to read and comment on it.
+- Shenstone, William (1714-1763). English poet and a famed innovator of landscape gardening, which he practiced on his estate, The Leasowes.  
 
 - Shirley, Sir Anthony (1565-1635?). Count Sherley, an English adventurer and diplomat who led ill-fated expeditions against the Portuguese in Cape Verde and against the Spanish in Jamaica. He later went to Persia to engineer an alliance against the Turks.  
 
@@ -166,7 +170,7 @@ toc:
 
 - Warner, Thomas (c.1580-1649). English settler and colonial governor. He was in Guiana from 1620 to 1622 before returning to England. In 1624, he settled in St. Kitts, where he established tobacco plantations and formed an alliance with the French against the Caribs. He was named Governor of St. Kitts for life by the Earl of Carlisle in 1629.  
 
-- White (d. 1811?). In Book III, line 509, Grainger may be referring to James White. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761) (Anderson 9.59, 9.67-68, 9.269).  
+- White (d. 1811?). James White, a Scottish writer who authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761).  
 
 - Wolfe, James (1727-1759). English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
@@ -201,7 +205,7 @@ toc:
 
 - Azores. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Canary, Cape Verde, and Madeiras islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
-- Barbados. An island first settled by the English in 1627; one of the Lesser Antilles. It gained independence from the United Kingdom in 1966. Grainger also spells it as Barbadoes. 
+- Barbados. An island first settled by the English in 1627; one of the Lesser Antilles. It gained independence from the United Kingdom in 1966. 
 
 - Barbary-coast. The Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.
 
@@ -217,13 +221,11 @@ toc:
 
 - Body-ponds. A watershed in Antigua. 
 
-- Bristol. City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone.  
+- Bristol. City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. 
 
 - Cambria. Latin name for Wales.
 
-- Canary Islands. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores, Cape Verde Islands, and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
-
-- Cape-Verd Islands. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores, the Canary Islands, and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
+- Canary and Cape-Verd Islands. The Canary and Cape Verde Islands in the eastern Atlantic Ocean were relatively close to the coasts of Europe and Africa. Along with the Azores and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
 
 - Caraccas. Caracas, the capital of Venezuela.
 
@@ -291,11 +293,11 @@ toc:
 
 - Libya. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
-- Lincoln. The county town of Lincolnshire, in eastern England. Lincoln was a center of wool production.  
+- Lincoln. The county town of Lincolnshire in eastern England. 
 
 - Lusitania. Now modern Portugal. Lusitania was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
 
-- Madeiras. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores, the Canary and Cape Verde islands, and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
+- Madeiras. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores and the Canary and Cape Verde Islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
 - Malabar. A region on the southwest coast of India (modern Kerala). 
 
@@ -341,7 +343,7 @@ toc:
 
 - Sparta. A powerful city-state in ancient Greece.
 
-- St. Christopher. The island of St. Christopher was known as Liamuiga by the indigenous Caribs who lived there. Columbus claimed it on behalf of Spain in 1493, and it was partitioned between the French and the English in the early seventeenth century, at which time it was primarily a tobacco colony. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger left England in 1759 during the Seven Years' War (1756-1763). Grainger uses "St. Christopher," "Liamuiga," and "St. Kitts" interchangeably in the poem, but we have chosen to use "St. Kitts" on this site. St. Kitts has been part of the nation of St. Kitts and Nevis (also known as the Federation of St. Christopher and Nevis) since it gained independence from Great Britain in 1983.  
+- St. Christopher. The island of St. Christopher or St. Kitts was known as Liamuiga by the indigenous Caribs who lived there. Columbus claimed it on behalf of Spain in 1493, and it was partitioned between the French and the English in the early seventeenth century, at which time it was primarily a tobacco colony. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger left England in 1759 during the Seven Years' War (1756-1763). St. Kitts has been part of the nation of St. Kitts and Nevis (also known as the Federation of St. Christopher and Nevis) since it gained independence from Great Britain in 1983.  
 
 - St. Croix. An island that now forms part of the US Virgin Islands.  
 
@@ -384,21 +386,21 @@ toc:
 
 ## Plants  
 
-- Acajou \(*Anacardium occidentale*\). Another name for the cashew or cashewnut tree. Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women in the eighteenth-century Caribbean as a chemical peel to remove freckles (Riddell 82-83; also see Grainger's note in Book IV, p. 132).  
+- Acajou \(*Anacardium occidentale*\). Another name for the cashew or cashewnut tree. Its native range is Trinidad to tropical South America. 
 
 - Acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn. 
 
 - Almond \(*Prunus dulcis*\). A nut primarily native to western Asia. 
 
-- Anana \(*Ananas comosus*\). Pineapple. It originated in Central or South America, and was brought by Amerindians to the Caribbean (Higman 188).  
+- Anana \(*Ananas comosus*\). Pineapple. It originated in Central or South America and was brought by Amerindians to the Caribbean (Higman 188).  
 
 - Anata \(*Bixa orellana*\). Also anatta, anatto, or annatto. A low, shrubby tree native to the tropical Americas that was used from precolonial times by indigenous peoples to produce a reddish-orange dye.  
 
-- Angola. Refers to the pigeon pea. Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in provision grounds because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
+- Angola's bloomy bush. Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in provision grounds because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
 - Avocado. Grainger mentions two kinds of avocado in his note in Book I, p. 8: "the one bearing a green fruit, which is the most delicate, and the other a red, which is less esteemed, and grows chiefly in Mexico." There are multiple varieties of avocado. The one that Grainger identifies as bearing a green fruit may be *Persea americana* var. *americana*, also known as the West Indian avocado. The one that Grainger identifies as growing chiefly in Mexico may be *Persea americana* var. *drymifolia*, also known as the Mexican avocado.  
 
-- Baccacoua. A kind of cassava mentioned by Jean Antoine Bruletout de Préfontaine in his *Maison rustique, à l'usage des habitans de la partie de la France équinoxiale connue sous le nom de Cayenne* (1763), consumed only by the Amerindians in Cayenne, a French colony on the northeastern coast of South America (now the name of the capital of French Guiana).  
+- Baccacoua. A kind of cassava (*Manihot esculenta*) that Grainger claims only Amerindians consumed (versus Europeans and Africans).    
 
 - Balm. The name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
@@ -412,13 +414,11 @@ toc:
 
 - Bermuda cedar \(*Juniperus bermudiana*\). A species of cedar native to Bermuda that was used by early colonists as building material and fuel. By the 1830s, the ship-building industry had denuded Bermuda of most of its indigenous cedars. It is still a critically endangered species.  
 
-- Bois d'anise. Anise wood. The leaves of some varieties of avocado give off a scent of anise when crushed.
-
-- Bonavist. A species of bean \(*Lablab purpureus*\) whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.  
+- Bonavist (*Lablab purpureus*). A species of bean whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.  
 
 - Broom-bush. Gilmore identifies the broom bush as possibly *Sida acuta*, a plant native to Central America with yellow flowers that open in the morning.  
 
-- Cacao \(*Theobroma cacao*\). Also called cocô. The cacao tree is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century, when it was branded as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131). There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety. The name "cacao" is derived from the Nahuatl word *cacahuatl*, and the scientific name *Theobroma cacao* also includes a Greek term that translates to "food of the gods."  
+- Cacao \(*Theobroma cacao*\). The cacao tree is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century, when it was branded as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131). There are three main varieties of cacao used in commercial chocolate production today: the Forastero, the Trinitario, and the Criollo. The Criollo is the most prized variety. The name "cacao" is derived from the Nahuatl word *cacahuatl*, and the scientific name *Theobroma cacao* also includes a Greek term that translates to "food of the gods."  
 
 - Calaba \(*Calophyllum antillanum*\). A hardwood tree whose native range includes Central America and the Caribbean.  
 
@@ -426,23 +426,23 @@ toc:
 
 - Candle-weed \(*Senna alata*\). Also known today as the candle bush or king of the forest. Its native range is southwestern Mexico to the tropical Americas.  
 
-- Carnation \(*Caesalpinia pulcherrima*\). A shrub that produces showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.  
+- Carnation \(*Caesalpinia pulcherrima*\). Not the modern carnation but instead a shrub that produces showy orange and yellow flowers with red stamens. It was known in the colonial period as *Poinciana pulcherrima*, Barbados Pride, and peacock flower, among other names, most referring to the plant's beauty (the Latin word *pulcher* means beauty). From the seventeenth century, Europeans reported that it was being used by Amerindian and African women in the Americas as an abortifacient: Maria Sibylla Merian (1647-1717), a Dutch naturalist and artist who traveled to Surinam in the seventeenth century, also claimed that women used the plant to induce abortions because they did not want to give birth to children who would be enslaved (2.124-125). The origins of the plant are unclear: some botanists believe it to be native to Asia and an early introduction to the Caribbean, while others believe it to be native to the tropical Americas.  
 
 - Carob tree \(*Ceratonia siliqua*\). Also called the locust bean tree, the carob tree is native to Mediterranean Europe, North Africa, the Middle East, and Turkey. It is the source of carob, which is often used today as a chocolate substitute.  
 
-- Cassada \(*Manihot esculenta*\). Cassava. Also known as manioc, yuca, and bitter cassava. It was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Although raw cassava is poisonous to human beings, rats apparently could eat it without being unduly affected since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69). Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour (Higman 62).  
+- Cassada \(*Manihot esculenta*\). Cassava. Also known as manioc and yuca. It was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. It was one of the most important food sources for Amerindians during the precolonial era; it was subsequently adopted by Africans and Europeans in the Caribbean as well. Cultivated varieties of cassava are classed into two groups: bitter and sweet. Bitter cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour (Higman 61-69).  
 
 - Cassia. Probably *Cassia fistula*, commonly used as a purgative. It is likely native to India and Sri Lanka.  
 
 - Ceiba \(*Ceiba pentandra*\). Also known as the kapok or silk-cotton tree, the ceiba, whose native range is Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds. 
 
-- Cherimoya \(*Annona cherimola*\). A fruit that originated in South America and is perhaps native to Ecuador. Grainger also spells it as chirimoia.  
+- Cherimoya \(*Annona cherimola*\). A fruit that originated in South America and is perhaps native to Ecuador.  
 
 - Chickweed \(*Stellaria media*\). A plant native to Europe.  
 
 - Chili-strawberry \(*Fragaria chiloensis*\). Chilean strawberry, native to the Pacific Northwest but probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry \(*Fragaria virginiana*\) to create today's commercial strawberry \(*Fragaria x ananassa*\).
 
-- China \(*Smilax china*\). The china-root plant is valued for its medicinal properties. Its native range extends from China to Japan and the Philippines. Whether *Smilax china* grew in the eighteenth-century Caribbean is unclear. The genus *Smilax* contains approximately 350 species, which are sometimes difficult to distinguish from each other. Today, the species *Smilax viscifolia* is commonly known as "China root" in Jamaica.  
+- China \(*Smilax china*\). The china-root plant is valued for its medicinal properties. Its native range extends from China to Japan and the Philippines.  
 
 - Coco. The coca plant, the source of cocaine. Two species of coca are now in cultivation: *Erythroxylum coca*, whose native range is western South America, and *Erythroxylum novogranatense*, whose native range is Colombia to northwestern Venezuela and Peru.  
 
@@ -462,19 +462,19 @@ toc:
 
 - Ebony. Refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
 
-- Edda. Edda or eddo commonly referred to taro (*Colocasia esculenta*). It also, however, sometimes referred to yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
+- Edda. Edda or eddo commonly referred to taro (*Colocasia esculenta*). It also, however, sometimes referred to as yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
 
 - English bean \(*Vicia faba*\). Also known as fava, broad, or horse bean. It originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. Beans were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves.
 
 - English field-pea \(*Pisum sativum*\). Also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
-- Fern-tree. Tree ferns are primitive plants that belong to the order Cyatheales. In Book I, line 393, Grainger may have been referencing *Cyathea arborea*, sometimes known as the West Indian treefern, which can grow up to nine meters tall.  
+- Fern-tree. Tree ferns are primitive plants that belong to the order Cyatheales. 
 
-- Flower Fence. One of several common names for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence.  
+- Flower Fence. One of several common names for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence. See entry for "Carnation" above.    
 
 - Forbidden fruit. Refers to species of citrus that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit (Higman 180).   
 
-- Ginger \(*Zingiber officinale*\). A herb probably native to India, which was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95). 
+- Ginger \(*Zingiber officinale*\). An herb probably native to India that was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95). 
 
 - Granadilla \(*Passiflora ligularis*\). Passion fruit. Its native range is Panama to Venezuela and Peru.  
 
@@ -516,9 +516,9 @@ toc:
 
 - Mammee apple \(*Mammea americana*\). A large fruit native to the Caribbean and northern South America. 
 
-- Mammee sapota \(*Pouteria sapota*\). A sweet fruit whose native range is Mexico and Central America. Not to be confused with the mammee apple. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. It is a sour or tart fruit whose native range is Mexico, Central America, and the Caribbean (Higman 196-197). 
+- Mammee sapota \(*Pouteria sapota*\). A sweet fruit whose native range is Mexico and Central America. Not to be confused with the mammee apple. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. 
 
-- Mangrove. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets there.  
+- Mangrove. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets.  
 
 - Mezamby. Gilmore identifies mezamby as probably *Cleome gynandra*, a plant whose native range is the tropical and subtropical Old World.  
 
@@ -550,7 +550,7 @@ toc:
 
 - Prickle-weed. Might refer to *Amaranthus spinosus*, a plant sometimes known as prickly callaloo. Its native range is Mexico and the tropical Americas.  
 
-- Prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. *Opuntia ficus-indica*, which is native to Mexico, was introduced to Spain by Columbus upon his return from his first voyage.  
+- Prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. 
 
 - Prickly vine. Night-blooming cereus \(*Selenicereus grandiflorus*\), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua. 
 
@@ -558,19 +558,19 @@ toc:
 
 - Rhubarb \(*Rheum rhabarbarum*\). A plant whose native range includes southern Siberia and northern and central China. Traditionally used for indigestion and bowel complaints; now commonly used as a fruit.  
 
-- Rice \(*Oryza glaberrima*\). One of the major food crops in West Africa, native to the region. Rice did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
+- Rice. Rice did not make up a major part of the diets of the enslaved living in the Caribbean islands, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons in the Caribbean islands may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
 
-- Ricinus \(*Jatropha curcas*\). The physic nut plant, which is often conflated with the castor oil plant (*Ricinus communis*). The physic nut tree is native to the tropical Americas. It is toxic to human beings and livestock and was often used as a purgative in the eighteenth century.  
+- Ricinus. The physic nut plant (*Jatropha curcas*), which is often conflated with the castor oil plant (*Ricinus communis*). The physic nut tree is native to the tropical Americas. It is toxic to human beings and livestock and was often used as a purgative in the eighteenth century.  
 
 - Royal palm \(*Roystonea oleracea*\). A tree that can reach forty meters in height, native to the Lesser Antilles, northern South America, and Guatemala. Grainger also calls it the palmeto.
 
-- Sabbaca \(*Persea americana*\). A variety of avocado, which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. Avocado was an important part of the diets of the enslaved who had access to it: they harvested it from woodlands, versus growing it in provision grounds or gardens (Higman 158-160).
+- Sabbaca. A variety of avocado (*Persea americana*).
 
 - Sand-box tree \(*Hura crepitans*\). A tree that gets its name from its seed pods, which, when dried, were used as sandboxes for blotting ink. Apart from being quite tall, the sandbox tree is peculiar for two other reasons: its leaves, bark, and sap are poisonous, and, when ripe, its seed pods open with loud, explosive sounds, flinging their seeds at speeds exceeding 100 mph. Its native range is the tropical Americas.
 
 - Sappadilla \(*Manilkara zapota*\). The sapodilla, also known as the nasebery or nispero, is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean.
 
-- Sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. Grainger may have been referring to the species *Smilax regelii*, known as "Jamaica sarsaparilla."  
+- Sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. 
 
 - Sempre-vive. The genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia.
 
@@ -578,7 +578,7 @@ toc:
 
 - Sensitive plant \(*Mimosa pudica*\). The mimosa plant's leaves fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists. 
 
-- Shaddoc \(*Citrus maxima*\). The shaddock, which Grainger spells as shaddoc, is a kind of citrus, also known as the pomelo or pummelo. It is native to Southeast Asia and became known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
+- Shaddoc \(*Citrus maxima*\). The shaddock is a kind of citrus, also known as the pomelo or pummelo. It is native to Southeast Asia and became known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
 - Snakeweed. May be *Euphorbia hyssopifolia*, a plant whose native range is the tropical and subtropical Americas.  
 
@@ -590,7 +590,7 @@ toc:
 
 - Sugar apple \(*Annona squamosa*\). Also known as sweetsop; the fruit of a tree native to lowland Central America.  
 
-- Sugar cane \(*Saccharum officinarum*\). The cane is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).
+- Sugar cane \(*Saccharum officinarum*\). Most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there. Columbus first brought sugar to the Caribbean in 1493.
 
 - Sweet potato \(*Ipomoea batatas*\). A tuber which probably originated in Central America or northwestern South America.  
 
@@ -602,7 +602,7 @@ toc:
 
 - Thyme. Plants of the genus *Thymus*, native to Greenland, Eurasia, and northeastern tropical Africa.  
 
-- Tobacco \(*Nicotiana tabacum*\). A major agricultural commodity in the eighteenth-century Caribbean, and native to the Americas. It was introduced from the Americas to Africa in the 1500s.  
+- Tobacco \(*Nicotiana tabacum*\). A major agricultural commodity in the eighteenth-century Caribbean and native to the Americas. It was introduced from the Americas to Africa in the 1500s.  
 
 - Turpentine tree. Likely *Bursera simaruba*, a tree whose native range is the Caribbean and Mexico to Brazil.  
 
@@ -620,7 +620,7 @@ toc:
 
 - Wild liquorice \(*Abrus precatorius*\). A slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
-- Wild pine-apple \(*Bromelia pinguin*\). Its native range is Mexico and the tropical Americas. Grainger also calls it the "ananas bravo" in his note in Book I, p. 31.  
+- Wild pine-apple \(*Bromelia pinguin*\). Its native range is Mexico and the tropical Americas. 
 
 - Wild red cedar \(*Cedrela odorata*\). The red cedar is an important timber tree found in Central and South America, as well as in the Caribbean. It is now considered vulnerable to extinction due to unsustainable levels of harvesting.  
 
