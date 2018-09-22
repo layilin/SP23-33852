@@ -16,15 +16,15 @@ This glossary contains definitions of key historical individuals, places, and pl
 ---
 ## Historical Individuals  
 
-- Acosta (1539-1600). José de Acosta, a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
+Acosta (1539-1600). José de Acosta, a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.  
 
-- Apicius (1st century CE). Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (14-37 CE). He exhausted his fortune on feasts and committed suicide rather than economize. His name has been used for several Roman connoisseurs of luxury.  
+Apicius (1st century CE). Marcus Gavius Apicius, a gourmet who lived during the reign of Tiberius (14-37 CE). He exhausted his fortune on feasts and committed suicide rather than economize. His name has been used for several Roman connoisseurs of luxury.  
 
-- Arrian (86-160 CE). Lucius Flavius Arrianus, author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*.
+Arrian (86-160 CE). Lucius Flavius Arrianus, author of various short essays and histories, including *Bithyniaca*, *Parthica*, and what is known as *Affairs of Alexander*.
 
-- Aurelius (121-80 CE). Marcus Aurelius, emperor of Rome from 161 to 180 CE. He was known both for his military campaigns against the Germanic tribes and for his philosophical *Meditations*.  
+Aurelius (121-80 CE). Marcus Aurelius, emperor of Rome from 161 to 180 CE. He was known both for his military campaigns against the Germanic tribes and for his philosophical *Meditations*.  
 
-- Cabot, Sebastian (c. 1481/2-1557). Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).  
+Cabot, Sebastian (c. 1481/2-1557). Venetian navigator and cartographer who explored the North Atlantic and traveled down the northeastern coast of North America, perhaps as far south as Cape Hatteras, North Carolina, in 1508-1509. He also led an expedition in 1526 that was supposed to reach Asia but went no further than Brazil. Cabot's place of birth is unclear. Although generally acknowledged as Venice, it might also have been Bristol (late in life, Cabot himself claimed to have been born in Bristol).  
 
 - Celsus (14-37 CE). Aulus Cornelius Celsus, a Roman medical writer and the author of the encyclopedia entitled *Arte*, of which eight books, *De medicina*, deal with various medical topics from Greek medicine to first-century medical theory.  
 
