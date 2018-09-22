@@ -16,6 +16,7 @@ Nevertheless, reading the poem today poses certain political and aesthetic chall
 What we hope to do in this brief introduction to *The Sugar-Cane*, then, is to provide essential background information on Grainger and the georgic so that readers can better understand and engage with the poem. At the same time, we seek to raise questions about Grainger's decision to depict slavery via the medium of poetry. We particularly seek to question his defense of the plantation system at a time when some of his contemporaries were beginning to embrace the idea of abolition. Finally, we discuss the strategies we employed in this edition to try and make dissenting readings of the poem--ones that focus on what could be called the "counter-plantation," versus the plantation--available to users of this site. 
 
 
+---
 ## Who Was Grainger?
 
 James Grainger was destined for neither literary nor scientific greatness. Like so many other eighteenth-century British men, however, he was able to navigate the commercial and intellectual networks that were opened by Britain's expanding imperial and colonial endeavors. Grainger was born in the mid-1720s in Duns, a small town near Scotland's southern border with England. His father bankrupted himself with a series of failed investments, and young James was orphaned around the age of ten. He was placed under the guardianship of his half-brother William, apprenticed to an Edinburgh surgeon soon afterward, and enrolled in 1739 to study medicine at the University of Edinburgh, which was already on its way to becoming a center of the global Enlightenment. His career trajectory from there was fairly typical for a man of his background: he enlisted as a regimental surgeon in the mid-1740s and then served in Scotland during the Jacobite uprising (1745) and in the Netherlands during the War of Austrian Succession (1740-1748). Upon his return to civilian life, he wrote a dissertation on the treatment of syphilis that was published in 1753, and he moved to London to practice medicine in the mid-1750s.
@@ -27,6 +28,7 @@ Bourryau and Grainger left for the Caribbean in the spring of 1759. During the c
 Grainger complained bitterly about the isolation he felt in St. Kitts and about what he saw as his fellow colonists' lack of culture. Nevertheless, he only returned to England briefly in 1763, perhaps in part to help supervise the publication of *The Sugar-Cane*.  He died in St. Kitts in December 1766, leaving behind his wife and a young daughter named Louise. At the end of the eighteenth century, his friend Thomas Percy collaborated with Robert Anderson to produce a collection of his works, which did not appear, however, until 1836.
 
 
+---
 ## Why a Georgic?
 
 Taking its name from the Greek word for agriculture, the georgic is one of the major classical poetic genres alongside the epic (which treats heroic events) and the pastoral (which treats the rural lives of shepherds). In the eyes of eighteenth-century British readers, the most famous and most praised poem in the georgic genre was Virgil's *Georgics* (ca. 29 BCE). Split into four books, the georgic aims both to instruct readers in the art of agriculture (including planting and animal husbandry) and to praise the effects of agricultural labor on farmers and society. John Dryden led a resurgence of interest in the georgic when he translated Virgil's poem from the original Latin in 1697. Following Dryden, a number of writers composed traditional georgics that highlighted the virtues of British agriculture. These poems included John Philips' *The Cyder* (1708), William Somerville's *The Chace* (1735), Christopher Smart's *The Hop-Garden* (1752), and John Dyer's *The Fleece* (1757), all of which feature in Grainger's poem. In praising British agricultural goods, these georgics performed important cultural work, emphasizing Britain's natural resources, as well as the commercial power the nation wielded in trading these goods across the globe. 
@@ -34,6 +36,7 @@ Taking its name from the Greek word for agriculture, the georgic is one of the m
 Although *The Sugar-Cane* was published relatively late in the georgic revival, Grainger's decision to write the poem as a georgic makes a decisive statement about his ambitions: he wanted to establish himself as a great writer able to follow in the footsteps of classical figures like Virgil. Additionally, he wanted to underscore the importance of the Caribbean colonies to the British Empire, the overall strength of which he also sought to emphasize. At the same time, the poem had to address one obvious difference between *The Sugar-Cane* and its predecessors: St. Kitts, the setting of *The Sugar-Cane* and Grainger's new home, was not Britain. Moreover, sugarcane was not a British plant. Indeed, most of the tropical plants found in the Caribbean were unfamiliar to British readers, as was the process of sugar production. Grainger addresses these issues directly in his preface and tries to turn them to his advantage. First, he explains that the Caribbean landscape is so novel and beautiful that it cannot help but "enrich poetry with many new and picturesque images" (v). Second, he claims that he will use the poem to introduce British readers to new words and concepts, particularly by providing extensive notes that would effectively act as a natural history or account of Caribbean nature. Aware that the addition of notes and scientific information could open him up to criticism from poetic traditionalists, Grainger coined the term "West-India georgic" to describe his hybrid work and asked that his readers consider him "a physician, and not a poet" (vii) when he veered too much into botany and medicine.
 
 
+---
 ## How Does Grainger Depict Slavery in *The Sugar-Cane*?
 
 In writing *The Sugar-Cane*, however, Grainger faced yet another and even more difficult challenge that he arguably failed to solve. On the one hand, the georgic traditionally emphasized the healthful benefits of labor. It also sought to demonstrate that a nation's power and liberty were rooted in its commerce. On the other hand, the eighteenth-century production of sugar--and the strength and prosperity of the British Empire--depended centrally on enslaved labor. As such, Grainger adopted various strateiges, sometimes contradictory, for dealing with the paradoxical task of depicting enslavement as a beneficial and desirable state.
@@ -77,6 +80,7 @@ Grainger himself even veers into abolitionism for one brief interlude. This inte
 Why Grainger would include these lines in a work defending slavery is worth asking. To what extent did the conflict between the sentiments of the classical georgic and the realities of eighteenth-century slavery create tension and paradox in his poetry? Are there other signs of ambivalence, doubt, or dissent in *The Sugar-Cane*? Can we read for those signs, and can we even possibly use the poem as a source for information and knowledge about the plantation that would undermine Grainger's intention of validating it? 
 
 
+---
 ## Why a Digital Edition? 
 
 The above questions are some of the ones that we hope readers of this edition will be prompted to consider. We also want readers to be able to formulate their own questions and ways of reading *The Sugar-Cane*. To that end, we made the decision to create a digital, versus print, edition of Grainger's work. 
@@ -85,9 +89,9 @@ There are already two modern versions of *The Sugar-Cane* available in print. On
 
 Our edition differs from Krise and Gilmore's works, however, in that we take advantage of the flexibility of a digital platform to provide readers with multiple versions of the poem. These versions include:
 
-> A "full text" version  
-> A "page by page" version  
-> Excerpts from the poem focused on specific themes and grouped under the rubric of the "counter-plantation"  
+> —A "full text" version  
+> —A "page by page" version  
+> —Excerpts from the poem focused on specific themes and grouped under the rubric of the "counter-plantation"  
 {:.indented}
 
 What we are calling the "full text" version contains all of the pages of the poem on one webpage. In other words, readers can scroll through the entire poem without ever clicking away from it and thereby enjoy a continuous reading experience. This version of the poem also facilitates keyword searches within the whole poem. To see all the uses of a particular word in the poem, readers can use the "Find" command included in their web browsers or the "Search" function included on our site's sidebar. This version of the poem also facilitates printing: if readers wish to print or save a copy of the poem for consultation offline, we recommend first using the web browser's "Print" command to create a PDF of the full text version and then printing or saving the PDF. 
@@ -101,32 +105,33 @@ In terms of deciding what topics to focus on in our counter-plantation excerpts,
 Indeed, the image we have included at the top of our homepage is an original work of art by Vanessa Lee, who was kind enough to enter into our project of encouraging readers to "break" *The Sugar-Cane* and read it for their own interests and purposes. The piece of cane in Lee's image is a reproduction of the sugarcane illustration that was included in the 1764 edition of *The Sugar-Cane*, although, in the case of the 1764 edition, the stalk was whole and not broken (see the frontispiece of *The Sugar-Cane* for comparison).[^fn3] Lee's illustration also includes a rat to reference one of the most well-known, if probably untrue, stories about critical reaction to *The Sugar-Cane*. In his *Life of Johnson*, James Boswell recalls a reading of a manuscript draft of *The Sugar-Cane* that took place at the London home of the eighteenth-century painter Sir Joshua Reynolds. The line, “Now, Muse, let’s sing of rats,” is supposed to have caused the audience to burst into laughter. In response, Grainger deleted the word “rats” from the poem and replaced it with “whisker’d vermine-race,” but the fact is that Grainger's work contains harsh realities that ultimately cannot be papered over with poetic language (II.62).[^fn4] We would ask readers to keep these realities in mind and to avoid treating Grainger as an author or authority who needs to be revered. A little laughter may, in fact, be in order. 
 
 
+---
 ## Notes on Transcription and Language
 
 In creating this edition, we have striven to produce a "semidiplomatic" edition that faithfully reproduces all the important features of the 1764 edition (Driscoll 254). As such, we made no changes or corrections to Grainger's words or spelling. We also largely reproduced the punctuation from the 1764 edition. Nevertheless, because we wanted to produce a readable edition of the work that would be accessible to eighteenth-century specialists and non-specialists alike, we did make the following changes to the text:
 
-> We modernized any uses of the 'long s'  
-> We substituted standard capital letters for any large, small, or otherwise irregular capital letters  
-> We did not replicate ligatures between letters  
-> We eliminated any extra spaces in front of punctuation marks  
-> We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes  
-> We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)  
-> We did not replicate the headers on each page that repeated the book number and title of the work  
-> We did not replicate printer's marks in the footers of pages  
-> We did not maintain the eighteenth-century practice of repeating the first word of a page on at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability, but it is no longer conventional to follow it today.  
+> —We modernized any uses of the 'long s'  
+> —We substituted standard capital letters for any large, small, or otherwise irregular capital letters  
+> —We did not replicate ligatures between letters  
+> —We eliminated any extra spaces in front of punctuation marks  
+> —We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes  
+> —We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)  
+> —We did not replicate the headers on each page that repeated the book number and title of the work  
+> —We did not replicate printer's marks in the footers of pages  
+> —We did not maintain the eighteenth-century practice of repeating the first word of a page on at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability, but it is no longer conventional to follow it today.  
 {:.indented}
 
 Finally, Grainger and other eighteenth-century writers often were inconsistent in their use of terms to describe peoples and places. They also used terms for Caribbean colonization and slavery that are no longer considered by many scholars to be accurate or representative. As a result, we have made an effort to use the following terms, versus Grainger's, in our own commentary and footnotes on *The Sugar-Cane*: 
 
-> "African" for people born in Africa  
-> "Afro-Caribbean" for those established in the Caribbean  
-> "British" (or Scottish or English or Welsh) for people born in Britain  
-> "Caribbean" for "West Indies"  
-> "Creole" for any non-indigenous person born in the Caribbean  
-> "Enslaved person" rather than "slave"  
-> "Fugitive" rather than "runaway slave"  
-> "Indigenous" for "native" peoples  
-> "St. Kitts" for "St. Christopher"  
+> —"African" for people born in Africa  
+> —"Afro-Caribbean" for those established in the Caribbean  
+> —"British" (or Scottish or English or Welsh) for people born in Britain  
+> —"Caribbean" for "West Indies"  
+> —"Creole" for any non-indigenous person born in the Caribbean  
+> —"Enslaved person" rather than "slave"  
+> —"Fugitive" rather than "runaway slave"  
+> —"Indigenous" for "native" peoples  
+> —"St. Kitts" for "St. Christopher"  
 {:.indented}
 
 
