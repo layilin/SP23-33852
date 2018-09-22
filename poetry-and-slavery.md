@@ -105,15 +105,15 @@ Indeed, the image we have included at the top of our homepage is an original wor
 
 In creating this edition, we have striven to produce a "semidiplomatic" edition that faithfully reproduces all the important features of the 1764 edition (Driscoll 254). As such, we made no changes or corrections to Grainger's words or spelling. We also largely reproduced the punctuation from the 1764 edition. Nevertheless, because we wanted to produce a readable edition of the work that would be accessible to eighteenth-century specialists and non-specialists alike, we did make the following changes to the text:
 
-> We modernized any uses of the 'long s'
-> We substituted standard capital letters for any large, small, or otherwise irregular capital letters
-> We did not replicate ligatures between letters 
-> We eliminated any extra spaces in front of punctuation marks 
-> We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes
-> We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)
-> We did not replicate the headers on each page that repeated the book number and title of the work
-> We did not replicate printer's marks in the footers of pages
-> We did not maintain the eighteenth-century practice of repeating the first word of a page on at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability, but it is no longer conventional to follow it today. 
+> We modernized any uses of the 'long s'  
+> We substituted standard capital letters for any large, small, or otherwise irregular capital letters  
+> We did not replicate ligatures between letters  
+> We eliminated any extra spaces in front of punctuation marks  
+> We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes  
+> We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)  
+> We did not replicate the headers on each page that repeated the book number and title of the work  
+> We did not replicate printer's marks in the footers of pages  
+> We did not maintain the eighteenth-century practice of repeating the first word of a page on at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability, but it is no longer conventional to follow it today.  
 {:.indented}
 
 Finally, Grainger and other eighteenth-century writers often were inconsistent in their use of terms to describe peoples and places. They also used terms for Caribbean colonization and slavery that are no longer considered by many scholars to be accurate or representative. As a result, we have made an effort to use the following terms, versus Grainger's, in our own commentary and footnotes on *The Sugar-Cane*: 
