@@ -5026,7 +5026,7 @@ BOOK IV.
 
 [^f141n5]: Strabo \(64 BCE-21 CE\), Greek geographer and historian whose *Geography* outlined the countries and peoples of the Greco-Roman world under the reign of Augustus (27 BCE-14 CE).  
 
-[^f141n6]: The "Errata" list at the end of *The Sugar-Cane* indicates that "Κασσι τερον" should read "Κασσι?ερον."    
+[^f141n6]: The "Errata" list at the end of *The Sugar-Cane* indicates that "*Κασσι τερον*" should read "*&#922;&#945;&#963;&#963;&#953;&#932;&#949;&#961;&#959;&#957;*."    
 
 ---
 
@@ -6149,7 +6149,7 @@ Zumbadore-bird, p. 46.
 ---
 
 
-[Errata]
+[168][^fn1]
 
 ERRATA.
 
@@ -6169,6 +6169,8 @@ Page 102, line 285, the same.
 Page 110, line 425, for *weighed* read *weigh'd*.  
 Page 128, line 58, for *art* read *want*.  
 Page 132, in note, for *rhinds* read *rinds*.  
-Page 141, in note, for *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;* read *&#922;&#945;&#963;&#963;&#953; &#932;&#949;&#961;&#959;&#957;*.
+Page 141, in note, for *&#922;&#945;&#963;&#963;&#953; &#964;&#949;&#961;&#959;&#957;* read *&#922;&#945;&#963;&#963;&#953;&#932;&#949;&#961;&#959;&#957;*.
+
+[^fn1]: Even though the copy of the 1764 edition in the database *Eighteenth-Century Collections Online* contains an errata page, the copy that we used to produce images of each page did not contain one. Hence, no image is available here. 
 
 ---
