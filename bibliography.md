@@ -9,10 +9,10 @@ toc:
 - Works on Editing and Digital Edition
 --- 
 
-Below is the bibliography of works consulted during the transcription and editorial process for the 1764 first edition of James Grainger's "The Sugar-Cane." Works discuss Grainger's text, eighteenth century botany and natural history, enslaved and indigenous knowledge, and editing practices.  
+Below is a list of works we consulted during the transcription and editing of *The Sugar-Cane*. We list primary sources, secondary sources, general reference works, and works on editing and digital editions.  
+
 
 ---
-
 ## Primary Sources
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
@@ -39,7 +39,7 @@ Below is the bibliography of works consulted during the transcription and editor
 </div>
 
 
-
+---
 ## Secondary Sources
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
@@ -224,7 +224,7 @@ Below is the bibliography of works consulted during the transcription and editor
 </div>
 
 
-
+---
 ## General Reference Works
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
@@ -271,7 +271,7 @@ Below is the bibliography of works consulted during the transcription and editor
 </div>
 
 
-
+---
 ## Works on Editing and Digital Editions
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
