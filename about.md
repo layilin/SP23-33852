@@ -11,7 +11,7 @@ This project originated from a desire to create an openly accessible edition of 
 
 It is worth noting, however, that there are already two modern versions of *The Sugar-Cane* available in print. One is John Gilmore' 1999 *Poetics of Empire*, a scholarly edition of *The Sugar-Cane* that contains a wealth of information about the poem and Grainger's sources. In fact, we have relied on Gilmore's footnotes to supplement the gaps in our own and want to acknowledge that debt here. When appropriate, we also acknowledge Gilmore's work in our own footnotes to the poem. There is also a version of the poem in Thomas W. Krise's 1999 *Caribbeana*, an excellent anthology of seventeenth- and eighteenth-century writing about the Caribbean. Krise's anthology is similar to our edition in spirit, as both are designed for potential use in the classroom. 
 
-Our edition differs from Krise and Gilmore's works, however, in that we take advantage of the flexibility of a digital platform to provide readers with multiple versions of the poem. These versions include:
+Our edition differs from Krise and Gilmore's works, however, in that we take advantage of the flexibility of a digital platform to provide readers with multiple versions of the poem. These versions include
 
 > —A "full text" version  
 > —A "page by page" version  
