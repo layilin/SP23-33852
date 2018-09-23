@@ -27,11 +27,11 @@ Without the generosity and expertise of those involved in digital scholarship at
 
 We also want to acknowledge the work of creators of similar digital projects on the Caribbean that provided us with models and inspiration. These include the following:
 
-> <a href="http://omekasites.northeastern.edu/ECDA/" target="blank">Early Caribbean Digital Archive
-> <a href="http://www.dloc.com/" target="blank">Digital Library of the Caribbean</a>
+> <a href="http://omekasites.northeastern.edu/ECDA/" target="blank">Early Caribbean Digital Archive</a>    
+> <a href="http://www.dloc.com/" target="blank">Digital Library of the Caribbean</a>  
 > <a href="http://www.musicalpassage.org/#home" target="blank">Musical Passage</a>  
-> <a href="http://revolt.axismaps.com/project.html" target="blank">Slave Revolt in Jamaica, 1760-1761</a>
-> <a href="http://twoplantations.com/" target="blank">Two Plantations</a>
+> <a href="http://revolt.axismaps.com/project.html" target="blank">Slave Revolt in Jamaica, 1760-1761</a>  
+> <a href="http://twoplantations.com/" target="blank">Two Plantations</a>  
 {:.indented}
 
 Funding for this project was provided by both Columbia and Fordham Universities. We would particularly like to acknowledge the Fordham University <a href="https://www.fordham.edu/academics/office_of_research/" target="blank">Office of Research</a> for initiating a Fordham-Columbia University Research Fellows Program and awarding us one of the fellowships. The fellowship funds enabled us to hire graduate students, provide them with experience and training in digital humanities, and create the project in truly collaborative fashion. We also would like to thank members of the digital humanities community at Fordham and specifically Shawn Hill, Instructional Technologist, and Elizabeth Cornell, Director of Communications for Fordham IT. Shawn provided crucial advice and support, and Elizabeth participated as a full team member throughout the entirety of the project. The <a href="https://collab.fordham.edu/collabs/dh/" target="blank">Digital Humanities Working Group</a> at Fordham also provided feedback and enthusiastic encouragement. 
@@ -53,7 +53,7 @@ Finally, we would like to acknowledge that we would not have been able to envisi
 
 **Julie Chun Kim** is co-edior of *Digital Grainger* and Associate Professor in the <a href="https://www.fordham.edu/info/21352/english" target="blank">Department of English</a> at Fordham University. She has published essays on Afro-Caribbean medicine, indigenous land rights, natural history, and early Caribbean plantation economies in *Early American Studies*, *The Eighteenth Century: Theory and Interpretation*, *Caribbeana: The Journal of the Early Caribbean Society*, and other venues. She is currently completing a book manuscript entitled "Gardening at the Edge of Empire: Colonial Botany in the Revolutionary Caribbean." 
 
-**Cristobal Silva** is co-editor of *Digital Grainger* and currently an Associate Professor in the Department of English and Comparative Literature at Columbia University. He has written *Miraculous Plagues: An Epidemiology of Early New England Narrative* (Oxford UP, 2011) and is completing a book manuscript entitled "Republic of Medicine: Citizenship, Memory, and Caregiving in the Early Black Atlantic." He will be joining the Department of English at UCLA in the summer of 2019.
+**Cristobal Silva** is co-editor of *Digital Grainger* and currently an Associate Professor in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. He has written *Miraculous Plagues: An Epidemiology of Early New England Narrative* (Oxford UP, 2011) and is completing a book manuscript entitled "Republic of Medicine: Citizenship, Memory, and Caregiving in the Early Black Atlantic." He will be joining the Department of English at UCLA in the summer of 2019.
 
 **Kimberly Takahata** is a doctoral candidate in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. Her dissertation, entitled “Skeletal Testimony: Bony Ecologies in the Early Atlantic,” analyzes descriptions of human bones as sites of resistance in colonial accounts in order to disrupt depictions of indigenous and enslaved commodification and displacement. 
 
