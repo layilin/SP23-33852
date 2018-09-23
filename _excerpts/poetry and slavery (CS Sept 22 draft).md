@@ -65,13 +65,13 @@ Although Grainger's ameliorationist and other pro-slavery positions were shared 
 
 Grainger himself veers into abolitionism for one brief interlude in *The Sugar-Cane*. This interlude comes in Book IV, when the narrator wishes that poetry could grant freedom to all. He laments:
 
-> OH, did the tender muse possess the power, 
-> Which monarchs have, and monarchs oft abuse: 
-> ‘Twould be the fond ambition of her soul, 
-> To quell tyrannic sway; knock off the chains [235] 
-> Of heart-debasing slavery; give to man, 
-> Of every colour and of every clime, 
-> Freedom, which stamps him image of his God. (232-238) 
+> OH, did the tender muse possess the power,  
+> Which monarchs have, and monarchs oft abuse:  
+> ‘Twould be the fond ambition of her soul,  
+> To quell tyrannic sway; knock off the chains [235]  
+> Of heart-debasing slavery; give to man,  
+> Of every colour and of every clime,  
+> Freedom, which stamps him image of his God. (232-238)  
 {:.indented}
 
 It is worth asking why Grainger would include these lines in a work defending slavery? To what extent did the conflict between the sentiments of the classical georgic and the realities of eighteenth-century slavery create tension and paradox in his poetry? Are there other signs of ambivalence, doubt, or dissent in *The Sugar-Cane*? Can we read for those signs, and can we even possibly use the poem as a source for information and knowledge about the plantation that would undermine Grainger's intention of validating it? 
