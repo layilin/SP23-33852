@@ -11,10 +11,14 @@ creator: Kimberly Takahata
 
 This project originated from a desire to create an openly accessible edition of Grainger's *The Sugar-Cane* suited for undergraduate teaching. 
 
+
+---
 ## Contact Us  
 
 Please feel free to reach out to us at digitalgrainger@gmail.com. We welcome comments and responses on any part of the site. We would also be very interested in hearing from anyone who uses the edition in the classroom: Are there features that worked particularly well for lesson planning, teaching, and assignments? What could be improved or added to make the site more useful? Any ideas for future collaborations are welcome, too. 
 
+
+---
 ## Site Design
 
 The site was designed using <a href="https://minicomp.github.io/ed/" target="blank">Ed, a Jekyll theme</a> created by Alex Gil. The site was designed and created by Kimberly Takahata and Alex Gil. Ed was designed to facilitate the creation of easy-to-use and beautiful digital editions. It is also based on <a href="http://go-dh.github.io/mincomp/" target="blank">minimal computing principles</a>, which ask site designers to reduce the size and complexity of sites in order to increase accessibility for users. Although the world is increasingly going digital, access to digital resources remains uneven. As such, we strove to create a site that would work on a wide range of devices and not require the use or purchase of specialized hardware or software. We also have kept page designs simple so that they can be loaded with relative ease, regardless of the availability of high-speed internet. Such considerations were especially important for us to consider since we wanted to making our edition widely available to students and teachers. Given that our edition deals centrally with the history of the Caribbean, we also wanted to make sure that it would be accessible to users there.
@@ -39,6 +43,7 @@ Funding for this project was provided by both Columbia and Fordham Universities.
 We would like to thank Vanessa Lee as well, the artist who created the image that appears at the top of our homepage. The other images on the homepage come from the John Carter Brown Library's <a href="https://www.brown.edu/academics/libraries/john-carter-brown/jcb-online/image-collections/archive-early-american-images" target="blank">*Archive of Early American Images*</a>. The images that appear in the "Counter-Plantation" section of the site also come from the *Archive of Early American Images*. We would like to thank the <a href="https://www.brown.edu/academics/libraries/john-carter-brown/" target="blank"> John Carter Brown Library</a> and its staff for making historical works of art available for use to the public. 
 
 Finally, we would like to acknowledge that we would not have been able to envision this site or build this edition without the prior work of John Gilmore and Thomas Krise on recent print editions of *The Sugar-Cane*.
+
 
 ---
 ## Creators
