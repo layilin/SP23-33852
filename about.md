@@ -9,13 +9,13 @@ creator: Kimberly Takahata
 
 This project originated from a desire to create an openly accessible edition of James Grainger's *The Sugar-Cane* that could be used for undergraduate and graduate teaching. Although *The Sugar-Cane* had largely fallen into obscurity by the early twentieth century, there has been an upsurge of scholarly interest in the text in recent decades, especially as literary historians and others have focused on understanding the histories of Caribbean plantations and slavery, both of which topics *The Sugar-Cane* deals extensively with. Just as importantly, scholars have become interested in thinking about how Grainger's poem also could be used to understand histories of indigenous and Afro-Caribbean resistance in the face of colonization and enslavement. Our main goal in creating this edition, then, was to translate some of these new insights into an accessible form so that students, as well as researchers, could benefit from them. 
 
-It is worth noting, however, that there are already two modern versions of *The Sugar-Cane* available in print. One is John Gilmore' 1999 *Poetics of Empire*, a scholarly edition of *The Sugar-Cane* that contains a wealth of information about the poem and Grainger's sources. In fact, we have relied on Gilmore's footnotes to supplement the gaps in our own and want to acknowledge that debt here. When appropriate, we also acknowledge Gilmore's work in individual footnotes to our versions of the poem. There is also a version of the poem in Thomas W. Krise's 1999 *Caribbeana*, an excellent anthology of seventeenth- and eighteenth-century writing about the Caribbean. Krise's anthology is similar to our edition in spirit, as both are designed for potential use in the classroom. 
+It is worth noting, however, that there are already two modern versions of *The Sugar-Cane* available in print. One is John Gilmore' 1999 *Poetics of Empire*, a scholarly edition of *The Sugar-Cane* that contains a wealth of information about the poem and Grainger's sources. In fact, we have relied on Gilmore's footnotes to supplement the gaps in our own and want to acknowledge that debt here. When appropriate, we also acknowledge Gilmore's work in our own footnotes to the poem. There is also a version of the poem in Thomas W. Krise's 1999 *Caribbeana*, an excellent anthology of seventeenth- and eighteenth-century writing about the Caribbean. Krise's anthology is similar to our edition in spirit, as both are designed for potential use in the classroom. 
 
 Our edition differs from Krise and Gilmore's works, however, in that we take advantage of the flexibility of a digital platform to provide readers with multiple versions of the poem. These versions include:
 
-> A "full text" version  
-> A "page by page" version  
-> Excerpts from the poem focused on specific themes and grouped under the rubric of the "counter-plantation"  
+> —A "full text" version  
+> —A "page by page" version  
+> —Excerpts from the poem focused on specific themes and grouped under the rubric of the "counter-plantation"  
 {:.indented}
 
 On the homepage, we have grouped the "full text" and "page by page" versions under the heading "The 1764 Edition." We have grouped the excerpts under the heading "The Counter-Plantation." In what follows, we will explain what we intended each version to do and why we arranged them as we did. 
@@ -28,7 +28,7 @@ What we are calling the "full text" version is a complete transcription of the f
 
 The "page by page" version of the poem is also a complete transcription of the 1764 edition of the poem, but it allows the reader to click through *The Sugar-Cane* page by page. Our transcriptions and page breaks strictly adhere to those found in the 1764 edition and therefore provide the reader with an experience analogous to one of reading that edition. Each page also includes a link to the corresponding page image from a print copy of the 1764 edition that we obtained for this project. Any reader who wishes to compare our transcription with the original should use this page-by-page version of the poem. 
 
-This section of the site also contains links to a glossary and bibliography. The glossary contains vocabulary lists that identify many of the historical individuals, places, and plants mentioned by Grainger. The bibliography contains a list of primary, secondary, and general reference works that we consulted to complete this project.
+This section of the site also contains links to a glossary and bibliography. The glossary contains vocabulary lists that identify many of the historical individuals, places, and plants mentioned by Grainger. The bibliography contains a list of primary, secondary, and general reference works that we consulted to complete this project. 
 
 Finally, it contains a link to an editorial essay on the topic of "Poetry and Slavery." Although we believe that the poem can provide readers with valuable historical information about Caribbean plantations and counter-plantations, we also feel the need to acknowledge and address the fact that Grainger's intention in publishing the poem was to celebrate the British Empire and particularly the wealth that was being produced by enslaved laborers. We therefore strongly recommend that readers consult this essay, in addition to engaging with the poem itself. 
 
@@ -48,28 +48,28 @@ Indeed, the image we have included at the top of our homepage is an original wor
 
 In creating this edition, we have striven to produce a "semidiplomatic" edition that faithfully reproduces all of the important features of the 1764 edition (Driscoll 254). As such, we made no changes or corrections to Grainger's words, spelling, or punctuation. Nevertheless, because we want to provide a readable edition of the work that will be accessible to eighteenth-century specialists and non-specialists alike, we have made the following changes to the text in our transcription:
 
-> We modernized any uses of the 'long s'  
-> We substituted standard capital letters for any large, small, or otherwise irregular capital letters  
-> We did not replicate ligatures between letters  
-> We eliminated any extra spaces in front of punctuation marks  
-> We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes  
-> We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)  
-> We did not replicate the headers on each page that repeated the book number and title of the work  
-> We did not replicate printer's marks in the footers of pages  
-> We did not maintain the eighteenth-century practice of repeating the first word of a page at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability.  
+> —We modernized any uses of the 'long s'  
+> —We substituted standard capital letters for any large, small, or otherwise irregular capital letters  
+> —We did not replicate ligatures between letters  
+> —We eliminated any extra spaces in front of punctuation marks  
+> —We did not maintain Grainger's practice of indenting each new stanza of poetry and each of his footnotes  
+> —We indented and centered text only when not doing so would impair readability (i.e., text on title pages is uncentered)  
+> —We did not replicate the headers on each page that repeated the book number and title of the work  
+> —We did not replicate printer's marks in the footers of pages  
+> —We did not maintain the eighteenth-century practice of repeating the first word of a page at the bottom of the previous page. This practice was followed in the eighteenth century because it was thought to improve readability.  
 {:.indented}
 
 Finally, Grainger and other eighteenth-century writers were often inconsistent in their use of terms to describe peoples and places. They also used terms for Caribbean colonization and slavery that many scholars no longer consider to be accurate, representative, or appropriate. As a result, we have made an effort to use the following terms, versus Grainger's, in our own commentary and footnotes on *The Sugar-Cane*: 
 
-> "African" for people born in Africa  
-> "Afro-Caribbean" for those established in the Caribbean  
-> "British" (or Scottish or English or Welsh) for people born in Britain  
-> "Caribbean" for "West Indies"  
-> "Creole" for any non-indigenous person born in the Caribbean  
-> "Enslaved person" rather than "slave"  
-> "Fugitive person" rather than "runaway slave"  
-> "Indigenous" for "native" peoples  
-> "St. Kitts" for "St. Christopher"  
+> —"African" for people born in Africa  
+> —"Afro-Caribbean" for those established in the Caribbean  
+> —"British" (or Scottish or English or Welsh) for people born in Britain  
+> —"Caribbean" for "West Indies"  
+> —"Creole" for any non-indigenous person born in the Caribbean  
+> —"Enslaved person" rather than "slave"  
+> —"Fugitive person" rather than "runaway slave"  
+> —"Indigenous" for "native" peoples  
+> —"St. Kitts" for "St. Christopher"  
 {:.indented}
 
 
