@@ -23,6 +23,14 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 > —*Stephen Fragano*
 {:.right}
 
+
+<img src="{{site.baseurl}}/assets/Insects - Picture.jpg"
+alt="Insects of the Caribbean"
+class="center-image"/>
+Insects of the Caribbean
+{:.centered}
+
+
 ---
 
 [54]({{site.baseurl}}/images/p0068.jpg)
