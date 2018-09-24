@@ -29,7 +29,7 @@ Reading Wheatley in the context of *The Sugar-Cane* pushes us to consider the fu
 
 Indeed, Grainger uses the word "tyranny" (or one of its variants) nine times in *The Sugar-Cane*, and we encourage readers to consider how his use of the term changes over the length of the poem. Does he uses "tyranny" consistently from beginning to end? Who are the tyrants and who are the victims of tyranny at various points in the poem? How does Grainger use the term strategically in book IV, where he must otherwise confront the relation between tyranny and slavery?
 
-Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology; James Grainger's The Sugar Cane and the Bodies of Empire."
+Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology: James Grainger's The Sugar Cane and the Bodies of Empire."
 
 > —*Cristobal Silva*{:.right}
 
