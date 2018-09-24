@@ -25,7 +25,7 @@ The link between tyranny and slavery is long and vexed. When Dessalines invokes 
 - Such, such my case. And can I then but pray  
 - Others may never feel tyrannic sway?
 
-Reading Wheatley in the context of *The Sugar-Cane* pushes us to consider the full and complicated valence of the word "tyranny" in Grainger's poem. The poet certainly knew that it was impossible to invoke tyranny in the context of Caribbean plantations without also invoking slavery when he wrote the poem. 
+Reading Wheatley in the context of *The Sugar-Cane* pushes us to consider the full and complicated valence of the word "tyranny" in the poem. Grainger certainly knew that it was impossible to invoke tyranny in the context of Caribbean plantations without also invoking slavery. And yet, his goal of promoting the production of sugar and of defending the use of enslaved labor in that production made for a formal and thematic tension that erupts at verious moments in the poem.
 
 Indeed, Grainger uses the word "tyranny" (or one of its variants) nine times in *The Sugar-Cane*, and we encourage readers to consider how his use of the term changes over the length of the poem. Does he uses "tyranny" consistently from beginning to end? Who are the tyrants and who are the victims of tyranny at various points in the poem? How does Grainger use the term strategically in book IV, where he must otherwise confront the relation between tyranny and slavery?
 
