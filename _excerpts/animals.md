@@ -31,7 +31,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - As smooth as thine, my too too distant friend, [30]  
 - SHENSTONE; my soft pipe, and my dittied song  
 - Should hush the hurricanes tremendous roar,  
-- And from each evil guard the ripening Cane!
+- And from each evil guard the ripening Cane!...
   
 
 [^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86).  
@@ -59,7 +59,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - Thy waving wealth; in traps put not thy trust,  
 - However baited: Treble every watch,  
 - And well with arms provide them; faithful dogs, [50]  
-- Of nose sagacious, on their footsteps wait.  
+- Of nose sagacious, on their footsteps wait...  
 
 > VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*,[^f55n7] who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
 
@@ -99,7 +99,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - THESE to destroy, while commerce hoists the sail,  
 - Loose rocks abound, or tangling bushes bloom, [65]  
 - What Planter knows?—Yet prudence may reduce.  
-- Encourage then the breed of savage cats,  
+- Encourage then the breed of savage cats, ...  
 
 > VER. 64. *These to destroy*\] Rats, *&c.* are not natives of America, but came by shipping from Europe. They breed in the ground, under loose rocks and bushes. Durante, a Roman, who was physician to Pope Sixtus Quintus,[^f56n4] and who wrote a Latin poem on the preservation of health, enumerates domestic rats among animals that may be eaten with safety. But if these are wholesome, cane-rats must be much more delicate, as well as more nourishing. Accordingly we find most field Negroes fond of them, and I have heard that straps of cane-rats are publicly sold in the markets of Jamaica.[^f56n5]
 
@@ -130,7 +130,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - In winged caravans, that blot the sky,
 - Descend from far, and, ere bright morning dawn,
 - Astonish'd Afric sees her crop devour'd. [165]
-- Or, doth the Cane a proper nest afford,
+- Or, doth the Cane a proper nest afford, ...
 
 [^f63n2]: Locusts, one of several species of acridids (family Acrididae) that are known for swarming and migrating and causing great damage to crops. 
 
@@ -145,7 +145,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - Some strong-built fortress, won from haughty Gaul!
 - And tho' no plant such luscious nectar yields,
 - As yields the Cane-plant; yet, vile paricides![^f64n4]
-- Ungrateful ye! the Parent-cane destroy. [180] 
+- Ungrateful ye! the Parent-cane destroy... [180] 
 
 [^f64n2]: James Wolfe (1727-1759), English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
@@ -169,7 +169,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - Alternate rang'd; from these no filial young
 - Shall grateful spring, to bless the planter's eye.—
 - With bugs confederate, in destructive league,
-- The ants' republic[^f66n4] joins; a villain crew,
+- The ants' republic[^f66n4] joins; a villain crew, ...
 
 > VER. 218. *the plumb-tree sheds*,\] This is the Jamaica plumb-tree. When covered with fruit, it has no leaves upon it. The fruit is wholesome. In like manner, the panspan[^f66n5] is destitute of foliage when covered with flowers. The latter is a species of jessamine, and grows as large as an apple-tree.
 
@@ -187,7 +187,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - As the waves, countless, that plough up the deep, [230]
 - (Where Eurus reigns vicegerent[^f67n1] of the sky,
 - Whom Rhea[^f67n2] bore to the bright God of day)
-- When furious Auster[^f67n3] dire commotions stirs:
+- When furious Auster[^f67n3] dire commotions stirs: ...
 
 [^f67n1]: A person appointed by a king or other ruler to act in his place.
 
@@ -208,6 +208,6 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 - (Tho' ashes lend their suffocating aid)
 - To bare the broad roots, and the mining swarms
 - Expose, remorseless, to the burning noon. [255]
-- Ah! must then ruin desolate the plain?
+- Ah! must then ruin desolate the plain? ...
 
 ---
