@@ -31,8 +31,7 @@ Indeed, Grainger uses the word "tyranny" (or one of its variants) nine times in 
 
 Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology; James Grainger's The Sugar Cane and the Bodies of Empire."
 
-> —*Cristobal Silva*
-{:.right}
+> —*Cristobal Silva*{:.right}
 
 [^fn1]: see Julia Gaffield, ed. The Haitian Declaration of Independence: Creation, Context, and Legacy. University of Virginia Press, 2016.
 
