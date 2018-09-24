@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Sugar Work
+title: Making Sugar
 source: pp 
 editor: Lina
 ---
@@ -8,13 +8,13 @@ editor: Lina
 
 ## Making Sugar
 
-Book 3 mainly focuses on the subject of harvesting and processing of sugar cane. Although James Grainger depicts manual labor and cropping, the excerpt indicates the extremely dangerous and fatiguing conditions under which enslaved Africans have to work. The laborers have to cut the sugar canes into "junks a yard in length," and tie them in "small light bundles." They use mules and other animales to help load and carry the bundles to the mills. Grainger uses some positive and cheerful words to describe the toil. He says that the journey is tedious, but he does not think the laborers are weary. He depicts an embellished scene of laboring, where "mills dance eager in the gale," and the laborers sing cheerfully while working in the cane fields. The songs help to create a rhythm and pace for the work, and planters regard singing as an effective way to lighten the burden of the labor being performed. Moreover, singing also compliances with the regime of plantation discipline. As you read this section on singing, do you notice the cheerful and postive words? Try to list them and think about the contrast between Grainger's understanding of "cheerful" labor and the actual condition revealed in this excerpt. How do you understand the irony here? 
+Book 3 mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, he writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them. 
 
- Grainger describes that during the harvest time, constant heavy work in windmills and boiling houses may result in some accidents. Grainger depicts the whole process of boiling and skimming, which requires both toil and knowledge. Enslaved laborers have to face the difficult working conditions in the boiling and only the strongest slaves were assigned there. The importance of using fire is also mentioned in this excerpt, and more information and discussion of the subject "fire" can be found in the excerpt on "Fire."  
+Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugar canes into "junks a yard in length" and then tie them in "small light bundles." They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery. 
 
-Grainger opposes manumission and abolision of slavery, and he supports the amelioration of the conditions of slaves in the British Caribbean colonies. Grainger uses his poem to propose that the planters should treat the enslaved laborers better by making their toil "cheerful" and "light." For instance, Grainger also points out that the enslaved laborers should not be prohibited from drinking the cane-juice. However, what he ends up revealing in this excerpt is controlling of the skilled and expert laborers such as boilers. Grainger criticizes planters who manumit the enslaved that are too old or too injured to work, "Are there, who lost to every feeling sense, / To reason, interest lost; their slaves desert, / And manumit them, generous boon! to starve / Maim'd by imprudence, or the hand of Heaven?" He thinks that those emancipated laborers can not take care for themselves any more. As you read the poem, do you recognize any gaps between what Grainger thinks he is describing and what is actually revealed in his poetry? What do these gaps indicate?
+Also pay attention to Grainger's descriptions of the laborers he calls "boilers." Boilers had to watch over the giant vats or "coppers" in which the crushed sugarcane was boiled, reduced to a syrup, and then crystallized into solid sugar. Working in the boiling house was one of the most difficult and fatiguing jobs on the plantation because the boilers were dealing with heavy equipment and high temperatures. Nevertheless, because boilers also had to be highly skilled—they had to know exactly when the sugar had boiled enough and was ready to crystallize—they were the laborers that planters depended upon the most. Indeed, even though planters and overseers often made a show of supervising the crystallization of cane, they had to rely on the expertise of the boilers, who therefore were sometimes able to extract concessions from their enslavers. As such, when you read these lines, also think about how the boilers are portrayed and whether Grainger acknowledges their special status. Does Grainger ever point to the centrality of the labor performed by the enslaved to the production of profit on the plantation? 
 
-Note: For further discussions on labor and slavery in Georgic poetry, see Markman Ellis's chapter "'Incessant Labour': Georgic Poetry and the Problem of Slavery" from the book *Discourses of Slavery and Abolition*.
+Note: For further reading about the portrayal of labor and slavery in eighteenth-century georgic poetry, see Markman Ellis's chapter on "'Incessant Labour': Georgic Poetry and the Problem of Slavery" in his book *Discourses of Slavery and Abolition*.
 
 > —*Lina Jiang*
 {:.right}
@@ -261,10 +261,8 @@ class="center-image" />
 - Or lime sufficient granulate the juice: [430]
 - In vain the thickning liquor is effus'd;
 - An heterogeneous, an uncertain mass,
-- And never in thy coolers to condense.
+- And never in thy coolers to condense....
 
-- OR, planter, if the coction they prolong
-- Beyond its stated time; the viscous wave [435]
 
 > VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
 
