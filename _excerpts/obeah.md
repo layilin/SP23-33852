@@ -8,7 +8,7 @@ source: "pp 143-145"
 
 ## Obeah
 
-In Book 4, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was---and how readers should interpret Grainger and others' references to it---remains a major question. 
+In Book 4, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was—and how readers should interpret Grainger and others' references to it—remains a major question. 
 
 In 1799, Benjamin Moseley published a work entitled *A Treatise on Sugar* that included an influential description of obeah. Calling it a "*black art*" and an "occult science," Moseley described obeah men or practitioners as "ugly, loathsome creatures" who were "resorted to secretly, by the wretched in mind, and by the malicious, for wicked purposes" (170-171). In doing so, Moseley associated obeah with black magic, an association that lingers even today.  
 
