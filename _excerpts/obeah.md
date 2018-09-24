@@ -20,6 +20,8 @@ In spite of the tendency of colonists and Europeans to dismiss obeah and obeah p
 
 Grainger's representation of obeah is interesting because it was composed in the immediate aftermath of Tacky's Revolt. As you read, you may want to think about the following questions: How does Grainger represent obeah, and does his description associate obeah with any forms of rebellion? What effects does he see obeah having on enslaved laborers and the plantation? How does he characterize obeah men and those who believed in obeah?  
 
+Note: For more on Tacky's Revolt, see <a href="http://revolt.axismaps.com/project.html" target="blank">Slave Revolt in Jamaica, 1760-1761</a>. For more on obeah, see Vincent Brown's *The Reaper's Garden* and Kenneth M. Bilby and Jerome S. Handler's "Obeah: Healing and Protection in West Indian Slave Life."
+
 > —*Julie Chun Kim*
 {:.right}
 
