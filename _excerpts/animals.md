@@ -18,6 +18,8 @@ Plantation owners' struggles and doubts emerge from subtleties in the descriptio
 
 How do depictions of animal subscribe to qualities of emblematic natural history? How do the words used to describe animal groupings change a reader's idea of the animal? Why does Grainger use terms like "tribe" and "crew" that suggest the animals are confederating or assembling? Why might he be using political terms like "nation" and "republic?" Why did Grainger have choose to use more subtle (rather than explicit) means to comment on the organization of humans in the plantation system?
 
+Note: For a more in-depth look at the tradition of emblematic natural history, please consult William B. Ashworth Jr.'s chapter "Emblematic Natural History" in *Cultures of Natural History*, eds. N. Jardine, J.A. Second, and E.C. Spary. For further analysis on the role of insects in *The Sugar-Cane*, see Monique Allewaert's "Insect Poetics: James Grainger, Personification, and Enlightenments Not Taken" (*Early American Literature*, 52.2, 2017).  
+
 > —*Stephen Fragano*
 {:.right}
 
