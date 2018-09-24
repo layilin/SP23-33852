@@ -119,9 +119,9 @@ Besides the homepage artwork by Vanessa Lee and the images from our copy of the 
 
 **Cristobal Silva** is co-editor of *Digital Grainger* and currently an Associate Professor in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. He has written *Miraculous Plagues: An Epidemiology of Early New England Narrative* (Oxford UP, 2011) and is completing a book manuscript entitled "Republic of Medicine: Citizenship, Memory, and Caregiving in the Early Black Atlantic." He will be joining the Department of English at UCLA in the summer of 2019.
 
-**Kimberly Takahata** is a doctoral candidate in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. Her dissertation, entitled “Skeletal Testimony: Bony Ecologies in the Early Atlantic,” analyzes descriptions of human bones as sites of resistance in colonial accounts in order to disrupt depictions of indigenous and enslaved commodification and displacement. 
+**Kimberly Takahata** is a doctoral candidate in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. She is currently at work on a dissertation entitled “Skeletal Testimony: Bony Biopolitics in the Early Atlantic,” which analyzes the figural and material archives of indigenous bones within early American literature.
 
-**Ami Yoon** is a third-year PhD student in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University.  
+**Ami Yoon** is a third-year PhD student in the <a href="https://english.columbia.edu/" target="blank">Department of English and Comparative Literature</a> at Columbia University. Her research interests include poetry, natural history, and representations of affect in nineteenth-century American literature.
 
 
 [^fn1]: Another scholar who has influenced our approach is Nicole N. Aljoe, who recommends looking for stories about the enslaved "embedded" in other narratives (21).  
