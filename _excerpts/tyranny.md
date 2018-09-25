@@ -41,7 +41,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 > —*Cristobal Silva*
 {:.right}  
 
-[^fn1]: see *Declaration of Independence*, National Archives. https://www.archives.gov/founding-docs/declaration-transcript; *The Marseillaise*, Gouvernement Fran&ccedil;ais. https://www.gouvernement.fr/en/the-marseillaise; Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*. University of Virginia Press, 2016.
+[^fn1]: see *Declaration of Independence*, National Archives. <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="blank">https://www.archives.gov/founding-docs/declaration-transcript</a>; *The Marseillaise*, Gouvernement Fran&ccedil;ais. <a href="https://www.gouvernement.fr/en/the-marseillaise" target="blank">https://www.gouvernement.fr/en/the-marseillaise</a>; Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*. University of Virginia Press, 2016.
 
 [^fn2]: see Phillis Wheatley, "To the Right Honorable William, Earl of Dartmouth, His Majesty's Principal Secretary of State for North America, &c." *Poems on Various Subjects, Religious and Moral*. London, 1773. 73-75.
 
