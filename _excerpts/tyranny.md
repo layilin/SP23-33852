@@ -2,7 +2,6 @@
 layout: poem
 title: "Tyranny"
 editor: Cristobal
-source: "pp 143-145"
 ---
 
 
@@ -43,7 +42,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[25]({{site.baseurl}}/images/p039.jpg)
+[25]({{site.baseurl}}/images/p0039.jpg)
 
 - While yet the Sun, in cloudless lustre, shines: [320]
 - And draw their humid train o'er half the isle.
