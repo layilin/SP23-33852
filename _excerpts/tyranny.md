@@ -43,7 +43,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[25]({{site.baseurl}}/images/{{page.img}})
+[25]({{site.baseurl}}/images/p39.jpg)
 
 - While yet the Sun, in cloudless lustre, shines: [320]
 - And draw their humid train o'er half the isle.
