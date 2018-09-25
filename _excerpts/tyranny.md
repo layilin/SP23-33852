@@ -76,7 +76,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[73]({{site.baseurl}}/images/{{page.img}})
+[73]({{site.baseurl}}/images/p0087.jpg)
 
 - Pauses the wind.—Anon the savage East
 - Bids his wing'd tempests more relentless rave; [355]
@@ -112,7 +112,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[103]({{site.baseurl}}/images/{{page.img}})
+[103]({{site.baseurl}}/images/p0117.jpg)
 
 - From tyrants wrung, the many or the few.
 - By wealth, by titles, by ambition's lure,
@@ -146,7 +146,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[134]({{site.baseurl}}/images/{{page.img}})
+[134]({{site.baseurl}}/images/p0148.jpg)
 
 - The earth's dark surface; where sulphureous flames, [170]
 - Oft from their vapoury prisons bursting wild,
@@ -188,7 +188,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[137]({{site.baseurl}}/images/{{page.img}})
+[137]({{site.baseurl}}/images/p0151.jpg)
 
 - 'Twould be the fond ambition of her soul,
 - To quell tyrannic sway;[^f137n1] knock off the chains [235]
@@ -227,7 +227,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[140]({{site.baseurl}}/images/{{page.img}})
+[140]({{site.baseurl}}/images/p0154.jpg)
 
 - YET, of the ills which torture Libya's sons, [290]
 - Worms tyrannize the worst. They, Proteus-like,[^f140n1]
@@ -266,7 +266,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[142]({{site.baseurl}}/images/{{page.img}})
+[142]({{site.baseurl}}/images/p0156.jpg)
 
 - Felt his heart wither on his farthest throne.
 - Perennial source of population thou!
@@ -303,7 +303,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 ---
 
 
-[159]({{site.baseurl}}/images/{{page.img}})
+[159]({{site.baseurl}}/images/p0173.jpg)
 
 - To every Negroe, as the candle-weed[^f159n1]
 - Expands his blossoms to the cloudy sky,
