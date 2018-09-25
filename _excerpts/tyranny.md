@@ -33,7 +33,8 @@ We encourage readers to read for "tyranny" and to consider how Grainger's use of
 
 Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology: James Grainger's The Sugar Cane and the Bodies of Empire."
 
-> —*Cristobal Silva*{:.right}  
+> —*Cristobal Silva*
+{:.right}  
 
 [^fn1]: see *Declaration of Independence*, National Archives. https://www.archives.gov/founding-docs/declaration-transcript; *The Marseillaise*, Gouvernement Fran&ccedil;ais. https://www.gouvernement.fr/en/the-marseillaise; Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*. University of Virginia Press, 2016.
 
