@@ -49,7 +49,7 @@ class="center-image" />
 
 [^fn1]: See <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="blank">*Declaration of Independence*</a> at the National Archives; <a href="https://www.gouvernement.fr/en/the-marseillaise" target="blank">*The Marseillaise*</a>; and Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*.
 
-[^fn2]: see Phillis Wheatley, "To the Right Honorable William, Earl of Dartmouth, His Majesty's Principal Secretary of State for North America, &c." *Poems on Various Subjects, Religious and Moral*. London, 1773. 73-75.
+[^fn2]: See Phillis Wheatley, "To the Right Honorable William, Earl of Dartmouth, His Majesty's Principal Secretary of State for North America, &c." *Poems on Various Subjects, Religious and Moral*. London, 1773. 73-75.
 
 ---
 
