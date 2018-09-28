@@ -41,10 +41,10 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 > —*Cristobal Silva*
 {:.right}  
 
-<img src="{{site.baseurl}}/assets/guinea_worm.jpg"
-alt="Various slugs, burrowing insects, and other larvae"
+<img src="{{site.baseurl}}/assets/phillis_wheatley.jpg"
+alt="Portrait of Phillis Wheatley"
 class="center-image" />
-"Various slugs, burrowing insects, and other larvae," engraving by M. Van der Gucht for Hans Sloane, *A voyage to the islands of Madera, Barbados, Nieves, S. Christophers and Jamaica*, London, 1707, vol. 1 plate 233. 
+"Portrait of Phillis Wheatley," Phillis Wheatley, *Poems on Various Subjects, Religious and Moral*, London, 1773, frontispiece. 
 {:.centered}
 
 [^fn1]: See <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="blank">*Declaration of Independence*</a> at the National Archives; <a href="https://www.gouvernement.fr/en/the-marseillaise" target="blank">*The Marseillaise*</a>; and Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*.
