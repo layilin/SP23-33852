@@ -15,6 +15,11 @@
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}">{{ node }}</a>
     {% endfor %}
 
+
+    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+
   </nav>
 
 </div>
