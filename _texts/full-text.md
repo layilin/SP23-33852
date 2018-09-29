@@ -106,7 +106,7 @@ MDCCLXIV.
 
 v
 
-<span id="preface">PREFACE</span>
+<span id="preface">P R E F A C E</span>
 
 SOON after my arrival in the West-Indies,[^fvn1] I conceived the design of writing a poem on the cultivation of the Sugar-Cane. My inducements to this arduous undertaking were, not only the importance and novelty of the subject, but more especially this consideration; that, as the face of this country was wholly different from that of Europe, so whatever hand copied its appearances, however rude, could not fail to enrich poetry with many new and picturesque images.[^fvn2]
 
