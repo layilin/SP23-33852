@@ -3,13 +3,12 @@ layout: poem
 title: "Full Text"
 source: "1764 edition"
 toc:
-- Front Matter
 - Preface
 - Book I
 - Book II
 - Book III
 - Book IV
-- End Matter
+- Index
 ---
 
 ## FRONT MATTER
