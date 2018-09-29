@@ -11,7 +11,6 @@ toc:
 - Index
 ---
 
-## FRONT MATTER
 
 [Front cover, outside]
 
@@ -107,7 +106,7 @@ MDCCLXIV.
 
 v
 
-## PREFACE
+<span id="preface">PREFACE</span>
 
 SOON after my arrival in the West-Indies,[^fvn1] I conceived the design of writing a poem on the cultivation of the Sugar-Cane. My inducements to this arduous undertaking were, not only the importance and novelty of the subject, but more especially this consideration; that, as the face of this country was wholly different from that of Europe, so whatever hand copied its appearances, however rude, could not fail to enrich poetry with many new and picturesque images.[^fvn2]
 
@@ -192,7 +191,7 @@ THE
 S U G A R - C A N E.
 
 
-## BOOK I.
+<span id="book-i">BOOK I.</span>
 
 ---
 
@@ -1864,7 +1863,7 @@ THE
 S U G A R - C A N E.  
 
 
-## BOOK II.
+<span id="book-ii">BOOK II.</span>
 
 ---  
 
@@ -3024,7 +3023,7 @@ THE
 S U G A R - C A N E.
 
 
-## BOOK III.  
+<span id="book-iii">BOOK III.</span>  
 
 ---
 
@@ -4353,7 +4352,7 @@ THE
 S U G A R - C A N E.
 
 
-## BOOK IV.
+<span id="book-iv">BOOK IV.</span>
 
 ---
 
@@ -5773,11 +5772,9 @@ The END of BOOK IV.
 ---
 
 
-## END MATTER
-
 [163]
 
-I N D E X
+<span id="index">I N D E X</span>
 
 A.
 
