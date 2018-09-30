@@ -1,7 +1,7 @@
 ---
 layout: poem
 editor: Julie
-title: Copying Cane
+title: Visions of Cane
 ---
 
 
