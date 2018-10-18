@@ -6,7 +6,7 @@ editor: Lina
 ---
 
 
-## Making Sugar
+## Sugar Work
 
 Book 3 mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, he writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them. 
 
