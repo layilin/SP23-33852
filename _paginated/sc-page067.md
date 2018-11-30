@@ -4,7 +4,7 @@ title: "page 67"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0081.jpg"
-order: 75
+order: 81
 ---
 
 
@@ -31,7 +31,7 @@ order: 75
 - Command their slaves each tainted blade to pick
 - With care, and burn them in vindictive flames.
 
-> VER. 231. *Eurus reigns*\] The East is the centre of the trade-wind[^f67n4] in the West-Indies, which veers a few points to the North or South. What Homer[^f67n5] says of the West-wind, in his islands of the blessed, may more aptly be applied to the trade-winds.
+> VER. 231. *Eurus reigns*\] The East is the centre of the trade-wind in the West-Indies, which veers a few points to the North or South. What Homer[^f67n4] says of the West-wind, in his islands of the blessed, may more aptly be applied to the trade-winds.
 
 [^f67n1]: A person appointed by a king or other ruler to act in his place.
 
@@ -39,8 +39,5 @@ order: 75
 
 [^f67n3]: Latin name for the south wind.
 
-[^f67n4]: The prevailing wind patterns that eighteenth-century navigators used to sail their ships around the world. In the North Atlantic, the trade winds blow westerly from the coast of Africa just above the equator to the Caribbean and northeasterly from Florida up the coast of North America and toward Europe.
+[^f67n4]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
 
-[^f67n5]: Greek poet (8th-century BCE), author of the *Iliad* and the *Odyssey*.
-
----

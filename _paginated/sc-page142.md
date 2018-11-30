@@ -4,7 +4,7 @@ title: "page 142"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0156.jpg"
-order: 150
+order: 156
 ---
 
 
@@ -17,8 +17,8 @@ order: 150
 - What swarms of useful citizens spring up,
 - Hatch'd by thy fostering wing. Ah where is flown
 - That dauntless free-born spirit, which of old,
-- Taught them to shake off the tyrannic yoke[^f142n3]
-- Of Spains insulting King; on whose wide realms, [335]
+- Taught them to shake off the tyrannic yoke
+- Of Spains insulting King;[^f142n3] on whose wide realms, [335]
 - The sun still shone with undiminished beam?
 - Parent of wealth! in vain, coy nature hoards
 - Her gold and diamonds; toil, thy firm compeer,
@@ -29,7 +29,7 @@ order: 150
 - Her following close, her secret treasures find,
 - To pour them plenteous on the laughing world.
 - On thee Sylvanus,[^f142n4] thee each rural god, [345]
-- On thee chief Ceres,[^f142n5] with unfailing love
+- On thee chief Ceres, with unfailing love
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
 - Far-distant kingdoms; endless storms in vain
@@ -38,10 +38,7 @@ order: 150
 
 [^f142n2]: Refers to the High Fens, a highland plateau in the eastern Belgian province of Liege.  
 
-[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession (1701-1714). After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
+[^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
 [^f142n4]: Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
 
-[^f142n5]: Italo-Roman goddess of growth and agriculture.  
-
----

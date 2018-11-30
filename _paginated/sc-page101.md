@@ -4,7 +4,7 @@ title: "page 101"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0115.jpg"
-order: 109
+order: 115
 ---
 
 
@@ -32,10 +32,9 @@ order: 109
 
 [^f101n1]: Scattered, spread. 
 
-[^f101n2]: In Greek mythology, Machaon was a Greek physician and the son of Asclepius, the god of healing. 
+[^f101n2]: In Greek mythology, Machaon was a physician and the son of Asclepius, a god of healing. 
 
 [^f101n3]: Henry VII (1457-1509) was the first Tudor king of England. He succeeded Richard III, ending the Wars of the Roses, and was himself followed by his son, Henry VIII.
 
 [^f101n4]: Now a township in New Jersey.
 
----

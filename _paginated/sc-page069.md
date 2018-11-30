@@ -4,7 +4,7 @@ title: "page 69"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0083.jpg"
-order: 77
+order: 83
 ---
 
 
@@ -34,7 +34,7 @@ order: 77
 - Planter, with mighty props thy dome[^f69n5] support; [290]
 - Each flaw repair; and well, with massy bars,
 
-[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
+[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago mentioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
 
 [^f69n2]: welkin. Sky, firmament.
 
@@ -44,4 +44,3 @@ order: 77
 
 [^f69n5]: House.
 
----

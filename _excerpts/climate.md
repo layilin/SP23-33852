@@ -6,13 +6,27 @@ editor: ami yoon
 ---
 
 
-# Climate  
+## Climate  
 
-The tropical climate of the West Indian islands can broadly be divided into the wet season of the summer months and the dry season of the winter months. The warm waters of the Atlantic Ocean and the Caribbean Sea determine a general equability of temperature across the region, with maximum temperatures rarely rising above 100°F/38°C. Such a climate enabled cane cultivation within the British Empire on a widespread scale in the eighteenth century. Topographical variabilities such as mountainous areas, however, contribute to differences in rainfall, which increases in amount with altitude. Unsurprisingly, periods of greatest rainfall coincide with the hurricane season, which falls between June and November, and peaks in August and September. During such months, up to twenty inches of rain may fall within the span of two or three days, and strong winds are apt to cause significant damage. Accordingly, we may trace a recalcitrance to colonial mastery on the part of the environment itself in Grainger's treatment of the tropical climate, and apprehend intimate contiguities among the human and the nonhuman under its compass.  
+The tropical climate of the Caribbean islands can broadly be divided into the wet season of the summer months and the dry season of the winter months. The warm waters of the Atlantic Ocean and the Caribbean Sea determine a general equability of temperature across the region, with maximum temperatures rarely rising above 100°F/38°C. Such a climate enabled colonial cane cultivation on a widespread scale throughout the eighteenth century. 
 
-Thus, focusing on the West Indian ecology can open up a way of reading the poem for an alternative narrative of ecological entanglement, embedded through extensive passages on climate conditions. "Let then Sagacity, with curious ken," the poet advises, "Remark the various signs of future rain" (I.311-312). Changes, or the regard for changes, in the weather oblige a heightened awareness of the nonhuman community, as can be seen in the portions of Book I excerpted below, in which the poet recounts a typical storm. Grainger continues to emphasize uncontrollable weather conditions as a source of anxiety for the planter in Book II, wherein he spends one hundred and ten lines (II.270-380)—almost a fifth of the entire book—describing the effects of a hurricane. In order to consider why he sees fit to render so much space to depicting a hurricane, all one hundred and ten lines have also been excerpted here. When reading about storms and hurricanes, it is worth thinking about the poet's anxieties as well as the planter's, by asking: how does Grainger manage the tension between the limits and the capacities of language to render overwhelming environmental circumstances? And how does Grainger deploy poetic technologies to create sensory immersion in the New World? What new affective ranges come into experience under such extreme circumstances, either expanding or contracting the emotional landscape of the plantation?  
+At the same time, there are differences in rainfall. For one, topographical variabilities, including the distribution of mountains, contribute to differences in precipitation, which increases in amount with altitude. Also, the periods of greatest rainfall coincide with the hurricane season, which falls between June and November and peaks in August and September. During such months, up to twenty inches of rain may fall within the span of two to three days, and strong winds are apt to cause significant damage. Such tempests in Grainger's poem cause dread for the planter, who is advised by the poet to "Remark the various signs of future rain" with "curious ken" (I.311-312). Grainger's advice seems to suggest that the planter cannot relax in his attention to the tropical environment, which poses a threat to the plantation. Nevertheless, it is worth asking questions like, What can the planter actually do in the face of a storm? Can the environment of the Caribbean be mastered for profit? 
 
-By way of an interesting comparison, we may remark that where Grainger foregrounds the vulnerability of not only the colonist but also his neighboring animal and vegetal communities before the West Indian climate, explicitly dwelling on such threats, another major eighteenth-century text on sugar cultivation, Colonel Samuel Martin's popular *An Essay on Plantership*, dispenses with any discussion of climate, however crucial it proves to be for colonial operations. In this treatise on the effective management of a plantation, Martin, an Antiguan-born British planter to whom Grainger alludes in tribute in his Preface as well as at the start of Book III, expatiates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest the cane, but even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin nonetheless stresses the agency of the planter and his administrative practices above all, glossing over the details of "the destruction \[caused\] by hurricanes" (Martin 18). How, then, might we take *The Sugar-Cane*'s resolute commitment to the material realities of its specific West Indian context? How does such a choice situate his text, at the nexus of poetry and natural history?  
+Grainger's anxiety about hurricanes is perhaps expressed by the fact that he dedicated one hundred and ten lines (II.270-380)—almost a fifth of Book II—to describing the effects of one. When reading this description of a hurricane, we might consider the anxieties and problems Grainger may have faced as a poet as well: How does Grainger manage the tension between the limits and the capacities of language to render overwhelming environmental circumstances? And how does Grainger deploy poetic technologies to create sensory immersion in the storm? What new affective ranges come into experience under such extreme conditions? Does the storm expand or contract the emotional landscape of the plantation? Particularly worth focusing on are some passages that show human beings, animals, and plants all being made vulnerable by the approach of a storm. Countervailing the colonial narrative of human domination, Grainger's writing about the threats of bad weather illuminate how the separation between the human and non-human has the potential to disappear in the environment of the Caribbean. 
+
+In contrast to Grainger, the Antiguan-born British planter Samuel Martin dispenses with any discussion of climate in his popular *An Essay on Plantership*. In this major eighteenth-century treatise on the effective management of a plantation, Martin elaborates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest cane. But even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin glosses over the disruptive power of the climate and omits any detail of "the destruction \[caused\] by hurricanes" (Martin 18). This choice places stress on the agency of the planter and his administrative practices and downplays the effects of environmental contingencies. How, then, might we interpret *The Sugar-Cane*'s resolute commitment to the material realities of its specific Caribbean context? How does such a choice situate his text, which lies at the nexus of poetry and natural history?  
+
+Note: Matthew Mulcahy's *Hurricanes and Society in the British Greater Caribbean, 1624-1783* provides a history of storms and hurricanes in the British colonial context; Grainger's poem is mentioned in the second chapter. In his article "The 'Long'd-for Aera' of an 'Other Race': Climate, Identity, and James Grainger's *The Sugar-Cane*," Jim Egan also explores the influence of climate in shaping theories of identity in the colonies.  
+
+> —*Ami Yoon*
+{:.right}
+
+
+<img src="{{site.baseurl}}/assets/climate hurricane.jpg"
+alt="Hurricane strikes land"
+class="center-image" />
+"Hurricane strikes land," engraved plate from Pieter van der Aa, *Naaukeurige versameling der gedenk-waardigste zee en land-reysen na Oost en West-Indiën*, Leiden, 1707, following p. 12. 
+{:.centered}
 
 ---
 
@@ -29,11 +43,13 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 > VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
 
-> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer. Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
+> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer.[^f26n2] Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
 
 > VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
 
 [^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
+
+[^f26n2]: *Blaberus discoidalis*. 
 
 ---  
 
@@ -61,7 +77,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 [^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century. 
 
 [^f27n4]: The American alligator, *Alligator mississippiensis*.  
 
@@ -89,7 +105,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - While its green face is chang'd to sordid brown. [365]
 - A grateful freshness every sense pervades;
 - While beats the heart with unaccustom'd joy:
-- Her stores fugacious Memory now recalls;
+- Her stores fugacious[^f28n2] Memory now recalls;
 - And Fancy prunes her wings for loftiest flights.
 - The mute creation share the enlivening hour; [370]
 - Bounds the brisk kid, and wanton plays the lamb.
@@ -99,6 +115,8 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Glad Nature's liveliest robe, the vivid green. [375]
 
 [^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
+
+[^f28n2]: Fugitive, fleeting, transient.  
 
 ---  
 
@@ -129,7 +147,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Planter, with mighty props thy dome[^f69n5] support; [290]
 - Each flaw repair; and well, with massy bars,
 
-[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago metioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
+[^f69n1]: In a 5 June 1762 letter to his friend Bishop Thomas Percy, Grainger notes that he had almost finished writing *The Sugar-Cane* and that this set-piece on the hurricane was one of the last sections that needed to be completed: "You may remember I some time ago mentioned my being engaged in a work of some length and difficulty. Lately I completed it, at least for the present, though no less than a Georgic, and in four books too. It is called the 'Cane Piece,' and was composed mostly in my rides to the different parts of the island to visit my patients. I now send you the whole; only as I have seen no hurricane, and have not yet had time to arrange my remarks on a fire by night in a cane field, those parts in the second book are incomplete" (Nichols 278).
 
 [^f69n2]: welkin. Sky, firmament.
 
@@ -137,7 +155,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 [^f69n4]: Grainger is using astrological signs to designate peak hurricane season. The Virgin names Virgo, the sixth sign of the zodiac; the sun enters it in mid-August and exits it in mid-September. Libra is the seventh sign of the zodiac; the sun enters it in mid-September and exits it in mid-October. Scorpio is the eight sign of the zodiac; the sun enters it in mid-October and exits it in mid-November. 
 
-[^f69n5]: House.
+[^f69n5]: House.  
 
 ---
 
@@ -182,7 +200,7 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 
 - Shuns night; or, full-orb'd, in Night's forehead glows:
 - For, see! the mists, that late involv'd the hill,
-- Disperse; the midday-sun looks red; strange burs[^f71n1]
+- Disperse; the midday-sun looks red; strange burs
 - Surround the stars, which vaster fill the eye. [315]
 - A horrid stench the pools, the main emits;
 - Fearful the genius of the forest sighs;
@@ -190,13 +208,13 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - A night of vapour, closing fast around,
 - Snatches the golden noon.—Each wind appeas'd, [320]
 - The North flies forth, and hurls the frighted air:
-- Not all the brazen engineries[^f71n2] of man,
+- Not all the brazen engineries[^f71n1] of man,
 - At once exploded, the wild burst surpass.
 - Yet thunder, yok'd with lightning and with rain,
 - Water with fire, increase the infernal din: [325]
 - Canes, shrubs, trees, huts, are whirl'd aloft in air.——
 - The wind is spent; and "all the isle below
-- "Is hush as death."[^f71n3]
+- "Is hush as death."[^f71n2]
 - Soon issues forth the West, with sudden burst;
 - And blasts more rapid, more resistless drives: [330]
 
@@ -204,11 +222,9 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 > VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
 
 
-[^f71n1]: A bur or burr is a circle of light surrounding the moon or a star.
+[^f71n1]: Engines of war, artillery. 
 
-[^f71n2]: Engines of war, artillery. 
-
-[^f71n3]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
+[^f71n2]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
 
 ---
 
@@ -237,11 +253,9 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—[^f72n2]
+- Men, oxen, Cane-lands to the billowy main.—
 
 [^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
-
-[^f72n2]: The ocean.
 
 ---
 
@@ -273,11 +287,11 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - The sails hang idly, noiseless, from the mast.[^f73n3] [375]
 
 
-[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+[^f73n1]: Vibratory or quivering flashes of light; lightning.
 
 [^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
 
-[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
+[^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.  
 
 ---
 
@@ -303,18 +317,16 @@ By way of an interesting comparison, we may remark that where Grainger foregroun
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+- Oft shake the astonied[^f74n2] isles: The solfaterre
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 
 [^f74n1]: Sour, acidic.
 
 [^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
 
-[^f74n3]: Volcano.
-
-[^f74n4]: An astringent mineral salt.
+[^f74n3]: An astringent mineral salt.
 
 ---

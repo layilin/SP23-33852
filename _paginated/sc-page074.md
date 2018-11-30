@@ -4,7 +4,7 @@ title: "page 74"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0088.jpg"
-order: 82
+order: 88
 ---
 
 
@@ -29,18 +29,15 @@ order: 82
 - Thy life is threatened. Muse, the manner sing. [390]
 
 - THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre[^f74n3]
+- Oft shake the astonied[^f74n2] isles: The solfaterre
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n4] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 
 [^f74n1]: Sour, acidic.
 
 [^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
 
-[^f74n3]: Volcano.
+[^f74n3]: An astringent mineral salt.
 
-[^f74n4]: An astringent mineral salt.
-
----

@@ -4,7 +4,7 @@ title: "page 46"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0060.jpg"
-order: 54
+order: 60
 ---
 
 
@@ -29,7 +29,7 @@ order: 54
 
 > VER. 642. *and ere the swift-wing'd zumbadore,*\] This bird, which is one of the largest and swiftest known, is only seen at night, or rather heard; for it makes a hideous humming noise (whence its name) on the desert tops of the Andes. See Ulloa's Voyage to South-America. It is also called *Condor*. Its wings, when expanded, have been known to exceed sixteen feet from tip to tip. See *Phil. Trans.* Nº 208.[^f46n2]  
 
-> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadaloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribbee, or Virgin-Islands.  
+> VER. 644. *Ere fire-flies*\] This surprising insect is frequent in Guadaloupe, *&c*. and all the warmer parts of America. There are none of them in the English Caribbee, or Virgin-Islands.[^f46n3]  
 
 > VER. 645. *on rapid Twilight's heel:*\] There is little or no twilight in the West-Indies. All the year round it is dark before eight at night. The dawn is equally short.
 
@@ -38,4 +38,5 @@ order: 54
 
 [^f46n2]: *Philosophical Transactions*, the journal of the Royal Society.  
 
----
+[^f46n3]: The Virgin Islands are a group of islands situated to the east of Puerto Rico and northwest of St. Kitts. Now divided into the British Virgin Islands and the US Virgin Islands.
+

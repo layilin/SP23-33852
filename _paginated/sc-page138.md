@@ -4,7 +4,7 @@ title: "page 138"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0152.jpg"
-order: 146
+order: 152
 ---
 
 
@@ -32,14 +32,13 @@ order: 146
 
 [^f138n1]: *Dracunculus medinensis* (see note to line 246).  
 
-[^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such important description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
+[^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
 
 [^f138n3]: Black.  
 
-[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see [internal] "Obeah" on this site.  
+[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
 
 [^f138n5]: Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range is the subtropical and tropical parts of the world.  
 
 [^f138n6]: Consisting or made of flour or meal, starchy.
 
----

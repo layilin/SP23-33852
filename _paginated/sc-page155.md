@@ -4,7 +4,7 @@ title: "page 155"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0169.jpg"
-order: 163
+order: 169
 ---
 
 
@@ -17,7 +17,7 @@ order: 163
 - Or fall o'er fern-clad cliffs, with foaming rage;
 - Or in huge basons[^f155n1] float, a fair expanse;
 - Or, bound in chains of artificial force, [550]
-- Arise thro' sculptured stone, or breathing brass.---
+- Arise thro' sculptured stone, or breathing brass.——
 - But I'm in haste to furl my wind-worn sails,
 - And anchor my tir'd vessel on the shore.
 
@@ -26,19 +26,16 @@ order: 163
 - Or on some dry hill's gently-sloping sides,
 - In streets, at distance due.——When near the beach,
 - Let frequent coco cast its wavy shade;
-- \'Tis Neptune's tree; and, nourish'd by the spray,[^f155n2]
+- \'Tis Neptune's tree; and, nourish'd by the spray,
 - Soon round the bending stem's aerial height, [560]
 - Clusters of mighty nuts, with milk and fruit
 - Delicious fraught, hang clattering in the sky.
-- There let the bay-grape,[^f155n3] too, its crooked limbs
+- There let the bay-grape,[^f155n2] too, its crooked limbs
 
 
 > VER. 563. *bay-grape*\] Or sea side grape, as it is more commonly called. This is a large, crooked, and shady tree, \(the leaves being broad, thick, and almost
 
 [^f155n1]: Basins. 
 
-[^f155n2]: Coco refers to the coconut palm (*Cocos nucifera*), which is native to coastal areas of Melanesia and Southeast Asia. It has great powers of natural disperal since its nuts (the coconuts) can survive up to 120 days in seawater. Nevertheless, it is believed that Europeans introduced the coconut palm to the Caribbean in the sixteenth century.
+[^f155n2]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
 
-[^f155n3]: The bay grape is *Coccoloba uvifera*, a seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
-
----

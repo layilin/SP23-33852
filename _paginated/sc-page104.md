@@ -4,7 +4,7 @@ title: "page 104"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0118.jpg"
-order: 112
+order: 118
 ---
 
 
@@ -21,8 +21,8 @@ order: 112
 - NOR small the risque, \(when piety, or chance, [320]
 - Force thee from boiling to desist\) to lave[^f104n3]
 - Thy heated furnace, with the gelid[^f104n4] stream.
-- The chemist knows, when all-dissolving fire
-- Bids the metalline ore abruptly flow;[^f104n5]
+- The chemist[^f104n5] knows, when all-dissolving fire
+- Bids the metalline ore abruptly flow;
 - What dread explosions, and what dire effects, [325]
 - A few cold drops of water will produce,
 - Uncautious, on the novel fluid thrown.
@@ -38,12 +38,9 @@ order: 112
 
 [^f104n2]: Cancer is the fourth sign of the zodiac; the sun enters it in mid-June and exits it in mid-July. Cancer is also a water sign and a cardinal sign that indicates a change of season.  
 
-[^f104n3]: To pour or ladle out.  
+[^f104n3]: To wash.  
 
 [^f104n4]: Cold.  
 
-[^f104n5]: The roots of chemistry go back millenia, but modern chemistry came into being between the late seventeenth and late eighteenth centuries. When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and additional ingredients to the cane juice to rid it of impurities.  
-
-
----
+[^f104n5]: When Grainger refers to a chemist, he does not mean a modern chemist but someone who is skilled in the art of mixing compounds. Sugar production depended on technical knowledge about the heating of sugar, as well as about the addition of catalysts and other ingredients to the cane juice to rid it of impurities.  
 

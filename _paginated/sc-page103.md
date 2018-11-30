@@ -4,7 +4,7 @@ title: "page 103"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0117.jpg"
-order: 111
+order: 117
 ---
 
 
@@ -25,7 +25,7 @@ order: 111
 - The palm of eloquence,[^f103n1] securely bold;
 - But rear'd'st thy banners, fluttering in the wind: [305]
 - Kent,[^f103n2] from each hamlet, pour'd her marshal'd swains,
-- To hurl defiance on the threatening Gaul.[^f103n3]
+- To hurl defiance on the threatening Gaul.
 
 - THY foaming coppers well with fewel feed;
 - For a clear, strong, continued fire improves
@@ -37,8 +37,5 @@ order: 111
 
 [^f103n1]: Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
 
-[^f103n2]: Kent is a county in southeastern England facing France.
+[^f103n2]: Kent faces France.
 
-[^f103n3]: France.
-
----

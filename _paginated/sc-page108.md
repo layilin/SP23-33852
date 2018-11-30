@@ -4,7 +4,7 @@ title: "page 108"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0122.jpg"
-order: 116
+order: 122
 ---
 
 
@@ -34,10 +34,9 @@ order: 116
 - Rings in the cask; and or a light-brown hue,
 - Or thine, more precious silvery-grey, assumes. [400]
 
-[^f108n1]: Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
+[^f108n1]: A poetic name for the River Severn, which is Britain's longest river and empties into the Bristol Channel.
 
 [^f108n2]: A metamorphic rock formed by applying great heat and pressure to limestone.
 
 [^f108n3]: Daughter of King Acrisius of Argos and Queen Eurydice, also mother of Perseus by Zeus, who impregnated Danae in the form of a shower of gold.
 
----

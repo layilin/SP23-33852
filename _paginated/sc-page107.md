@@ -4,7 +4,7 @@ title: "page 107"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0121.jpg"
-order: 115
+order: 121
 ---
 
 
@@ -40,10 +40,9 @@ order: 115
 
 [^f107n3]: Limestone is a rock that yields lime when calcined or burnt. Lime was used in Grainger's time to refine sugar: when boiled with sugar, lime precipitated impurities.
 
-[^f107n4]: Bristol was located in the southwest of England and was one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
+[^f107n4]: Bristol became a center for sugar refining in part because it had ample supplies of limestone. 
 
 [^f107n5]: A line from William Whitehead's poem, "An Hymn to the Nymph of Bristol Spring" (1751). 
 
 [^f107n6]: Avon refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
 
----

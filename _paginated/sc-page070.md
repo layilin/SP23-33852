@@ -4,7 +4,7 @@ title: "page 70"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0084.jpg"
-order: 78
+order: 84
 ---
 
 
@@ -41,4 +41,3 @@ order: 78
 
 [^f70n4]: Polaris, the pole star or North Star.
 
----

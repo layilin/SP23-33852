@@ -4,7 +4,7 @@ title: "page 84"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0098.jpg"
-order: 92
+order: 98
 ---
 
 
@@ -19,4 +19,3 @@ order: 92
 
 The END of BOOK II.
 
----

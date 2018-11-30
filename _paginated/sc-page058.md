@@ -4,7 +4,7 @@ title: "page 58"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0072.jpg"
-order: 66
+order: 72
 ---
 
 
@@ -34,10 +34,9 @@ order: 66
 
 [^f58n1]: A chemical compound used as rat poison.
 
-[^f58n2]: Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, is a plant that is poisonous to human beings in raw form: its roots contain cyanide. Rats apparently could eat it without being unduly affected, however, since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. In spite of their toxicity, cassava roots served as one of the most important food sources for Amerindians during the precolonial era, and they were subsequently adopted by Africans and Europeans in the Caribbean as well. The poison in the roots can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually prepared cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads. Cassava's advantages are significant enough that they offset its toxic nature: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling (Higman 61-69).
+[^f58n2]: Although raw cassava is poisonous to human beings, rats apparently could eat it without being unduly affected since Grainger recommends mixing cassava with Misnian arsenic to poison them. In fact, rats are recognized as major cassava pests today. 
 
 [^f58n3]: Unwitting, ignorant.
 
 [^f58n4]: Choice foods, viands, or delicacies.
 
----

@@ -4,7 +4,7 @@ title: "page 11"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0025.jpg"
-order: 19
+order: 25
 ---
 
 
@@ -37,7 +37,7 @@ order: 19
 
 >VER. 71. *yet virgins, far more beautiful*\] The inhabitants of St. Christopher look whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the other islands.[^f11n5] *Sloane*.
 
-[^f11n1]: The Italian name for Persephone, queen of the underworld.
+[^f11n1]: Persephone, queen of the underworld.
 
 [^f11n2]: Roman God of the underworld who abducted Proserpine and made her his queen. 
 
@@ -45,6 +45,5 @@ order: 19
 
 [^f11n4]: Marl is an earthy deposit, typically loose and consisting chiefly of clay mixed with calcium carbonate, used to improve the texture of sandy or light soil.
 
-[^f11n5]: Colonists worried about their skin color changing in tropical climates since they believed that it signified racial identity.  
+[^f11n5]: Europeans generally believed in climatist theories of health and identity. These suggested that human bodies adapted to their environments and that temperate climates (and societies) were superior to tropical ones. As a result, colonists worried that their skin color would change in tropical climates and that this change would be a sign of physical and moral degeneration.   
 
----

@@ -4,7 +4,7 @@ title: "page 117"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0131.jpg"
-order: 125
+order: 131
 ---
 
 
@@ -23,7 +23,7 @@ order: 125
 - Here leave his couch, high-towering to descry
 - The approach of dawn, and hail her with his song: [560]
 - Yet not unmusical the tinkling lapse
-- Of yon cool argent rill, which Phoebus[^f117n5] gilds
+- Of yon cool argent rill, which Phoebus gilds
 - With his first orient rays; yet musical, 
 - Those buxom airs that through the plantanes play,
 - And tear with wantonness their leafy scrolls; [565]
@@ -32,7 +32,7 @@ order: 125
 - Yet musical those little insects hum,
 - That hover round us, and to reason's ear,
 
-> is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic.[^f117n6] The botanical name is *Papaya*.
+> is said, that the guts of hogs would in time be lacerated, were they to feed on the ripe, unpeeled fruit. Its seed is said to be anthelmintic.[^f117n5] The botanical name is *Papaya*.
 
 [^f117n1]: In Greco-Roman mythology, Iris was the daughter of the Titan Thaumas and the Oceanid Electra and sometimes cited as the wife of Zephyrus, the west wind. Her name in Greek means rainbow. The goddess Juno took her to serve as her handmaid. 
 
@@ -42,8 +42,5 @@ order: 125
 
 [^f117n4]: Larks are any of several small birds of the family Alaudidae. Renowned for their singing and mostly found in the Old World, larks are also conventionally associated with the dawn.  
 
-[^f117n5]: Phoebus, an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun.
+[^f117n5]: Anthelmintic (also anthelminthic, antihelminthic) drugs are used to expel or kill parasitic worms, especially intestinal ones. 
 
-[^f117n6]: Anthelmintic (also anthelminthic, antihelminthic) drugs are used to expel or kill parasitic worms, especially intestinal ones. 
-
----

@@ -4,7 +4,7 @@ title: "page vi"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0012.jpg"
-order: 6
+order: 12
 ---
 
 
@@ -29,4 +29,3 @@ IT must be confessed, that terms of art look awkward in poetry; yet didactic[^fv
 
 [^fvin5]: Grainger also lists prior authors of classical and eighteenth-century georgic poems who have influenced him. Virgil or Publius Vergilius Maro (70-19 BCE) authored the *Eclogues*, the *Aeneid*, and the *Georgics*, which was a major influence on all neo-georgic poets of the eighteenth century. Hesiod (c. 700 BCE) was from the Greek village of Ascra in the Valley of the Muses on the eastern slope of Mt. Helicon. He was a contemporary of Homer and known for the *Theogony* and *Works and Days*, which is considered to have influenced Virgil's *Georgics*. John Philips (1676-1709) was an English poet and author of the georgic poem *Cyder* (1708). John Dyer (1699-1757) was a Welsh painter and poet and author of the georgic poem *The Fleece* (1757), which Grainger reviewed in the *Monthly Review* (April 1757).
 
----

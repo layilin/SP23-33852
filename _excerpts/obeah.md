@@ -8,7 +8,7 @@ source: "pp 143-145"
 
 ## Obeah
 
-In Book 4, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was---and how readers should interpret Grainger and others' references to it---remains a major question. 
+In Book 4, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was—and how readers should interpret Grainger and others' references to it—remains a major question. 
 
 In 1799, Benjamin Moseley published a work entitled *A Treatise on Sugar* that included an influential description of obeah. Calling it a "*black art*" and an "occult science," Moseley described obeah men or practitioners as "ugly, loathsome creatures" who were "resorted to secretly, by the wretched in mind, and by the malicious, for wicked purposes" (170-171). In doing so, Moseley associated obeah with black magic, an association that lingers even today.  
 
@@ -19,6 +19,11 @@ Because obeah practitioners had played highly visible roles in Tacky's Revolt, o
 In spite of the tendency of colonists and Europeans to dismiss obeah and obeah practitioners, obeah actually was a complex of religious and medical practices designed to alleviate the hardships of working and living on the plantation. If obeah practitioners did not possess perfect knowledge of disease, medicine, and healing, they probably did less harm to their patients than did European doctors, who tended to use such "heroic" forms of medical treatment as dosing their patients with mercury. Indeed, obeah practitioners could be viewed as "herbalists" or "sages" who used their knowledge of plants and natural cures to help the enslaved deal with the many illnesses and injuries, physical and psychological, that they suffered as a result of overwork, inadequate nutrition, punishment, and abuse (Brown, *Reaper's Garden* 146). Obeah men also could be viewed as shamans because they were supposed to be able to communicate with and direct spiritual or supernatural forces. While such direction was often characterized by colonial and European authors as malevolent in intent, obeah practitioners and their followers more likely conceived of obeah as a way to channel non-human forces for their own benefit. Of course, what benefited the enslaved could result in action against the planter, who often was the direct source of the troubles faced by the enslaved.  
 
 Grainger's representation of obeah is interesting because it was composed in the immediate aftermath of Tacky's Revolt. As you read, you may want to think about the following questions: How does Grainger represent obeah, and does his description associate obeah with any forms of rebellion? What effects does he see obeah having on enslaved laborers and the plantation? How does he characterize obeah men and those who believed in obeah?  
+
+Note: For more on Tacky's Revolt, see <a href="http://revolt.axismaps.com/project.html" target="blank">Slave Revolt in Jamaica, 1760-1761</a>. For more on obeah, see Vincent Brown's *The Reaper's Garden* and Kenneth M. Bilby and Jerome S. Handler's "Obeah: Healing and Protection in West Indian Slave Life."
+
+> —*Julie Chun Kim*
+{:.right}
 
 ---
 

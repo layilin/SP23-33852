@@ -4,7 +4,7 @@ title: "page 149"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0163.jpg"
-order: 157
+order: 163
 ---
 
 
@@ -35,11 +35,11 @@ order: 157
 
 [^f149n2]: Grainger refers to sweet potatoes (*Ipomoea batatas*), which probably originated in Central America or northwestern South America.  
 
-[^f149n3]: Edda or eddo commonly referred to taro (*Colocasia esculenta*). It is also, however, sometimes referred to as yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were commonly consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
+[^f149n3]: Edda or eddo commonly referred to taro (*Colocasia esculenta*). It also, however, sometimes referred to yautia (*Xanthosoma sagittifolium*). Both plants produce roots that were consumed by the enslaved because they were easy to cultivate and had a high yield. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America (Higman 82-86).  
 
 [^f149n4]: The term "Indian cale" also can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*. Since the seventeenth century, "callaloo" has been used to refer to several different plants. Today, callaloo usually refers to *Amaranthus viridis*, a plant whose native range is the tropical Americas. What the various plants labeled callaloo had in common was the ability of their leaves to serve as edible greens. They are also weedy plants that can survive in a wide range of environments, including wastelands. They formed an important part of the diets of the enslaved, probably because they were a hardy and reliable source of food (Higman 100-107).  
 
-[^f149n5]: Mint refers to plants of the genus *Mentha*, distributed around the world. Thyme refers to plants of the genus *Thymus*, whose native range extends from Greenland and temperate and subtropical Eurasia to northeastern tropical Africa. Balm is the name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
+[^f149n5]: Balm is the name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
 [^f149n6]: Butterfly-shaped.
 
@@ -51,4 +51,3 @@ order: 157
 
 [^f149n10]: Suitable for food, edible.  
 
----

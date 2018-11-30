@@ -4,7 +4,7 @@ title: "page 110"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0124.jpg"
-order: 118
+order: 124
 ---
 
 
@@ -24,15 +24,10 @@ order: 118
 - An heterogeneous, an uncertain mass,
 - And never in thy coolers to condense.
 
-- OR, planter, if the coction[^f110n2] they prolong
+- OR, planter, if the coction they prolong
 - Beyond its stated time; the viscous wave [435]
 
-> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses[^f110n3] drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
+> VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
 
-[^f110n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."  
+[^f110n1]: The "Errata" list at the end of *The Sugar-Cane* indicates that "weighed" should read "weigh'd."   
 
-[^f110n2]: Boiling, cooking. 
-
-[^f110n3]: Also molasses, the thick, brown, uncrystallized syrup drained from raw sugar.  
-
----

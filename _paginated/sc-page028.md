@@ -4,7 +4,7 @@ title: "page 28"
 editor: Steve Fragano
 source: "1764 edition"
 img: "p0042.jpg"
-order: 36
+order: 42
 ---
 
 
@@ -25,7 +25,7 @@ order: 36
 - While its green face is chang'd to sordid brown. [365]
 - A grateful freshness every sense pervades;
 - While beats the heart with unaccustom'd joy:
-- Her stores fugacious Memory now recalls;
+- Her stores fugacious[^f28n2] Memory now recalls;
 - And Fancy prunes her wings for loftiest flights.
 - The mute creation share the enlivening hour; [370]
 - Bounds the brisk kid, and wanton plays the lamb.
@@ -36,4 +36,5 @@ order: 36
 
 [^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
 
----
+[^f28n2]: Fugitive, fleeting, transient.  
+

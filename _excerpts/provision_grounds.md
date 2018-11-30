@@ -18,9 +18,21 @@ Still, the provision grounds did offer their cultivators some degrees of autonom
 
 Provision grounds can, in fact, be read as records of the resourcefulness and creativity of their cultivators, who dealt with the poor quality of the lands they were given by learning how to grow plants that others shunned. Although certain plants may have been designated weeds by colonists, the enslaved realized that proper preparation and cooking methods could turn these so-called weeds into valuable sources of nutrition. The dishes prepared by the enslaved in the Caribbean sometimes even infiltrated colonists' cuisine, which became increasingly indebted to Afro-Caribbean ingredients and influences. Colonists even became reliant in certain colonies like Jamaica on enslaved cultivators for most of their own local foodstuffs. Because the cost of importing food was high, they purchased produce from the enslaved, who were allowed use and accumulate currency. Although it was rare for cultivators to make enough money to purchase their freedom, they were nevertheless able to make money and profit from what is now known as the internal marketing system. The internal marketing system is, in turn, now recognized as providing a crucial foundation for the counter-plantation system that emerged in post-emancipation Caribbean colonies. Those who participated in the counter-plantation system eschewed the model of industrial agriculture represented by the plantation and instead focused on small-scale farming, whether for subsistence or trade and export. 
 
-As you read the below passages, then, think about how Grainger describes the provision grounds, and pay particular attention to what was growing in them. It is also worth thinking about the end of the passages treating the provision grounds: why does Grainger turn suddenly to a vision of fugitives coming to raid the provision grounds? What threat does he really fear? 
+As you read the below passages, then, think about how Grainger describes the provision grounds, and pay particular attention to what was growing in them. It is also worth thinking about the end of the passages treating the provision grounds: why does Grainger turn suddenly to a vision of fugitives coming to raid the provision grounds? What threat might he really fear? 
 
 Note: B. W. Higman's *Jamaican Food* was an invaluable source of information for many of the notes about specific plants mentioned in this section of the poem.
+
+> —*Julie Chun Kim*
+{:.right}
+
+
+<img src="{{site.baseurl}}/assets/provisiongrounds.jpg"
+alt="Various plants and fruits from Brazil"
+class="center-image" />
+Various plants and fruits from Brazil, including cashews and papayas, engraved plate from *A Collection of Voyages and Travels*, London, 1704, vol. 2, following p. 138. 
+{:.centered}
+
+---
 
 
 [147]({{site.baseurl}}/images/p0161.jpg)

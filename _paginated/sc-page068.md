@@ -4,7 +4,7 @@ title: "page 68"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0082.jpg"
-order: 76
+order: 82
 ---
 
 
@@ -14,7 +14,7 @@ order: 76
 - If numerous, if industrious be thy gang;
 - At length, thou may'st the victory obtain. [250]
 - But, if the living taint be far diffus'd,
-- Bootless this toil; nor will it then avail
+- Bootless[^f68n1] this toil; nor will it then avail
 - (Tho' ashes lend their suffocating aid)
 - To bare the broad roots, and the mining swarms
 - Expose, remorseless, to the burning noon. [255]
@@ -35,4 +35,5 @@ order: 76
 
 > VER. 265. *Cathäy*\] An old name for China.
 
----
+[^f68n1]: Useless, unprofitable. 
+

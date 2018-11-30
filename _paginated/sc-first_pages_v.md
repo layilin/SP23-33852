@@ -4,7 +4,7 @@ title: "page v"
 editor: Cristobal Silva
 source: "1764 edition"
 img: "p0011.jpg"
-order: 5
+order: 11
 ---
 
 
@@ -29,4 +29,3 @@ IT must, however, be observed, that, though the general precepts are suited to e
 
 [^fvn5]: The island of St. Christopher was known as Liamuiga by the indigenous Caribs who lived there. Columbus claimed it on behalf of Spain in 1493, and it was partitioned between the French and the English in the early seventeenth century, at which time it was primarily a tobacco colony. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger left England in 1759 during the Seven Years' War (1756-1763). Grainger uses "St. Christopher," "Liamuiga," and "St. Kitts" interchangeably in the poem, but we have chosen to use "St. Kitts" on this site. St. Kitts has been part of the nation of St. Kitts and Nevis (also known as the Federation of St. Christopher and Nevis) since it gained independence from Great Britain in 1983.
 
----

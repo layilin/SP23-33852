@@ -4,7 +4,7 @@ title: "page 83"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0097.jpg"
-order: 91
+order: 97
 ---
 
 
@@ -35,4 +35,3 @@ order: 91
 - Upon her breathless corse himself he threw,
 - And to her clay-cold lips, with trembling haste,
 
----

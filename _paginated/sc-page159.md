@@ -4,7 +4,7 @@ title: "page 159"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0173.jpg"
-order: 167
+order: 173
 ---
 
 
@@ -29,16 +29,16 @@ order: 167
 - But, chief, for those mild laws his wisdom fram'd,
 - To guard the AEthiop from tyrannic sway![^f159n8]
 
-- DID such, in these green isles which Albion[^f159n9] claims, [630]
+- DID such, in these green isles which Albion claims, [630]
 - Did such obtain; the muse, at midnight-hour,
 
 
-> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n10] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n11] but this I do not know from experience.
+> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n9] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n10] but this I do not know from experience.
 
 
 [^f159n1]: *Senna alata*, also known today as the candle bush or king of the forest. Its native range is southwestern Mexico to the tropical Americas.  
 
-[^f159n2]: Eleventh constellation of the zodiac, represented by a figure pouring water from a jar. The sun enters Aquarius in mid-January and exits it in mid-February.
+[^f159n2]: Aquarius is often represented by a figure pouring water from a jar.  
 
 [^f159n3]: Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.
 
@@ -50,12 +50,9 @@ order: 167
 
 [^f159n7]: Greek goddess of law and justice.
 
-[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed masters to inflict harsh punishments on the enslaved and treat them as property.  
+[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed enslavers to inflict harsh punishments on the enslaved and treat them as property.   
 
-[^f159n9]: A name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.  
+[^f159n9]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
 
-[^f159n10]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil. 
+[^f159n10]: A substance that promotes the excretion of urine.
 
-[^f159n11]: A substance that promotes the excretion of urine.
-
----

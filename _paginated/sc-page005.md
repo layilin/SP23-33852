@@ -4,7 +4,7 @@ title: "page 5"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0019.jpg"
-order: 13
+order: 19
 ---
 
 
@@ -24,16 +24,15 @@ order: 13
 
 [^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
 
-[^f5n4]: Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago (Cuba, Jamaica, Hispaniola, and Puerto Rico).  The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
+[^f5n4]: The "Errata" list at the end of *The Sugar-Cane* indicates that "lesser" (or "Lesser") should read "less" (or "Less"). The term Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago and include Cuba, Jamaica, Hispaniola (Haiti and the Dominican Republic), and Puerto Rico. The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
 [^f5n5]: King Ferdinand V of Castile and León and II of Aragon (1452-1516), husband of Queen Isabella of Castille and patron with Isabella of Columbus' 1492 voyage.  
 
-[^f5n6]: Hispaniola, the island that includes the modern nations of Haiti and the Dominican Republic.
+[^f5n6]: Hispaniola.
 
-[^f5n7]: Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman. See the National Archives' [currency converter](http://www.nationalarchives.gov.uk/currency-converter/).
+[^f5n7]: Four pounds per hundredweight. A hundredweight (equivalent to 112 lbs) was a standard measure for commerce. £4 had the purchasing power of approximately forty days of wages for a skilled tradesman. See the National Archives' <a href="http://www.nationalarchives.gov.uk/currency-converter/" target="blank">currency converter</a>. 
 
 [^f5n8]:  A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Europe and lightened in color before being sold to consumers.
 
 [^f5n9]: Historical term for the whole of Southeast Asia to the east of and including India.
 
----

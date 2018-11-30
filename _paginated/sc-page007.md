@@ -4,7 +4,7 @@ title: "page 7"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0021.jpg"
-order: 15
+order: 21
 ---
 
 
@@ -36,4 +36,3 @@ order: 15
 
 [^f7n5]: Acosta is José de Acosta (1539-1600), a Jesuit theologian, philosopher, and missionary who traveled to and spent several years in Peru and Mexico. Chiefly known for his *Historia natural y moral de las Indias* (1590), one of the earliest and most comprehensive surveys of the Americas.
 
----

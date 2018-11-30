@@ -4,7 +4,7 @@ title: "page 72"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0086.jpg"
-order: 80
+order: 86
 ---
 
 
@@ -32,10 +32,7 @@ order: 80
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
-- Men, oxen, Cane-lands to the billowy main.—[^f72n2]
+- Men, oxen, Cane-lands to the billowy main.—
 
 [^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
 
-[^f72n2]: The ocean.
-
----

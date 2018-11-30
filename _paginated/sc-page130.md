@@ -4,7 +4,7 @@ title: "page 130"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0144.jpg"
-order: 138
+order: 144
 ---
 
 
@@ -23,13 +23,13 @@ order: 138
 - Thou buy'st, for sturdy and laborious they, [105]
 - Straight let some learned leach[^f130n5] strong medicines give,
 - Till food and climate both familiar grow.
-- Thus, tho' from rise to set, in Phoebus' eye,[^f130n6]
+- Thus, tho' from rise to set, in Phoebus' eye,
 - They toil, unceasing; yet, at night, they'll sleep,
-- Lap'd in Elysium;[^f130n7] and, each day, at dawn, [110]
+- Lap'd in Elysium;[^f130n6] and, each day, at dawn, [110]
 - Spring from their couch, as blythsome as the sun.
 
 - ONE precept more, it much imports to know.—
-- The Blacks, who drink the Quanza's[^f130n8] lucid stream,
+- The Blacks, who drink the Quanza's[^f130n7] lucid stream,
 - Fed by ten thousand springs, are prone to bloat, 
 - Whether at home or in these ocean-isles: [115]
 - And tho' nice art the water may subdue,
@@ -45,10 +45,7 @@ order: 138
 
 [^f130n5]: Physician. 
 
-[^f130n6]: Phoebus is an alternate name for the Greek god Apollo and used in contexts where Apollo is identified with the sun. 
+[^f130n6]: Part of the Greek underworld reserved for heroes.
 
-[^f130n7]: Part of the Greek underworld reserved for heroes.
+[^f130n7]: Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
 
-[^f130n8]: Cuanzo (or Kwanza) river in modern Angola. It drains into the Atlantic Ocean south of Luanda (known in the eighteenth century as Loango or Loando). This line refers to enslaved people from Angola, who were primarily enslaved by the Portuguese.  
-
----

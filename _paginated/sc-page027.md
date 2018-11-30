@@ -4,7 +4,7 @@ title: "page 27"
 editor: cristobal silva
 source: "1764 edition"
 img: "p0041.jpg"
-order: 35
+order: 41
 ---
 
 
@@ -31,7 +31,7 @@ order: 35
 
 [^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
 
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox").  
+[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century. 
 
 [^f27n4]: The American alligator, *Alligator mississippiensis*.  
 
@@ -39,4 +39,3 @@ order: 35
 
 [^f27n6]: May be the berries from the blue mahoe (*Hibiscus elatus*), a tree whose native range is Cuba and Jamaica. Also naturalized to other parts of the Caribbean; now the national tree of Jamaica.  
 
----

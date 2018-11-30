@@ -4,7 +4,7 @@ title: "page 147"
 editor: Julie Kim
 source: "1764 edition"
 img: "p0161.jpg"
-order: 155
+order: 161
 ---
 
 
@@ -35,7 +35,7 @@ order: 155
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
 
-[^f147n1]: Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
+[^f147n1]: This and the preceding two lines mark the beginning of Grainger's description of food provisioning on plantations. Grainger begins by addressing planters and asking them to provide more imported foodstuffs for the enslaved, but he switches in the next stanza to a discussion of provision grounds or gardens cultivated by the enslaved. Provision grounds were an important source of food for the enslaved and others living in the Caribbean. They also laid the foundation for what is now called the counter-plantation. For more on counter-plantations and provision grounds, see "Provision Grounds" on this site. 
 
 [^f147n2]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
 
@@ -43,4 +43,3 @@ order: 155
 
 [^f147n4]: The waters off the coast of Newfoundland in the North Atlantic constituted one of the major fisheries of the world for the Atlantic cod (*Gadus morhua*) in the eighteenth century. Planters imported cod for enslaved laborers, who needed protein, but they imported what came to be known as "West India cod," which was salted cod of the poorest quality. 
 
----

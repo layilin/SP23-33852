@@ -4,7 +4,7 @@ title: "page 41"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0055.jpg"
-order: 49
+order: 55
 ---
 
 
@@ -27,7 +27,7 @@ order: 49
 
 [^f41n1]: Cassava (*Manihot esculenta*), also known as manioc, yuca, and bitter cassava, which was domesticated in South America thousands of years ago and then brought to the Caribbean islands by Amerindians. One of the most important food sources for Amerindians during the precolonial era; subsequently adopted by Africans and Europeans in the Caribbean as well. Nevertheless, cassava is highly poisonous: its roots, which are the parts of the plant that are prepared for consumption, contain cyanide, and the raw root is poisonous to human beings. Cassava has advantages that offset its toxic nature, however: it can grow in poor soils and conditions, one planting produces several harvests, and the roots can be stored in the ground for a long time without spoiling. The root's poison also can be neutralized by proper processing: Amerindians and other early Caribbean consumers usually processed cassava root by grating it and then pressing the poisonous juice out of it to make a flour, which could be eaten as a porridge or turned into various cakes or breads (Higman 61-69).  
 
-[^f41n2]: Roots commonly consumed by enslaved Africans because they were easy to cultivate and had a high yield. The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*), another common root crop cultivated by the enslaved. *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia but was being cultivated in Africa by 100 CE. From there, it was brought to the Americas on slave ships, which stocked it as food (Higman 82-86).  
+[^f41n2]: The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*). *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia (Higman 82-86).  
 
 [^f41n3]: Cultivated varieties of cassava are classed into two groups: sweet and bitter. Sweet cassava is not poisonous and can be eaten without the processing that bitter cassava requires. Although it is more dangerous to eat, bitter cassava historically has been cultivated more than sweet cassava, perhaps because it has a higher yield and because it makes a better flour (Higman 62).   
 
@@ -37,4 +37,3 @@ order: 49
 
 [^f41n6]: Tannia and taro leaves were primarily consumed by the enslaved because they contained needle-like crystals of calcium oxalate. These crystals irritated the mouth and throat when eaten, and the leaves had to be boiled for a long period of time to reduce what was known as the "scratching" effect (Higman 86-87).  
 
----

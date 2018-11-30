@@ -4,7 +4,7 @@ title: "page 99"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0113.jpg"
-order: 107
+order: 113
 ---
 
 
@@ -26,10 +26,10 @@ order: 107
 - Through heart of British oak,[^f99n4] reluctant leaves [235]
 - The closer calaba.—By transverse beams
 - Secure the whole; and in the pillar'd frame,
-- Sink, artist, the vast bridge-tree's[^f99n5] mortis'd[^f99n6] form
+- Sink, artist, the vast bridge-tree's[^f99n5] mortis'd form
 - Of ponderous hiccory; hiccory time defies:
 
-> VER. 227. *Hiccory*\] This is a lofty spreading tree, of very hard wood, excellently adapted to the purposes of the mill-wright. The nut, whose shell is thick, hard, and roughish, contains an agreeable and wholesome kernel. It grows in great abundance in St. Croix,[^f99n7] Crab island,[^f99n8] and Tobago.
+> VER. 227. *Hiccory*\] This is a lofty spreading tree, of very hard wood, excellently adapted to the purposes of the mill-wright. The nut, whose shell is thick, hard, and roughish, contains an agreeable and wholesome kernel. It grows in great abundance in St. Croix,[^f99n6] Crab island,[^f99n7] and Tobago.
 
 > VER. 227. *Calaba*\] This lofty tree is commonly called Mastic: it is a hard wood, and is found in the places where the Hiccory grows. The flowers are yellow, and are succeeded by a fruit, which bears a distant resemblance to a shrub.
 
@@ -43,10 +43,7 @@ order: 107
 
 [^f99n5]: An adjustable beam that supports the spindle of the runner or upper stone in a grain mill.
 
-[^f99n6]: Mortised. To be fixed in or joined together closely and firmly.
+[^f99n6]: An island that now forms part of the US Virgin Islands. 
 
-[^f99n7]: An island that now forms part of the US Virgin Islands. 
+[^f99n7]: Isla de Vieques, a part of Puerto Rico that lies immediately east of the main island.    
 
-[^f99n8]: Isla de Vieques, a part of Puerto Rico that lies immediately east of the main island.    
-
----

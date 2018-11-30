@@ -4,7 +4,7 @@ title: "page 112"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0126.jpg"
-order: 120
+order: 126
 ---
 
 
@@ -26,7 +26,7 @@ order: 120
 - His muscovado gave. But, not content
 - With this pre-eminence of honest gain, [470]
 - He baser sugars started in his casks;
-- His own, by mixing fordid things, debas'd.
+- His own, by mixing sordid things, debas'd.
 - One year the fraud succeeded; wealth immense
 - Flowed in upon him, and he blest his wiles:
 - The next, the brokers spurn'd the adulterate mass, [475]
@@ -43,4 +43,3 @@ order: 120
 
 [^f112n4]: The thick syrup or scum produced during the sugar-boiling step of refining.
 
----

@@ -4,7 +4,7 @@ title: "page 39"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0053.jpg"
-order: 47
+order: 53
 ---
 
 
@@ -42,4 +42,3 @@ order: 47
 
 [^f39n3]: Heeds, cares, minds, considers. 
 
----

@@ -4,11 +4,11 @@ title: "page 87"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0101.jpg"
-order: 95
+order: 101
 ---
 
 
-[87]({{site.baseurl}}/images/{{page.img}})  
+[[87]]({{site.baseurl}}/images/{{page.img}})  
 
 THE 
 
@@ -31,4 +31,3 @@ BOOK III.
 
 [^f87n1]: Cultivated fields. 
 
----

@@ -4,7 +4,7 @@ title: "page 93"
 editor: Lina Jiang
 source: "1764 edition"
 img: "p0107.jpg"
-order: 101
+order: 107
 ---
 
 
@@ -30,7 +30,7 @@ order: 101
 - Even lameness from it's leafy pallet crawls,
 - To join the favoured gang. What of the Cane [125]
 - Remains, and much the largest part remains,
-- Cut into junks[^f93n4] a yard in length, and tied
+- Cut into junks a yard in length, and tied
 - In small light bundles; load the broad-wheel'd wane,
 - The mules crook-harnest, and the sturdier crew,
 
@@ -40,6 +40,3 @@ order: 101
 
 [^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
 
-[^f93n4]: A gathering of stems or stalks.  
-
----

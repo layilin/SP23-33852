@@ -4,7 +4,7 @@ title: "page 136"
 editor: Elizabeth Cornell
 source: "1764 edition"
 img: "p0150.jpg"
-order: 144
+order: 150
 ---
 
 
@@ -12,7 +12,7 @@ order: 144
 
 - YET, planter, let humanity prevail.[^f136n1]—
 - Perhaps thy Negroe, in his native land,
-- Possest large fertile plains,[^f136n2] and slaves, and herds:
+- Possest large fertile plains, and slaves, and herds:[^f136n2]
 - Perhaps, whene'er he deign'd to walk abroad,
 - The richest silks, from where the Indus[^f136n3] rolls, [215]
 - His limbs invested in their gorgeous pleats:
@@ -28,11 +28,11 @@ order: 144
 - Ye, to whom Learning opes her amplest page!
 - Ye, whom the knowledge of a living God
 - Should lead to virtue! Are ye free from crimes?
-- Ah pity, then, these uninstructed swains;[^f136n4]
+- Ah pity, then, these uninstructed swains;
 - And still let mercy soften the decrees [230]
 - Of rigid justice, with her lenient hand.
 
-- OH, did the tender muse possess the power,[^f136n5]
+- OH, did the tender muse possess the power,[^f136n4]
 - Which monarchs have, and monarchs oft abuse:
 
 [^f136n1]: From here to the end of *The Sugar-Cane*, Grainger settles on a strategy of amelioration for dealing with the problem of slavery. This strategy involves accepting the continuation of slavery as an institution but advocating for the humane treatment of the enslaved as an economically prudent measure. Note that his recommendations mirror the actions of Montano at the end of Book I.  
@@ -41,8 +41,5 @@ order: 144
 
 [^f136n3]: Indus, a river in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
 
-[^f136n4]: Country or farm laborers, shepherds. The swain is a key figure in georgic poetry.  
+[^f136n4]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's 1767 *Considerations on Slavery* (15-16).  
 
-[^f136n5]: In this stanza, Grainger claims that he would abolish slavery if his poetry had the power to do so. The next ten lines contain the only explicitly abolitionist sentiments in the poem and would be quoted positively in later abolitionist tracts. See, for example, Nathaniel Appleton's *Considerations on Slavery* (1767).  
-
----

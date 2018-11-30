@@ -4,7 +4,7 @@ title: "page 73"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0087.jpg"
-order: 81
+order: 87
 ---
 
 
@@ -35,10 +35,9 @@ order: 81
 - The sails hang idly, noiseless, from the mast.[^f73n3] [375]
 
 
-[^f73n1]: Corruscations are vibratory or quivering flashes of light; lightning.
+[^f73n1]: Vibratory or quivering flashes of light; lightning.
 
 [^f73n2]: Grainger refers to the unsuitability of some Old World plants to the tropical Caribbean climate. Europeans nevertheless transplanted as many familiar Old World plants as they could to the Caribbean and, in doing so, transformed its ecology. They transplanted animals and diseases as well. This transplantation process is now known as the Columbian Exchange and included the movement of plants, animals, and diseases in both directions across the Atlantic.  
 
 [^f73n3]: Refers to the doldrums, also called intertropical convergence zones, where prevailing (or trade) winds disappear and ships become immobile for days on end.
 
----

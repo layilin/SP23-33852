@@ -4,11 +4,11 @@ title: "page 49"
 editor: Ami Yoon
 source: "1764 edition"
 img: "p0063.jpg"
-order: 57
+order: 63
 ---
 
 
-[49]({{site.baseurl}}/images/{{page.img}})  
+[[49]]({{site.baseurl}}/images/{{page.img}})  
 
 ---
 
@@ -18,5 +18,4 @@ S U G A R - C A N E.
 
 
 BOOK II.
-
----  
+ 

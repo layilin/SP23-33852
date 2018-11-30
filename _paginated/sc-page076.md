@@ -4,7 +4,7 @@ title: "page 76"
 editor: Kimberly Takahata
 source: "1764 edition"
 img: "p0090.jpg"
-order: 84
+order: 90
 ---
 
 
@@ -29,7 +29,7 @@ order: 84
 - To where old Thames[^f76n3] with conscious pride surveys [430]
 - Green Eton,[^f76n4] soft abode of every Muse.
 - Each classic beauty soon he made his own;
-- And soon fam'd Isis[^f76n5] saw him woo the Nine,[^f76n6]
+- And soon fam'd Isis[^f76n5] saw him woo the Nine,
 - On her inspiring banks: Love tun'd his song;
 - For fair Theana was his only theme, [435]
 - Acasto's daughter, whom, in early youth,
@@ -44,6 +44,3 @@ order: 84
 
 [^f76n5]: Egyptian goddess associated with agriculture and marriage. Isis was eventually apropriated into Greek and Roman mythology, becoming a common figure in eighteenth-century British poetry. In the context of these lines, Isis is used as a name for the Thames as it passes through Oxford. 
 
-[^f76n6]: The nine muses of art, literature, and science.
-
----
