@@ -13,24 +13,26 @@ To the ancient Greeks, a tyrant (*&#964;&#973;&#961;&#945;&#957;&#957;&#959;&#96
 
 The historical and literary link between tyranny and slavery is long and vexed. When Dessalines invokes the specter of slavery in the Haitian Declaration of Independence, he means it literally: having only recently expelled Napoleon's army from St. Domingue, the Haitians were determined to prevent slavery from ever returning to their country. Nevertheless, despite the force of Dessalines's literal association, the Americans and French who fought in their own revolutions relied on a metaphorical link between tyranny and slavery in which they portrayed themselves as resisting figural enslavement at the hands of foreign tyrants. Eighteenth-century writers certainly understood the irony of revolutionaries professing their horror at the thought of losing their liberty and being enslaved on the one hand, while being enslavers themselves, on the other. Perhaps the keenest observer of this irony is Phillis Wheatley, the enslaved African poet who would use it to great effect in the poem titled "To the Right Honorable William, Earl of Dartmouth," published in her 1773 *Poems on Various Subjects*. Here Wheatley highlights the metaphorical link between tyranny and slavery that men like Thomas Jefferson and Tom Paine would make later in the decade only to juxtapose it to the actual tyranny and her own enslavement:
 
-- No more, *America*, in mournful strain  [15]
-- of wrongs, and grievance unredress'd complain,  
-- No longer shalt thou dread the iron chain,  
-- Which wanton *Tyranny* with lawless hand  
-- Had made, and with it meant t'enslave the land.  
+> No more, *America*, in mournful strain  [15]
+> of wrongs, and grievance unredress'd complain,  
+> No longer shalt thou dread the iron chain,  
+> Which wanton *Tyranny* with lawless hand  
+> Had made, and with it meant t'enslave the land.  
+{:.indented}
 
-- Should you, my lord, while you peruse my song, [20]  
-- Wonder from whence my love of *Freedom* sprung,  
-- Whence flow these wishes for the common good,  
-- By feeling hearts alone best understood,  
-- I, young in life, by seeming cruel fate  
-- Was snatch'd from *Afric's* fancy'd happy seat: [25]  
-- What pangs excruciating must molest,
-- What sorrows labour in my parent's breast?
-- Steel'd was that soul and by no misery mov'd  
-- That from a father seiz'd his babe belov'd:  
-- Such, such my case. And can I then but pray [30]  
-- Others may never feel tyrannic sway?[^fn2]
+> Should you, my lord, while you peruse my song, [20]  
+> Wonder from whence my love of *Freedom* sprung,  
+> Whence flow these wishes for the common good,  
+> By feeling hearts alone best understood,  
+> I, young in life, by seeming cruel fate  
+> Was snatch'd from *Afric's* fancy'd happy seat: [25]  
+> What pangs excruciating must molest,
+> What sorrows labour in my parent's breast?
+> Steel'd was that soul and by no misery mov'd  
+> That from a father seiz'd his babe belov'd:  
+> Such, such my case. And can I then but pray [30]  
+> Others may never feel tyrannic sway?[^fn2]
+{:.indented}
 
 Wheatley's poem is an ironic reminder not to take claims like Jefferson's literally. Reading about the kidnapping and enslavement that she suffered during her life pushes readers to reconsider the literary affect implicit in any metaphorical representation of slavery by propertied men in the eighteenth century. In turn, this irony likewise asks us to consider the full and complicated valence of the word "tyranny" in *The Sugar-Cane*. Grainger certainly knew that it was impossible to invoke tyranny in the context of Caribbean plantations without also immediately invoking slavery. And yet, he takes time to get there. His goal of promoting the production of sugar and of defending the use of enslaved labor in the sugar trade produces a formal and thematic tension that erupts at various moments in the poem.
 
