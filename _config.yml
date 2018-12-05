@@ -47,7 +47,7 @@ author:
 version:             0.0.5
 
 # Exclude optional folder
-exclude: [optional, RAKEFILE]
+exclude: [optional, README*, Gemfile*]
 
 # Gems
 plugins: ['jekyll/scholar']
@@ -78,4 +78,3 @@ scholar:
   details_link:   Details
 
   query: "@*"
-
