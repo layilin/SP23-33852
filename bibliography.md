@@ -2,12 +2,13 @@
 layout: page
 title: "Bibliography"
 creator: Kimberly Takahata
+permalink: bibliography.html
 toc:
 - Primary Sources
 - Secondary Sources
 - General Reference Works
 - Works on Editing and Digital Edition
---- 
+---
 
 Below is a list of works we consulted during the transcription and editing of *The Sugar-Cane*. We list primary sources, secondary sources, general reference works, and works on editing and digital editions.
 
@@ -21,7 +22,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Appleton, Nathaniel. <i>Considerations on Slavery. In a Letter to a Friend</i>. Boston, 1767.</div>
   <div class="csl-entry">Behn, Aphra. <i>Oroonoko: An Authoritative Text, Historical Backgrounds, Criticism</i>. Edited by Joanna Lipking, Norton, 1997.</div>
   <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756.</div>
-  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802.</div> 
+  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
   <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
   <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750.</div>
@@ -182,4 +183,3 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Stevens, Michael E., and Steven B. Burg. <i>Editing Historical Documents: A Handbook of Practice</i>. AltaMira Press, 1997.</div>
   <div class="csl-entry">Tanselle, G. Thomas. “The Varieties of Scholarly Editing.” <i>Scholarly Editing: A Guide to Research</i>, Modern Language Association of America, 1995, pp. 9–32.</div>
  </div>
-   
