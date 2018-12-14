@@ -37,7 +37,7 @@ permalink: "/paginated/sc-page017.html"
 
 >VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
 
-[^f17n1]: Grainger portrays rats and monkeys as threats to the plantation later in the poem as well. For these related passages, see "Animals" on this site.  
+[^f17n1]: Grainger portrays rats and monkeys as threats to the plantation later in the poem as well. For these related passages, see see <a href="{{site.baseurl}}/excerpts/animals.html" target="blank">"Animals"</a> on this site.  
 
 [^f17n2]: Also bill-hook. Cutlass used for cutting cane.
 

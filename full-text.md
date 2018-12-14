@@ -758,7 +758,7 @@ BOOK I.
 
 >VER. 170. *Yet will the arrow,*] That part of the Cane which shoots up into the fructification, is called by planters its Arrow, having been probably used for that purpose by the Indians. Till the arrow drops, all additional jointing in the Cane is supposed to be stopped.
 
-[^f17n1]: Grainger portrays rats and monkeys as threats to the plantation later in the poem as well. For these related passages, see "Animals" on this site.
+[^f17n1]: Grainger portrays rats and monkeys as threats to the plantation later in the poem as well. For these related passages, see <a href="{{site.baseurl}}/excerpts/animals.html" target="blank">"Animals"</a> on this site.
 
 [^f17n2]: Also bill-hook. Cutlass used for cutting cane.
 
@@ -3162,7 +3162,7 @@ BOOK III.
 
 [^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations. For more on this section of the poem and related passages, see "Fire" on this site.
+[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations. For more on this section of the poem and related passages, see <a href="{{site.baseurl}}/excerpts/fire.html" target="blank">"Fire"</a> on this site.
 
 [^f90n3]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
 
@@ -4911,7 +4911,7 @@ BOOK IV.
 
 [^f138n3]: Black.  
 
-[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
+[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see <a href="{{site.baseurl}}/excerpts/obeah.html" target="blank">"Obeah"</a> on this site.  
 
 [^f138n5]: Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range is the subtropical and tropical parts of the world.  
 
@@ -5097,7 +5097,7 @@ BOOK IV.
 
 [^f143n1]: Grainger suggests that the symptoms he lists in the following lines (moping, silence, solitude, loss of appetite) are not real and perhaps feigned. One should be cautious about diagnosing historical illnesses retrospectively, but these same symptoms would come to be described as fixed melancholy in the latter half of the eighteenth century. Often associated with longing for friends and family, fixed melancholy became a common diagnosis for the enslaved, and physicians expressed concern that the illness would lead to suicide.  
 
-[^f143n2]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see "Obeah" on this site.  
+[^f143n2]: This and the preceding five lines mark the beginning of Grainger's description of obeah, a complex of religious and medical practices designed to help the enslaved negotiate the hardships and demands of living and working on the plantation. By a conjurer, Grainger means an "obeah man" or obeah practitioner, who frequently were associated with snakes, lizards, and other creatures in colonial and European accounts. For more on obeah and how it was portrayed, see <a href="{{site.baseurl}}/excerpts/obeah.html" target="blank">"Obeah"</a> on this site.  
 
 ---
 
@@ -5224,7 +5224,7 @@ BOOK IV.
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
 
-[^f147n1]: This and the preceding two lines mark the beginning of Grainger's description of food provisioning on plantations. Grainger begins by addressing planters and asking them to provide more imported foodstuffs for the enslaved, but he switches in the next stanza to a discussion of provision grounds or gardens cultivated by the enslaved. Provision grounds were an important source of food for the enslaved and others living in the Caribbean. They also laid the foundation for what is now called the counter-plantation. For more on counter-plantations and provision grounds, see "Provision Grounds" on this site.   
+[^f147n1]: This and the preceding two lines mark the beginning of Grainger's description of food provisioning on plantations. Grainger begins by addressing planters and asking them to provide more imported foodstuffs for the enslaved, but he switches in the next stanza to a discussion of provision grounds or gardens cultivated by the enslaved. Provision grounds were an important source of food for the enslaved and others living in the Caribbean. They also laid the foundation for what is now called the counter-plantation. For more on counter-plantations and provision grounds, see <a href="{{site.baseurl}}/excerpts/provision_grounds.html" target="blank">"Provision Grounds"</a> on this site.   
 
 [^f147n2]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
 
@@ -5597,7 +5597,7 @@ BOOK IV.
 > VER. 584. *banshaw*\] This is a sort of rude guitar, invented by the Negroes. It produces a wild pleasing melancholy sound.
 
 
-[^f157n1]: The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). For more on music and dance, see "Movement" on this site.
+[^f157n1]: The banshaw is another name for the banjo, an instrument that originated in Africa and arrived with the enslaved in the Americas. There, it evolved, as did the music played on it, to become an integral part of Afro-Caribbean and African American musical cultures. European colonists in the early Caribbean were fascinated both by the banjo and the music and dancing of the enslaved. For example, Hans Sloane (1660-1753), a physician and naturalist who visited Jamaica in the seventeenth century, got someone to transcribe some of the songs that he heard. He included these transcriptions in *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica* (1707, 1725). For more on music and dance, see <a href="{{site.baseurl}}/excerpts/movement.html" target="blank">"Movement"</a> on this site.
 
 [^f157n2]: Grass-covered ground, turf.
 

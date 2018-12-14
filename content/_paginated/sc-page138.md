@@ -38,7 +38,7 @@ permalink: "/paginated/sc-page138.html"
 
 [^f138n3]: Black.  
 
-[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see "Obeah" on this site.  
+[^f138n4]: Yaws or *frambesia tropica* is an extremely contagious skin infection caused by the *Treponema pallidum* spirochete. Physicians associated it primarily with enslaved persons, although Europeans and creoles were also subject to infection. In its early stages, yaws produces skin lesions and ulcers, and it can become debilitating if left untreated for a period of years. By the late eighteenth century, Europeans began to associate severe cases of yaws with obeah men. For example, see Benjamin Moseley's *A Treatise on Sugar* (1799). For more on obeah men, see <a href="{{site.baseurl}}/excerpts/obeah.html" target="blank">"Obeah"</a> on this site.  
 
 [^f138n5]: Flowers of sulphur refers to a light yellow, crystalline powder made by distilling sulphur. The knicker nut (*Guilandina bonduc*) is a flowering legume whose native range is the subtropical and tropical parts of the world.  
 
