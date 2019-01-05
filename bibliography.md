@@ -84,7 +84,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Hogarth, Rana A. <i>Medicalizing Blackness: Making Racial Difference in the Atlantic World, 1780-1840</i>. University of North Carolina Press, 2017.</div>
   <div class="csl-entry">Howard, Richard A. “Eighteenth Century West Indian Pharmaceuticals.” <i>Harvard Papers in Botany</i>, vol. 1, no. 5, 1994, pp. 69–91.</div>
   <div class="csl-entry">Hulme, Peter. <i>Colonial Encounters: Europe and the Native Caribbean, 1492-1797</i>. Methuen, 1986.</div>
-  <div class="csl-entry">Irlam, Shaun. “‘Wish You Were Here’: Exporting England in James Grainger’s ‘The Sugar-Cane.’” <i>ELH</i>, vol. 68, no. 2, 2001, pp. 377–96. <i>Project MUSE</i>, doi:<a href="https://muse.jhu.edu/issue/651">10.1353/elh.2001.0015</a>.</div>
+  <div class="csl-entry">Irlam, Shaun. “‘Wish You Were Here’: Exporting England in James Grainger’s ‘The Sugar-Cane.’” <i>ELH</i>, vol. 68, no. 2, 2001, pp. 377–96.</div>
   <div class="csl-entry">Kevan, D. Keith McE. “Mid-Eighteenth-Century Entomology and Helminthology in The West Indies: Dr. James Grainger.” <i>Journal of the Society for the Bibliography of Natural History</i>, vol. 8, no. 3, 1977, pp. 193–222.</div>
   <div class="csl-entry">Klein, Ursula, and Wolfgang Lefèvre. <i>Materials in Eighteenth-Century Science: A Historical Ontology</i>. MIT Press, 2007.</div>
   <div class="csl-entry">Krise, Thomas W., editor. <i>Caribbeana: An Anthology of English Literature of the West Indies, 1657-1777</i>. Univ. of Chicago Press, 2009.</div>
