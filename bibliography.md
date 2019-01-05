@@ -147,21 +147,21 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Cassidy, Frederic G., and R. B. Le Page, editors. <i>Dictionary of Jamaican English</i>. University of the West Indies Press, 2002.</div>
   <div class="csl-entry">“Credo Reference.” <i>Credo Academic Core</i>, <a href="https://search.credoreference.com/">https://search.credoreference.com/</a>.</div>
   <div class="csl-entry"><i>Encyclopedia Britannica Academic</i>.</div>
-  <div class="csl-entry">Everett-Heath, John, editor. <i>The Concise Dictionary of World Place-Names</i>. 3rd ed., Oxford Univ. Press, 2014.</div>
+  <div class="csl-entry">Everett-Heath, John, editor. <i>The Concise Dictionary of World Place-Names</i>. 3rd ed., Oxford Univ. Press, 2014. <a href="http://www.oxfordreference.com/view/10.1093/acref/9780199580897.001.0001/acref-9780199580897">http://www.oxfordreference.com/view/10.1093/acref/9780199580897.001.0001/acref-9780199580897</a>.</div>
   <div class="csl-entry">Head, David, editor. <i>Encyclopedia of the Atlantic World, 1400-1900: Europe, Africa, and the Americas in an Age of Exploration, Trade, and Empires</i>. ABC-CLIO, 2018.</div>
-  <div class="csl-entry">Hornblower, Simon, and Antony Spawforth, editors. <i>The Oxford Classical Dictionary</i>. 3rd rev., Oxford Univ. Press, 2003.</div>
+  <div class="csl-entry">Hornblower, Simon, and Antony Spawforth, editors. <i>The Oxford Classical Dictionary</i>. 3rd rev., Oxford Univ. Press, 2003. <a href"http://www.oxfordreference.com/view/10.1093/acref/9780198606413.001.0001/acref-9780198606413">http://www.oxfordreference.com/view/10.1093/acref/9780198606413.001.0001/acref-9780198606413</a>.</div>
   <div class="csl-entry"><i>Integrated Taxonomic Information System</i>. Integrated Taxonomic Information System, 2017, <a href="https://www.itis.gov/">https://www.itis.gov/</a>. Accessed 10 July 2018.</div>
   <div class="csl-entry"><i>Invasive Species Compendium</i>. CAB International, 2018, <a href="https://www.cabi.org/isc/">https://www.cabi.org/isc/</a>. Accessed 24 July 2018.</div>
   <div class="csl-entry">Maxwell, Robert L. <i>Latin Place Names</i>. Association of College & Research Libraries, 1997, <a href="http://rbms.info/lpn/">http://rbms.info/lpn/</a>. Accessed 26 June 2018.</div>
   <div class="csl-entry"><i>New Catholic Encyclopedia</i>. 2nd ed., Gale, 2013, <a href="https://go-galegroup-com.avoserv2.library.fordham.edu/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&amp;searchType=&amp;docId=GALE%7C5CBD&amp;userGroupName=nysl_me_fordham&amp;inPS=true&amp;prodId=GVRL">https://go-galegroup-com.avoserv2.library.fordham.edu/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&amp;searchType=&amp;docId=GALE%7C5CBD&amp;userGroupName=nysl_me_fordham&amp;inPS=true&amp;prodId=GVRL</a>.</div>
-  <div class="csl-entry"><i>Oxford English Dictionary</i>. Oxford University Press.</div>
+  <div class="csl-entry"><i>Oxford English Dictionary</i>. Oxford University Press. <a href="www.oed.com">www.oed.com</a>.</div>
   <div class="csl-entry"><i>Plant Finder</i>. Missouri Botanical Garden, <a href="http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx">http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx</a>. Accessed 24 July 2018.</div>
   <div class="csl-entry"><i>Plants Database</i>. United States Department of Agriculture National Resources Conservation Service, 2018, <a href="https://plants.usda.gov/java/?">https://plants.usda.gov/java/?</a> Accessed 22 July 2018.</div>
   <div class="csl-entry"><i>Plants of the World Online</i>. Kew Science, 2018, <a href="http://powo.science.kew.org/">http://powo.science.kew.org/</a>. Accessed 25 July 2018.</div>
   <div class="csl-entry"><i>The IUCN Red List</i>. IUCN, 2018, <a href="http://www.iucnredlist.org/">http://www.iucnredlist.org/</a>. Accessed 9 July 2018.</div>
   <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
  <div class="csl-entry">“The National Archives - Currency Converter: 1270–2017.” <i>The National Archives</i>, <a href="http://www.nationalarchives.gov.uk/currency-converter/">http://www.nationalarchives.gov.uk/currency-converter/</a>. Accessed 17 July 2018.</div>
-  <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press.</div>
+ <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press. <a href="http://www.oxforddnb.com/">http://www.oxforddnb.com/</a>.</div>
   <div class="csl-entry"><i>The Plant List</i>. The Plant List, 2013, <a href="http://www.theplantlist.org/">http://www.theplantlist.org/</a>.</div>
   <div class="csl-entry"><i>Tropicos</i>. Missouri Botanical Garden, 2018, <a href="http://www.tropicos.org/Home.aspx">http://www.tropicos.org/Home.aspx</a>. Accessed 3 July 2018.</div>
   <div class="csl-entry"><i>Voyages</i>. The Trans-Atlantic Slave Trade Database, 2013, <a href="http://www.slavevoyages.org">www.slavevoyages.org</a>.</div>
