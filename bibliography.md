@@ -46,12 +46,12 @@ Below is a list of works we consulted during the transcription and editing of *T
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Acosta, Yvonne, and Jean Casimir. “Social Origins of the Counter-Plantation System in St Lucia.” <i>Rural Development in the Caribbean</i>, edited by P. I. Gomes, C. Hurst and St. Martin’s, 1985, pp. 34–59.</div>
-  <div class="csl-entry">Aljoe, Nicole N. <i>Creole Testimonies: Slave Narratives from the British West Indies, 1709-1838</i>. Palgrave Macmillan, 2012.</div>
+  <div class="csl-entry">Aljoe, Nicole N. <i>Creole Testimonies: Slave Narratives from the British West Indies, 1709-1838</i>. Palgrave Macmillan, 2012. doi:<a href="https://link.springer.com/content/pdf/bfm%3A978-1-137-01280-7%2F1.pdf">10.1057/9781137012807</a>.</div>
   <div class="csl-entry">Allewaert, Monique. “Insect Poetics: James Grainger, Personification, and Enlightenments Not Taken.” <i>Early American Literature</i>, vol. 52, no. 2, June 2017, pp. 299–332. <i>Project MUSE</i>, doi:<a href="https://doi.org/10.1353/eal.2017.0027">10.1353/eal.2017.0027</a>.</div>
   <div class="csl-entry">Anderson, Fred. <i>Crucible of War: The Seven Years’ War and the Fate of Empire in British North America, 1754-1766</i>. Vintage, 2001.</div>
   <div class="csl-entry">Aravamudan, Srinivas. “Introduction.” <i>Obi; or, The History of Three-Fingered Jack</i>, edited by Srinivas Aravamudan, Broadview, 2005.</div>
   <div class="csl-entry">Arnold, Albert James, et al. <i>A History of Literature in the Caribbean: English- and Dutch-Speaking Countries</i>. John Benjamins Publishing, 2001.</div>
-  <div class="csl-entry">Bilby, Kenneth M., and Jerome S. Handler. “Obeah: Healing and Protection in West Indian Slave Life.” <i>Journal of Caribbean History</i>, vol. 38, no. 2, 2004, pp. 153–83.</div>
+  <div class="csl-entry">Bilby, Kenneth M., and Jerome S. Handler. “Obeah: Healing and Protection in West Indian Slave Life.” <i>Journal of Caribbean History</i>, vol. 38, no. 2, 2004, pp. 153–83. <i>http://jeromehandler.org/2004/01/obeah-healing-and-protection-in-west-indian-slave-life-article-incomplete/</i>. </div>
   <div class="csl-entry">Bowman, Kim D., and Frederick G. Gmitter, Jr. “Forbidden Fruit (Citrus Sp., Rutaceae) Rediscovered in Saint Lucia.” <i>Economic Botany</i>, vol. 44, no. 2, 1990, pp. 165–73.</div>
   <div class="csl-entry">"Bristol and Transatlantic Slavery." <i>PortCities Bristol</i>, <a href="http://www.discoveringbristol.org.uk/slavery/">http://www.discoveringbristol.org.uk/slavery/</a>. Accessed 5 Aug. 2018.</div>
   <div class="csl-entry">Brown, Vincent. <i>The Reaper’s Garden: Death and Power in the World of Atlantic Slavery</i>. Harvard University Press, 2008.</div>
