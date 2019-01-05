@@ -22,7 +22,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Appleton, Nathaniel. <i>Considerations on Slavery. In a Letter to a Friend</i>. Boston, 1767.</div>
   <div class="csl-entry">Behn, Aphra. <i>Oroonoko: An Authoritative Text, Historical Backgrounds, Criticism</i>. Edited by Joanna Lipking, Norton, 1997.</div>
   <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756. <a href="https://archive.org/details/mobot31753000808003/page/n21">https://archive.org/details/mobot31753000808003/page/n21</a>.</div>
-  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802 <a href="https://archive.org/details/b21297587/page/n7">https://archive.org/details/b21297587/page/n7</a>.</div>
+  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802. <a href="https://archive.org/details/b21297587/page/n7">https://archive.org/details/b21297587/page/n7</a>.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
   <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
   <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750. <a href="https://archive.org/details/mobot31753000322294">https://archive.org/details/mobot31753000322294</a>.<div>
@@ -35,9 +35,9 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Moseley, Benjamin. <i>A Treatise on Sugar</i>. London, 1799.</div>
   <div class="csl-entry">Nichols, John Bowyer. <i>Illustrations of the Literary History of the Eighteenth Century</i>. Vol. 7, London, 1817.</div>
   <div class="csl-entry">Riddell, Maria. <i>Voyages to the Madeira and Leeward Caribbean Isles: With Sketches of the Natural History of These Islands</i>. Edinburgh, 1792.</div>
-  <div class="csl-entry">Sloane, Hans. <i>A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica, with the Natural History of the Last of Those Islands: To Which Is Prefix’d an Introduction, Wherein Is an Account of the Inhabitants, Air, Waters, Diseases, Trade, &amp;c.</i>. London, 1707.</div>
-  <div class="csl-entry">Stubbe, Henry. <i>The Indian Nectar, or A Discourse Concerning Chocolata: Wherein the Nature of the Cacao-Nut, and the Other Ingredients of That Composition, Is Examined</i>. London, 1662.</div>
-  <div class="csl-entry">Trapham, Thomas. <i>A Discourse of the State of Health in the Island of Jamaica. With a Provision Therefore Calculated from the Air, the Place, and the Water: The Customs and Manners of Living, &amp;c</i>. London, 1679.</div>
+  <div class="csl-entry">Sloane, Hans. <i>A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica, with the Natural History of the Last of Those Islands: To Which Is Prefix’d an Introduction, Wherein Is an Account of the Inhabitants, Air, Waters, Diseases, Trade, &amp;c.</i>. London, 1707. <a href="https://archive.org/details/mobot31753000820123/page/n5">https://archive.org/details/mobot31753000820123/page/n5</a>.</div>
+  <div class="csl-entry">Stubbe, Henry. <i>The Indian Nectar, or A Discourse Concerning Chocolata: Wherein the Nature of the Cacao-Nut, and the Other Ingredients of That Composition, Is Examined</i>. London, 1662. <a href="https://quod.lib.umich.edu/e/eebo/A61881.0001.001?view=toc">https://quod.lib.umich.edu/e/eebo/A61881.0001.001?view=toc</a>.</div>
+  <div class="csl-entry">Trapham, Thomas. <i>A Discourse of the State of Health in the Island of Jamaica. With a Provision Therefore Calculated from the Air, the Place, and the Water: The Customs and Manners of Living, &amp;c</i>. London, 1679. <a href="https://quod.lib.umich.edu/e/eebo2/B30836.0001.001?view=toc">https://quod.lib.umich.edu/e/eebo2/B30836.0001.001?view=toc</a>.</div>
 </div>
 
 
