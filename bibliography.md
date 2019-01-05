@@ -21,7 +21,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Anderson, W. E. K. <i>The Percy Letters: The Correspondence of Thomas Percy and Robert Anderson</i>. Yale University Press, 1944.</div>
   <div class="csl-entry">Appleton, Nathaniel. <i>Considerations on Slavery. In a Letter to a Friend</i>. Boston, 1767.</div>
   <div class="csl-entry">Behn, Aphra. <i>Oroonoko: An Authoritative Text, Historical Backgrounds, Criticism</i>. Edited by Joanna Lipking, Norton, 1997.</div>
-  <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756. <i>https://archive.org/details/mobot31753000808003/page/n21</i>.</div>
+  <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>.<i>https://archive.org/details/mobot31753000808003/page/n21</i>. London, 1756. </div>
   <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
   <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
