@@ -174,13 +174,13 @@ class="center-image" />
 - Fly, wild-careering, thro' the vault of heaven; [300]
 - Then transient birds, of various kinds, frequent
 - Each stagnant pool; some hover o'er thy roof;
-- Then Eurus reigns no more; but each bold wind,
+- Then Eurus[^f70n3] reigns no more; but each bold wind,
 - By turns, usurps the empire of the air
 - With quick inconstancy; [305]
-- Thy herds, as sapient[^f70n3] of the coming storm,
+- Thy herds, as sapient[^f70n4] of the coming storm,
 - (For beasts partake some portion of the sky,)
 - In troops associate; and, in cold sweats bath'd,
-- Wild-bellowing, eye the pole.[^f70n4] Ye seamen, now,
+- Wild-bellowing, eye the pole.[^f70n5] Ye seamen, now,
 - Ply to the southward, if the changeful moon, [310]
 - Or, in her interlunar palace hid,
 
@@ -190,9 +190,11 @@ class="center-image" />
 
 [^f70n2]: Scowling, angry-looking, gloomy.
 
-[^f70n3]: Knowledgeable.
+[^f70n3]: In Greek mythology, the east wind.
 
-[^f70n4]: Polaris, the pole star or North Star.
+[^f70n4]: Knowledgeable.
+
+[^f70n5]: Polaris, the pole star or North Star.
 
 ---
 
