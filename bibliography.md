@@ -25,7 +25,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802. <a href="https://archive.org/details/b21297587/page/n7">https://archive.org/details/b21297587/page/n7</a>.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
   <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
-  <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750. <a href="https://archive.org/details/mobot31753000322294">https://archive.org/details/mobot31753000322294</a>.<div>
+  <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750. <a href="https://archive.org/details/mobot31753000322294">https://archive.org/details/mobot31753000322294</a>.</div>
   <div class="csl-entry">Hughes, William. <i>The American Physitian; or, A Treatise of the Roots, Plants, Trees, Shrubs, Fruit, Herbs, &amp;c. Growing in the English Plantations in America. Describing the Place, Time, Names, Kindes, Temperature, Vertues and Uses of Them,Either for Diet, Physick, &amp;c. Whereunto Is Added a Discourse of the Cacao-Nvt-Tree, and the Use of Its Fruit;with All the Ways of Making of Chocolate</i>. London, 1672.</div>
   <div class="csl-entry">Johnson, Samuel. “The Sugar-Cane.” <i>London Chronicle</i>, 3 July 1764, pp. 12, 20, 28.</div>
   <div class="csl-entry">---. “The Sugar-Cane.” <i>The Critical Review: Or, Annals of Literature</i>, edited by Tobias George Smollett, vol. 18, Oct. 1764, pp. 270–77.</div>
@@ -144,6 +144,7 @@ Below is a list of works we consulted during the transcription and editing of *T
 ---
 ## General Reference Works
 
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Cassidy, Frederic G., and R. B. Le Page, editors. <i>Dictionary of Jamaican English</i>. University of the West Indies Press, 2002.</div>
   <div class="csl-entry">“Credo Reference.” <i>Credo Academic Core</i>, <a href="https://search.credoreference.com/">https://search.credoreference.com/</a>.</div>
   <div class="csl-entry"><i>Encyclopedia Britannica Academic</i>.</div>
@@ -159,9 +160,8 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry"><i>Plants Database</i>. United States Department of Agriculture National Resources Conservation Service, 2018, <a href="https://plants.usda.gov/java/?">https://plants.usda.gov/java/?</a> Accessed 22 July 2018.</div>
   <div class="csl-entry"><i>Plants of the World Online</i>. Kew Science, 2018, <a href="http://powo.science.kew.org/">http://powo.science.kew.org/</a>. Accessed 25 July 2018.</div>
   <div class="csl-entry"><i>The IUCN Red List</i>. IUCN, 2018, <a href="http://www.iucnredlist.org/">http://www.iucnredlist.org/</a>. Accessed 9 July 2018.</div>
-  <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
- <div class="csl-entry">“The National Archives - Currency Converter: 1270–2017.” <i>The National Archives</i>, <a href="http://www.nationalarchives.gov.uk/currency-converter/">http://www.nationalarchives.gov.uk/currency-converter/</a>. Accessed 17 July 2018.</div>
- <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press. <a href="http://www.oxforddnb.com/">http://www.oxforddnb.com/</a>.</div>
+  <div class="csl-entry">“The National Archives - Currency Converter: 1270–2017.” <i>The National Archives</i>, <a href="http://www.nationalarchives.gov.uk/currency-converter/">http://www.nationalarchives.gov.uk/currency-converter/</a>. Accessed 17 July 2018.</div>
+  <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press. <a href="http://www.oxforddnb.com/">http://www.oxforddnb.com/</a>.</div>
   <div class="csl-entry"><i>The Plant List</i>. The Plant List, 2013, <a href="http://www.theplantlist.org/">http://www.theplantlist.org/</a>.</div>
   <div class="csl-entry"><i>Tropicos</i>. Missouri Botanical Garden, 2018, <a href="http://www.tropicos.org/Home.aspx">http://www.tropicos.org/Home.aspx</a>. Accessed 3 July 2018.</div>
   <div class="csl-entry"><i>Voyages</i>. The Trans-Atlantic Slave Trade Database, 2013, <a href="http://www.slavevoyages.org">www.slavevoyages.org</a>.</div>
