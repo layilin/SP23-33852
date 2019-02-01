@@ -2,12 +2,13 @@
 layout: page
 title: "Bibliography"
 creator: Kimberly Takahata
+permalink: bibliography.html
 toc:
 - Primary Sources
 - Secondary Sources
 - General Reference Works
 - Works on Editing and Digital Edition
---- 
+---
 
 Below is a list of works we consulted during the transcription and editing of *The Sugar-Cane*. We list primary sources, secondary sources, general reference works, and works on editing and digital editions.
 
@@ -20,23 +21,23 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Anderson, W. E. K. <i>The Percy Letters: The Correspondence of Thomas Percy and Robert Anderson</i>. Yale University Press, 1944.</div>
   <div class="csl-entry">Appleton, Nathaniel. <i>Considerations on Slavery. In a Letter to a Friend</i>. Boston, 1767.</div>
   <div class="csl-entry">Behn, Aphra. <i>Oroonoko: An Authoritative Text, Historical Backgrounds, Criticism</i>. Edited by Joanna Lipking, Norton, 1997.</div>
-  <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756.</div>
-  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802.</div> 
+  <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756. <a href="https://archive.org/details/mobot31753000808003/page/n21">https://archive.org/details/mobot31753000808003/page/n21</a>.</div>
+  <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802. <a href="https://archive.org/details/b21297587/page/n7">https://archive.org/details/b21297587/page/n7</a>.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
   <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
-  <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750.</div>
+  <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750. <a href="https://archive.org/details/mobot31753000322294">https://archive.org/details/mobot31753000322294</a>.</div>
   <div class="csl-entry">Hughes, William. <i>The American Physitian; or, A Treatise of the Roots, Plants, Trees, Shrubs, Fruit, Herbs, &amp;c. Growing in the English Plantations in America. Describing the Place, Time, Names, Kindes, Temperature, Vertues and Uses of Them,Either for Diet, Physick, &amp;c. Whereunto Is Added a Discourse of the Cacao-Nvt-Tree, and the Use of Its Fruit;with All the Ways of Making of Chocolate</i>. London, 1672.</div>
   <div class="csl-entry">Johnson, Samuel. “The Sugar-Cane.” <i>London Chronicle</i>, 3 July 1764, pp. 12, 20, 28.</div>
   <div class="csl-entry">---. “The Sugar-Cane.” <i>The Critical Review: Or, Annals of Literature</i>, edited by Tobias George Smollett, vol. 18, Oct. 1764, pp. 270–77.</div>
   <div class="csl-entry">Ligon, Richard. <i>A True and Exact History of the Island of Barbados</i>. London, 1657.</div>
   <div class="csl-entry">Merian, Maria Sibylla. <i>Metamorphosis Insectorum Surinamensium</i>. London, 1980.</div>
-  <div class="csl-entry">Miller, Philip. <i>The Gardeners Dictionary: Containing the Best and Newest Methods of Cultivating and Improving the Kitchen, Fruit, Flower Gardens, and Nursery, as Also for Performing the Practical Parts of Agriculture, Including the Management of Vineyards, with the Methods of Making and Preserving Wine, According to the Present Practice of the Most Skilful Vignerons in the Several Wine Countries in Europe : Together with Directions for Propagating and Improving, from Real Practice and Experience, All Sorts of Timber Trees</i>. Vol. 2, London, 1768.</div>
+  <div class="csl-entry">Miller, Philip. <i>The Gardeners Dictionary: Containing the Best and Newest Methods of Cultivating and Improving the Kitchen, Fruit, Flower Gardens, and Nursery, as Also for Performing the Practical Parts of Agriculture, Including the Management of Vineyards, with the Methods of Making and Preserving Wine, According to the Present Practice of the Most Skilful Vignerons in the Several Wine Countries in Europe : Together with Directions for Propagating and Improving, from Real Practice and Experience, All Sorts of Timber Trees</i>. Vol. 2, London, 1768. <a href="https://archive.org/details/mobot31753002894894/page/n1">https://archive.org/details/mobot31753002894894/page/n1</a>.</div>
   <div class="csl-entry">Moseley, Benjamin. <i>A Treatise on Sugar</i>. London, 1799.</div>
   <div class="csl-entry">Nichols, John Bowyer. <i>Illustrations of the Literary History of the Eighteenth Century</i>. Vol. 7, London, 1817.</div>
   <div class="csl-entry">Riddell, Maria. <i>Voyages to the Madeira and Leeward Caribbean Isles: With Sketches of the Natural History of These Islands</i>. Edinburgh, 1792.</div>
-  <div class="csl-entry">Sloane, Hans. <i>A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica, with the Natural History of the Last of Those Islands: To Which Is Prefix’d an Introduction, Wherein Is an Account of the Inhabitants, Air, Waters, Diseases, Trade, &amp;c.</i>. London, 1707.</div>
-  <div class="csl-entry">Stubbe, Henry. <i>The Indian Nectar, or A Discourse Concerning Chocolata: Wherein the Nature of the Cacao-Nut, and the Other Ingredients of That Composition, Is Examined</i>. London, 1662.</div>
-  <div class="csl-entry">Trapham, Thomas. <i>A Discourse of the State of Health in the Island of Jamaica. With a Provision Therefore Calculated from the Air, the Place, and the Water: The Customs and Manners of Living, &amp;c</i>. London, 1679.</div>
+  <div class="csl-entry">Sloane, Hans. <i>A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica, with the Natural History of the Last of Those Islands: To Which Is Prefix’d an Introduction, Wherein Is an Account of the Inhabitants, Air, Waters, Diseases, Trade, &amp;c.</i>. London, 1707. <a href="https://archive.org/details/mobot31753000820123/page/n5">https://archive.org/details/mobot31753000820123/page/n5</a>.</div>
+  <div class="csl-entry">Stubbe, Henry. <i>The Indian Nectar, or A Discourse Concerning Chocolata: Wherein the Nature of the Cacao-Nut, and the Other Ingredients of That Composition, Is Examined</i>. London, 1662. <a href="https://quod.lib.umich.edu/e/eebo/A61881.0001.001?view=toc">https://quod.lib.umich.edu/e/eebo/A61881.0001.001?view=toc</a>.</div>
+  <div class="csl-entry">Trapham, Thomas. <i>A Discourse of the State of Health in the Island of Jamaica. With a Provision Therefore Calculated from the Air, the Place, and the Water: The Customs and Manners of Living, &amp;c</i>. London, 1679. <a href="https://quod.lib.umich.edu/e/eebo2/B30836.0001.001?view=toc">https://quod.lib.umich.edu/e/eebo2/B30836.0001.001?view=toc</a>.</div>
 </div>
 
 
@@ -45,12 +46,12 @@ Below is a list of works we consulted during the transcription and editing of *T
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Acosta, Yvonne, and Jean Casimir. “Social Origins of the Counter-Plantation System in St Lucia.” <i>Rural Development in the Caribbean</i>, edited by P. I. Gomes, C. Hurst and St. Martin’s, 1985, pp. 34–59.</div>
-  <div class="csl-entry">Aljoe, Nicole N. <i>Creole Testimonies: Slave Narratives from the British West Indies, 1709-1838</i>. Palgrave Macmillan, 2012.</div>
+  <div class="csl-entry">Aljoe, Nicole N. <i>Creole Testimonies: Slave Narratives from the British West Indies, 1709-1838</i>. Palgrave Macmillan, 2012. doi:<a href="https://link.springer.com/content/pdf/bfm%3A978-1-137-01280-7%2F1.pdf">10.1057/9781137012807</a>.</div>
   <div class="csl-entry">Allewaert, Monique. “Insect Poetics: James Grainger, Personification, and Enlightenments Not Taken.” <i>Early American Literature</i>, vol. 52, no. 2, June 2017, pp. 299–332. <i>Project MUSE</i>, doi:<a href="https://doi.org/10.1353/eal.2017.0027">10.1353/eal.2017.0027</a>.</div>
   <div class="csl-entry">Anderson, Fred. <i>Crucible of War: The Seven Years’ War and the Fate of Empire in British North America, 1754-1766</i>. Vintage, 2001.</div>
   <div class="csl-entry">Aravamudan, Srinivas. “Introduction.” <i>Obi; or, The History of Three-Fingered Jack</i>, edited by Srinivas Aravamudan, Broadview, 2005.</div>
   <div class="csl-entry">Arnold, Albert James, et al. <i>A History of Literature in the Caribbean: English- and Dutch-Speaking Countries</i>. John Benjamins Publishing, 2001.</div>
-  <div class="csl-entry">Bilby, Kenneth M., and Jerome S. Handler. “Obeah: Healing and Protection in West Indian Slave Life.” <i>Journal of Caribbean History</i>, vol. 38, no. 2, 2004, pp. 153–83.</div>
+  <div class="csl-entry">Bilby, Kenneth M., and Jerome S. Handler. “Obeah: Healing and Protection in West Indian Slave Life.” <i>Journal of Caribbean History</i>, vol. 38, no. 2, 2004, pp. 153–83. <a href="http://jeromehandler.org/2004/01/obeah-healing-and-protection-in-west-indian-slave-life-article-incomplete/">http://jeromehandler.org/2004/01/obeah-healing-and-protection-in-west-indian-slave-life-article-incomplete/</a>.</div>
   <div class="csl-entry">Bowman, Kim D., and Frederick G. Gmitter, Jr. “Forbidden Fruit (Citrus Sp., Rutaceae) Rediscovered in Saint Lucia.” <i>Economic Botany</i>, vol. 44, no. 2, 1990, pp. 165–73.</div>
   <div class="csl-entry">"Bristol and Transatlantic Slavery." <i>PortCities Bristol</i>, <a href="http://www.discoveringbristol.org.uk/slavery/">http://www.discoveringbristol.org.uk/slavery/</a>. Accessed 5 Aug. 2018.</div>
   <div class="csl-entry">Brown, Vincent. <i>The Reaper’s Garden: Death and Power in the World of Atlantic Slavery</i>. Harvard University Press, 2008.</div>
@@ -83,7 +84,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Hogarth, Rana A. <i>Medicalizing Blackness: Making Racial Difference in the Atlantic World, 1780-1840</i>. University of North Carolina Press, 2017.</div>
   <div class="csl-entry">Howard, Richard A. “Eighteenth Century West Indian Pharmaceuticals.” <i>Harvard Papers in Botany</i>, vol. 1, no. 5, 1994, pp. 69–91.</div>
   <div class="csl-entry">Hulme, Peter. <i>Colonial Encounters: Europe and the Native Caribbean, 1492-1797</i>. Methuen, 1986.</div>
-  <div class="csl-entry">Irlam, Shaun. “‘Wish You Were Here’: Exporting England in James Grainger’s ‘The Sugar-Cane.’” <i>ELH</i>, vol. 68, no. 2, 2001, pp. 377–96. <i>Project MUSE</i>, doi:<a href="https://muse.jhu.edu/issue/651">10.1353/elh.2001.0015</a>.</div>
+  <div class="csl-entry">Irlam, Shaun. “‘Wish You Were Here’: Exporting England in James Grainger’s ‘The Sugar-Cane.’” <i>ELH</i>, vol. 68, no. 2, 2001, pp. 377–96.</div>
   <div class="csl-entry">Kevan, D. Keith McE. “Mid-Eighteenth-Century Entomology and Helminthology in The West Indies: Dr. James Grainger.” <i>Journal of the Society for the Bibliography of Natural History</i>, vol. 8, no. 3, 1977, pp. 193–222.</div>
   <div class="csl-entry">Klein, Ursula, and Wolfgang Lefèvre. <i>Materials in Eighteenth-Century Science: A Historical Ontology</i>. MIT Press, 2007.</div>
   <div class="csl-entry">Krise, Thomas W., editor. <i>Caribbeana: An Anthology of English Literature of the West Indies, 1657-1777</i>. Univ. of Chicago Press, 2009.</div>
@@ -143,24 +144,24 @@ Below is a list of works we consulted during the transcription and editing of *T
 ---
 ## General Reference Works
 
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Cassidy, Frederic G., and R. B. Le Page, editors. <i>Dictionary of Jamaican English</i>. University of the West Indies Press, 2002.</div>
   <div class="csl-entry">“Credo Reference.” <i>Credo Academic Core</i>, <a href="https://search.credoreference.com/">https://search.credoreference.com/</a>.</div>
   <div class="csl-entry"><i>Encyclopedia Britannica Academic</i>.</div>
-  <div class="csl-entry">Everett-Heath, John, editor. <i>The Concise Dictionary of World Place-Names</i>. 3rd ed., Oxford Univ. Press, 2014.</div>
+  <div class="csl-entry">Everett-Heath, John, editor. <i>The Concise Dictionary of World Place-Names</i>. 3rd ed., Oxford Univ. Press, 2014. <a href="http://www.oxfordreference.com/view/10.1093/acref/9780199580897.001.0001/acref-9780199580897">http://www.oxfordreference.com/view/10.1093/acref/9780199580897.001.0001/acref-9780199580897</a>.</div>
   <div class="csl-entry">Head, David, editor. <i>Encyclopedia of the Atlantic World, 1400-1900: Europe, Africa, and the Americas in an Age of Exploration, Trade, and Empires</i>. ABC-CLIO, 2018.</div>
-  <div class="csl-entry">Hornblower, Simon, and Antony Spawforth, editors. <i>The Oxford Classical Dictionary</i>. 3rd rev., Oxford Univ. Press, 2003.</div>
+  <div class="csl-entry">Hornblower, Simon, and Antony Spawforth, editors. <i>The Oxford Classical Dictionary</i>. 3rd rev., Oxford Univ. Press, 2003. <a href="http://www.oxfordreference.com/view/10.1093/acref/9780198606413.001.0001/acref-9780198606413">http://www.oxfordreference.com/view/10.1093/acref/9780198606413.001.0001/acref-9780198606413</a>.</div>
   <div class="csl-entry"><i>Integrated Taxonomic Information System</i>. Integrated Taxonomic Information System, 2017, <a href="https://www.itis.gov/">https://www.itis.gov/</a>. Accessed 10 July 2018.</div>
   <div class="csl-entry"><i>Invasive Species Compendium</i>. CAB International, 2018, <a href="https://www.cabi.org/isc/">https://www.cabi.org/isc/</a>. Accessed 24 July 2018.</div>
   <div class="csl-entry">Maxwell, Robert L. <i>Latin Place Names</i>. Association of College & Research Libraries, 1997, <a href="http://rbms.info/lpn/">http://rbms.info/lpn/</a>. Accessed 26 June 2018.</div>
   <div class="csl-entry"><i>New Catholic Encyclopedia</i>. 2nd ed., Gale, 2013, <a href="https://go-galegroup-com.avoserv2.library.fordham.edu/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&amp;searchType=&amp;docId=GALE%7C5CBD&amp;userGroupName=nysl_me_fordham&amp;inPS=true&amp;prodId=GVRL">https://go-galegroup-com.avoserv2.library.fordham.edu/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&amp;searchType=&amp;docId=GALE%7C5CBD&amp;userGroupName=nysl_me_fordham&amp;inPS=true&amp;prodId=GVRL</a>.</div>
-  <div class="csl-entry"><i>Oxford English Dictionary</i>. Oxford University Press.</div>
+  <div class="csl-entry"><i>Oxford English Dictionary</i>. Oxford University Press. <a href="www.oed.com">www.oed.com</a>.</div>
   <div class="csl-entry"><i>Plant Finder</i>. Missouri Botanical Garden, <a href="http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx">http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx</a>. Accessed 24 July 2018.</div>
   <div class="csl-entry"><i>Plants Database</i>. United States Department of Agriculture National Resources Conservation Service, 2018, <a href="https://plants.usda.gov/java/?">https://plants.usda.gov/java/?</a> Accessed 22 July 2018.</div>
   <div class="csl-entry"><i>Plants of the World Online</i>. Kew Science, 2018, <a href="http://powo.science.kew.org/">http://powo.science.kew.org/</a>. Accessed 25 July 2018.</div>
   <div class="csl-entry"><i>The IUCN Red List</i>. IUCN, 2018, <a href="http://www.iucnredlist.org/">http://www.iucnredlist.org/</a>. Accessed 9 July 2018.</div>
-  <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
- <div class="csl-entry">“The National Archives - Currency Converter: 1270–2017.” <i>The National Archives</i>, <a href="http://www.nationalarchives.gov.uk/currency-converter/">http://www.nationalarchives.gov.uk/currency-converter/</a>. Accessed 17 July 2018.</div>
-  <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press.</div>
+  <div class="csl-entry">“The National Archives - Currency Converter: 1270–2017.” <i>The National Archives</i>, <a href="http://www.nationalarchives.gov.uk/currency-converter/">http://www.nationalarchives.gov.uk/currency-converter/</a>. Accessed 17 July 2018.</div>
+  <div class="csl-entry"><i>The Oxford Dictionary of National Biography</i>. Oxford University Press. <a href="http://www.oxforddnb.com/">http://www.oxforddnb.com/</a>.</div>
   <div class="csl-entry"><i>The Plant List</i>. The Plant List, 2013, <a href="http://www.theplantlist.org/">http://www.theplantlist.org/</a>.</div>
   <div class="csl-entry"><i>Tropicos</i>. Missouri Botanical Garden, 2018, <a href="http://www.tropicos.org/Home.aspx">http://www.tropicos.org/Home.aspx</a>. Accessed 3 July 2018.</div>
   <div class="csl-entry"><i>Voyages</i>. The Trans-Atlantic Slave Trade Database, 2013, <a href="http://www.slavevoyages.org">www.slavevoyages.org</a>.</div>
@@ -182,4 +183,3 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Stevens, Michael E., and Steven B. Burg. <i>Editing Historical Documents: A Handbook of Practice</i>. AltaMira Press, 1997.</div>
   <div class="csl-entry">Tanselle, G. Thomas. “The Varieties of Scholarly Editing.” <i>Scholarly Editing: A Guide to Research</i>, Modern Language Association of America, 1995, pp. 9–32.</div>
  </div>
-   

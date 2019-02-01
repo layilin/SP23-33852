@@ -1,0 +1,185 @@
+page_name,pid,description,keywords,thumbnail,full
+,p0001,front cover,,/img/derivatives/simple/p0001/thumbnail.jpg,/img/derivatives/simple/p0001/full.jpg
+,p0002,inside cover,,/img/derivatives/simple/p0002/thumbnail.jpg,/img/derivatives/simple/p0002/full.jpg
+,p0003,blank page recto,,/img/derivatives/simple/p0003/thumbnail.jpg,/img/derivatives/simple/p0003/full.jpg
+,p0004,blank page verso,,/img/derivatives/simple/p0004/thumbnail.jpg,/img/derivatives/simple/p0004/full.jpg
+sc-first_pages_i,p0005,book title page,,/img/derivatives/simple/p0005/thumbnail.jpg,/img/derivatives/simple/p0005/full.jpg
+,p0006,blank page verso,,/img/derivatives/simple/p0006/thumbnail.jpg,/img/derivatives/simple/p0006/full.jpg
+,p0007,blank page recto,,/img/derivatives/simple/p0007/thumbnail.jpg,/img/derivatives/simple/p0007/full.jpg
+sc-first_pages_ii,p0008,frontispiece,,/img/derivatives/simple/p0008/thumbnail.jpg,/img/derivatives/simple/p0008/full.jpg
+sc-first_pages_iii,p0009,title page,,/img/derivatives/simple/p0009/thumbnail.jpg,/img/derivatives/simple/p0009/full.jpg
+sc-first_pages_iv,p0010,blank page verso,,/img/derivatives/simple/p0010/thumbnail.jpg,/img/derivatives/simple/p0010/full.jpg
+sc-first_pages_v,p0011,preface,,/img/derivatives/simple/p0011/thumbnail.jpg,/img/derivatives/simple/p0011/full.jpg
+sc-first_pages_vi,p0012,page vi,,/img/derivatives/simple/p0012/thumbnail.jpg,/img/derivatives/simple/p0012/full.jpg
+sc-first_pages_vii,p0013,page vii,,/img/derivatives/simple/p0013/thumbnail.jpg,/img/derivatives/simple/p0013/full.jpg
+sc-first_pages_viii,p0014,blank page verso,,/img/derivatives/simple/p0014/thumbnail.jpg,/img/derivatives/simple/p0014/full.jpg
+sc-page001,p0015,book i title page,,/img/derivatives/simple/p0015/thumbnail.jpg,/img/derivatives/simple/p0015/full.jpg
+sc-page002,p0016,argument to book i,,/img/derivatives/simple/p0016/thumbnail.jpg,/img/derivatives/simple/p0016/full.jpg
+sc-page003,p0017,page 3,,/img/derivatives/simple/p0017/thumbnail.jpg,/img/derivatives/simple/p0017/full.jpg
+sc-page004,p0018,page 4,,/img/derivatives/simple/p0018/thumbnail.jpg,/img/derivatives/simple/p0018/full.jpg
+sc-page005,p0019,page 5,,/img/derivatives/simple/p0019/thumbnail.jpg,/img/derivatives/simple/p0019/full.jpg
+sc-page006,p0020,page 6,,/img/derivatives/simple/p0020/thumbnail.jpg,/img/derivatives/simple/p0020/full.jpg
+sc-page007,p0021,page 7,,/img/derivatives/simple/p0021/thumbnail.jpg,/img/derivatives/simple/p0021/full.jpg
+sc-page008,p0022,page 8,,/img/derivatives/simple/p0022/thumbnail.jpg,/img/derivatives/simple/p0022/full.jpg
+sc-page009,p0023,page 9,,/img/derivatives/simple/p0023/thumbnail.jpg,/img/derivatives/simple/p0023/full.jpg
+sc-page010,p0024,page 10,,/img/derivatives/simple/p0024/thumbnail.jpg,/img/derivatives/simple/p0024/full.jpg
+sc-page011,p0025,page 11,,/img/derivatives/simple/p0025/thumbnail.jpg,/img/derivatives/simple/p0025/full.jpg
+sc-page012,p0026,page 12,,/img/derivatives/simple/p0026/thumbnail.jpg,/img/derivatives/simple/p0026/full.jpg
+sc-page013,p0027,page 13,,/img/derivatives/simple/p0027/thumbnail.jpg,/img/derivatives/simple/p0027/full.jpg
+sc-page014,p0028,page 14,,/img/derivatives/simple/p0028/thumbnail.jpg,/img/derivatives/simple/p0028/full.jpg
+sc-page015,p0029,page 15,,/img/derivatives/simple/p0029/thumbnail.jpg,/img/derivatives/simple/p0029/full.jpg
+sc-page016,p0030,page 16,,/img/derivatives/simple/p0030/thumbnail.jpg,/img/derivatives/simple/p0030/full.jpg
+sc-page017,p0031,page 17,,/img/derivatives/simple/p0031/thumbnail.jpg,/img/derivatives/simple/p0031/full.jpg
+sc-page018,p0032,page 18,,/img/derivatives/simple/p0032/thumbnail.jpg,/img/derivatives/simple/p0032/full.jpg
+sc-page019,p0033,page 19,,/img/derivatives/simple/p0033/thumbnail.jpg,/img/derivatives/simple/p0033/full.jpg
+sc-page020,p0034,page 20,,/img/derivatives/simple/p0034/thumbnail.jpg,/img/derivatives/simple/p0034/full.jpg
+sc-page021,p0035,page 21,,/img/derivatives/simple/p0035/thumbnail.jpg,/img/derivatives/simple/p0035/full.jpg
+sc-page022,p0036,page 22,,/img/derivatives/simple/p0036/thumbnail.jpg,/img/derivatives/simple/p0036/full.jpg
+sc-page023,p0037,page 23,,/img/derivatives/simple/p0037/thumbnail.jpg,/img/derivatives/simple/p0037/full.jpg
+sc-page024,p0038,page 24,,/img/derivatives/simple/p0038/thumbnail.jpg,/img/derivatives/simple/p0038/full.jpg
+sc-page025,p0039,page 25,,/img/derivatives/simple/p0039/thumbnail.jpg,/img/derivatives/simple/p0039/full.jpg
+sc-page026,p0040,page 26,,/img/derivatives/simple/p0040/thumbnail.jpg,/img/derivatives/simple/p0040/full.jpg
+sc-page027,p0041,page 27,,/img/derivatives/simple/p0041/thumbnail.jpg,/img/derivatives/simple/p0041/full.jpg
+sc-page028,p0042,page 28,,/img/derivatives/simple/p0042/thumbnail.jpg,/img/derivatives/simple/p0042/full.jpg
+sc-page029,p0043,page 29,,/img/derivatives/simple/p0043/thumbnail.jpg,/img/derivatives/simple/p0043/full.jpg
+sc-page030,p0044,page 30,,/img/derivatives/simple/p0044/thumbnail.jpg,/img/derivatives/simple/p0044/full.jpg
+sc-page031,p0045,page 31,,/img/derivatives/simple/p0045/thumbnail.jpg,/img/derivatives/simple/p0045/full.jpg
+sc-page032,p0046,page 32,,/img/derivatives/simple/p0046/thumbnail.jpg,/img/derivatives/simple/p0046/full.jpg
+sc-page033,p0047,page 33,,/img/derivatives/simple/p0047/thumbnail.jpg,/img/derivatives/simple/p0047/full.jpg
+sc-page034,p0048,page 34,,/img/derivatives/simple/p0048/thumbnail.jpg,/img/derivatives/simple/p0048/full.jpg
+sc-page035,p0049,page 35,,/img/derivatives/simple/p0049/thumbnail.jpg,/img/derivatives/simple/p0049/full.jpg
+sc-page036,p0050,page 36,,/img/derivatives/simple/p0050/thumbnail.jpg,/img/derivatives/simple/p0050/full.jpg
+sc-page037,p0051,page 37,,/img/derivatives/simple/p0051/thumbnail.jpg,/img/derivatives/simple/p0051/full.jpg
+sc-page038,p0052,page 38,,/img/derivatives/simple/p0052/thumbnail.jpg,/img/derivatives/simple/p0052/full.jpg
+sc-page039,p0053,page 39,,/img/derivatives/simple/p0053/thumbnail.jpg,/img/derivatives/simple/p0053/full.jpg
+sc-page040,p0054,page 40,,/img/derivatives/simple/p0054/thumbnail.jpg,/img/derivatives/simple/p0054/full.jpg
+sc-page041,p0055,page 41,,/img/derivatives/simple/p0055/thumbnail.jpg,/img/derivatives/simple/p0055/full.jpg
+sc-page042,p0056,page 42,,/img/derivatives/simple/p0056/thumbnail.jpg,/img/derivatives/simple/p0056/full.jpg
+sc-page043,p0057,page 43,,/img/derivatives/simple/p0057/thumbnail.jpg,/img/derivatives/simple/p0057/full.jpg
+sc-page044,p0058,page 44,,/img/derivatives/simple/p0058/thumbnail.jpg,/img/derivatives/simple/p0058/full.jpg
+sc-page045,p0059,page 45,,/img/derivatives/simple/p0059/thumbnail.jpg,/img/derivatives/simple/p0059/full.jpg
+sc-page046,p0060,page 46,,/img/derivatives/simple/p0060/thumbnail.jpg,/img/derivatives/simple/p0060/full.jpg
+sc-page047,p0061,end of book i,,/img/derivatives/simple/p0061/thumbnail.jpg,/img/derivatives/simple/p0061/full.jpg
+sc-page048,p0062,blank page verso,,/img/derivatives/simple/p0062/thumbnail.jpg,/img/derivatives/simple/p0062/full.jpg
+sc-page049,p0063,book ii title page,,/img/derivatives/simple/p0063/thumbnail.jpg,/img/derivatives/simple/p0063/full.jpg
+sc-page050,p0064,blank page verso,,/img/derivatives/simple/p0064/thumbnail.jpg,/img/derivatives/simple/p0064/full.jpg
+sc-page051,p0065,advertisement to book ii,,/img/derivatives/simple/p0065/thumbnail.jpg,/img/derivatives/simple/p0065/full.jpg
+sc-page052,p0066,argument to book ii,,/img/derivatives/simple/p0066/thumbnail.jpg,/img/derivatives/simple/p0066/full.jpg
+sc-page053,p0067,page 53,,/img/derivatives/simple/p0067/thumbnail.jpg,/img/derivatives/simple/p0067/full.jpg
+sc-page054,p0068,page 54,,/img/derivatives/simple/p0068/thumbnail.jpg,/img/derivatives/simple/p0068/full.jpg
+sc-page055,p0069,page 55,,/img/derivatives/simple/p0069/thumbnail.jpg,/img/derivatives/simple/p0069/full.jpg
+sc-page056,p0070,page 56,,/img/derivatives/simple/p0070/thumbnail.jpg,/img/derivatives/simple/p0070/full.jpg
+sc-page057,p0071,page 57,,/img/derivatives/simple/p0071/thumbnail.jpg,/img/derivatives/simple/p0071/full.jpg
+sc-page058,p0072,page 58,,/img/derivatives/simple/p0072/thumbnail.jpg,/img/derivatives/simple/p0072/full.jpg
+sc-page059,p0073,page 59,,/img/derivatives/simple/p0073/thumbnail.jpg,/img/derivatives/simple/p0073/full.jpg
+sc-page060,p0074,page 60,,/img/derivatives/simple/p0074/thumbnail.jpg,/img/derivatives/simple/p0074/full.jpg
+sc-page061,p0075,page 61,,/img/derivatives/simple/p0075/thumbnail.jpg,/img/derivatives/simple/p0075/full.jpg
+sc-page062,p0076,page 62,,/img/derivatives/simple/p0076/thumbnail.jpg,/img/derivatives/simple/p0076/full.jpg
+sc-page063,p0077,page 63,,/img/derivatives/simple/p0077/thumbnail.jpg,/img/derivatives/simple/p0077/full.jpg
+sc-page064,p0078,page 64,,/img/derivatives/simple/p0078/thumbnail.jpg,/img/derivatives/simple/p0078/full.jpg
+sc-page065,p0079,page 65,,/img/derivatives/simple/p0079/thumbnail.jpg,/img/derivatives/simple/p0079/full.jpg
+sc-page066,p0080,page 66,,/img/derivatives/simple/p0080/thumbnail.jpg,/img/derivatives/simple/p0080/full.jpg
+sc-page067,p0081,page 67,,/img/derivatives/simple/p0081/thumbnail.jpg,/img/derivatives/simple/p0081/full.jpg
+sc-page068,p0082,page 68,,/img/derivatives/simple/p0082/thumbnail.jpg,/img/derivatives/simple/p0082/full.jpg
+sc-page069,p0083,page 69,,/img/derivatives/simple/p0083/thumbnail.jpg,/img/derivatives/simple/p0083/full.jpg
+sc-page070,p0084,page 70,,/img/derivatives/simple/p0084/thumbnail.jpg,/img/derivatives/simple/p0084/full.jpg
+sc-page071,p0085,page 71,,/img/derivatives/simple/p0085/thumbnail.jpg,/img/derivatives/simple/p0085/full.jpg
+sc-page072,p0086,page 72,,/img/derivatives/simple/p0086/thumbnail.jpg,/img/derivatives/simple/p0086/full.jpg
+sc-page073,p0087,page 73,,/img/derivatives/simple/p0087/thumbnail.jpg,/img/derivatives/simple/p0087/full.jpg
+sc-page074,p0088,page 74,,/img/derivatives/simple/p0088/thumbnail.jpg,/img/derivatives/simple/p0088/full.jpg
+sc-page075,p0089,page 75,,/img/derivatives/simple/p0089/thumbnail.jpg,/img/derivatives/simple/p0089/full.jpg
+sc-page076,p0090,page 76,,/img/derivatives/simple/p0090/thumbnail.jpg,/img/derivatives/simple/p0090/full.jpg
+sc-page077,p0091,page 77,,/img/derivatives/simple/p0091/thumbnail.jpg,/img/derivatives/simple/p0091/full.jpg
+sc-page078,p0092,page 78,,/img/derivatives/simple/p0092/thumbnail.jpg,/img/derivatives/simple/p0092/full.jpg
+sc-page079,p0093,page 79,,/img/derivatives/simple/p0093/thumbnail.jpg,/img/derivatives/simple/p0093/full.jpg
+sc-page080,p0094,page 80,,/img/derivatives/simple/p0094/thumbnail.jpg,/img/derivatives/simple/p0094/full.jpg
+sc-page081,p0095,page 81,,/img/derivatives/simple/p0095/thumbnail.jpg,/img/derivatives/simple/p0095/full.jpg
+sc-page082,p0096,page 82,,/img/derivatives/simple/p0096/thumbnail.jpg,/img/derivatives/simple/p0096/full.jpg
+sc-page083,p0097,page 83,,/img/derivatives/simple/p0097/thumbnail.jpg,/img/derivatives/simple/p0097/full.jpg
+sc-page084,p0098,end of book ii,,/img/derivatives/simple/p0098/thumbnail.jpg,/img/derivatives/simple/p0098/full.jpg
+sc-page085,p0099,book iii title page,,/img/derivatives/simple/p0099/thumbnail.jpg,/img/derivatives/simple/p0099/full.jpg
+sc-page086,p0100,argument to book iii,,/img/derivatives/simple/p0100/thumbnail.jpg,/img/derivatives/simple/p0100/full.jpg
+sc-page087,p0101,page 87,,/img/derivatives/simple/p0101/thumbnail.jpg,/img/derivatives/simple/p0101/full.jpg
+sc-page088,p0102,page 88,,/img/derivatives/simple/p0102/thumbnail.jpg,/img/derivatives/simple/p0102/full.jpg
+sc-page089,p0103,page 89,,/img/derivatives/simple/p0103/thumbnail.jpg,/img/derivatives/simple/p0103/full.jpg
+sc-page090,p0104,page 90,,/img/derivatives/simple/p0104/thumbnail.jpg,/img/derivatives/simple/p0104/full.jpg
+sc-page091,p0105,page 91,,/img/derivatives/simple/p0105/thumbnail.jpg,/img/derivatives/simple/p0105/full.jpg
+sc-page092,p0106,page 92,,/img/derivatives/simple/p0106/thumbnail.jpg,/img/derivatives/simple/p0106/full.jpg
+sc-page093,p0107,page 93,,/img/derivatives/simple/p0107/thumbnail.jpg,/img/derivatives/simple/p0107/full.jpg
+sc-page094,p0108,page 94,,/img/derivatives/simple/p0108/thumbnail.jpg,/img/derivatives/simple/p0108/full.jpg
+sc-page095,p0109,page 95,,/img/derivatives/simple/p0109/thumbnail.jpg,/img/derivatives/simple/p0109/full.jpg
+sc-page096,p0110,page 96,,/img/derivatives/simple/p0110/thumbnail.jpg,/img/derivatives/simple/p0110/full.jpg
+sc-page097,p0111,page 97,,/img/derivatives/simple/p0111/thumbnail.jpg,/img/derivatives/simple/p0111/full.jpg
+sc-page098,p0112,page 98,,/img/derivatives/simple/p0112/thumbnail.jpg,/img/derivatives/simple/p0112/full.jpg
+sc-page099,p0113,page 99,,/img/derivatives/simple/p0113/thumbnail.jpg,/img/derivatives/simple/p0113/full.jpg
+sc-page100,p0114,page 100,,/img/derivatives/simple/p0114/thumbnail.jpg,/img/derivatives/simple/p0114/full.jpg
+sc-page101,p0115,page 101,,/img/derivatives/simple/p0115/thumbnail.jpg,/img/derivatives/simple/p0115/full.jpg
+sc-page102,p0116,page 102,,/img/derivatives/simple/p0116/thumbnail.jpg,/img/derivatives/simple/p0116/full.jpg
+sc-page103,p0117,page 103,,/img/derivatives/simple/p0117/thumbnail.jpg,/img/derivatives/simple/p0117/full.jpg
+sc-page104,p0118,page 104,,/img/derivatives/simple/p0118/thumbnail.jpg,/img/derivatives/simple/p0118/full.jpg
+sc-page105,p0119,page 105,,/img/derivatives/simple/p0119/thumbnail.jpg,/img/derivatives/simple/p0119/full.jpg
+sc-page106,p0120,page 106,,/img/derivatives/simple/p0120/thumbnail.jpg,/img/derivatives/simple/p0120/full.jpg
+sc-page107,p0121,page 107,,/img/derivatives/simple/p0121/thumbnail.jpg,/img/derivatives/simple/p0121/full.jpg
+sc-page108,p0122,page 108,,/img/derivatives/simple/p0122/thumbnail.jpg,/img/derivatives/simple/p0122/full.jpg
+sc-page109,p0123,page 109,,/img/derivatives/simple/p0123/thumbnail.jpg,/img/derivatives/simple/p0123/full.jpg
+sc-page110,p0124,page 110,,/img/derivatives/simple/p0124/thumbnail.jpg,/img/derivatives/simple/p0124/full.jpg
+sc-page111,p0125,page 111,,/img/derivatives/simple/p0125/thumbnail.jpg,/img/derivatives/simple/p0125/full.jpg
+sc-page112,p0126,page 112,,/img/derivatives/simple/p0126/thumbnail.jpg,/img/derivatives/simple/p0126/full.jpg
+sc-page113,p0127,page 113,,/img/derivatives/simple/p0127/thumbnail.jpg,/img/derivatives/simple/p0127/full.jpg
+sc-page114,p0128,page 114,,/img/derivatives/simple/p0128/thumbnail.jpg,/img/derivatives/simple/p0128/full.jpg
+sc-page115,p0129,page 115,,/img/derivatives/simple/p0129/thumbnail.jpg,/img/derivatives/simple/p0129/full.jpg
+sc-page116,p0130,page 116,,/img/derivatives/simple/p0130/thumbnail.jpg,/img/derivatives/simple/p0130/full.jpg
+sc-page117,p0131,page 117,,/img/derivatives/simple/p0131/thumbnail.jpg,/img/derivatives/simple/p0131/full.jpg
+sc-page118,p0132,page 118,,/img/derivatives/simple/p0132/thumbnail.jpg,/img/derivatives/simple/p0132/full.jpg
+sc-page119,p0133,page 119,,/img/derivatives/simple/p0133/thumbnail.jpg,/img/derivatives/simple/p0133/full.jpg
+sc-page120,p0134,page 120,,/img/derivatives/simple/p0134/thumbnail.jpg,/img/derivatives/simple/p0134/full.jpg
+sc-page121,p0135,page 121,,/img/derivatives/simple/p0135/thumbnail.jpg,/img/derivatives/simple/p0135/full.jpg
+sc-page122,p0136,end of book iii,,/img/derivatives/simple/p0136/thumbnail.jpg,/img/derivatives/simple/p0136/full.jpg
+sc-page123,p0137,book iv title page,,/img/derivatives/simple/p0137/thumbnail.jpg,/img/derivatives/simple/p0137/full.jpg
+sc-page124,p0138,argument to book iv,,/img/derivatives/simple/p0138/thumbnail.jpg,/img/derivatives/simple/p0138/full.jpg
+sc-page125,p0139,page 125,,/img/derivatives/simple/p0139/thumbnail.jpg,/img/derivatives/simple/p0139/full.jpg
+sc-page126,p0140,page 126,,/img/derivatives/simple/p0140/thumbnail.jpg,/img/derivatives/simple/p0140/full.jpg
+sc-page127,p0141,page 127,,/img/derivatives/simple/p0141/thumbnail.jpg,/img/derivatives/simple/p0141/full.jpg
+sc-page128,p0142,page 128,,/img/derivatives/simple/p0142/thumbnail.jpg,/img/derivatives/simple/p0142/full.jpg
+sc-page129,p0143,page 129,,/img/derivatives/simple/p0143/thumbnail.jpg,/img/derivatives/simple/p0143/full.jpg
+sc-page130,p0144,page 130,,/img/derivatives/simple/p0144/thumbnail.jpg,/img/derivatives/simple/p0144/full.jpg
+sc-page131,p0145,page 131,,/img/derivatives/simple/p0145/thumbnail.jpg,/img/derivatives/simple/p0145/full.jpg
+sc-page132,p0146,page 132,,/img/derivatives/simple/p0146/thumbnail.jpg,/img/derivatives/simple/p0146/full.jpg
+sc-page133,p0147,page 133,,/img/derivatives/simple/p0147/thumbnail.jpg,/img/derivatives/simple/p0147/full.jpg
+sc-page134,p0148,page 134,,/img/derivatives/simple/p0148/thumbnail.jpg,/img/derivatives/simple/p0148/full.jpg
+sc-page135,p0149,page 135,,/img/derivatives/simple/p0149/thumbnail.jpg,/img/derivatives/simple/p0149/full.jpg
+sc-page136,p0150,page 136,,/img/derivatives/simple/p0150/thumbnail.jpg,/img/derivatives/simple/p0150/full.jpg
+sc-page137,p0151,page 137,,/img/derivatives/simple/p0151/thumbnail.jpg,/img/derivatives/simple/p0151/full.jpg
+sc-page138,p0152,page 138,,/img/derivatives/simple/p0152/thumbnail.jpg,/img/derivatives/simple/p0152/full.jpg
+sc-page139,p0153,page 139,,/img/derivatives/simple/p0153/thumbnail.jpg,/img/derivatives/simple/p0153/full.jpg
+sc-page140,p0154,page 140,,/img/derivatives/simple/p0154/thumbnail.jpg,/img/derivatives/simple/p0154/full.jpg
+sc-page141,p0155,page 141,,/img/derivatives/simple/p0155/thumbnail.jpg,/img/derivatives/simple/p0155/full.jpg
+sc-page142,p0156,page 142,,/img/derivatives/simple/p0156/thumbnail.jpg,/img/derivatives/simple/p0156/full.jpg
+sc-page143,p0157,page 143,,/img/derivatives/simple/p0157/thumbnail.jpg,/img/derivatives/simple/p0157/full.jpg
+sc-page144,p0158,page 144,,/img/derivatives/simple/p0158/thumbnail.jpg,/img/derivatives/simple/p0158/full.jpg
+sc-page145,p0159,page 145,,/img/derivatives/simple/p0159/thumbnail.jpg,/img/derivatives/simple/p0159/full.jpg
+sc-page146,p0160,page 146,,/img/derivatives/simple/p0160/thumbnail.jpg,/img/derivatives/simple/p0160/full.jpg
+sc-page147,p0161,page 147,,/img/derivatives/simple/p0161/thumbnail.jpg,/img/derivatives/simple/p0161/full.jpg
+sc-page148,p0162,page 148,,/img/derivatives/simple/p0162/thumbnail.jpg,/img/derivatives/simple/p0162/full.jpg
+sc-page149,p0163,page 149,,/img/derivatives/simple/p0163/thumbnail.jpg,/img/derivatives/simple/p0163/full.jpg
+sc-page150,p0164,page 150,,/img/derivatives/simple/p0164/thumbnail.jpg,/img/derivatives/simple/p0164/full.jpg
+sc-page151,p0165,page 151,,/img/derivatives/simple/p0165/thumbnail.jpg,/img/derivatives/simple/p0165/full.jpg
+sc-page152,p0166,page 152,,/img/derivatives/simple/p0166/thumbnail.jpg,/img/derivatives/simple/p0166/full.jpg
+sc-page153,p0167,page 153,,/img/derivatives/simple/p0167/thumbnail.jpg,/img/derivatives/simple/p0167/full.jpg
+sc-page154,p0168,page 154,,/img/derivatives/simple/p0168/thumbnail.jpg,/img/derivatives/simple/p0168/full.jpg
+sc-page155,p0169,page 155,,/img/derivatives/simple/p0169/thumbnail.jpg,/img/derivatives/simple/p0169/full.jpg
+sc-page156,p0170,page 156,,/img/derivatives/simple/p0170/thumbnail.jpg,/img/derivatives/simple/p0170/full.jpg
+sc-page157,p0171,page 157,,/img/derivatives/simple/p0171/thumbnail.jpg,/img/derivatives/simple/p0171/full.jpg
+sc-page158,p0172,page 158,,/img/derivatives/simple/p0172/thumbnail.jpg,/img/derivatives/simple/p0172/full.jpg
+sc-page159,p0173,page 159,,/img/derivatives/simple/p0173/thumbnail.jpg,/img/derivatives/simple/p0173/full.jpg
+sc-page160,p0174,page 160,,/img/derivatives/simple/p0174/thumbnail.jpg,/img/derivatives/simple/p0174/full.jpg
+sc-page161,p0175,page 161,,/img/derivatives/simple/p0175/thumbnail.jpg,/img/derivatives/simple/p0175/full.jpg
+sc-page162,p0176,end of book iv,,/img/derivatives/simple/p0176/thumbnail.jpg,/img/derivatives/simple/p0176/full.jpg
+sc-page163,p0177,beginning of index,,/img/derivatives/simple/p0177/thumbnail.jpg,/img/derivatives/simple/p0177/full.jpg
+sc-page164,p0178,page 164,,/img/derivatives/simple/p0178/thumbnail.jpg,/img/derivatives/simple/p0178/full.jpg
+sc-page165,p0179,page 165,,/img/derivatives/simple/p0179/thumbnail.jpg,/img/derivatives/simple/p0179/full.jpg
+sc-page166,p0180,page 166,,/img/derivatives/simple/p0180/thumbnail.jpg,/img/derivatives/simple/p0180/full.jpg
+sc-page167,p0181,page 167,,/img/derivatives/simple/p0181/thumbnail.jpg,/img/derivatives/simple/p0181/full.jpg
+,p0182,blank page verso,,/img/derivatives/simple/p0182/thumbnail.jpg,/img/derivatives/simple/p0182/full.jpg
+,p0183,inside cover,,/img/derivatives/simple/p0183/thumbnail.jpg,/img/derivatives/simple/p0183/full.jpg
+,p0184,back cover,,/img/derivatives/simple/p0184/thumbnail.jpg,/img/derivatives/simple/p0184/full.jpg
