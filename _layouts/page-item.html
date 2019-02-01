@@ -48,11 +48,4 @@ layout: poem-page
   </span>
 </div>
 
-{% if page.img %}
-  {% assign img = page.img | replace: '.jpg', '' %}
-  <a target='_blank' href="{{ '/img/derivatives/simple' | absolute_url }}/{{ img }}/full.jpg">
-    <img src="{{ '/img/derivatives/simple' | absolute_url }}/{{ img }}/full.jpg" />
-  </a>
-{% endif %}
-
 {{ content }}
