@@ -2,7 +2,7 @@
 layout: poem
 title: "Indigenous Presence"
 editor: Kimberly Takahata
-permalink: /excerpts/indigneous-presence.html
+permalink: /excerpts/indigenous-presence.html
 ---
 
 ## Indigenous Presence
