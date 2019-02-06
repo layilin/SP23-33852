@@ -1317,7 +1317,7 @@ BOOK I.
 - That chief the Planter, if he wealth desire,  
 - Should note the phases of the fickle moon. [470]  
 - On thee, sweet empress of the night, depend  
-- The tides; stern Neptune[^f33n2] pays his court to thee;  
+- The tides; stern Neptune[^f33n1] pays his court to thee;  
 - The winds, obedient at thy bidding shift,  
 - And tempests rise or fall; even lordly man,  
 - Thine energy controls.——Not so the Cane; [475]  
