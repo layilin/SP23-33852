@@ -417,7 +417,7 @@ BOOK I.
 
 [^f8n1]: The shaddock and forbidden fruit are two kinds of citrus. The shaddock (*Citrus maxima*) is also known as the pomelo or pummelo. It is native to Southeast Asia and was known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock. The forbidden fruit refers to species of citrus that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit (Higman 180).
 
-[^f8n2]: Acajou refers to the cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women in the eighteenth-century Caribbean as a chemical peel to remove freckles (Riddell 82-83; also see Grainger's note in Book IV, p. 132). Sabbaca refers to avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. Avocado was an important part of the diets of the enslaved who had access to it: they harvested it from woodlands, versus growing it in provision grounds or gardens (Higman 158-160).
+[^f8n2]: Acajou refers to the cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women in the eighteenth-century Caribbean as a chemical peel to remove freckles (Riddell 82-83; also see Grainger's note in Book IV, p. 131-132). Sabbaca refers to avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. Avocado was an important part of the diets of the enslaved who had access to it: they harvested it from woodlands, versus growing it in provision grounds or gardens (Higman 158-160).
 
 [^f8n3]: Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).
 
@@ -5286,7 +5286,7 @@ BOOK IV.
 
 > VER. 459. *potatos*\] I cannot positively say, whether these vines are of Indian original or not; but as in their fructification, they differ from potatos at home, they probably are not European. They are sweet. There are four kinds, the red, the white, the long, and round: The juice of each may be made into a pleasant cool drink; and, being distilled, yield an excellent spirit.[^f149n7]
 
-> VER. 461. *eddas*\] See notes on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
+> VER. 461. *eddas*\] See <a href="{{site.baseurl}}//texts/full-text.html#fnref:f41n2">notes</a> on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
 
 > VER. 462. *Indian cale*\] This green, which is a native of the New World, equals any of the greens in the Old.
 
