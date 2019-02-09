@@ -38,7 +38,7 @@ permalink: "/paginated/sc-page150.html"
 
 > VER. 466. *the shapely tree*\] The orange tree.
 
-> VER. 478. *thy mother nam'd*\] See Book I p. 43.
+> VER. 478. *thy mother nam'd*\] See Book I p. <a href= "{{site.baseurl}}//paginated/sc-page043.html" target="blank">43</a>.
 
 
 [^f150n1]: Another name for cacao. 
