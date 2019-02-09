@@ -32,7 +32,7 @@ permalink: "/paginated/sc-page138.html"
 > VER. 268. *niccars*] The botanical name of this medicinal shrub is *Guilandina*. The fruit resembles marbles, though not so round. Their shell is hard and smooth, and contains a farinaceous[^f138n6] nut, of admirable use in seminal weaknesses. They are also given to throw out the yaws. 
 
 
-[^f138n1]: *Dracunculus medinensis* (see note to line 246).  
+[^f138n1]: *Dracunculus medinensis* (see <a href= "{{site.baseurl}}//paginated/sc-page137.html" target="blank">note</a> to line 246).  
 
 [^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
 
