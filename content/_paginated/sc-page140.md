@@ -36,7 +36,7 @@ permalink: "/paginated/sc-page140.html"
 - Sheath'd in Melasses, from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
-> VER. 309. *Cow-itch*] See notes in Book II.
+> VER. 309. *Cow-itch*] See <a href="{{site.baseurl}}//paginated/sc-page060.html" target="blank">notes</a> in Book II.
 
 [^f140n1]: In Greek mythology, Proteus, an old man and shepherd on the island of Pharos near Egypt, was able to shape-shift. The worms' ability to cause multiple maladies and symptoms is equated to Proteus's shape-shifting abilities.
 
