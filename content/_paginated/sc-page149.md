@@ -27,7 +27,7 @@ permalink: "/paginated/sc-page149.html"
 
 > VER. 459. *potatos*\] I cannot positively say, whether these vines are of Indian original or not; but as in their fructification, they differ from potatos at home, they probably are not European. They are sweet. There are four kinds, the red, the white, the long, and round: The juice of each may be made into a pleasant cool drink; and, being distilled, yield an excellent spirit.[^f149n7]
 
-> VER. 461. *eddas*\] See notes on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
+> VER. 461. *eddas*\] See <a href= "{{site.baseurl}}//paginated/sc-page041.html" target="blank">notes</a> on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
 
 > VER. 462. *Indian cale*\] This green, which is a native of the New World, equals any of the greens in the Old.
 
