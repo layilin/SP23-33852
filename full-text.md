@@ -1570,7 +1570,7 @@ BOOK I.
 - To dare the noontide fervor, in this clime,  
 - Ah, most intensely hot; how much he longs  
 
-> VER. 559. *contagious blast.*\] So a particular species of blight is called in the West-Indies. See its description in the second book.
+> VER. 559. *contagious blast.*\] So a particular species of blight is called in the West-Indies. See its <a href= "{{site.baseurl}}//texts/full-text.html#fnref:f65n5">description</a> in the second book.
 
 [^f39n1]: Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).
 
