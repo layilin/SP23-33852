@@ -34,7 +34,7 @@ permalink: "/paginated/sc-page152.html"
 
 > *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart.[^f152n3] The botanical name is *Achras*.
 
-> VER. 509. *tamarind*\] See Book I. p. 44.
+> VER. 509. *tamarind*\] See Book I. p. <a href= "{{site.baseurl}}//paginated/sc-page044.html" target="blank">44</a>.
 
 > VER. 513. *cassia*,\] Both this tree and its mild purgative pulp are sufficiently known.
 

@@ -417,7 +417,7 @@ BOOK I.
 
 [^f8n1]: The shaddock and forbidden fruit are two kinds of citrus. The shaddock (*Citrus maxima*) is also known as the pomelo or pummelo. It is native to Southeast Asia and was known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock. The forbidden fruit refers to species of citrus that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit (Higman 180).
 
-[^f8n2]: Acajou refers to the cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women in the eighteenth-century Caribbean as a chemical peel to remove freckles (Riddell 82-83; also see Grainger's note in Book IV, p. 132). Sabbaca refers to avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. Avocado was an important part of the diets of the enslaved who had access to it: they harvested it from woodlands, versus growing it in provision grounds or gardens (Higman 158-160).
+[^f8n2]: Acajou refers to the cashew or cashewnut tree (*Anacardium occidentale*). Its native range is Trinidad to tropical South America. The fruit is caustic and was supposedly used by women in the eighteenth-century Caribbean as a chemical peel to remove freckles (Riddell 82-83; also see Grainger's <a href= "{{site.baseurl}}//texts/full-text.html#fnref:f131n4" target="blank">note</a> in Book IV, p. 131-132). Sabbaca refers to avocado (*Persea americana*), which probably originated in Central America. It then spread to the Caribbean in the aftermath of the Spanish conquest of Mexico. Avocado was an important part of the diets of the enslaved who had access to it: they harvested it from woodlands, versus growing it in provision grounds or gardens (Higman 158-160).
 
 [^f8n3]: Antonio de Ulloa y de la Torre-Giral (1716-1795) was a colonel and naval officer of the Spanish navy, as well as an explorer and scientist. He participated in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, Ulloa co-authored with Jorge Juan the *Relación histórica del viage a la América meridional* (1748).
 
@@ -1570,7 +1570,7 @@ BOOK I.
 - To dare the noontide fervor, in this clime,  
 - Ah, most intensely hot; how much he longs  
 
-> VER. 559. *contagious blast.*\] So a particular species of blight is called in the West-Indies. See its description in the second book.
+> VER. 559. *contagious blast.*\] So a particular species of blight is called in the West-Indies. See its <a href= "{{site.baseurl}}//texts/full-text.html#fnref:f65n5" target="blank">description</a> in the second book.
 
 [^f39n1]: Gilmore identifies the blast as the disease that also has been called the black blight. It results from an infestation by the West Indian cane fly (*Saccharosydne saccharivora*).
 
@@ -4049,7 +4049,7 @@ BOOK III.
 
 [^f114n4]: State or habit of being intoxicated, drunk.
 
-[^f114n5]: In this line, Grainger lists literary figures he knew from his time in London. Johnson is Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see our note for lines 74-77 in Book IV (the lines that Johnson objected to). Percy is the already mentioned Bishop Thomas Percy, Grainger's frequent correspondent. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811 (Anderson 9.59, 9.67-68, 9.269).   
+[^f114n5]: In this line, Grainger lists literary figures he knew from his time in London. Johnson is Samuel Johnson (1709-1784), one of the most important English writers of the eighteenth century. His works include a *Dictionary* (1755) of the English language, *Rasselas* (1759), *A Journey to the Western Isles of Scotland* (1775), and *The Lives of the Poets* (1779-1781). Johnson also was a prolific essayist, publishing a series of 208 essays entitled *The Rambler* (1750-1752). Johnson reviewed *The Sugar-Cane* in the *London Chronicle* (Jul 1764) and the *Critical Review* (Oct 1764). What Johnson actually thought of Grainger's poem is unclear. While both of his published reviews of the poem are largely positive, the later one in the *Critical Review* contains a rebuke of Grainger's depiction of the slave trade. For Johnson's rebuke, see our <a href= "{{site.baseurl}}//texts/full-text.html#fn:f129n1" target="blank">note</a> for lines 74-77 in Book IV (the lines that Johnson objected to). Percy is the already mentioned Bishop Thomas Percy, Grainger's frequent correspondent. The identity of White was confusing to eighteenth-century readers. In a letter dated 9 May 1801, written to Percy by his friend Robert Anderson, the latter states that "[s]everal passages [in Grainger's poem] want illustration, which probably you can give," and he then asks, "Who is 'White'?" In his reply, Percy clarifies, "White, was Mr. James White a native of Edinburgh, who resided in London and taught the learned Languages viz. Latin and Greek to Grown Gentlemen whose Education had been neglected." Percy adds that White authored a translation of Aristophanes' *The Clouds* (1759) and a grammatical text entitled *The English Verb* (1761). White died circa 1811 (Anderson 9.59, 9.67-68, 9.269).   
 
 [^f114n6]: Charlotte Lennox (1730/1731?-1804), British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). A close friend of Samuel Johnson.
 
@@ -4110,7 +4110,7 @@ BOOK III.
 - That town, embowered in the different shade
 - Of tamarinds, panspans, and papaws,[^f116n1] o'er which
 
-> VER. 549. *panspans*\] See the notes on Book II.
+> VER. 549. *panspans*\] See the <a href="{{site.baseurl}}//texts/full-text.html#fnref:f66n3" target="blank">notes</a> on Book II.
 
 > VER. 549. *papaws*\] This singular tree, whose fruits surround its summit immediately under the branches and leaves, like a necklace; grows quicker than almost any other in the West Indies. The wood is of no use, being spungy, hollow, and herbacious; however, the blossoms and fruit make excellent sweet-meats;[^f116n2] but above all, the juice of the fruit being rubbed upon a spit, will intenerate[^f116n3] new killed fowls, *&c*. a circumstance of great consequence in a climate, where the warmth soon renders whatever meats are attempted to be made tender by keeping, unfit for culinary purposes. Nor, will it only intenerate fresh meat; but, being boiled with salted beef, will render it easily digestible. Its milky juice is sometimes used to cure ringworms.[^f116n4] It
 
@@ -4905,7 +4905,7 @@ BOOK IV.
 
 > VER. 268. *niccars*] The botanical name of this medicinal shrub is *Guilandina*. The fruit resembles marbles, though not so round. Their shell is hard and smooth, and contains a farinaceous[^f138n6] nut, of admirable use in seminal weaknesses. They are also given to throw out the yaws.
 
-[^f138n1]: *Dracunculus medinensis* (see note to line 246).  
+[^f138n1]: *Dracunculus medinensis* (see <a href="{{site.baseurl}}//texts/full-text.html#fn:f137n4" target="blank">note</a> to line 246).  
 
 [^f138n2]: Chigres, chiggers, or chegoes (*Tunga penetrans*), a flea indigenous to Central and South America. This parasitic insect embeds itself and lays its eggs in the flesh of human hosts. Like the Guinea worm, chegoes were both horrifying and fascinating to European observers, who described them in detail. One such description occurs in Richard Ligon's *A True and Exact History of the Island of Barbados* (1657), where an enslaved indigenous woman named Yarico is praised for her skill in removing chegoes. This same Yarico became an important literary figure in the eighteenth century via the story of Inkle and Yarico, which was first told by Ligon himself and then retold as a sentimental tale in Richard Steele and Joseph Addison's *The Spectator* (No. 11, 13 March 1711).  
 
@@ -4982,7 +4982,7 @@ BOOK IV.
 - Sheath'd in Melasses, from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
-> VER. 309. *Cow-itch*] See notes in Book II.
+> VER. 309. *Cow-itch*] See <a href="{{site.baseurl}}//texts/full-text.html#fnref:f60n5" target="blank">notes</a> in Book II.
 
 [^f140n1]: In Greek mythology, Proteus, an old man and shepherd on the island of Pharos near Egypt, was able to shape-shift. The worms' ability to cause multiple maladies and symptoms is equated to Proteus's shape-shifting abilities.
 
@@ -5286,7 +5286,7 @@ BOOK IV.
 
 > VER. 459. *potatos*\] I cannot positively say, whether these vines are of Indian original or not; but as in their fructification, they differ from potatos at home, they probably are not European. They are sweet. There are four kinds, the red, the white, the long, and round: The juice of each may be made into a pleasant cool drink; and, being distilled, yield an excellent spirit.[^f149n7]
 
-> VER. 461. *eddas*\] See notes on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
+> VER. 461. *eddas*\] See <a href="{{site.baseurl}}//texts/full-text.html#fnref:f41n2" target="blank">notes</a> on Book I. The French call this plant *Tayove*. It produces eatable roots every four months, for one year only.
 
 > VER. 462. *Indian cale*\] This green, which is a native of the New World, equals any of the greens in the Old.
 
@@ -5342,7 +5342,7 @@ BOOK IV.
 
 > VER. 466. *the shapely tree*\] The orange tree.
 
-> VER. 478. *thy mother nam'd*\] See Book I p. 43.
+> VER. 478. *thy mother nam'd*\] See Book I p. <a href= "{{site.baseurl}}//texts/full-text.html#fnref:f43n1" target="blank">43</a>.
 
 
 [^f150n1]: Another name for cacao.
@@ -5429,7 +5429,7 @@ BOOK IV.
 
 > *&c.* is truly exquisite. This tree, contrary to most others in the New World, shoots up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but once a year. The name is Indian. The English commonly call it *Mammey-sapota*. There are two species of it, the sweet, and the tart.[^f152n3] The botanical name is *Achras*.
 
-> VER. 509. *tamarind*\] See Book I. p. 44.
+> VER. 509. *tamarind*\] See Book I. p. <a href= "{{site.baseurl}}//texts/full-text.html#fnref:f44n4" target="blank">44</a>.
 
 > VER. 513. *cassia*,\] Both this tree and its mild purgative pulp are sufficiently known.
 

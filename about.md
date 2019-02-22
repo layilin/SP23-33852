@@ -95,9 +95,9 @@ Without the generosity and expertise of those involved in digital scholarship at
 
 We also want to acknowledge the work of creators of similar digital projects on the Caribbean that provided us with models and inspiration. These include the following:
 
-> <a href="http://omekasites.northeastern.edu/ECDA/" target="blank">Early Caribbean Digital Archive</a>    
+> <a href="https://ecda.northeastern.edu/" target="blank">Early Caribbean Digital Archive</a>    
 > <a href="http://www.dloc.com/" target="blank">Digital Library of the Caribbean</a>  
-> <a href="http://www.musicalpassage.org/#home" target="blank">Musical Passage</a>  
+> <a href="http://www.musicalpassage.org/" target="blank">Musical Passage</a>  
 > <a href="http://revolt.axismaps.com/project.html" target="blank">Slave Revolt in Jamaica, 1760-1761</a>  
 > <a href="http://twoplantations.com/" target="blank">Two Plantations</a>  
 {:.indented}
