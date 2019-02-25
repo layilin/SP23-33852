@@ -75,6 +75,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Foy, Anna M. “Grainger and the ‘Sordid Master’: Plantocratic Alliance in The Sugar-Cane and Its Manuscript.” <i>The Review of English Studies</i>, vol. 68, no. 286, Sept. 2017, pp. 708–33. <i>academic.oup.com</i>, doi:<a href="https://doi.org/10.1093/res/hgx001">10.1093/res/hgx001</a>.</div>
   <div class="csl-entry">---. “The Convention of Georgic Circumlocution and the Proper Use of Human Dung in Samuel Martin’s Essay upon Plantership.” <i>Eighteenth-Century Studies</i>, vol. 49, no. 4, 2016, pp. 475–506.</div>
   <div class="csl-entry">Galindo-Tovar, María Elena, et al. “The Avocado (Persea Americana, Lauraceae) Crop in Mesoamerica: 10,000 Years of History.” <i>Harvard Papers in Botany</i>, vol. 12, no. 2, 2007, pp. 325–34.</div>
+  <div class="csl-entry"> Gilmore, John. <i>Poetics of Empire: A Study of James Grainger's The Sugar Cane</i>. Athlone Press, 2000.</div>
   <div class="csl-entry">Hall, Douglas. <i>In Miserable Slavery: Thomas Thistlewood in Jamaica, 1750-86</i>. Macmillan, 1989.</div>
   <div class="csl-entry">Handler, Jerome S., and Charlotte J. Frisbie. “Aspects of Slave Life in Barbados: Music and Its Cultural Context.” <i>Caribbean Studies</i>, vol. 11, no. 4, 1972, pp. 5–46.</div>
   <div class="csl-entry">Hanley, Brian. <i>Samuel Johnson as Book Reviewer: A Duty to Examine the Labors of the Learned</i>. University of Delaware Press and Associated University Presses, 2001.</div>
