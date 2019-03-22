@@ -194,7 +194,7 @@ Insects of the Caribbean
 [67]({{site.baseurl}}/images/p0081.jpg)
 
 - As the waves, countless, that plough up the deep, [230]
-- (Where Eurus{^f67n1] reigns vicegerent[^f67n2] of the sky,
+- (Where Eurus[^f67n1] reigns vicegerent[^f67n2] of the sky,
 - Whom Rhea[^f67n3] bore to the bright God of day)
 - When furious Auster[^f67n4] dire commotions stirs: ...
 
