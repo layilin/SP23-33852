@@ -32,12 +32,14 @@ Insects of the Caribbean
 
 - \"O WERE my pipe as soft, my dittied song\"[^f54n2]  
 - As smooth as thine, my too too distant friend, [30]  
-- SHENSTONE; my soft pipe, and my dittied song  
+- SHENSTONE;[^f54n3] my soft pipe, and my dittied song  
 - Should hush the hurricanes tremendous roar,  
 - And from each evil guard the ripening Cane!...
 
 
-[^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86).  
+[^f54n2]: Gilmore identifies this quotation as an adaptation from Milton's *Comus* (l.86). 
+
+[^f54n3]: William Shenstone (1714-1763), English poet and famed innovator of landscape gardening, which he practiced on his estate, The Leasowes. Grainger enclosed a draft of *The Sugar-Cane* in a 5 June 1762 letter to his friend Bishop Thomas Percy, asking him and Shenstone to read and comment on it. He added that "The second book you will see is addressed to our friend at the Leasowes; and I must tell you it is my favourite of the whole" (Nichols 279).  
 
 ---
 
@@ -64,7 +66,7 @@ Insects of the Caribbean
 - And well with arms provide them; faithful dogs, [50]  
 - Of nose sagacious, on their footsteps wait...  
 
-> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher, were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*,[^f55n7] who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
+> VER. 46. *peculiar pest*\] The monkeys which are now so numerous in the mountainous parts of St. Christopher,[^f55n7] were brought thither by the French when they possessed half that island. This circumstance we learn from *Pere Labat*,[^f55n8] who farther tells us, that they are a most delicate food. The English-Negroes are very fond of them, but the White-inhabitants do not eat them. They do a great deal of mischief in St. Kitts, destroying many thousand pounds *Sterling*'s worth of Canes every year.
 
 [^f55n1]: Monkeys are not indigenous to St. Kitts, but the vervet or African green monkey (*Cercopithecus aethiops*) had been introduced by the seventeenth century. Vervets most likely arrived in the Caribbean via slave ships from Africa. They quickly came to be considered pests because they established themselves in large numbers on the island and traveled around it in troops, raiding colonists' crops. Today, the St. Kitts vervet population exceeds the human one, and vervets are still known for destroying farmers' crops (and stealing tourists' cocktails). Controversially, many of the vervets are now killed or trapped to serve in medical experiments.  
 
@@ -78,7 +80,9 @@ Insects of the Caribbean
 
 [^f55n6]: Indigenous name for St. Kitts.  
 
-[^f55n7]: Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Libertated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).  
+[^f55n7]: The island of St. Christopher was known as Liamuiga by the indigenous Caribs who lived there. Columbus claimed it on behalf of Spain in 1493, and it was partitioned between the French and the English in the early seventeenth century, at which time it was primarily a tobacco colony. While the two countries exchanged control of the island several times during the seventeenth and eighteenth centuries, it was firmly under British control when Grainger left England in 1759 during the Seven Years' War (1756-1763). Grainger uses "St. Christopher," "Liamuiga," and "St. Kitts" interchangeably in the poem, but we have chosen to use "St. Kitts" on this site. St. Kitts has been part of the nation of St. Kitts and Nevis (also known as the Federation of St. Christopher and Nevis) since it gained independence from Great Britain in 1983.
+
+[^f55n8]: Jean Baptiste Labat (1663-1738), French missionary of the Dominican order who served as a priest and procurator in Martinique and Guadaloupe. Libertated the island of Martinique from British control in 1703. Later, a professor of philosophy and mathematics in Nancy, France, and author of the *Nouveau voyage aux isles de l'Amerique* (1722).  
 
 ---
 
@@ -190,15 +194,17 @@ Insects of the Caribbean
 [67]({{site.baseurl}}/images/p0081.jpg)
 
 - As the waves, countless, that plough up the deep, [230]
-- (Where Eurus reigns vicegerent[^f67n1] of the sky,
-- Whom Rhea[^f67n2] bore to the bright God of day)
-- When furious Auster[^f67n3] dire commotions stirs: ...
+- (Where Eurus{^f67n1] reigns vicegerent[^f67n2] of the sky,
+- Whom Rhea[^f67n3] bore to the bright God of day)
+- When furious Auster[^f67n4] dire commotions stirs: ...
 
-[^f67n1]: A person appointed by a king or other ruler to act in his place.
+[^f67n1]: In Greek mythology, the east wind. 
 
-[^f67n2]: Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.
+[^f67n2]: A person appointed by a king or other ruler to act in his place.
 
-[^f67n3]: Latin name for the south wind.
+[^f67n3]: Titan goddess who was the daughter of Gaia and the wife of her brother Kronos. The mother of the second generation of Greek gods, including Zeus, Hera, Demeter, Hades, Hestia, and Poseidon.
+
+[^f67n4]: Latin name for the south wind.
 
 ---
 
