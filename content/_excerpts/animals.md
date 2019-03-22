@@ -182,6 +182,8 @@ Insects of the Caribbean
 
 [^f66n4]: Ant colonies were often represented as model republics in early modern and eighteenth-century accounts because of their ability to work together for the collective good. For example, in his *True and Exact History of the Island of Barbados* (1657), Richard Ligon observed that he once put a pot filled with sugar in the middle of a larger dish of water to see whether the ants would be able to find and retrieve the sugar. As he reported, the ants began venturing into the water even though they could not swim, so that their dead bodies could form a bridge for the others to use to access the sugar. The ants thereby "neglect[ed] their lives for the good of the publique" (64).
 
+[^f66n5]: According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas.
+
 ---
 
 
