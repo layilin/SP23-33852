@@ -1,0 +1,51 @@
+---
+layout: poem-page
+---
+
+{% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
+{% for link in links %}
+  {% if link == page.url %}
+    {% if forloop.first %}
+      {% assign prevlink = links | last %}
+      {% assign nextlink = links[forloop.index] %}
+    {% elsif forloop.last %}
+      {% assign prevlink = prev %}
+      {% assign nextlink = links | first %}
+    {% else %}
+      {% assign prevlink = prev %}
+      {% assign nextlink = links[forloop.index] %}
+    {% endif %}
+  {% endif %}
+  {% assign prev = link %}
+{% endfor %}
+
+<style>
+  #jump-to {
+      float: right;
+      text-align: right;
+  }
+  .pagination {
+    margin-bottom: 30px;
+  }
+</style>
+
+<div class='pagination'>
+  <span id='prevnext'>
+    <a href='{{ prevlink | absolute_url }}'>Previous</a> |
+    <a href='{{ nextlink | absolute_url }}'>Next</a>
+  </span>
+
+  <span id='jump-to'>
+    Jump to page&nbsp;&nbsp;
+    <select onchange="location = this.value;">
+      {% assign pages = site.paginated | sort: 'order' %}
+      {% for item in pages %}
+      <option value='{{ item.permalink | absolute_url }}' class='hidden'>
+        {{ item.title }}
+      </option>
+      {% endfor %}
+    </select>
+  </span>
+</div>
+
+{{ content }}

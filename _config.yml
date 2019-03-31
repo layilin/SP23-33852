@@ -11,15 +11,18 @@ encoding: utf-8
 # Markdown specs
 markdown: kramdown
 
+collections_dir: content
 collections:
-  texts:
-    output: true
   excerpts:
     output: true
   paginated:
     output: true
-  info:
-    output: true
+    layout: 'page-item'
+    keep_order: true
+    metadata:
+      source: 'sugarcane.csv'
+    images:
+      source: 'raw_images/sugarcane'
 
 kramdown:
   auto_ids:       true
@@ -34,7 +37,7 @@ kramdown:
 title:               Digital Grainger
 tagline:             "An Online Edition of *The Sugar-Cane* (1764)"
 description:         'Digital Grainger includes'
-url:                 https://github.com/minicomp/ed
+url:                 ''
 baseurl:             '/grainger'
 
 # About/contact
@@ -47,7 +50,7 @@ author:
 version:             0.0.5
 
 # Exclude optional folder
-exclude: [optional, RAKEFILE]
+exclude: [optional, README*, Gemfile*, Rakefile]
 
 # Gems
 plugins: ['jekyll/scholar']
@@ -79,3 +82,14 @@ scholar:
 
   query: "@*"
 
+
+lunr_index:
+  - file: 'js/lunr-index.json'
+    ui: 'js/lunr-ui.js'
+    collections:
+      excerpts:
+        content: true
+        fields: ['title']
+      paginated:
+        content: true
+        fields: ['title']

@@ -2,6 +2,7 @@
 layout: page
 title: "Glossary"
 creator: Kimberly Takahata
+permalink: glossary.html
 toc:
 - Historical Individuals
 - Places
@@ -11,7 +12,7 @@ toc:
 
 # Glossary  
 
-This glossary contains definitions of key historical individuals, places, and plants mentioned in *The Sugar-Cane*. We include much of the same information in our footnotes to the poem, but it may be useful for the reader to see Grainger's reference points grouped together in this way. Grainger mentioned a wide range of peoples, places, and plants, and he also mentioned many mythological or fictional characters and locations. We did not include the latter in our lists, although it would be an interesting project to compare mythological and fictional references to historical ones. It also would be interesting to think about what kinds of individuals, places, and plants get mentioned: Are there patterns in what Grainger references in the poem? What is left out of his references? 
+This glossary contains definitions of key historical individuals, places, and plants mentioned in *The Sugar-Cane*. We include much of the same information in our footnotes to the poem, but it may be useful for the reader to see Grainger's reference points grouped together in this way. Grainger mentioned a wide range of peoples, places, and plants, and he also mentioned many mythological or fictional characters and locations. We did not include the latter in our lists, although it would be an interesting project to compare mythological and fictional references to historical ones. It also would be interesting to think about what kinds of individuals, places, and plants get mentioned: Are there patterns in what Grainger references in the poem? What is left out of his references?
 
 ---
 ## Historical Individuals  
@@ -34,9 +35,9 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Chaucer, Geoffrey (1340-1400). The author of *The Canterbury Tales*. Gilmore notes that Chaucer uses sugar twice in *The Canterbury Tales* and again in *Troilus and Criseyde*.
 
-- Codrington, Christopher (1668-1710). A member of the wealthy Codrington family, which owned sugar plantations in Antigua and Barbados and leased land in Barbuda. Born in Barbados, Codrington served as deputy-governor of Barbados and governor-general of the Leeward Islands. At his death in 1710, he bequeathed his Barbados plantations and a share of the island of Barbuda to the Society for the Propagation of the Gospel in Foreign Parts (SPG), an Anglican missionary organization that aimed to convert colonial inhabitants, including enslaved and free Africans, to Christianity. In 1745, the SPG opened Codrington College, which initially served only white colonists. 
+- Codrington, Christopher (1668-1710). A member of the wealthy Codrington family, which owned sugar plantations in Antigua and Barbados and leased land in Barbuda. Born in Barbados, Codrington served as deputy-governor of Barbados and governor-general of the Leeward Islands. At his death in 1710, he bequeathed his Barbados plantations and a share of the island of Barbuda to the Society for the Propagation of the Gospel in Foreign Parts (SPG), an Anglican missionary organization that aimed to convert colonial inhabitants, including enslaved and free Africans, to Christianity. In 1745, the SPG opened Codrington College, which initially served only white colonists.
 
-- Columbus, Christopher (1451-1506). Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime. 
+- Columbus, Christopher (1451-1506). Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime.
 
 - Cromwell, Oliver (1599-1658). Lord protector of England, Scotland, and Ireland (1653-1658). One of the leaders of the English Civil War and a signatory to Charles I's death warrant. In 1655, he launched what was known as the Western Design with the intention of dislodging Spanish power in the Caribbean and establishing an English presence there. English forces first tried to conquer Hispaniola and failed, but they did succeed in expelling the Spanish from Jamaica in 1655. Cromwell died in 1658, and his remains were exhumed in 1661, at which time he was posthumously "executed."  
 
@@ -52,13 +53,13 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Earl of Carlisle (c. 1580-1636). James Hay, the first earl of Carlisle, a Scottish courtier and diplomat who came to the English court with James I. In 1627, he obtained a grant from Charles I for all of the Caribbean islands ranging from Barbados to St. Kitts.  
 
-- Earl of Marlborough (1550–1629). James Ley, the first earl of Marlborough, an English judge, politician, and rival to the earl of Carlisle for the English Caribbean islands. 
+- Earl of Marlborough (1550–1629). James Ley, the first earl of Marlborough, an English judge, politician, and rival to the earl of Carlisle for the English Caribbean islands.
 
 - Edwards, George (1694-1773). English artist, ornithologist, and author of *A Natural History of Uncommon Birds* (1743-1751).  
 
 - Ferdinand the Catholic (1452-1516). King Ferdinand V of Castile and León and II of Aragon was the husband of Queen Isabella of Castille and, with Isabella, the patron of Columbus' 1492 voyage.  
 
-- Gallic Lewis (1638-1715). Louis XIV, king of France from 1643-1715. 
+- Gallic Lewis (1638-1715). Louis XIV, king of France from 1643-1715.
 
 - George III (1738-1820). King of Britain from 1760 to 1820.
 
@@ -74,15 +75,15 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - K. William (1650-1702). William III, king of England, Scotland, and Ireland and prince of Orange. With his wife, Mary II of England, he ascended to the throne after the abdication of James II at the end of the Glorious Revolution (1688-1689).  
 
-- King James (1633-1701). James II of England and Ireland and James VII of Scotland, the son of Charles I. James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution. 
+- King James (1633-1701). James II of England and Ireland and James VII of Scotland, the son of Charles I. James II became king of England after the death of his brother, Charles II. He was the last Roman Catholic king of England and abdicated in 1688 during the Glorious Revolution.
 
 - Labat, Jean Baptiste (1663-1738). A French missionary of the Dominican order, Labat served as a priest and procurator in Martinique and Guadaloupe. He liberated the island of Martinique from British control in 1703. Later, he served as a professor of philosophy and mathematics in Nancy, France, and authored the *Nouveau voyage aux isles de l'Amerique* (1722).
 
-- Lennox, Charlotte (1730/1731?-1804). British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752). 
+- Lennox, Charlotte (1730/1731?-1804). British writer best known for the novel *The Female Quixote, or, The Adventures of Arabella* (1752).
 
 - Lewis, William (bap. 1708-d. 1781). English physician and experimental chemist. Author of *Chemical Works of Caspar Neumann, M.D.* (1759).
 
-- Linnaeus (1707-1778). Carolus Linnaeus or Carl von Linné, a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature. 
+- Linnaeus (1707-1778). Carolus Linnaeus or Carl von Linné, a Swedish naturalist who laid the foundations for modern taxonomy or the systematic classification of living organisms. He also established a system for naming organisms known as binomial nomenclature.
 
 - Lucan (39-65 CE). Marcus Annaeus Lucanus, the nephew of Seneca the younger and the author of the epic poem *De Bello Civili* (*On the Civil War*, also known as the *Pharsalia*).  
 
@@ -92,7 +93,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Martinus (1572-1630). According to Gilmore, Matthias Martinius authored the *Lexicon Philologicum* (1623).  
 
-- Mathew, Daniel (1718-1777). Cousin of Grainger's wife; owned an estate in Saint Mary's parish on the eastern shore of St. Kitts. 
+- Mathew, Daniel (1718-1777). Cousin of Grainger's wife; owned an estate in Saint Mary's parish on the eastern shore of St. Kitts.
 
 - Maupertuis (1698-1759). Pierre-Louis Moreau de Maupertuis, a French mathematician, biologist, and astronomer who led an expedition to northern Finland to measure the length of a degree along the meridian.
 
@@ -108,9 +109,9 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Ogilvy (1600-1676). John Ogilby, Scottish publisher and geographer. He authored *America: being the latest, and most accurate description of the New World* (1671).  
 
-- Palladio, Andrea (1508-1580). Italian architect. 
+- Palladio, Andrea (1508-1580). Italian architect.
 
-- Pasqua (fl. 1651-1656). Pasqua Rosée was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England. 
+- Pasqua (fl. 1651-1656). Pasqua Rosée was born in Sicily and relocated from Smyrna (now a city in Turkey) to London in 1651. He opened the first coffeehouse in London and was instrumental in popularizing coffee in England.
 
 - Percy, Thomas (1729-1811). Bishop Thomas Percy was an English cleric, writer, and translator. Grainger's friend and frequent correspondent, he was best known for the *Reliques of Ancient English Poetry* (1765), published by James and Richard Dodsley, who also published *The Sugar-Cane*.  
 
@@ -201,11 +202,11 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Ausonia. Southern Italy.
 
-- Avon. Grainger refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process. 
+- Avon. Grainger refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process.
 
 - Azores. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Canary, Cape Verde, and Madeiras islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
-- Barbados. An island first settled by the English in 1627; one of the Lesser Antilles. It gained independence from the United Kingdom in 1966. 
+- Barbados. An island first settled by the English in 1627; one of the Lesser Antilles. It gained independence from the United Kingdom in 1966.
 
 - Barbary-coast. The Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.
 
@@ -215,13 +216,13 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Belgian fens. High Fens, a highland plateau in the eastern Belgian province of Liege. The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
-- Bermuda. An island colonized by the English in the early seventeenth century; now an overseas territory of Britain in the north Atlantic. 
+- Bermuda. An island colonized by the English in the early seventeenth century; now an overseas territory of Britain in the north Atlantic.
 
 - Biscay. An inlet of the Atlantic Ocean to the west of France and the north of Spain; affected by strong currents and storms.  
 
-- Body-ponds. A watershed in Antigua. 
+- Body-ponds. A watershed in Antigua.
 
-- Bristol. City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there. 
+- Bristol. City located in the southwest of England. Also one of England's most important sugar-refining cities in the eighteenth century. Although the initial steps of sugar production happened in the Caribbean, sugar was further refined in Britain before being sold to consumers there.
 
 - Cambria. Latin name for Wales.
 
@@ -239,7 +240,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Congo. Kingdom in southwest Africa north of Angola and near the modern Republic of the Congo and the Democratic Republic of the Congo (DRC).
 
-- Constantinople. Present-day Istanbul. 
+- Constantinople. Present-day Istanbul.
 
 - Cornish mine. Places of tin deposits in Cornwall and the surrounding areas in western Britain.   
 
@@ -249,7 +250,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Dorchestria. According to Gilmore, a Latinized name that refers to the town of Dorchester in the southern English county of Dorset.  
 
-- Drave. River in central Europe that forms the boundary between Croatia and Hungary. 
+- Drave. River in central Europe that forms the boundary between Croatia and Hungary.
 
 - East-Indies. The historical term for the whole of Southeast Asia to the east of and including India.
 
@@ -257,7 +258,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Enna. City and province in central Sicily, and the location of a Sicilian slave revolt (134-132 BCE).  
 
-- Eton. A prestigious English boarding school for boys founded in the fifteenth century. 
+- Eton. A prestigious English boarding school for boys founded in the fifteenth century.
 
 - Gallia. France.
 
@@ -281,7 +282,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Indus. River in southern Asia, rising in the Kailas mountain range in Tibet and flowing through India and Pakistan.  
 
-- Jamaica. The island of Jamaica became an English colony in 1655. It gained its independence from the United Kingdom in 1962. 
+- Jamaica. The island of Jamaica became an English colony in 1655. It gained its independence from the United Kingdom in 1962.
 
 - Karukera. Guadeloupe. In 1759, as part of the Seven Years' War (1756-1763), British forces attacked and forced the surrender of the French colony of Guadeloupe.  
 
@@ -289,17 +290,17 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Leeward Islands. Leeward is a nautical term meaning sheltered from the wind (i.e., downwind). The Leeward Islands include the British and US Virgin Islands, Anguilla, St. Martin, St. Barthélemy, Barbuda, St. Eustatius, Saba, St. Kitts, Nevis, Antigua, Montserrat, Guadeloupe, and Dominica.  
 
-- Levant. Refers to the eastern part of the Mediterranean. 
+- Levant. Refers to the eastern part of the Mediterranean.
 
 - Libya. Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
-- Lincoln. The county town of Lincolnshire in eastern England. 
+- Lincoln. The county town of Lincolnshire in eastern England.
 
-- Lusitania. Now modern Portugal. Lusitania was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes. 
+- Lusitania. Now modern Portugal. Lusitania was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.
 
 - Madeiras. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores and the Canary and Cape Verde Islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
-- Malabar. A region on the southwest coast of India (modern Kerala). 
+- Malabar. A region on the southwest coast of India (modern Kerala).
 
 - Maldivy Islands. The Maldives archipelago, which is in the Indian Ocean. Now the Republic of Maldives.  
 
@@ -313,7 +314,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Minnah. Elmina, a city on modern Ghana's Atlantic coast. It was the first European settlement in West Africa and a major stop on the routes of the Atlantic slave trade.  
 
-- Mocha. A seaport in Yemen at the entrance to the Red Sea. Also a term applied to coffee of high grade that was once exported from Mocha. 
+- Mocha. A seaport in Yemen at the entrance to the Red Sea. Also a term applied to coffee of high grade that was once exported from Mocha.
 
 - Mount Misery. A name used by Europeans for the main volcanic mountain on St. Kitts. It was renamed Mt. Liamuiga when St. Kitts and Nevis became independent.  
 
@@ -349,17 +350,17 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - St. Domingo. Hispaniola.
 
-- St. Domingue. A French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804. 
+- St. Domingue. A French colony, renamed Haiti after a revolution led by enslaved and free people of African descent succeeded in overthrowing colonial rule in 1804.
 
 - St. Jago de la Vega. The capital of Jamaica under Spanish colonial rule and then under English colonial rule until the late nineteenth century, also called Santiago de la Vega (the English renamed it "Spanish Town"). It lies just west of Kingston, the current capital of Jamaica.  
 
 - Tempé. The name of a valley in Thessaly located between Mounts Olympus and Ossa; it also can be used as a general name for a beautiful valley or rural spot.  
 
-- Temple of the Sun. Also known as the Temple of Bel in Palmyra, an ancient city in Syria. 
+- Temple of the Sun. Also known as the Temple of Bel in Palmyra, an ancient city in Syria.
 
 - Thame. The Thames.
 
-- Thames. The longest river in England, which rises in the Costwold Hills of east Gloucestershire and flows across southern England to enter the North Sea at The Nore. The Thames was another major site for sugar refining in the eighteenth century. 
+- Thames. The longest river in England, which rises in the Costwold Hills of east Gloucestershire and flows across southern England to enter the North Sea at The Nore. The Thames was another major site for sugar refining in the eighteenth century.
 
 - Tille. River in Burgundy, a major wine-producing region in France.
 
@@ -386,11 +387,11 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 ## Plants  
 
-- Acajou \(*Anacardium occidentale*\). Another name for the cashew or cashewnut tree. Its native range is Trinidad to tropical South America. 
+- Acajou \(*Anacardium occidentale*\). Another name for the cashew or cashewnut tree. Its native range is Trinidad to tropical South America.
 
-- Acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn. 
+- Acassee. Probably the sweet acacia (*Acacia farnesiana*), also known as the West Indian black-thorn.
 
-- Almond \(*Prunus dulcis*\). A nut primarily native to western Asia. 
+- Almond \(*Prunus dulcis*\). A nut primarily native to western Asia.
 
 - Anana \(*Ananas comosus*\). Pineapple. It originated in Central or South America and was brought by Amerindians to the Caribbean (Higman 188).  
 
@@ -404,11 +405,11 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Balm. The name of various aromatic plants, particularly those of the genera *Melissa* and *Melittis*.  
 
-- Bay-grape \(*Coccoloba uvifera*\). A seaside plant whose native range is Florida to Peru and the Caribbean to northern South America. 
+- Bay-grape \(*Coccoloba uvifera*\). A seaside plant whose native range is Florida to Peru and the Caribbean to northern South America.
 
 - Bearded fig \(*Ficus citrifolia*\). Also known as the wild banyan tree or the wild fig, this fig is the national tree of Barbados, and its native range includes Florida and the tropical Americas.  
 
-- Bell-apple. One of several names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil. 
+- Bell-apple. One of several names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil.
 
 - Bellyach \(*Jatropha gossypiifolia*\). The bellyache bush has a native range that includes Mexico and the tropical Americas.  
 
@@ -434,7 +435,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Cassia. Probably *Cassia fistula*, commonly used as a purgative. It is likely native to India and Sri Lanka.  
 
-- Ceiba \(*Ceiba pentandra*\). Also known as the kapok or silk-cotton tree, the ceiba, whose native range is Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds. 
+- Ceiba \(*Ceiba pentandra*\). Also known as the kapok or silk-cotton tree, the ceiba, whose native range is Mexico and the tropical Americas, can achieve a height of fifty meters. To the Maya, the ceiba was a sacred tree whose roots connected the underworld to the human and upper worlds.
 
 - Cherimoya \(*Annona cherimola*\). A fruit that originated in South America and is perhaps native to Ecuador.  
 
@@ -450,7 +451,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Coffee. A major agricultural commodity in the eighteenth-century Caribbean, made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.
 
-- Cotton. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. 
+- Cotton. Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World.
 
 - Cow-itch \(*Mucuna pruriens*\). Cowitch, a viny plant that produces severe itching after contact with skin; used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
 
@@ -468,13 +469,13 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - English field-pea \(*Pisum sativum*\). Also known as the English pea, garden pea, or green pea. Native to Eurasia.
 
-- Fern-tree. Tree ferns are primitive plants that belong to the order Cyatheales. 
+- Fern-tree. Tree ferns are primitive plants that belong to the order Cyatheales.
 
 - Flower Fence. One of several common names for *Caesalpinia pulcherrima* because it was frequently used as a flowering barrier fence. See entry for "Carnation" above.    
 
 - Forbidden fruit. Refers to species of citrus that are now virtually extinct. It is similar in taste to the orange and the shaddock, and it is closely related to the grapefruit (Higman 180).   
 
-- Ginger \(*Zingiber officinale*\). An herb probably native to India that was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95). 
+- Ginger \(*Zingiber officinale*\). An herb probably native to India that was brought to the Caribbean by the Spanish in the sixteenth century (Higman 95).
 
 - Granadilla \(*Passiflora ligularis*\). Passion fruit. Its native range is Panama to Venezuela and Peru.  
 
@@ -482,11 +483,11 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Guava. A fruit from the small tree *Psidium guajava*, which is probably native to Central and South America but was naturalized throughout the Caribbean by the eighteenth century.  
 
-- Honeysuckle. One of several names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil. 
+- Honeysuckle. One of several names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil.
 
 - Indian cale. The term "Indian cale" can refer to the species *Colocasia esculenta* and *Xanthosoma sagittifolium*.  
 
-- Indian millet. Another name for Guinea corn \(*Sorghum bicolor*\). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231). 
+- Indian millet. Another name for Guinea corn \(*Sorghum bicolor*\). Often planted in the provision grounds of the enslaved and a key source of food, as indicated by an eighteenth-century song sung by the enslaved that declares, "Guinea Corn, I long to see you/Guinea Corn, I long to plant you/Guinea Corn, I long to mould you/Guinea Corn, I long to weed you...Guinea Corn, I long to eat you" (qtd. in Higman 231).
 
 - Indigo (genus *Indigofera*). A major agricultural commodity in the eighteenth-century Caribbean, indigo is found in tropical regions throughout the world. Various species are used in the production of blue dye.
 
@@ -500,7 +501,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Lemon \(*Citrus limon*\). Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus probably carried lemons to the Caribbean, along with other citrus fruits (Higman 175).  
 
-- Lignum vitae. "Wood of life." The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean). It was used to treat a variety of diseases, including syphilis and yaws. 
+- Lignum vitae. "Wood of life." The hard, dense wood of the guaiac tree (*Guaiacum officinale* or *Guaiacum sanctum*, both of which have native ranges that include the Caribbean). It was used to treat a variety of diseases, including syphilis and yaws.
 
 - Lime \(*Citrus aurantifolia*\). Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought limes to the Caribbean (Higman 175).  
 
@@ -514,9 +515,9 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Maize \(*Zea mays*\). Also called corn, great corn, and Indian corn. Its native range is Mexico and Guatemala. Maize was introduced to Africa around 1500. Grainger could also be referring to Guinea corn (*Sorghum bicolor*), an important staple crop first cultivated in Africa thousands of years ago (Higman 222-232).
 
-- Mammee apple \(*Mammea americana*\). A large fruit native to the Caribbean and northern South America. 
+- Mammee apple \(*Mammea americana*\). A large fruit native to the Caribbean and northern South America.
 
-- Mammee sapota \(*Pouteria sapota*\). A sweet fruit whose native range is Mexico and Central America. Not to be confused with the mammee apple. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero. 
+- Mammee sapota \(*Pouteria sapota*\). A sweet fruit whose native range is Mexico and Central America. Not to be confused with the mammee apple. Another fruit commonly confused with both the mammee sapota and the mammee apple is the nasebery (*Manilkara zapota*), also known as the sapodilla or the nispero.
 
 - Mangrove. Mangroves are trees of the genus *Rhizophora*, which contains well over a hundred species, most native to the Old World but some native to the New. Mangroves can thrive in soils of varying levels of salinity and have colonized tropical and subtropical coastlines to form forests and thickets.  
 
@@ -540,7 +541,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Panspan. According to Gilmore, the panspan or hog plum is *Spondias mombin*. Its native range is Mexico to the tropical Americas.  
 
-- Papaw \(*Carica papaya*\). Also pawpaw, better known as the papaya. Its native range is southern Mexico to Venezuela. 
+- Papaw \(*Carica papaya*\). Also pawpaw, better known as the papaya. Its native range is southern Mexico to Venezuela.
 
 - Pine. Pineapple. See "Anana."
 
@@ -550,9 +551,9 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Prickle-weed. Might refer to *Amaranthus spinosus*, a plant sometimes known as prickly callaloo. Its native range is Mexico and the tropical Americas.  
 
-- Prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye. 
+- Prickly pear. Common name for cactus plants of the genus *Opuntia*, which contains over a hundred species that are distributed throughout the Americas. Also known as nopal and commonly consumed by human beings and animals as food. *Opuntia* was of significant interest to eighteenth-century European naturalists because some species served as food plants for the cochineal insect (*Dactylopius coccus*), the source of a highly prized red dye.
 
-- Prickly vine. Night-blooming cereus \(*Selenicereus grandiflorus*\), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua. 
+- Prickly vine. Night-blooming cereus \(*Selenicereus grandiflorus*\), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on "Poetic Botany" created by the New York Botanical Garden (https://www.nybg.org/poetic-botany/selenicereus/). The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua.
 
 - Privet. Refers to any of a number of shrubs belonging to the genus *Ligustrum*. Native to Europe, North Africa, and Asia; commonly used for hedging. Some species are invasive.  
 
@@ -570,13 +571,13 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Sappadilla \(*Manilkara zapota*\). The sapodilla, also known as the nasebery or nispero, is a sour or tart fruit whose native range includes Central America, Mexico, and the Caribbean.
 
-- Sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century. 
+- Sarsaparilla. Refers to various species of the genus *Smilax* native to Central and South America. Spanish conquistadors named it *zarzaparilla* and learned from indigenous peoples to use it as an antisyphilitic. Also used to flavor drinks, including root beer in the nineteenth century.
 
 - Sempre-vive. The genus *Sempervivum* ("always living"), a group of plants native to Europe and parts of Asia.
 
 - Senna. The genus *Senna* contains various plants native to the Old and New World tropics that have laxative effects.  
 
-- Sensitive plant \(*Mimosa pudica*\). The mimosa plant's leaves fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists. 
+- Sensitive plant \(*Mimosa pudica*\). The mimosa plant's leaves fold up when touched. It is native to the tropical Americas and became an object of fascination to European naturalists.
 
 - Shaddoc \(*Citrus maxima*\). The shaddock is a kind of citrus, also known as the pomelo or pummelo. It is native to Southeast Asia and became known as the shaddock in the eighteenth century because it was supposedly brought to the Caribbean by an Englishman named Captain Shaddock.  
 
@@ -594,7 +595,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Sweet potato \(*Ipomoea batatas*\). A tuber which probably originated in Central America or northwestern South America.  
 
-- Tamarind \(*Tamarindus indica*\). A tree probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes. 
+- Tamarind \(*Tamarindus indica*\). A tree probably native to tropical Africa and Madagascar. Its fruit pulp was used in food and beverages, including punch, and for medicinal purposes.
 
 - Tanie. The tanie, tannia, or yautia is technically the species *Xanthosoma sagittifolium*, but it was often confused with taro or eddo (*Colocasia esculenta*). *Xanthosoma sagittifolium* has a native range extending from Costa Rica to tropical South America. *Colocasia esculenta* originated in southeastern or southern Central Asia (Higman 82-86). Tannia and taro leaves were primarily consumed by the enslaved because they contained needle-like crystals of calcium oxalate. These crystals irritated the mouth and throat when eaten, and the leaves had to be boiled for a long period of time to reduce what was known as the "scratching" effect (Higman 86-87).  
 
@@ -610,7 +611,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Vervain \(*Verbena officinalis*\). Also known as verbena; an herbal shrub whose native range is the Old World to Australia.
 
-- Walnut \(*Juglans regia*\). A hardwood plant with a native range stretching from the Balkan Peninsula to Iran. 
+- Walnut \(*Juglans regia*\). A hardwood plant with a native range stretching from the Balkan Peninsula to Iran.
 
 - Water-lemon. One of several names for *Passiflora laurifolia*, a passion fruit relative whose native range is the Caribbean to northern and northeastern Brazil.  
 
@@ -620,7 +621,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Wild liquorice \(*Abrus precatorius*\). A slender, viny plant that produces scarlet, pea-sized seeds with small black spots at the points of attachment. The seeds are known as jumbee beads, while the plant is sometimes known as the rosary pea. The seeds are commonly used to make jewelry, and they have been associated with the practice of obeah, perhaps because the black spots on the seeds resemble eyes. The seeds also may have been used to heal or poison since they contain the toxin abrin, which can induce nausea, vomiting, abdominal cramping, diarrhea, and dehydration. *Abrus precatorius* is native to Africa, Asia, Malesia, Australia, and the Pacific region.  
 
-- Wild pine-apple \(*Bromelia pinguin*\). Its native range is Mexico and the tropical Americas. 
+- Wild pine-apple \(*Bromelia pinguin*\). Its native range is Mexico and the tropical Americas.
 
 - Wild red cedar \(*Cedrela odorata*\). The red cedar is an important timber tree found in Central and South America, as well as in the Caribbean. It is now considered vulnerable to extinction due to unsustainable levels of harvesting.  
 
@@ -631,4 +632,3 @@ This glossary contains definitions of key historical individuals, places, and pl
 - Yellow thistle. Most likely *Argemone mexicana*, the seeds of which are purgative. Also known as the Mexican prickly poppy; native to the tropical Americas.  
 
 ---
-

@@ -14,7 +14,7 @@
     {% for node in page.toc %}
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}">{{ node }}</a>
     {% endfor %}
-
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#">Close Menu</a>  
 
     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
