@@ -7,35 +7,59 @@
 
 var index = elasticlunr(function () {
   this.addField('title')
-  this.addField('author')
   this.addField('layout')
   this.addField('content')
   this.setRef('id')
 });
 
-//Add to this index the proper metadata from the Jekyll content
+// Generating the JSON index
 
+//This is the part that adds the content to the JSON itself. It is separate from the one used to display the results on the front end. No clue why!!
 
 {% assign count = 0 %}{% for text in site.texts %}
 index.addDoc({
   title: {{text.title | jsonify}},
-  author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
+
+{% assign count = count %}{% for text in site.paginated %}
+index.addDoc({
+  title: {{text.title | jsonify}},
+  layout: {{text.layout | jsonify}},
+  content: {{text.content | jsonify | strip_html}},
+  id: {{count}}
+});{% assign count = count | plus: 1 %}{% endfor %}
+
+{% assign count = count %}{% for text in site.excerpts %}
+index.addDoc({
+  title: {{text.title | jsonify}},
+  layout: {{text.layout | jsonify}},
+  content: {{text.content | jsonify | strip_html}},
+  id: {{count}}
+});{% assign count = count | plus: 1 %}{% endfor %}
+
 console.log( jQuery.type(index) );
 
-// Builds reference data (maybe not necessary for us, to check)
+
+
+// This is what populates the index with text from the files for front-end use. It is a combination of liquid that loops through different folders, and the JSON it writes based on the metadata it finds.
 
 
 var store = [{% for text in site.texts %}{
   "title": {{text.title | jsonify}},
-  "author": {{text.author | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
-}
-{% unless forloop.last %},{% endunless %}{% endfor %}]
+},{% endfor %}{% for text in site.paginated %}{
+  "title": {{text.title | jsonify}},
+  "layout": {{ text.layout | jsonify }},
+  "link": {{text.url | jsonify}},
+},{% endfor %}{% for text in site.excerpts %}{
+  "title": {{text.title | jsonify}},
+  "layout": {{ text.layout | jsonify }},
+  "link": {{text.url | jsonify}},
+}{% unless forloop.last %},{% endunless %}{% endfor %}]
 
 //Query
 

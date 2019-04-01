@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: Making Sugar
+title: Sugar Work
 source: pp
 editor: Lina
-permalink: /excerpts/making-sugar.html
+permalink: /excerpts/sugar-work.html
 ---
 
 

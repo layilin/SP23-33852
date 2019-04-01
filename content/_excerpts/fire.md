@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: excerpt on fire
+title: Fire
 source: pp 90-92
 editor: Lina
 permalink: /excerpts/fire.html

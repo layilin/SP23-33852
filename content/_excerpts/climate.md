@@ -1,6 +1,6 @@
 ---
 layout: poem  
-title: excerpt on climate  
+title: Climate  
 source: pp 26-28, 69-74
 editor: ami yoon
 permalink: /excerpts/climate.html
