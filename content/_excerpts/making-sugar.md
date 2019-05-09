@@ -9,7 +9,7 @@ permalink: /excerpts/sugar-work.html
 
 ## Sugar Work
 
-Book 3 mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them.
+Book III mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them.
 
 Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugar canes into "junks a yard in length" and then tie them into "small light bundles." They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery.
 
