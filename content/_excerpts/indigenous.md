@@ -22,7 +22,7 @@ Note: For a general overview of the indigenous peoples of the Caribbean, see the
 <img src="{{site.baseurl}}/assets/cassava.jpg"
 alt="Cassava plant"
 class="center-image" />
-"Cassava, snake, and insects" hand colored engraving from Maria Sibylla Merian, *Metamorphosis insectorum Surinamensium*, Amsterdam, 1719, pl. 5.
+"Cassava, snake, and insects," hand colored engraving from Maria Sibylla Merian, *Metamorphosis insectorum Surinamensium*, Amsterdam, 1719, pl. 5.
 {:.centered}
 
 ---
