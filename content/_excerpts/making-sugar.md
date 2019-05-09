@@ -184,7 +184,7 @@ class="center-image" />
 - Deny protection? Muse suppress the tale.
 
 - YE! who in bundles bind the lopt-off Canes; [180]
-- But chiefly ye! who feed the tight-brac'd mill;
+- But chiefly ye! who feed the tight-brac'd mill...
 
 > Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
@@ -193,10 +193,6 @@ class="center-image" />
 > Daily observation affords but too many proofs, where domestic slavery does not obtain, of the fatal consequences of indulged passion and revenge; but where one man is the absolute property of another, those passions may perhaps receive additional activity: planters, therefore, cannot be too much on their guard against the first sallies of passion; as by indulgence, passion, like a favourite, will at last grow independently powerful.
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
-
----
-
-...
 
 ---
 
@@ -218,11 +214,7 @@ class="center-image" />
 
 [^f105n2]: Lung infections or diseases.  
 
-[^f105n3]: Ventilation provided by air blowing through a space.    
-
----
-
-...
+[^f105n3]: Ventilation provided by air blowing through a space...    
 
 ---
 
@@ -262,9 +254,7 @@ class="center-image" />
 - Or lime sufficient granulate the juice: [430]
 - In vain the thickning liquor is effus'd;
 - An heterogeneous, an uncertain mass,
-- And never in thy coolers to condense.
-
-...
+- And never in thy coolers to condense...
 
 
 > VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
