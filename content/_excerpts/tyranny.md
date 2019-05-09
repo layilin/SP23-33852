@@ -14,7 +14,7 @@ To the ancient Greeks, a tyrant (*&#964;&#973;&#961;&#945;&#957;&#957;&#959;&#96
 
 The historical and literary link between tyranny and slavery is long and vexed. When Dessalines invokes the specter of slavery in the Haitian Declaration of Independence, he means it literally: having only recently expelled Napoleon's army from St. Domingue, the Haitians were determined to prevent slavery from ever returning to their country. Nevertheless, despite the force of Dessalines's literal association, the Americans and French who fought in their own revolutions relied on a metaphorical link between tyranny and slavery in which they portrayed themselves as resisting figural enslavement at the hands of foreign tyrants. Eighteenth-century writers certainly understood the irony of revolutionaries professing their horror at the thought of losing their liberty and being enslaved on the one hand, while being enslavers themselves, on the other. Perhaps the keenest observer of this irony is Phillis Wheatley, the enslaved African poet who would use it to great effect in the poem titled "To the Right Honorable William, Earl of Dartmouth," published in her 1773 *Poems on Various Subjects*. Here Wheatley highlights the metaphorical link between tyranny and slavery that men like Thomas Jefferson and Tom Paine would make later in the decade only to juxtapose it to the actual tyranny and her own enslavement:
 
-> No more, *America*, in mournful strain  [15]
+> No more, *America*, in mournful strain [15]  
 > of wrongs, and grievance unredress'd complain,  
 > No longer shalt thou dread the iron chain,  
 > Which wanton *Tyranny* with lawless hand  
@@ -47,7 +47,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 <img src="{{site.baseurl}}/assets/phillis_wheatley.jpg"
 alt="Portrait of Phillis Wheatley"
 class="center-image" />
-"Portrait of Phillis Wheatley," Phillis Wheatley, *Poems on Various Subjects, Religious and Moral*, London, 1773, frontispiece.
+"Portrait of Phillis Wheatley," engraved plate from Phillis Wheatley, *Poems on Various Subjects, Religious and Moral*, London, 1773, frontispiece.
 {:.centered}
 
 [^fn1]: See <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="blank">*Declaration of Independence*</a> at the National Archives; <a href="https://www.gouvernement.fr/en/the-marseillaise" target="blank">*The Marseillaise*</a>; and Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*.
@@ -140,23 +140,32 @@ class="center-image" />
 - Their specious, subtle sophistry disprov'd; [300]
 - The importance, the necessity display'd,
 - Of civil armies, freedom's surest guard!
-- Nor in the senate didst thou only win
-- The palm of eloquence,[^f103n1] securely bold;
+- Nor in the senate didst thou[^f103n1] only win
+- The palm of eloquence,[^f103n2] securely bold;
 - But rear'd'st thy banners, fluttering in the wind: [305]
-- Kent,[^f103n2] from each hamlet, pour'd her marshal'd swains,
-- To hurl defiance on the threatening Gaul.
+- Kent,[^f103n3] from each hamlet, pour'd her marshal'd swains,
+- To hurl defiance on the threatening Gaul.[^f103n4]
 
-- THY foaming coppers well with fewel feed;
+- THY foaming coppers[^f103n5] well with fewel feed;
 - For a clear, strong, continued fire improves
-- Thy muscovado's colour, and its grain.— [310]
+- Thy muscovado's[^f103n6] colour, and its grain.— [310]
 - Yet vehement heat, protracted, will consume
 - Thy vessels, whether from the martial mine,
 
 > VER. 312. *Thy vessels,*\] The vessels, wherein the Cane-juice is reduced to Sugar by coction, are either made of iron or of copper. Each sort hath its advantages and
 
-[^f103n1]: Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
+[^f103n1]: According to Gilmore, refers to Robert Marsham, 2nd Baron Romney (1712-1793), who married Priscilla Pym, the heiress of the St. Kitts planter Charles Pym.
 
-[^f103n2]: Kent faces France.
+[^f103n2]: Prize for speech. In the ancient Greek Olympics, winners were awarded palm fronds.
+
+[^f103n3]: Kent faces France.
+
+[^f103n4]: France.
+
+[^f103n5]: Copper pots used for boiling cane juice.
+
+[^f103n6]: A dark brown, unrefined sugar that was typically the end product of the sugar-making process in the Caribbean. Often described as unrefined since it was usually processed further in Europe and lightened in color before being sold to consumers.
+
 
 ---
 
@@ -171,34 +180,36 @@ class="center-image" />
 - The exhalations of the deep-dug mine, [175]
 - Tho' slow, shake from their wings as sure a death.
 - With what intense severity of pain
-- Hath the afflicted muse, in Scotia, seen
-- The miners rack'd, who toil for fatal lead?[^f134n1]
-- What cramps, what palsies[^f134n2] shake their feeble limbs, [180]
-- Who, on the margin of the rocky Drave,[^f134n3]
-- Trace silver's fluent ore?[^f134n4] Yet white men these!
+- Hath the afflicted muse, in Scotia,[^f134n1] seen
+- The miners rack'd, who toil for fatal lead?[^f134n2]
+- What cramps, what palsies[^f134n3] shake their feeble limbs, [180]
+- Who, on the margin of the rocky Drave,[^f134n4]
+- Trace silver's fluent ore?[^f134n5] Yet white men these!
 
 - HOW far more happy ye, than those poor slaves,
 - Who, whilom, under native, gracious chiefs,
-- Incas[^f134n5] and emperors, long time enjoy'd [185]
+- Incas[^f134n6] and emperors, long time enjoy'd [185]
 - Mild government, with every sweet of life,
 - In blissful climates? See them dragg'd in chains,
-- By proud insulting tyrants,[^f134n6] to the mines
+- By proud insulting tyrants,[^f134n7] to the mines
 - Which once they call'd their own, and then despis'd!
 
 > VER. 181. *rocky Drave,*\] A river in Hungary, on whose banks are found mines of quicksilver.  
 
 
-[^f134n1]: Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
+[^f134n1]: Scotia is the Latin name for Scotland.
 
-[^f134n2]: Paralysis of the skeletal muscles.  
+[^f134n2]: Southwestern Scotland had produced lead since the Roman period. The Scottish Habeas Corpus Act of 1701 did not apply to those in servitude in the coal and lead mines of Scotland. As a result, they could be tied in serf-like bondage to employers by ancient custom. According to the terms of such bondage, they could be sold or leased with the undertaking of mining work and were counted as a part of employers' inventory. Also, vagabonds and their families could be seized and returned to work. Born in Scotland himself, Grainger was aware of this history, and this stanza deliberately compares enslaved Africans to Scottish miners to mitigate the violence of the African slave trade. It would not be until 1774 that an emancipation act forbade mine owners from accepting new servitudes and provided for the emancipation of existing workers who had served for a certain number of years. Only in 1799 were all miners legally freed.  
 
-[^f134n3]: A river in central Europe that forms the boundary between Croatia and Hungary.
+[^f134n3]: Paralysis of the skeletal muscles.  
 
-[^f134n4]: Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
+[^f134n4]: A river in central Europe that forms the boundary between Croatia and Hungary.
 
-[^f134n5]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
+[^f134n5]: Quicksilver or mercury, which was a major export of the region. Among the effects of continued exposure to mercury are palsies (line 180) and loss of teeth (line 193).  
 
-[^f134n6]: The Spanish conquistadors.  
+[^f134n6]: The Incan Empire extended from modern Ecuador to Chile in the early sixteenth century, when Spanish conquistadors arrived and imposed colonial rule. In the fifteen lines that follow, Grainger relies on the trope of the Black Legend to suggest that the suffering of the Incas at the hands of the Spanish was far worse than anything experienced by enslaved persons working on British sugar plantations. In particular, the silver mines at Potosí in Upper Peru (modern Bolivia) drove Spanish settlement, and indigenous populations were subjected to the *encomienda* system, in which an *encomendero* accepted tribute and obligatory labor from natives in return for protection. In the early seventeenth century, this system gave way to a *corregimiento* system that established networks of provincial governors who managed the labor distribution and tributary arrangements. Enslaved Africans were also imported and put to work in mines when labor ran short and gradually surpassed the natives in population. Besides silver, gold deposits were found throughout the Andes from Venezuela to Chile, and European colonists greatly expanded the extant mining work of the indigenous Americans in scale.  
+
+[^f134n7]: The Spanish conquistadors.  
 
 ---
 
@@ -244,39 +255,48 @@ class="center-image" />
 
 [140]({{site.baseurl}}/images/p0154.jpg)
 
-- YET, of the ills which torture Libya's sons, [290]
-- Worms tyrannize the worst. They, Proteus-like,[^f140n1]
+- YET, of the ills which torture Libya's[^f140n1] sons, [290]
+- Worms tyrannize the worst. They, Proteus-like,[^f140n2]
 - Each symptom of each malady assume;
 - And, under every mask, the assassins kill.
 - Now in the guise of horrid spasms, they writhe
 - The tortured body, and all sense o'er-power. [295]
-- Sometimes, like Mania,[^f140n2] with her head downcast,
+- Sometimes, like Mania,[^f140n3] with her head downcast,
 - They cause the wretch in solitude to pine;
 - Or frantic, bursting from the strongest chains,
 - To frown with look terrific, not his own.
-- Sometimes like Ague,[^f140n3] with a shivering mien, [300]
+- Sometimes like Ague,[^f140n4] with a shivering mien, [300]
 - The teeth gnash fearful, and the blood runs chill:
 - Anon the ferment maddens in the veins,
 - And a false vigour animates the frame.
-- Again, the dropsy's bloated mask they steal;
-- Or, "melt with minings of the hectic fire."[^f140n4] [305]
+- Again, the dropsy's[^f140n5] bloated mask they steal;
+- Or, "melt with minings of the hectic fire."[^f140n6] [305]
 
 - SAY, to such various mimic forms of death;
 - What remedies shall puzzled art oppose?—
 - Thanks to the Almighty, in each path-way hedge,
-- Rank cow-itch grows, whose sharp unnumber'd stings,
-- Sheath'd in Melasses, from their dens expell, [310]
+- Rank cow-itch[^f140n7] grows, whose sharp unnumber'd stings,
+- Sheath'd in Melasses,[^f140n8] from their dens expell, [310]
 - Fell dens of death, the reptile lurking foe.—
 
 > VER. 309. *Cow-itch*] See notes in Book II.
 
-[^f140n1]: In Greek mythology, Proteus, an old man and shepherd on the island of Pharos near Egypt, was able to shape-shift. The worms' ability to cause multiple maladies and symptoms is equated to Proteus's shape-shifting abilities.
+[^f140n1]: Not the modern nation of Libya but the Libyan desert in the eastern Sahara. Grainger uses "Lybia" and "Lybians" several times in Book IV of *The Sugar-Cane* to signify Africa and Africans.
 
-[^f140n2]: Roman and Etruscan goddess of the dead who ruled the underworld with Mantus.  
+[^f140n2]: In Greek mythology, Proteus, an old man and shepherd on the island of Pharos near Egypt, was able to shape-shift. The worms' ability to cause multiple maladies and symptoms is equated to Proteus's shape-shifting abilities.
 
-[^f140n3]: An acute or high fever or a disease that causes such. Often used to refer to malaria.  
+[^f140n3]: Roman and Etruscan goddess of the dead who ruled the underworld with Mantus.  
 
-[^f140n4]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
+[^f140n4]: An acute or high fever or a disease that causes such. Often used to refer to malaria.  
+
+[^f140n5]: An accumulation of fluid in the soft tissue of the body, more commonly known as dropsy. The modern term is edema (or oedema).
+
+[^f140n6]: Gilmore identifies this line as an adaption from John Armstrong's description of a lung infection in *The Art of Preserving Health* (1744).  
+
+[^f140n7]: Cowitch \(*Mucuna pruriens*\), a viny plant that produces severe itching after contact with skin. Was used on sugar plantations as compost, forage, and cattle feed. Its seeds destroy intestinal parasites. Likely native to tropical Asia and possibly Africa.
+
+[^f140n8]: Molasses, the thick, brown, uncrystallized syrup drained from raw sugar.
+
 
 ---
 
@@ -302,7 +322,7 @@ class="center-image" />
 - Her following close, her secret treasures find,
 - To pour them plenteous on the laughing world.
 - On thee Sylvanus,[^f142n4] thee each rural god, [345]
-- On thee chief Ceres, with unfailing love
+- On thee chief Ceres,[^f142n5] with unfailing love
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
 - Far-distant kingdoms; endless storms in vain
@@ -314,6 +334,8 @@ class="center-image" />
 [^f142n3]: The region Grainger refers to as the Belgian fens had been part of the Netherlands, which were under Spanish control from the sixteenth century until the War of Spanish Succession. After the Treaty of Utrecht (1713), the Spanish ceded the Netherlands to Charles VI of Austria.  
 
 [^f142n4]: Commonly spelled Silvanus, the Roman god of the countryside often associated with woodlands and agriculture.
+
+[^f142n5]: The Italo-Roman goddess of growth and agriculture.
 
 ---
 
@@ -329,21 +351,21 @@ class="center-image" />
 - Wards off the fervours of the burning day.
 
 - THE truly great, tho' from a hostile clime, [620]
-- The sacred Nine embalm; then, Muses, chant,
-- In grateful numbers, Gallic Lewis'[^f159n4] praise:
-- For private murder quell'd; for laurel'd arts,
+- The sacred Nine[^f159n4] embalm; then, Muses, chant,
+- In grateful numbers, Gallic Lewis'[^f159n5] praise:
+- For private murder quell'd; for laurel'd[^f159n6] arts,
 - Invented, cherish'd in his native realm;
-- For rapine[^f159n5] punish'd; for grim famine fed; [625]
-- For sly chicane[^f159n6] expell'd the wrangling bar;
-- And rightful Themis[^f159n7] seated on her throne:
+- For rapine[^f159n7] punish'd; for grim famine fed; [625]
+- For sly chicane[^f159n8] expell'd the wrangling bar;
+- And rightful Themis[^f159n9] seated on her throne:
 - But, chief, for those mild laws his wisdom fram'd,
-- To guard the AEthiop from tyrannic sway![^f159n8]
+- To guard the AEthiop[^f159n10] from tyrannic sway![^f159n11]
 
-- DID such, in these green isles which Albion claims, [630]
+- DID such, in these green isles which Albion[^f159n12] claims, [630]
 - Did such obtain; the muse, at midnight-hour,
 
 
-> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n9] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n10] but this I do not know from experience.
+> VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n13] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n14] but this I do not know from experience.
 
 
 [^f159n1]: *Senna alata*, also known today as the candle bush or king of the forest. Its native range is southwestern Mexico to the tropical Americas.  
@@ -352,18 +374,26 @@ class="center-image" />
 
 [^f159n3]: Wiltshire, a county in England, has been a center of the English weaving and woolen industry for nearly 4000 years.
 
-[^f159n4]: Gallic Lewis refers to Louis XIV (1638-1715), king of France from 1643-1715.  
+[^f159n4]: The nine muses of art, literature, and science.
 
-[^f159n5]: The act or practice of seizing and taking away by force the property of others.
+[^f159n5]: Gallic Lewis refers to Louis XIV (1638-1715), king of France from 1643-1715.  
 
-[^f159n6]: A subterfuge, petty trick, or quibble.
+[^f159n6]: Laurel \(bay leaf\) crown, often associated with poetic achievement.
 
-[^f159n7]: Greek goddess of law and justice.
+[^f159n7]: The act or practice of seizing and taking away by force the property of others.
 
-[^f159n8]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed enslavers to inflict harsh punishments on the enslaved and treat them as property.   
+[^f159n8]: A subterfuge, petty trick, or quibble.
 
-[^f159n9]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil.
+[^f159n9]: Greek goddess of law and justice.
 
-[^f159n10]: A substance that promotes the excretion of urine.
+[^f159n10]: Ethiop and Ethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about “washing the Ethiopian” or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
+
+[^f159n11]: Grainger is referring to the *Code noir*, a royal edict issued by Louis XIV in 1685. The *Code noir* contained sixty articles regulating the treatment of the enslaved in the French Caribbean. Although Grainger praises it as protecting the enslaved from abuse, other eighteenth-century observers condemned it as proving the inhumanity of the institution of slavery, since it still allowed enslavers to inflict harsh punishments on the enslaved and treat them as property.   
+
+[^f159n12]: Albion, a name of ancient Celtic origin for Britain or England. The term may also derive from the Latin word for white (*albus*) and refer to the white cliffs of Dover.
+
+[^f159n13]: The genus *Narcissus* contains several species of plants with yellow flowers, including the daffodil.
+
+[^f159n14]: A substance that promotes the excretion of urine.
 
 ---

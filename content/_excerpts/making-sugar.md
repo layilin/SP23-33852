@@ -9,9 +9,9 @@ permalink: /excerpts/sugar-work.html
 
 ## Sugar Work
 
-Book 3 mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them.
+Book III mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them.
 
-Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugar canes into "junks a yard in length" and then tie them into "small light bundles." They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery.
+Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugarcanes into "junks a yard in length" and then tie them into "small light bundles." They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery.
 
 Also pay attention to Grainger's descriptions of the laborers he calls "boilers." Boilers had to watch over the giant vats or "coppers" in which the crushed sugarcane was boiled, reduced to a syrup, and then crystallized into solid sugar. Working in the boiling house was one of the most difficult and fatiguing jobs on the plantation because the boilers were dealing with heavy equipment and high temperatures. Nevertheless, because boilers also were highly skilled—they had to know exactly when the sugar had boiled enough and was ready to crystallize—they were the laborers that planters depended on the most. Indeed, even though planters and overseers often made a show of supervising the crystallization of cane, they had to rely on the expertise of the boilers, who therefore were sometimes able to extract concessions from their enslavers. As such, when you read these lines, also think about how the boilers are portrayed and whether Grainger acknowledges their special status. Does Grainger ever point to the centrality of the labor performed by the enslaved?
 
@@ -24,7 +24,7 @@ Note: For further reading about the portrayal of labor and slavery in eighteenth
 <img src="{{site.baseurl}}/assets/a_mill_yard.jpg"
 alt="A Mill Yard"
 class="center-image" />
-*A Mill Yard*,  William Clark, Infant School Society Depository, London, 1833, pl. 4.
+"A Mill Yard," hand colored lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 4.
 {:.centered}
 
 ---
@@ -51,7 +51,7 @@ class="center-image" />
 
 [^f92n1]: Windmill sails.  
 
-[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
+[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugarcane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
 
 [^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.    
 
@@ -86,9 +86,9 @@ class="center-image" />
 
 [^f93n1]: The morning star or the planet Venus when found in the sky before sunrise.  
 
-[^f93n2]: Sugar cane turns yellow when it is ripe.  
+[^f93n2]: Sugarcane turns yellow when it is ripe.  
 
-[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.   
+[^f93n3]: Sugarcane buds. To produce new sugar cane, sugarcane stalks with buds on them were planted in the ground.   
 
 ---
 
@@ -184,7 +184,7 @@ class="center-image" />
 - Deny protection? Muse suppress the tale.
 
 - YE! who in bundles bind the lopt-off Canes; [180]
-- But chiefly ye! who feed the tight-brac'd mill;
+- But chiefly ye! who feed the tight-brac'd mill....
 
 > Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
@@ -193,10 +193,6 @@ class="center-image" />
 > Daily observation affords but too many proofs, where domestic slavery does not obtain, of the fatal consequences of indulged passion and revenge; but where one man is the absolute property of another, those passions may perhaps receive additional activity: planters, therefore, cannot be too much on their guard against the first sallies of passion; as by indulgence, passion, like a favourite, will at last grow independently powerful.
 
 [^f96n1]: To free from slavery. Here, Grainger criticizes planters who manumit the enslaved who are too old or too injured to work. Implicit in this criticism is that such manumitted persons, though free, were abandoned to care for themselves.
-
----
-
-...
 
 ---
 
@@ -210,7 +206,7 @@ class="center-image" />
 - Thy boiling-house be lofty: all atop
 - Open, and pervious to the tropic breeze;
 - Whose cool perflation,[^f105n3] wooed through many a grate, [340]
-- Dispells the steam, and gives the lungs to play.
+- Dispells the steam, and gives the lungs to play....
 
 > VER. 339. *Open, and pervious*\] This also assists the christallization of the Sugar.
 
@@ -219,10 +215,6 @@ class="center-image" />
 [^f105n2]: Lung infections or diseases.  
 
 [^f105n3]: Ventilation provided by air blowing through a space.    
-
----
-
-...
 
 ---
 

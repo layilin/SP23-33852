@@ -204,7 +204,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Avon. Grainger refers to the Bristol Avon, a river in southwest England. It is different from Shakespeare's Avon. Sugar houses or refineries lined the Avon in the eighteenth century, as access to water was crucial during the refining process.
 
-- Azores. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Canary, Cape Verde, and Madeiras islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
+- Azores. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Canary, Cape Verde, and Madeiras islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugarcane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
 - Barbados. An island first settled by the English in 1627; one of the Lesser Antilles. It gained independence from the United Kingdom in 1966.
 
@@ -226,7 +226,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Cambria. Latin name for Wales.
 
-- Canary and Cape-Verd Islands. The Canary and Cape Verde Islands in the eastern Atlantic Ocean were relatively close to the coasts of Europe and Africa. Along with the Azores and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
+- Canary and Cape-Verd Islands. The Canary and Cape Verde Islands in the eastern Atlantic Ocean were relatively close to the coasts of Europe and Africa. Along with the Azores and the Madeiras, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugarcane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.  
 
 - Caraccas. Caracas, the capital of Venezuela.
 
@@ -298,7 +298,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Lusitania. Now modern Portugal. Lusitania was an ancient region of western Iberia inhabited by the Lusitani but also by other peoples, including Celtic tribes.
 
-- Madeiras. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores and the Canary and Cape Verde Islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
+- Madeiras. Islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. Along with the Azores and the Canary and Cape Verde Islands, they often served as waystations for Europeans voyaging from Europe or Africa to the Americas. Sugarcane was introduced by the Spanish and Portuguese to these islands in the fifteenth century, and the sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
 - Malabar. A region on the southwest coast of India (modern Kerala).
 
@@ -459,7 +459,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Custard apple \(*Annona reticulata*\). The fruit of a tree whose native range is Mexico to northeastern Venezuela.
 
-- Dumb Cane \(*Dieffenbachia seguine*\). The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
+- Dumb Cane \(*Dieffenbachia seguine*\). The dumb cane looks very similar to sugarcane, and colonists often would eat it, mistaking it for the sugarcane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
 
 - Ebony. Refers to various Asian and African trees of the genus *Diospyros* in the ebony family (Ebenaceae). Historically, ebony wood has been valued for its dark color and used to make furniture, ornaments, and other objects.
 
@@ -591,7 +591,7 @@ This glossary contains definitions of key historical individuals, places, and pl
 
 - Sugar apple \(*Annona squamosa*\). Also known as sweetsop; the fruit of a tree native to lowland Central America.  
 
-- Sugar cane \(*Saccharum officinarum*\). Most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there. Columbus first brought sugar to the Caribbean in 1493.
+- Sugarcane \(*Saccharum officinarum*\). Most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugarcane was being refined into crystallized sugar in India and Persia. From there, sugarcane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there. Columbus first brought sugar to the Caribbean in 1493.
 
 - Sweet potato \(*Ipomoea batatas*\). A tuber which probably originated in Central America or northwestern South America.  
 

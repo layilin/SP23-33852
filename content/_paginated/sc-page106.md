@@ -33,7 +33,7 @@ permalink: "/paginated/sc-page106.html"
 
 [^f106n4]: Charles-Marie de La Condamine (1701-1774), a French scientist, participated with Ulloa in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751). 
 
-[^f106n5]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
+[^f106n5]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugarcane, and colonists often would eat it, mistaking it for the sugarcane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
 
 [^f106n6]: Grainger is referring to Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679). 
 

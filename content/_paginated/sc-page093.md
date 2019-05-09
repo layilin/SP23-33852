@@ -38,7 +38,7 @@ permalink: "/paginated/sc-page093.html"
 
 [^f93n1]: The morning star or the planet Venus when found in the sky before sunrise.  
 
-[^f93n2]: Sugar cane turns yellow when it is ripe.  
+[^f93n2]: Sugarcane turns yellow when it is ripe.  
 
-[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
+[^f93n3]: Sugarcane buds. To produce new sugarcane, sugarcane stalks with buds on them were planted in the ground.  
 

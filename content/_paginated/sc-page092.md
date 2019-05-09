@@ -39,7 +39,7 @@ permalink: "/paginated/sc-page092.html"
 
 [^f92n1]: Windmill sails.  
 
-[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
+[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugarcane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).  
 
 [^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.  
 

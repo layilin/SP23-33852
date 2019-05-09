@@ -222,12 +222,14 @@ class="center-image" />
 - And blasts more rapid, more resistless drives: [330]
 
 
-> VER. 314. *strange burs*\] These are astral halos. Columbus soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
+> VER. 314. *strange burs*\] These are astral halos. Columbus[^f71n3] soon made himself master of the signs that precede a hurricane in the West-Indies, by which means he saved his own squadron; while another large fleet, whose commander despised his prognostics, put to sea, and was wrecked.
 
 
 [^f71n1]: Engines of war, artillery.
 
 [^f71n2]: According to Gilmore, an approximate quotation of "and the orb below/As hush as death" (Shakespeare, *Hamlet* 2.2.485-486).  
+
+[^f71n3]: Christopher Columbus (1451-1506), a Genoese-born explorer. The purpose of his famed 1492 voyage was to discover a western route to Asia. He set sight on the island of Guanahani (in the Bahamas) on October 12. Columbus completed four voyages to the Americas during his lifetime. 
 
 ---
 
@@ -244,7 +246,7 @@ class="center-image" />
 - After some furious onset, and, behind
 - Vast rocks and trees, their horrid forms conceal,
 - Brooding on slaughter, not repuls'd; for soon [340]
-- Their growing yell the affrighted welkin rends,
+- Their growing yell the affrighted welkin[^f72n1] rends,
 - And bloodier carnage mows th' ensanguin'd plain:
 - So the South, sallying from his iron caves
 - With mightier force, renews the aerial war;
@@ -252,13 +254,15 @@ class="center-image" />
 - Fair nature's triumph, pride of Indian groves,
 - Cleft by the sulphurous bolt! See yonder dome,
 - Where grandeur with propriety combin'd,
-- And Theodorus[^f72n1] with devotion dwelt;
+- And Theodorus[^f72n2] with devotion dwelt;
 - Involv'd in smouldering flames.—From every rock, [350]
 - Dashes the turbid torrent; thro' each street
 - A river foams, which sweeps, with untam'd might,
 - Men, oxen, Cane-lands to the billowy main.—
 
-[^f72n1]: Theodorus may be the Samian architect active c. 550–520 BCE.
+[^f72n1]: welkin. Sky, firmament.
+
+[^f72n2]: Theodorus may be the Samian architect active c. 550–520 BCE.
 
 ---
 
@@ -323,7 +327,7 @@ class="center-image" />
 - Oft shake the astonied[^f74n2] isles: The solfaterre
 
 
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat. The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat.[^f74n4] The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
 
 
 [^f74n1]: Sour, acidic.
@@ -331,5 +335,7 @@ class="center-image" />
 [^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
 
 [^f74n3]: An astringent mineral salt.
+
+[^f74n4]: Montserrat, a British overseas territory in the Leeward Islands.
 
 ---

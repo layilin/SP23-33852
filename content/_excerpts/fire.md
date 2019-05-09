@@ -9,7 +9,7 @@ permalink: /excerpts/fire.html
 
 ## Fire
 
-At the beginning of Book 3, James Grainger turns to the subject of crop time, the harvesting and processing of sugar cane. He portrays the enslaved laborers as happy to begin this work. But at line 55, an interesting thing happens: Grainger pivots to the subject of fire and imagines the cane field being set on fire, perhaps accidentally but also perhaps intentionally. Grainger does not specify whether the fire is caused by “the heavenly bolt” or by the “hand of malice;” nor does he specify who the arsonists might be. However, the fire at midnight might be the result of enslaved resistance on Caribbean plantations, since Grainger hints in Book 2, line 123 that enslaved individuals would sometimes set fire to cane fields to avoid working in fields that have been infested with cowitch (in Grainger's footnote to this line, he explains that cowitch is an "extraordinary vine [that] should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded").
+At the beginning of Book III, James Grainger turns to the subject of crop time, the harvesting and processing of sugarcane. He portrays the enslaved laborers as happy to begin this work. But at line 55, an interesting thing happens: Grainger pivots to the subject of fire and imagines the cane field being set on fire, perhaps accidentally but also perhaps intentionally. Grainger does not specify whether the fire is caused by “the heavenly bolt” or by the “hand of malice;” nor does he specify who the arsonists might be. However, the fire at midnight might be the result of enslaved resistance on Caribbean plantations, since Grainger hints in Book II, line 123 that enslaved individuals would sometimes set fire to cane fields to avoid working in fields that have been infested with cowitch (in Grainger's footnote to this line, he explains that cowitch is an "extraordinary vine [that] should not be permitted to grow in a Cane-piece; for Negroes have been known to fire the Canes, to save themselves from the torture which attends working in grounds where it has abounded").
 
 This excerpt about the fire at midnight not only shows that the plantations are often vulnerable to catastrophes of fire and natural disasters but also hints at the tensions that existed between enslaved laborers and their enslavers. Fire was an essential element to the transformation of sugarcane into sugar: after being crushed, sugarcane had to be boiled to create a syrup, which was then crystallized to produce solid sugar. At the same time, fire could cause disasters and threaten to destroy the entire plantation, especially if it was deployed as a tool of resistance and rebellion.
 
@@ -25,7 +25,7 @@ Note: Kathleen Donegan's "Barbados: Wild Extravagance" (in her book *Seasons of 
 <img src="{{site.baseurl}}/assets/cutting_the_sugar-cane.jpg"
 alt="Cutting the Sugar-Cane"
 class="center-image" />
-*Cutting the Sugar-Cane*, William Clark, Infant School Society Depository, London, 1833, pl. 3.
+"Cutting the Sugar-Cane," hand colored lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 3.
 {:.centered}
 
 ---
@@ -46,23 +46,25 @@ class="center-image" />
 
 - NOR less, ye planters, in devotion, sue,
 - That nor the heavenly bolt, nor casual spark,
-- Nor hand of malice may the crop destroy.
+- Nor hand of malice may the crop destroy.[^f90n2]
 
 - AH me! what numerous, deafning bells, resound? [55]
 - What cries of horror startle the dull sleep?
 - What gleaming brightness makes, at midnight, day?
 - By its portentuous glare, too well I see
-- Palaemon's fate;[^f90n2] the virtuous, and the wise!
+- Palaemon's fate;[^f90n3] the virtuous, and the wise!
 - Where were ye, watches, when the flame burst forth? [60]
-- A little care had then the hydra[^f90n3] quell'd:
+- A little care had then the hydra[^f90n4] quell'd:
 - But, now, what clouds of white smoke load the sky!
 - How strong, how rapid the combustion pours!
 
 [^f90n1]: Cane cultivation is a year-round affair that nevertheless has distinct rhythms, which arise from the fact that cane can take 15-24 months to mature.  
 
-[^f90n2]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
+[^f90n2]: A reference to arson. Grainger does not specify who the arsonists might be, but this is one of several places where he hints at moments of enslaved resistance on Caribbean plantations. For more on this section of the poem and related passages, see <a href="{{site.baseurl}}/excerpts/fire.html" target="blank">"Fire"</a> on this site. 
 
-[^f90n3]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.
+[^f90n3]: Palaemon, also known as Melicertes, was a Greco-Roman sea-god. According to one legend, the goddess Juno killed Melicertes by boiling him in a cauldron; in another, Juno drove Ino, Melicertes' mother, and Melicertes mad, causing them to throw themselves into the Saronic Gulf, whereupon they were changed into marine deities. Ino became Leucothea, and Melicertes was renamed Palaemon.  
+
+[^f90n4]: A mythic water snake whose multiple heads could regenerate if severed. Hercules killed the hydra as the second of his twelve Labors. The term also signifies a difficult task.  
 
 ---
 
@@ -96,7 +98,7 @@ class="center-image" />
 
 > VER. 81. *And where thy dried Canes*\] The Cane-stalks which have been ground, are called *Magoss*; probably a corruption of the French word *Bagasse*,[^f91n1] which signifies the same thing. They make an excellent fewel.
 
-[^f91n1]: Bagasse refers to the crushed sugar cane stalks that are the byproduct of milling cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
+[^f91n1]: Bagasse refers to the crushed sugarcane stalks that are the byproduct of milling cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
 
 ---
 
@@ -110,6 +112,6 @@ class="center-image" />
 - All, all must perish; nor shalt thou preserve
 - Wherewith to feed thy little orphan-throng. [90]
 
-- OH, may the Cane-isles know few nights, like this!
+- OH, may the Cane-isles know few nights, like this!...
 
 ---

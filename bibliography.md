@@ -24,7 +24,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Browne, Patrick. <i>The Civil and Natural History of Jamaica</i>. London, 1756. <a href="https://archive.org/details/mobot31753000808003/page/n21">https://archive.org/details/mobot31753000808003/page/n21</a>.</div>
   <div class="csl-entry">Grainger, James. <i>An Essay on the More Common West-India Diseases</i>. Edinburgh, 1802. <a href="https://archive.org/details/b21297587/page/n7">https://archive.org/details/b21297587/page/n7</a>.</div>
   <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books. With Notes</i>. London, 1764.</div>
-  <div class="csl-entry">---. <i>The Sugar Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
+  <div class="csl-entry">---. <i>The Sugar-Cane: A Poem. In Four Books: With Notes.</i> London, 1766.</div>
   <div class="csl-entry">Hughes, Griffith. <i>The Natural History of Barbados</i>. London, 1750. <a href="https://archive.org/details/mobot31753000322294">https://archive.org/details/mobot31753000322294</a>.</div>
   <div class="csl-entry">Hughes, William. <i>The American Physitian; or, A Treatise of the Roots, Plants, Trees, Shrubs, Fruit, Herbs, &amp;c. Growing in the English Plantations in America. Describing the Place, Time, Names, Kindes, Temperature, Vertues and Uses of Them,Either for Diet, Physick, &amp;c. Whereunto Is Added a Discourse of the Cacao-Nvt-Tree, and the Use of Its Fruit;with All the Ways of Making of Chocolate</i>. London, 1672.</div>
   <div class="csl-entry">Johnson, Samuel. “The Sugar-Cane.” <i>London Chronicle</i>, 3 July 1764, pp. 12, 20, 28.</div>
