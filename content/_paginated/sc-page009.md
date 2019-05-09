@@ -30,7 +30,7 @@ permalink: "/paginated/sc-page009.html"
 
 [^f9n1]: The dog star is another name for Sirius, the brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.
 
-[^f9n2]: Sugar cane turns yellow when it is ripe.
+[^f9n2]: Sugarcane turns yellow when it is ripe.
 
 [^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon cane").
 
