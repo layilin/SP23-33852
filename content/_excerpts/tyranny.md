@@ -14,7 +14,7 @@ To the ancient Greeks, a tyrant (*&#964;&#973;&#961;&#945;&#957;&#957;&#959;&#96
 
 The historical and literary link between tyranny and slavery is long and vexed. When Dessalines invokes the specter of slavery in the Haitian Declaration of Independence, he means it literally: having only recently expelled Napoleon's army from St. Domingue, the Haitians were determined to prevent slavery from ever returning to their country. Nevertheless, despite the force of Dessalines's literal association, the Americans and French who fought in their own revolutions relied on a metaphorical link between tyranny and slavery in which they portrayed themselves as resisting figural enslavement at the hands of foreign tyrants. Eighteenth-century writers certainly understood the irony of revolutionaries professing their horror at the thought of losing their liberty and being enslaved on the one hand, while being enslavers themselves, on the other. Perhaps the keenest observer of this irony is Phillis Wheatley, the enslaved African poet who would use it to great effect in the poem titled "To the Right Honorable William, Earl of Dartmouth," published in her 1773 *Poems on Various Subjects*. Here Wheatley highlights the metaphorical link between tyranny and slavery that men like Thomas Jefferson and Tom Paine would make later in the decade only to juxtapose it to the actual tyranny and her own enslavement:
 
-> No more, *America*, in mournful strain  [15]
+> No more, *America*, in mournful strain [15]  
 > of wrongs, and grievance unredress'd complain,  
 > No longer shalt thou dread the iron chain,  
 > Which wanton *Tyranny* with lawless hand  
