@@ -123,7 +123,7 @@ IN a West-India georgic,[^fviin2] the mention of many indigenous remedies, as we
 > "At Loop-holes cut through thickest shade."——
 {:.indented}
 
-> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island...[^f14n6]
+> What year the Spaniards first discovered Barbadoes is not certainly known; this however is certain, that they never settled there, but only made use of it as a stock-island.[^f14n6]
 
 [^f14n2]: *Ficus citrifolia*, also known as the wild banyan tree. It is the national tree of Barbados, and its native range includes Florida and the tropical Americas.
 
