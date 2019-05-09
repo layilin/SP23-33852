@@ -24,7 +24,7 @@ Note: For further reading about the portrayal of labor and slavery in eighteenth
 <img src="{{site.baseurl}}/assets/a_mill_yard.jpg"
 alt="A Mill Yard"
 class="center-image" />
-*A Mill Yard*,  William Clark, Infant School Society Depository, London, 1833, pl. 4.
+"A Mill Yard," lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 4.
 {:.centered}
 
 ---
