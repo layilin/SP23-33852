@@ -13,13 +13,13 @@ Because Book IV represents Grainger's attempt to deal with the subject of enslav
 
 In the passages selected below, Grainger specifically appeals to planters provide their enslaved laborers with greater quantitites of rations or provisions. Indeed, it was common practice for planters to skimp on providing their workers with enough food, since they wanted to economize on costs and thereby increase their profits. Also, planters tended to rely on imported provisions from Europe and North America for rationing. Although these provisions had to be paid for, planters did not want to take up any land that could be used for sugar cultivation by growing provision crops.  
 
-For most of the lines dedicated to provisioning, then, Grainger ends up describing not the actions that planters took to provide food for their plantations but the provision grounds of the enslaved. Provision grounds were plots of land unsuitable for cane cultivation that were allotted to the enslaved on whatever colonies where such lands were widely available. The enslaved were then allowed--or required--to cultivate these provision grounds with subsistence crops to supplement their planter-provided rations. Of course, since they had to continue cultivating cane and doing the work required of them by planters, the enslaved were expected to cultivate their provision grounds only during their "spare" time, including their days of "rest." The lands allotted for provision grounds also were difficult to cultivate, since they were typically located a long distance from the cane fields and habitations of the enslaved. They were also generally located on rocky, mountainous plots with poor-quality soil. How effective provision ground cultivation was at enabling their cultivators to maintain adequate sources of nutrition is also debatable: studies of survival rates across colonies have suggested that individuals dependent on provision grounds did not enjoy, on average, better health or longer lifespans than those dependent primarily on imported rations.
+For most of the lines dedicated to provisioning, then, Grainger ends up describing not the actions that planters took to provide food for their plantations but the provision grounds of the enslaved. Provision grounds were plots of land unsuitable for cane cultivation that were allotted to the enslaved. The enslaved were then allowed--or required--to cultivate these provision grounds with subsistence crops to supplement their planter-provided rations. Of course, since they had to continue cultivating cane and doing the work required of them by planters, the enslaved were expected to cultivate their provision grounds only during their "spare" time, including their days of "rest." The lands allotted for provision grounds also were difficult to cultivate, since they were typically located a long distance from the cane fields and habitations of the enslaved. They were also generally located on rocky, mountainous plots with poor-quality soil. How effective provision ground cultivation was at enabling their cultivators to maintain adequate sources of nutrition is also debatable: studies of survival rates across colonies have suggested that individuals dependent on provision grounds did not enjoy, on average, better health or longer lifespans than those dependent primarily on imported rations.
 
 Still, the provision grounds did offer their cultivators some degrees of autonomy. They could, for example, exercise more choice over what they ate since they were growing their own food. Note in the passages below how many of the specific plants that Grainger mentions as growing in the provision grounds had arrived in the Americas from Africa. While it is unlikely that the enslaved themselves were able to carry these plants from Africa--captives were not allowed any possessions on slave ships--slave ships often stocked African crops to feed their captives during the passage across the Atlantic, and the crops them became established in the Americas, where the enslaved continued to cultivate what they had been used to cultivating in Africa. Also note how many of the plants and foodstuffs mentioned by Grainger are plants indigenous to the Americas and long cultivated by Amerindians. The prevalence of these crops, which were often hardy, high-yield staples, suggest that newly arrived Africans engaged in significant exchanges of knowledge with Amerindians and that this knowledge sharing continued to have long-lasting effects well beyond the initial period of contact.
 
-Provision grounds can, in fact, be read as records of the resourcefulness and creativity of their cultivators, who dealt with the poor quality of the lands they were given by learning how to grow plants that others shunned. Although certain plants may have been designated weeds by colonists, the enslaved realized that proper preparation and cooking methods could turn these so-called weeds into valuable sources of nutrition. The dishes prepared by the enslaved in the Caribbean sometimes even infiltrated colonists' cuisine, which became increasingly indebted to Afro-Caribbean ingredients and influences. Colonists even became reliant in certain colonies like Jamaica on enslaved cultivators for most of their own local foodstuffs. Because the cost of importing food was high, they purchased produce from the enslaved, who were allowed use and accumulate currency. Although it was rare for cultivators to make enough money to purchase their freedom, they were nevertheless able to make money and profit from what is now known as the internal marketing system. The internal marketing system is, in turn, now recognized as providing a crucial foundation for the counter-plantation system that emerged in post-emancipation Caribbean colonies. Those who participated in the counter-plantation system eschewed the model of industrial agriculture represented by the plantation and instead focused on small-scale farming, whether for subsistence or trade and export.
+Provision grounds can, in fact, be read as records of the resourcefulness and creativity of their cultivators, who dealt with the poor quality of the lands they were given by learning how to grow plants that others shunned. Although certain plants may have been designated weeds by colonists, the enslaved realized that proper preparation and cooking methods could turn these so-called weeds into valuable sources of nutrition. The dishes prepared by the enslaved in the Caribbean even infiltrated colonists' cuisine, which became increasingly indebted to Afro-Caribbean ingredients and influences. Colonists also became reliant in certain colonies like Jamaica on enslaved cultivators for most of their own local foodstuffs. Because the cost of importing food was high, they purchased produce from the enslaved, who were allowed use and accumulate currency. Although it was rare for cultivators to make enough money to purchase their freedom, they were nevertheless able to make money and profit from what is now known as the internal marketing system. The internal marketing system, in turn, has been recognized as providing a crucial foundation for the counter-plantation system that emerged in post-emancipation Caribbean colonies. Those who participated in the counter-plantation system eschewed the model of industrial agriculture represented by the plantation and instead focused on small-scale farming, whether for subsistence or trade and export.
 
-As you read the below passages, then, think about how Grainger describes the provision grounds, and pay particular attention to what was growing in them. It is also worth thinking about the end of the passages treating the provision grounds: why does Grainger turn suddenly to a vision of fugitives coming to raid the provision grounds? What threat might he really fear?
+As you read the below passages, think about how Grainger describes the provision grounds, and pay particular attention to what was growing in them. It is also worth thinking about the end of the passages treating the provision grounds: why does Grainger turn suddenly to a vision of fugitives coming to raid the provision grounds? What threat might he really fear?
 
 Note: B. W. Higman's *Jamaican Food* was an invaluable source of information for many of the notes about specific plants mentioned in this section of the poem.
 
@@ -42,19 +42,19 @@ Various plants and fruits from Brazil, including cashews and papayas, engraved p
 - Nor 'bove the bestial rank; far other thoughts
 - The muse, soft daughter of humanity!
 - Will ever entertain.—The Ethiop knows,
-- The Ethiop feels, when treated like a man; [425]
+- The Ethiop feels, when treated like a man;[^f147n1] [425]
 - Nor grudges, should necessity compell,
 - By day, by night, to labour for his lord.
 
 - NOT less inhuman, than unthrifty those;
 - Who, half the year's rotation round the sun,
-- Deny subsistence to their labouring slaves.[^f147n1] [430]
+- Deny subsistence to their labouring slaves.[^f147n2] [430]
 - But would'st thou see thy negroe-train encrease,
 - Free from disorders; and thine acres clad
 - With groves of sugar: every week dispense
-- Or English beans, or Carolinian rice;[^f147n2]
-- Iërne's beef, or Pensilvanian flour;[^f147n3] [435]
-- Newfoundland cod,[^f147n4] or herrings from the main
+- Or English beans, or Carolinian rice;[^f147n3]
+- Iërne's beef, or Pensilvanian flour;[^f147n4] [435]
+- Newfoundland cod,[^f147n5] or herrings from the main
 - That howls tempestuous round the Scotian isles!
 
 - YET some there are so lazily inclin'd,
@@ -63,13 +63,16 @@ Various plants and fruits from Brazil, including cashews and papayas, engraved p
 - Daily, their wholesome viands must prepare:
 - With these let all the young, and childless old,
 
-[^f147n1]: Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
 
-[^f147n2]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
+[^f147n1]: Ethiop and Ethiopia were sometimes used by the Greeks and Romans to refer to a specific people and region of Africa, but Ethiop was used to designate a generically black African as well. Ethiopians also were referenced in a classical proverb about “washing the Ethiopian” or turning black skin white. The proverb and subsequent versions, which were widely circulated in the early modern period and eighteenth century, framed the task as impossible and hence were used in justifications of racial difference based on skin color.
 
-[^f147n3]: Iërne is a term for Ireland, which supplied Caribbean plantations with salted beef and other provisions. Beef also came from the North American colonies, as did flour.
+[^f147n2]: Grainger addresses the fact that, in order to economize on costs, planters did not provide enslaved laborers with enough food. Likewise, they wanted to maximize the amount of fertile land was dedicated to sugar cane and therefore did not engage in the large-scale cultivation of provision crops. In addition to working full-time to produce sugar and other commodity crops, then, enslaved laborers were frequently required to cultivate provision grounds or gardens to supplement their diets. The lands allotted for provision grounds were generally rocky, mountainous plots with poor soil.  
 
-[^f147n4]: The waters off the coast of Newfoundland in the North Atlantic constituted one of the major fisheries of the world for the Atlantic cod (*Gadus morhua*) in the eighteenth century. Planters imported cod for enslaved laborers, who needed protein, but they imported what came to be known as "West India cod," which was salted cod of the poorest quality.  
+[^f147n3]: Beans or peas, as they were often called in the Caribbean, were a major source of nutrition for the enslaved. English beans are also known as fava, broad, or horse beans (*Vicia faba*), which originated in Western Asia thousands of years ago and spread from there to Central Asia, Europe, and Africa. They were sometimes sent from England to the Caribbean to serve as provisions. They also formed part of the provisions of slave ships. The horse bean was not as central to the diets of the enslaved as other bean species, however, many of which were cultivated by the enslaved themselves. Rice also did not make up a major part of the diets of the enslaved in the Caribbean, but South Carolina was the major Atlantic exporter of the rice species known as *Oryza sativa*, which originated in Asia. There is also a species of rice indigenous to Africa known as *Oryza glaberrima*. Enslaved persons may occasionally have grown both *Oryza sativa* and *Oryza glaberrima* in their provision grounds and gardens.  
+
+[^f147n4]: Iërne is a term for Ireland, which supplied Caribbean plantations with salted beef and other provisions. Beef also came from the North American colonies, as did flour.
+
+[^f147n5]: The waters off the coast of Newfoundland in the North Atlantic constituted one of the major fisheries of the world for the Atlantic cod (*Gadus morhua*) in the eighteenth century. Planters imported cod for enslaved laborers, who needed protein, but they imported what came to be known as "West India cod," which was salted cod of the poorest quality.  
 
 ---
 
@@ -164,18 +167,18 @@ Various plants and fruits from Brazil, including cashews and papayas, engraved p
 - THIS tract secure, with hedges or of limes, [465]
 - Or bushy citrons, or the shapely tree
 - That glows at once with aromatic blooms,
-- And golden fruit mature. To these be join'd,
+- And golden fruit mature.[^f150n1] To these be join'd,
 - In comely neighbourhood, the cotton shrub;
 - In this delicious clime the cotton bursts [470]
-- On rocky soils.—The coffee also plant;
+- On rocky soils.[^f150n2]—The coffee also plant;
 - White as the skin of Albion's lovely fair,
-- Are the thick snowy fragrant blooms it boasts:
-- Nor wilt thou, cocô, thy rich pods refuse;
+- Are the thick snowy fragrant blooms it boasts:[^f150n3]
+- Nor wilt thou, cocô,[^f150n4] thy rich pods refuse;
 - Tho' years, and heat, and moisture they require, [475]
-- Ere the stone grind them to the food of health.
+- Ere the stone grind them to the food of health.[^f150n5]
 - Of thee, perhaps, and of thy various sorts,
 - And that kind sheltering tree, thy mother nam'd,
-- With crimson flowerets prodigally grac'd;
+- With crimson flowerets prodigally grac'd;[^f150n6]
 - In future times, the enraptur'd muse may sing: [480]
 - If public favour crown her present lay.
 
@@ -187,6 +190,18 @@ Various plants and fruits from Brazil, including cashews and papayas, engraved p
 > VER. 466. *the shapely tree*\] The orange tree.
 
 > VER. 478. *thy mother nam'd*\] See Book I p. 43.
+
+[^f150n1]: Grainger is describing members of the genus Citrus. Citrus fruits originated in Southeast Asia and spread from there to the Mediterranean and Spain. Columbus brought sour oranges (*Citrus aurantium*), sweet oranges (*Citrus sinensis*), limes (*Citrus aurantifolia*), and citrons (*Citrus medica*) to the Caribbean. He probably also carried lemons (*Citrus limon*) (Higman 175).
+
+[^f150n2]: Commercial cotton (genus *Gossypium*) is produced from several different species, some of which are native to the Old World and others of which are native to the New World. 
+
+[^f150n3]: Coffee is made from the roasted seeds of the genus *Coffea*. *Coffea arabica*, the most widely cultivated species, is native to northeast tropical Africa.
+
+[^f150n4]: Cacao. The cacao tree (*Theobroma cacao*) is the source of chocolate, which is made from the seeds of the cacao tree. Cacao is native to Central and South America and was first cultivated by Amerindians thousands of years ago. Europeans first encountered cacao in Mexico, where the Aztecs placed a high value on it: cacao was prepared into chocolate drinks that were consumed by the Aztec elite, as well as during religious rituals, and cacao seeds were used as currency and tribute. Cacao was first brought to the Caribbean by Spaniards, who established plantations to supply Europe with chocolate. Although some Europeans initially found the taste of chocolate off-putting (the Aztecs did not add sugar to their chocolate), it was being consumed in Europe in significant quantities by the seventeenth century.  
+
+[^f150n5]: Cacao seeds are ground up to produce chocolate, which was branded as early as the seventeenth century as a kind of miracle food that would give its consumers health and strength. For instance, see the title of Henry Stubbe's 1662 treatise on chocolate, entitled *The Indian Nectar*, which portrayed chocolate not only as a health food but also as an aphrodisiac. There were also reports from seventeenth-century Jamaica that sailors and others who had to perform hard labor consumed it regularly. It is possible that maroons living in the mountains of Jamaica consumed chocolate as a subsistence food, too (Hughes, *The American Physitian* 131).
+
+[^f150n6]: Grainger is referring to a tree known as Madre de Cacao (*Gliricidia sepium*). Its native range includes Mexico, Central America, and South America, and it is used as a shade tree for cacao and other plants.  
 
 ---
 
