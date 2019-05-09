@@ -9,7 +9,7 @@ permalink: /excerpts/obeah.html
 
 ## Obeah
 
-In Book 4, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was—and how readers should interpret Grainger and others' references to it—remains a major question.
+In Book IV, Grainger mentions "Obia-men" (379) and "Obia" (381), also commonly spelled "obeah men" and "obeah." Although obeah increasingly became the preoccupation of authors writing about the Caribbean in the years following the publication of the first edition of *The Sugar-Cane* in 1764, what exactly obeah was—and how readers should interpret Grainger and others' references to it—remains a major question.
 
 In 1799, Benjamin Moseley published a work entitled *A Treatise on Sugar* that included an influential description of obeah. Calling it a "*black art*" and an "occult science," Moseley described obeah men or practitioners as "ugly, loathsome creatures" who were "resorted to secretly, by the wretched in mind, and by the malicious, for wicked purposes" (170-171). In doing so, Moseley associated obeah with black magic, an association that lingers even today.  
 
@@ -17,7 +17,7 @@ The accuracy of Moseley's description is highly questionable, however. Moseley w
 
 Because obeah practitioners had played highly visible roles in Tacky's Revolt, obeah in the years following 1760 became a stigmatized, reviled, and feared practice among colonists. Tacky had planned the revolt with obeah practitioners, who had encouraged the rebels by claiming that they could prevent them from being harmed by bullets. As a result, on December 18, 1760, the Jamaican legislature passed a law that outlawed the practice of obeah and threatened those who violated the law with transportation or death. Obeah also began to be characterized in more extreme and lurid fashion in writings by colonial and European authors, as Moseley's account indicates. Indeed, prior to 1760, although obeah had been mentioned in accounts of the Caribbean, it was not associated with the threat of rebellion. Rather, it was viewed as a fairly harmless, if deluded, form of superstitious belief akin to European witchcraft or conjuring.
 
-In spite of the tendency of colonists and Europeans to dismiss obeah and obeah practitioners, obeah actually was a complex of religious and medical practices designed to alleviate the hardships of working and living on the plantation. If obeah practitioners did not possess perfect knowledge of disease, medicine, and healing, they probably did less harm to their patients than did European doctors, who tended to use such "heroic" forms of medical treatment as dosing their patients with mercury. Indeed, obeah practitioners could be viewed as "herbalists" or "sages" who used their knowledge of plants and natural cures to help the enslaved deal with the many illnesses and injuries, physical and psychological, that they suffered as a result of overwork, inadequate nutrition, punishment, and abuse (Brown, *Reaper's Garden* 146). Obeah men also could be viewed as shamans because they were supposed to be able to communicate with and direct spiritual or supernatural forces. While such direction was often characterized by colonial and European authors as malevolent in intent, obeah practitioners and their followers more likely conceived of obeah as a way to channel non-human forces for their own benefit. Of course, what benefited the enslaved could result in action against the planter, who often was the direct source of the troubles faced by the enslaved.  
+In spite of the tendency of colonists and Europeans to dismiss obeah and obeah practitioners, obeah actually was a complex of religious and medical practices designed to alleviate the hardships of working and living on the plantation. If obeah practitioners did not possess perfect knowledge of disease, medicine, and healing, they probably did less harm to their patients than did European doctors, who tended to use such "heroic" forms of medical treatment as dosing their patients with mercury. Indeed, obeah practitioners could be viewed as "herbalists" or "sages" who used their knowledge of plants and natural cures to help the enslaved deal with the many illnesses and injuries, physical and psychological, that they suffered as a result of overwork, inadequate nutrition, punishment, and abuse (Brown, *Reaper's Garden* 146). Obeah men also could be viewed as shamans because they were supposed to be able to communicate with and direct spiritual or supernatural forces. While such direction was often characterized by colonial and European authors as malevolent in intent, obeah practitioners and their followers more likely conceived of obeah as a way to channel non-human forces for their own benefit. Of course, what benefited the enslaved could result in action against the planter, who often was the source of the troubles faced by the enslaved.  
 
 Grainger's representation of obeah is interesting because it was composed in the immediate aftermath of Tacky's Revolt. As you read, you may want to think about the following questions: How does Grainger represent obeah, and does his description associate obeah with any forms of rebellion? What effects does he see obeah having on enslaved laborers and the plantation? How does he characterize obeah men and those who believed in obeah?  
 
@@ -125,13 +125,9 @@ Note: For more on Tacky's Revolt, see <a href="http://revolt.axismaps.com/projec
 - Their feet in blotches, which admit no cure,
 - Burst loathsome out: but should its owner filch,
 - As slaves were ever of the pilfering kind,
-- This from detection screens;—so conjurers swear. [405]
+- This from detection screens;—so conjurers swear.... [405]
 
-- 'TILL morning dawn, and Lucifer[^f145n2] withdraw
-- His beamy chariot; let not the loud bell
 
 [^f145n1]: In addition to referring to a set of practices and beliefs, "obeah" or "obi" also could refer to a charm that would protect or curse an individual. These charms were often made up of a combination of materials that were believed to have spiritual or sacred significance.  
-
-[^f145n2]: Also known as Phosphorus. In Greek mythology, the bringer of morning light.
 
 ---
