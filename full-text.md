@@ -231,7 +231,7 @@ BOOK I.
 
 [^f3n1]: Planting by the signs, also known as agricultural astrology, is a cultivation method that advises planting and harvesting crops based on moon phases and the astrological calendar.
 
-[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugar cane into the final product of crystallized sugar; and Book IV deals with the management, treatment, and discipline of enslaved laborers.
+[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugarcane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugarcane into the final product of crystallized sugar; and Book IV deals with the management, treatment, and discipline of enslaved laborers.
 
 [^f3n3]: Myrtle \(*Myrtus communis*\) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louise was born before he began composing the poem.
 
@@ -285,7 +285,7 @@ BOOK I.
 
 [^f4n9]: *Shokhar*, meaning intoxicated.
 
-[^f4n10]: In this note, Grainger traces the movement of sugar cane from India to the Americas. Sugar cane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugar cane was being refined into crystallized sugar in India and Persia. From there, sugar cane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).
+[^f4n10]: In this note, Grainger traces the movement of sugarcane from India to the Americas. Sugarcane (*Saccharum officinarum*) is most likely native to New Guinea, where it was first cultivated thousands of years ago and from where it began to be dispersed by human migrants around 8000 BCE. By the fourth to sixth centuries CE, sugarcane was being refined into crystallized sugar in India and Persia. From there, sugarcane and knowledge of sugar cultivation, processing, and refining traveled to the Mediterranean. The Spanish then transplanted sugar to the Americas and established plantations there (Columbus first brought sugar to the Caribbean in 1493).
 
 ---
 
@@ -299,11 +299,11 @@ BOOK I.
 
 > der on the Pyrenean mountains. It was also successfully cultivated in Egypt, and in many places on the Barbary-coast.[^f5n2] From the Mediterranean, the Spaniards and Portuguese transported the Cane to the Azores, the Madeiras, the Canary and the Cape-Verd islands, soon after they had been discovered in the fifteenth century: and, in most of these, particularly Madeira, it throve exceedingly.[^f5n3] Whether the Cane is a native of either the Great or Lesser Antilles[^f5n4] cannot now be determined, for their discoverers were so wholly employed in searching after imaginary gold-mines, that they took little or no notice of the natural productions. Indeed the wars, wherein they wantonly engaged themselves with the natives, was another hindrance to physical investigation. But whether the Cane was a production of the West-Indies or not, it is probable, the Spaniards and Portuguese did not begin to cultivate it either there or in South America (where it certainly was found), till some years after their discovery. It is also equally uncertain whether Sugar was first made in the Islands or on the Continent, and whether the Spaniards or Portuguese were the first planters in the new world: it is indeed most likely that the latter erected the first sugar-works in Brazil, as they are more lively and enterprizing than the Spaniards. However they had not long the start of the latter; for, in 1506, Ferdinand the Catholic[^f5n5] ordered the Cane to be carried from the Canaries to St. Domingo,[^f5n6] in which island one Pedro de Atenca soon after built an *Ingenio de açucar*, for so the Spaniards call a Sugar-work. But, though they began thus early to turn their thoughts to sugar, the Portuguese far outstripped them in that trade; for Lisbon soon supplied most of Europe with that commodity; and, notwithstanding the English then paid the Portuguese at the rate of 4 *l. per C.* wt.[^f5n7] for muscovado,[^f5n8] yet that price, great as it may now appear, was probably much less than what the Sugar from the East-Indies[^f5n9] had commonly been sold for. Indeed, so intent was the Crown of Portugal on extending their Brazil-trade, that that of the East-Indies began to be neglected, and soon after suffered a manifest decay. However, their sugar made them ample amends, in which trade they continued almost without a rival for upwards of a century. At last the Dutch, in 1623, drove the Portuguese out of all the northern part of Brazil; and, during the one and twenty years they kept that conquest, those industrious republicans learned the art of making sugar. This probably inspired the English with a desire
 
-[^f5n1]: As sugar cane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugar cane.
+[^f5n1]: As sugarcane grows, it forms segments called joints. Grainger is thus referring here to the growth of sugarcane.
 
 [^f5n2]: Mediterranean coastline of North Africa that runs from modern Egypt to the Atlantic Ocean and includes parts of Morocco, Algeria, Tunisia, and Libya.
 
-[^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugar cane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
+[^f5n3]: The Azores, Madeiras, Canary Islands, and Cape Verde Islands are groups of islands in the eastern Atlantic Ocean relatively close to the coasts of Europe and Africa. They often served as waystations for Europeans voyaging from Europe or Africa to the Americas. As Grainger remarks, sugarcane was introduced by the Spanish and Portuguese to these islands in the fifteenth century. The sugar plantations that were established there became models for the ones that were subsequently established in the Caribbean.
 
 [^f5n4]: The "Errata" list at the end of *The Sugar-Cane* indicates that "lesser" (or "Lesser") should read "less" (or "Less"). The term Antilles refers to the islands of the Caribbean and is often used as a substitute for West Indies. The Greater Antilles are the large islands on the northwest end of the archipelago and include Cuba, Jamaica, Hispaniola (Haiti and the Dominican Republic), and Puerto Rico. The Lesser Antilles (further split into the Windward and Leeward Islands) are the islands ranging from the Virgin Islands in the north to Grenada in the south. St. Kitts is one of the Leeward Islands in the Lesser Antilles.
 
@@ -454,7 +454,7 @@ BOOK I.
 
 [^f9n1]: The dog star is another name for Sirius, the brightest star in the constellation Canis Major. Sirius rises in conjunction with the sun from July 3 to August 11, which are known as the "dog days" of summer.
 
-[^f9n2]: Sugar cane turns yellow when it is ripe.
+[^f9n2]: Sugarcane turns yellow when it is ripe.
 
 [^f9n3]: Gilmore defines after-offspring as second-growth cane that sprouts from the stumps once first-growth stalks have been cut and harvested (also known as "ratoon cane").
 
@@ -2314,7 +2314,7 @@ BOOK II.
 
 [^f64n1]: The red coats of British officers were dyed with cochineal. James Wolfe (1727-1759) was an English army officer. Like Grainger, he served in the Netherlands during the War of Austrian Succession (1740-1748) and during the Scottish Jacobite Rising of 1745. Appointed Major-General in North America in 1758, Wolfe is perhaps best known for defeating French general Louis-Joseph de Montcalm-Grozon, marquis de Montcalm, and the French army on the Plains of Abraham outside of Quebec city in September 1759. Wolfe was fatally wounded during the battle, but his victory brought an end to the Seven Years' War (1756-1763).  
 
-[^f64n2]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
+[^f64n2]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugarcane). Grainger may be referring to the sugarcane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugarcane plants and do great damage on plantations.
 
 [^f64n3]: Augeas, king of Elis, owned the stables that Hercules cleaned in the course of completing one of his twelve labors. Grainger is comparing the labor of washing every leaf in a cane field with the labors of Hercules, who cleaned the stables by redirecting the Alpheus and Peneus rivers through them.
 
@@ -3200,7 +3200,7 @@ BOOK III.
 
 > VER. 81. *And where thy dried Canes*\] The Cane-stalks which have been ground, are called *Magoss*; probably a corruption of the French word *Bagasse*,[^f91n1] which signifies the same thing. They make an excellent fewel.
 
-[^f91n1]: Bagasse refers to the crushed sugar cane stalks that are the byproduct of milling cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
+[^f91n1]: Bagasse refers to the crushed sugarcane stalks that are the byproduct of milling cane. Rich in cellulose, bagasse can be used as fuel to boil cane syrup and as cattle feed.  
 
 ---
 
@@ -3234,7 +3234,7 @@ BOOK III.
 
 [^f92n1]: Windmill sails.  
 
-[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugar cane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
+[^f92n2]: In *An Essay on the More Common West-India Diseases* (1764), Grainger writes that enslaved laborers "should not only be allowed to drink what quantity of the cane juice they think proper, but even obliged to drink it" during crop time (10). However, planters sometimes inflicted severe punishments when the enslaved ate or consumed sugarcane. For example, the eighteenth-century Jamaican planter Thomas Thistlewood punished an enslaved African named Egypt for eating sugarcane by whipping him and giving him "Derby's dose," a phrase Thistlewood used to refer to the act of having one enslaved African defecate in another's mouth (Hall 73).   
 
 [^f92n3]: Cane juice begins to spoil as soon as the plant is cut. As a result, planters preferred to run their mills and boiling houses around the clock during crop time.  
 
@@ -3269,9 +3269,9 @@ BOOK III.
 
 [^f93n1]: The morning star or the planet Venus when found in the sky before sunrise.  
 
-[^f93n2]: Sugar cane turns yellow when it is ripe.  
+[^f93n2]: Sugarcane turns yellow when it is ripe.  
 
-[^f93n3]: Sugar cane buds. To produce new sugar cane, sugar cane stalks with buds on them were planted in the ground.  
+[^f93n3]: Sugarcane buds. To produce new sugarcane, sugarcane stalks with buds on them were planted in the ground.  
 
 ---
 
@@ -3766,7 +3766,7 @@ BOOK III.
 
 [^f106n4]: Charles-Marie de La Condamine (1701-1774), a French scientist, participated with Ulloa in a geodesic mission to the equator in Peru to measure the earth's true shape. After the mission was completed, La Condamine published the *Relation abrégée d'un voyage fait dans l'intérieur de l'Amérique méridionale* (1745) and *Journal du voyage fait par ordre du roi a l’équateur* (1751).
 
-[^f106n5]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugar cane, and colonists often would eat it, mistaking it for the sugar cane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
+[^f106n5]: *Dieffenbachia seguine*. The dumb cane looks very similar to sugarcane, and colonists often would eat it, mistaking it for the sugarcane. The dumb cane contains a poisonous sap, however, that swells the tongues of those who consume it and prevents them from speaking for several hours. Its native range is the Caribbean and tropical South America.  
 
 [^f106n6]: Grainger is referring to Thomas Trapham, author of *A Discourse of the State of Health in the Island of Jamaica* (1679).
 
