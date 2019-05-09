@@ -154,7 +154,7 @@ Illustrations of Insects from Saint Domingue (Haiti), engraved plate from Pere N
 
 [^f64n3]: George III (1738-1820), king of Britain from 1760 to 1820.
 
-[^f64n4]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugar cane). Grainger may be referring to the sugar cane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugar cane plants and do great damage on plantations.
+[^f64n4]: Father killer. Here, Grainger refers to parasites—and perhaps puns on the similarities between "paracide" and "parasite"—that kill the plants on which they feed (in this case, the sugarcane). Grainger may be referring to the sugarcane borer (*Diatraea saccharalis*), a moth native to South and Central America whose larvae bore holes in sugarcane plants and do great damage on plantations.
 
 ---
 

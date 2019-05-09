@@ -5260,7 +5260,7 @@ BOOK IV.
 > VER. 456. *bonavist*\] This is the Spanish name of a plant, which produces an excellent bean. It is a parasitical plant. There are five sorts of bonavist, the green, the white, the
 
 
-[^f148n1]: Refers to the pigeon pea. Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in provision grounds because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
+[^f148n1]: Refers to the pigeon pea (*Cajanus cajan*). Pigeon pea is a drought-resistant crop that has historically been important for small-scale farmers in semi-arid areas. It was commonly grown in provision grounds because it could survive without much water or attention. It is native to South Asia and was first domesticated in India. By 2000 BCE, it also was being cultivated in East Africa, from where it was brought to the Americas, most likely as a result of the slave trade.  
 
 [^f148n2]: A species of bean (*Lablab purpureus*) whose native range includes the Cape Verde Islands, tropical and southern Africa, Madagascar, and India.
 

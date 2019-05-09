@@ -36,7 +36,7 @@ BOOK I.
 
 [^f3n1]: Planting by the signs, also known as agricultural astrology, is a cultivation method that advises planting and harvesting crops based on moon phases and the astrological calendar.
 
-[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugar cane into the final product of crystallized sugar; and Book IV deals with the management, treatment, and discipline of enslaved laborers.    
+[^f3n2]: The first four lines of the poem summarize the topics Grainger addresses in the four books of the poem. Book I introduces the reader to sugar cane and its cultivation; Book II concerns potential problems planters face in cultivating cane; Book III discusses the process of turning sugarcane into the final product of crystallized sugar; and Book IV deals with the management, treatment, and discipline of enslaved laborers.    
 
 [^f3n3]: Myrtle (*Myrtus communis*) is an aromatic shrub native to the Mediterranean region and associated with Venus, the goddess of love. Rather than a traditional invocation of the muse, *The Sugar-Cane* begins with a muse who has been wandering and in love. Indeed, Grainger married Daniel Matthew Burt, whom he met during his transatlantic voyage to St. Kitts and who was the daughter of one of the most prominent planter families of the island, in 1759. Their daughter Louise was born before he began composing the poem.
 
