@@ -184,7 +184,7 @@ class="center-image" />
 - Deny protection? Muse suppress the tale.
 
 - YE! who in bundles bind the lopt-off Canes; [180]
-- But chiefly ye! who feed the tight-brac'd mill...
+- But chiefly ye! who feed the tight-brac'd mill....
 
 > Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
@@ -206,7 +206,7 @@ class="center-image" />
 - Thy boiling-house be lofty: all atop
 - Open, and pervious to the tropic breeze;
 - Whose cool perflation,[^f105n3] wooed through many a grate, [340]
-- Dispells the steam, and gives the lungs to play.
+- Dispells the steam, and gives the lungs to play....
 
 > VER. 339. *Open, and pervious*\] This also assists the christallization of the Sugar.
 
@@ -214,7 +214,7 @@ class="center-image" />
 
 [^f105n2]: Lung infections or diseases.  
 
-[^f105n3]: Ventilation provided by air blowing through a space...    
+[^f105n3]: Ventilation provided by air blowing through a space.    
 
 ---
 
@@ -254,7 +254,7 @@ class="center-image" />
 - Or lime sufficient granulate the juice: [430]
 - In vain the thickning liquor is effus'd;
 - An heterogeneous, an uncertain mass,
-- And never in thy coolers to condense...
+- And never in thy coolers to condense....
 
 
 > VER. 428. *If too soon they strike,*\] When the Cane-juice is granulated sufficiently, which is known by the Sugar's sticking to the ladle, and roping like a syrup, but breaking off from its edges; it is poured into a cooler, where, its surface being smoothed, the christallization is soon completed. This is called *striking*. The general precept is to temper high, and strike low. When the Muscovado is of a proper consistence, it is dug out of the cooler, and put into hogsheads; this is called *potting*. The casks being placed upon staunchions, the melasses drips from them into a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently cured, when the hogshead rings upon being struck with a stick; and when the two canes, which are put into every cask, shew no melasses upon them, when drawn out of it.
