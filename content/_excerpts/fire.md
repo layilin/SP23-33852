@@ -112,8 +112,5 @@ class="center-image" />
 - All, all must perish; nor shalt thou preserve
 - Wherewith to feed thy little orphan-throng. [90]
 
-- OH, may the Cane-isles know few nights, like this!
-
-...
-
+- OH, may the Cane-isles know few nights, like this!...
 ---
