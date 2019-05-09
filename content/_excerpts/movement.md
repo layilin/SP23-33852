@@ -20,6 +20,13 @@ How Grainger's portrayal of dancing and movement in the below passages shifts is
 > —*Julie Chun Kim*
 {:.right}
 
+
+<img src="{{site.baseurl}}/assets/Musical Instruments.jpg"
+alt="African Musical Instruments in Guiana"
+class="center-image" />
+"African musical instruments played in Guiana," etched plate from Giuseppe Erba Odescalchi, *Il costume antico e moderno*, Milan, 1821, following p. 428.
+{:.centered}
+
 ---
 
 
