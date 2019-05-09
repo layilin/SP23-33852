@@ -209,6 +209,6 @@ Various plants and fruits from Brazil, including cashews and papayas, engraved p
 [151]({{site.baseurl}}/images/p0165.jpg)
 
 - And shrubby wilds, in bands will soon destroy
-- Thy labourer's honest wealth; their loss and yours.
+- Thy labourer's honest wealth; their loss and yours....
 
 ---
