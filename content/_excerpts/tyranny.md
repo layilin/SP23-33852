@@ -47,7 +47,7 @@ Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring
 <img src="{{site.baseurl}}/assets/phillis_wheatley.jpg"
 alt="Portrait of Phillis Wheatley"
 class="center-image" />
-"Portrait of Phillis Wheatley," engraved plate from Phillis Wheatley, *Poems on Various Subjects, Religious and Moral*, London, 1773, frontispiece.
+"Phillis Wheatley," engraved plate from Phillis Wheatley, *Poems on Various Subjects, Religious and Moral*, London, 1773, frontispiece.
 {:.centered}
 
 [^fn1]: See <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="blank">*Declaration of Independence*</a> at the National Archives; <a href="https://www.gouvernement.fr/en/the-marseillaise" target="blank">*The Marseillaise*</a>; and Julia Gaffield, ed. *The Haitian Declaration of Independence: Creation, Context, and Legacy*.
