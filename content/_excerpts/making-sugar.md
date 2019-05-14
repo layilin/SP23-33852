@@ -24,7 +24,7 @@ Note: For further reading about the portrayal of labor and slavery in eighteenth
 <img src="{{site.baseurl}}/assets/a_mill_yard.jpg"
 alt="A Mill Yard"
 class="center-image" />
-"A Mill Yard," hand colored lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 4.
+"A Mill Yard," hand-colored lithograph in untitled folio published by the Ladies' Society for Promoting the Early Education of Negro Children, London, [ca. 1833-37]. Copied from William Clark, *Ten Views of the Island of Antigua*, London, 1823, pl. 4.
 {:.centered}
 
 ---
