@@ -30,7 +30,7 @@ Note: B. W. Higman's *Jamaican Food* was an invaluable source of information for
 <img src="{{site.baseurl}}/assets/provisiongrounds.jpg"
 alt="Various plants and fruits from Brazil"
 class="center-image" />
-Various plants and fruits from Brazil, including cashews and papayas, engraved plate from *A Collection of Voyages and Travels*, London, 1704, vol. 2, following p. 138.
+Various plants and fruits from Brazil, including cashews and papayas, engraved plate from *A Collection of Voyages and Travels*, London, 1704, v. 2, following p. 138.
 {:.centered}
 
 ---

@@ -26,7 +26,7 @@ Note: Matthew Mulcahy's *Hurricanes and Society in the British Greater Caribbean
 <img src="{{site.baseurl}}/assets/climate hurricane.jpg"
 alt="Hurricane strikes land"
 class="center-image" />
-"Hurricane strikes land," engraved plate from Pieter van der Aa, *Naaukeurige versameling der gedenk-waardigste zee en land-reysen na Oost en West-Indiën*, Leiden, 1707, following p. 12.
+Hurricane, engraved plate from Pieter van der Aa, *Naaukeurige versameling der gedenk-waardigste zee en land-reysen na Oost en West-Indiën*, Leiden, 1707, following p. 12.
 {:.centered}
 
 ---

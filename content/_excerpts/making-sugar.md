@@ -9,9 +9,9 @@ permalink: /excerpts/sugar-work.html
 
 ## Sugar Work
 
-Book III mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields. He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them.
+Book III mainly focuses on the harvesting and processing of sugarcane and frequently portrays it as an easy and even enjoyable process. For instance, Grainger writes about "mills [that] dance eager in the gale" and describes the enslaved laborers singing cheerfully while working in the fields (165). He also claims that enslavers treat the enslaved so well that manumitting or freeing the enslaved would be the equivalent of "desert[ing]" them (172).
 
-Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugarcanes into "junks a yard in length" and then tie them into "small light bundles." They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery.
+Yet the lines excerpted here also show that Grainger could not always avoid acknowledging the extremely dangerous and fatiguing conditions under which enslaved Africans had to work. The laborers had to cut the sugarcanes into "junks a yard in length" and then tie them into "small light bundles" (127-128). They then had to hand-feed the stalks of cane into the mill. This was a process that sometimes resulted in horrific accidents, as limbs could easily catch in the mill's cane-crushing rollers. As you read the lines in which Grainger describes such an incident, think about how Grainger describes what happens and whether the lines maintain or contradict Grainger's fantasy of happy slavery.
 
 Also pay attention to Grainger's descriptions of the laborers he calls "boilers." Boilers had to watch over the giant vats or "coppers" in which the crushed sugarcane was boiled, reduced to a syrup, and then crystallized into solid sugar. Working in the boiling house was one of the most difficult and fatiguing jobs on the plantation because the boilers were dealing with heavy equipment and high temperatures. Nevertheless, because boilers also were highly skilled—they had to know exactly when the sugar had boiled enough and was ready to crystallize—they were the laborers that planters depended on the most. Indeed, even though planters and overseers often made a show of supervising the crystallization of cane, they had to rely on the expertise of the boilers, who therefore were sometimes able to extract concessions from their enslavers. As such, when you read these lines, also think about how the boilers are portrayed and whether Grainger acknowledges their special status. Does Grainger ever point to the centrality of the labor performed by the enslaved?
 
@@ -24,7 +24,7 @@ Note: For further reading about the portrayal of labor and slavery in eighteenth
 <img src="{{site.baseurl}}/assets/a_mill_yard.jpg"
 alt="A Mill Yard"
 class="center-image" />
-"A Mill Yard," hand colored lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 4.
+"A Mill Yard," hand-colored lithograph in untitled folio published by the Ladies' Society for Promoting the Early Education of Negro Children, London, [ca. 1833-37]. Copied from William Clark, *Ten Views of the Island of Antigua*, London, 1823, pl. 4.
 {:.centered}
 
 ---

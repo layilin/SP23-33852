@@ -22,7 +22,7 @@ Note: For a more in-depth look at the tradition of emblematic natural history, p
 <img src="{{site.baseurl}}/assets/Insects - Picture.jpg"
 alt="Insects of the Caribbean"
 class="center-image"/>
-Illustrations of Insects from Saint Domingue (Haiti), engraved plate from Pere Nicolson, *Essai sur l'histoire naturelle de l'isle de Saint-Domingue, avec des figures en taille-douce*, Paris, 1776, following p. 352.
+Illustrations of insects from Saint-Domingue (Haiti), engraved plate from Père Nicolson, *Essai sur l'histoire naturelle de l'isle de Saint-Domingue*, Paris, 1776, following p. 352.
 {:.centered}
 
 
