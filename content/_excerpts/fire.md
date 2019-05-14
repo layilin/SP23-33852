@@ -25,8 +25,9 @@ Note: Kathleen Donegan's "Barbados: Wild Extravagance" (in her book *Seasons of 
 <img src="{{site.baseurl}}/assets/cutting_the_sugar-cane.jpg"
 alt="Cutting the Sugar-Cane"
 class="center-image" />
-"Cutting the Sugar-Cane," hand colored lithograph from William Clark, Infant School Society Depository, London, 1833, pl. 3.
+"Cutting the Sugar-Cane," hand-colored lithograph in untitled folio published by the Ladies' Society for Promoting the Early Education of Negro Children, London, [ca. 1833-37]. Copied from William Clark, *Ten Views of the Island of Antigua*, London, 1823, pl. 3.
 {:.centered}
+
 
 ---
 
