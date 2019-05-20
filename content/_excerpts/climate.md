@@ -9,15 +9,13 @@ permalink: /excerpts/climate.html
 
 ## Climate  
 
-The tropical climate of the Caribbean islands can broadly be divided into the wet season of the summer months and the dry season of the winter months. The warm waters of the Atlantic Ocean and the Caribbean Sea determine a general equability of temperature across the region, with maximum temperatures rarely rising above 100°F/38°C. Such a climate enabled colonial cane cultivation on a widespread scale throughout the eighteenth century.
+The tropical climate of the Caribbean enabled colonial cane cultivation on a widespread scale. At the same time, this climate was characterized by extreme and potentially damaging weather events, including periods of intense rainfall. These periods tended to coincide with the hurricane season. Hurricane season runs from approximately June to November and peaks in August and September. During such months, up to twenty inches of rain can fall within the span of two to three days, and strong winds are apt to cause significant damage. Such tempests in Grainger's poem cause dread for the planter, who is advised by the poet to "Remark the various signs of future rain" with "curious ken" (I.311-312). Grainger's advice suggests that the planter cannot relax in his attention to the tropical environment, which poses a threat to the plantation. Nevertheless, it is worth asking questions like, What can the planter actually do in the face of a storm? Can the environment of the Caribbean be mastered for profit?
 
-At the same time, there are differences in rainfall. For one, topographical variabilities, including the distribution of mountains, contribute to differences in precipitation, which increases in amount with altitude. Also, the periods of greatest rainfall coincide with the hurricane season, which falls between June and November and peaks in August and September. During such months, up to twenty inches of rain may fall within the span of two to three days, and strong winds are apt to cause significant damage. Such tempests in Grainger's poem cause dread for the planter, who is advised by the poet to "Remark the various signs of future rain" with "curious ken" (I.311-312). Grainger's advice seems to suggest that the planter cannot relax in his attention to the tropical environment, which poses a threat to the plantation. Nevertheless, it is worth asking questions like, What can the planter actually do in the face of a storm? Can the environment of the Caribbean be mastered for profit?
+Grainger's anxiety about hurricanes is perhaps expressed by the fact that he dedicated one hundred and ten lines (II.270-380)—almost a fifth of Book II—to describing the effects of one. When reading this description of a hurricane, we can consider the problems Grainger faced as a poet, too: How does Grainger deploy poetic technologies to create sensory immersion in the storm? What new affective or emotional ranges appear under such extreme conditions? Particularly worth focusing on are some passages that show human beings, animals, and plants all made vulnerable by the approach of a storm. Countervailing the colonial narrative of human domination, Grainger's writing about the threat of bad weather illuminates how the separation between the human and non-human can disappear in certain circumstances. 
 
-Grainger's anxiety about hurricanes is perhaps expressed by the fact that he dedicated one hundred and ten lines (II.270-380)—almost a fifth of Book II—to describing the effects of one. When reading this description of a hurricane, we might consider the anxieties and problems Grainger may have faced as a poet as well: How does Grainger manage the tension between the limits and the capacities of language to render overwhelming environmental circumstances? And how does Grainger deploy poetic technologies to create sensory immersion in the storm? What new affective ranges come into experience under such extreme conditions? Does the storm expand or contract the emotional landscape of the plantation? Particularly worth focusing on are some passages that show human beings, animals, and plants all being made vulnerable by the approach of a storm. Countervailing the colonial narrative of human domination, Grainger's writing about the threats of bad weather illuminate how the separation between the human and non-human has the potential to disappear in the environment of the Caribbean.
+In contrast to Grainger, the Antiguan-born British planter Samuel Martin dispenses with any discussion of climate in his popular *An Essay on Plantership*. In this major eighteenth-century treatise on the effective management of a plantation, Martin elaborates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest cane. But even as he comments that there "is not...a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin glosses over the disruptive power of the climate and omits any detail of "the destruction \[caused\] by hurricanes" (18). This choice places stress on the agency of the planter and his administrative practices. How, then, might we interpret *The Sugar-Cane*'s very different commitment to portraying the environmental realities of the Caribbean?
 
-In contrast to Grainger, the Antiguan-born British planter Samuel Martin dispenses with any discussion of climate in his popular *An Essay on Plantership*. In this major eighteenth-century treatise on the effective management of a plantation, Martin elaborates on different types of soil to be found in the British sugar colonies and the best months in which to plant and harvest cane. But even as he comments that there "is not ... a greater error in the whole practice of plantership, than to make sugar, or to plant canes at improper seasons of the year," Martin glosses over the disruptive power of the climate and omits any detail of "the destruction \[caused\] by hurricanes" (Martin 18). This choice places stress on the agency of the planter and his administrative practices and downplays the effects of environmental contingencies. How, then, might we interpret *The Sugar-Cane*'s resolute commitment to the material realities of its specific Caribbean context? How does such a choice situate his text, which lies at the nexus of poetry and natural history?  
-
-Note: Matthew Mulcahy's *Hurricanes and Society in the British Greater Caribbean, 1624-1783* provides a history of storms and hurricanes in the British colonial context; Grainger's poem is mentioned in the second chapter. In his article "The 'Long'd-for Aera' of an 'Other Race': Climate, Identity, and James Grainger's *The Sugar-Cane*," Jim Egan also explores the influence of climate in shaping theories of identity in the colonies.  
+Note: Matthew Mulcahy's *Hurricanes and Society in the British Greater Caribbean, 1624-1783* provides a history of storms and hurricanes in the British colonial context; Grainger's poem is mentioned in the second chapter. In his article "The 'Long'd-for Aera' of an 'Other Race': Climate, Identity, and James Grainger's *The Sugar-Cane*," Jim Egan explores the influence of climate in shaping theories of identity in the colonies.  
 
 > —*Ami Yoon*
 {:.right}
@@ -30,96 +28,6 @@ Hurricane, engraved plate from Pieter van der Aa, *Naaukeurige versameling der g
 {:.centered}
 
 ---
-
-
-[26]({{site.baseurl}}/images/p0040.jpg)
-
-- And with fell rage the stranger-guest assail, [335]
-- Nor spare the sportive child; from their retreats
-- Cockroaches crawl displeasingly abroad:
-- These, without pity, let thy slaves destroy;
-- \(Like Harpies,[^f26n1] they defile whate'er they touch:)
-- While those, the smother of combustion quells. [340]
-- The speckled lizard to its hole retreats,
-
-> VER. 334. *sand-flies,*\] This insect the Spaniards call *Mosquitilla*, being much smaller than the Mosquito. Its bite is like a spark of fire, falling on the skin, which it raises into a small tumour accompanied with itching. But if the sand-fly causes a sharper and more sudden pain than the Mosquito, yet it is a more honourable enemy, for remaining upon the skin after the puncture, it may easily be killed. Its colour is grey and black, striped. Lemon-juice or first runnings cure its bite.
-
-> VER. 337. *Cockroaches crawl*\] This is a large species of the chafer, or scaribaeus, and is a most disagreeable as well as destructive insect. There is scarce any thing which it will not devour, and wherever it has remained for any time, it leaves a nauseous smell behind it. Though better than an inch long, their thickness is no ways correspondent, so that they can insinuate themselves almost through any crevise, *&c*. into cabinets, drawers, *&c*. The smell of cedar is said to frighten them away, but this is a popular mistake, for I have often killed them in presses of that wood. There is a species of Cockroach, which, on account of a beating noise which it makes, especially in the night, is called the Drummer.[^f26n2] Though larger, it is neither of so burnished a colour, nor so quick in its motions as the common sort, than which it is also less frequent, and not so pernicious; yet both will nibble peoples toe-ends, especially if not well washed, and have sometimes occasioned uneasy sores there. They are natives of a warm climate. The French call them *Ravets*.
-
-> VER. 341. *the speckled lizard*\] This is meant of the ground-lizard, and not of the tree-lizard, which is of a fine green colour. There are many kinds of ground-lizards, which, as they are common in the hot parts of Europe, I shall not describe.   
-
-[^f26n1]: Creatures in Greek mythology depicted as winged women or birds with women's faces.
-
-[^f26n2]: *Blaberus discoidalis*.
-
----  
-
-
-[27]({{site.baseurl}}/images/p0041.jpg)
-
-- And black crabs travel from the mountain down;[^f27n1]
-- Thy ducks their feathers prune; thy doves return,
-- In faithful flocks, and, on the neighbouring roof,
-- Perch frequent; where, with pleas'd attention, they [345]
-- Behold the deepening congregated clouds,
-- With sadness, blot the azure vault of heaven.
-
-- NOW, while the shower depends, and rattle loud
-- Your doors and windows, haste ye housewives, place
-- Your spouts and pails; ye Negroes, seek the shade, [350]
-- Save those who open with the ready hoe
-- The enriching water-course: for, see, the drops,
-
->All of them are perfectly innocent. The Caribbeans used to eat them; they are not inferiour to snakes as a medicated food. Snuff forced into their mouth soon convulses them. They change colour, and become torpid; but, in a few hours, recover. The guana, or rather Iguana,[^f27n2] is the largest sort of lizard. This, when irritated, will fly at one. It lives mostly upon fruit. It has a saw-like appearance, which ranges from its head all along its back, to its tail. The flesh of it is esteemed a great delicacy. The first writers on the *Lues Venerea*,[^f27n3] forbid its use, to those who labour under that disease. It is a very ugly animal. In some parts of South-America, the alligator[^f27n4] is called *Iguana*.
-
->VER. 342. *And black crabs*\] Black land-crabs are excellent eating; but as they sometimes will occasion a most violent *cholera morbus*,[^f27n5] (owing, say planters, to their feeding on the mahoe-berry[^f27n6]) they should never be dressed till they have fed for some weeks in a crab-house, after being caught by the Negroes. When they moult, they are most delicate; and then, it is believed, never poison. This however is certain, that at that time they have no gall, but, in its stead, the petrifaction called a Crabs-eye is found. As I have frequently observed their great claws (with which they severely bite the unwary) of very unequal sizes, it is probable, these regenerate when broke off by accident, or otherwise.
-
-[^f27n1]: Probably *Gecarcinus ruricola*, also known as the black land crab. One of several species of terrestrial or land crabs, the black land crab lives in damp and shaded forest areas inland and migrates in large numbers to the sea to breed. It is one of the most commonly exploited land crabs for human consumption in the Caribbean. Eighteenth-century observers were often fascinated by the mass migration of land crabs.  
-
-[^f27n2]: A family of crested lizards (order Squamata, suborder Sauria). More than seven hundred species have been identified; they are found principally in the temperate and tropical Americas. Their flesh and eggs are valued for food.  
-
-[^f27n3]: *Lues venerea* was the medical term used for syphilis (also commonly known by the British as the "French pox"). There were no effective treatments for syphilis until the early twentieth century.
-
-[^f27n4]: The American alligator, *Alligator mississippiensis*.  
-
-[^f27n5]: *Cholera morbus* is used in modern medicine to describe the water-borne disease caused by *Vibrio cholerae*. In the eighteenth century, however, it described a variety of illnesses with symptoms like diarrhea, vomiting, dehydration, and abdominal pain.
-
-[^f27n6]: May be the berries from the blue mahoe (*Hibiscus elatus*), a tree whose native range is Cuba and Jamaica. Also naturalized to other parts of the Caribbean; now the national tree of Jamaica.  
-
----  
-
-
-[28]({{site.baseurl}}/images/p0042.jpg)
-
-- Which fell with slight aspersion, now descend
-- In streams continuous on the laughing land.
-- The coyest Naiads[^f28n1] quit their rocky caves, [355]
-- And, with delight, run brawling to the main;
-- While those, who love still visible to glad
-- The thirsty plains from never-ceasing urns,
-- Assume more awful majesty, and pour,
-- With force resistless, down the channel'd rocks. [360]
-- The rocks, or split, or hurried from their base,
-- With trees, are whirl'd impetuous to the sea:
-- Fluctuates the forest; the torn mountains roar:
-- The main itself recoils for many a league,
-- While its green face is chang'd to sordid brown. [365]
-- A grateful freshness every sense pervades;
-- While beats the heart with unaccustom'd joy:
-- Her stores fugacious[^f28n2] Memory now recalls;
-- And Fancy prunes her wings for loftiest flights.
-- The mute creation share the enlivening hour; [370]
-- Bounds the brisk kid, and wanton plays the lamb.
-- The drooping plants revive; ten thousand blooms,
-- Which, with their fragrant scents, perfume the air,
-- Burst into being; while the Canes put on
-- Glad Nature's liveliest robe, the vivid green. [375]
-
-[^f28n1]: Nymphs of springs, rivers, and lakes in Greek mythology.  
-
-[^f28n2]: Fugitive, fleeting, transient.  
-
----  
 
 
 [69]({{site.baseurl}}/images/p0083.jpg)
@@ -321,21 +229,9 @@ Hurricane, engraved plate from Pieter van der Aa, *Naaukeurige versameling der g
 - Acescent,[^f74n1] watery, poor, unwholesome tastes.
 
 - NOR only, planter, are thy Cane-groves burnt;
-- Thy life is threatened. Muse, the manner sing. [390]
-
-- THEN earthquakes, nature's agonizing pangs,
-- Oft shake the astonied[^f74n2] isles: The solfaterre
-
-
-> VER. 392. *solfaterre*\] Volcanos are called *sulphurs*, *or solfaterres*, in the West-Indies. There are few mountainous islands in that part of the globe without them, and those probably will destroy them in time. I saw much sulphur and alum[^f74n3] in the solfaterre at Mountserrat.[^f74n4] The stream that runs through it, is almost as hot as boiling water, and its steams soon blacken silver, *&c*.
+- Thy life is threatened. Muse, the manner sing.... [390]
 
 
 [^f74n1]: Sour, acidic.
-
-[^f74n2]: This is a typographical error that would be corrected to "astonish'd" in the 1766 London edition of the poem.
-
-[^f74n3]: An astringent mineral salt.
-
-[^f74n4]: Montserrat, a British overseas territory in the Leeward Islands.
 
 ---
