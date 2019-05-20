@@ -330,7 +330,7 @@ Illustrations of insects from Saint-Domingue (Haiti), engraved plate from Père 
 - Each nautic art the reeling seamen try:
 - The storm redoubles: death rides every wave:
 - Down by the board the cracking masts they hew;
-- And heave their precious cargo in the main.
+- And heave their precious cargo in the main....
 
 > VER. 265. *Cathäy*\] An old name for China.
 
