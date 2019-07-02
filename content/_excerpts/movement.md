@@ -17,7 +17,7 @@ Interestingly, the stanzas of the poem in which Grainger describes dancing are f
 
 How Grainger's portrayal of dancing and movement shifts is therefore interesting to consider. Does his characterization and attitude towards it remain the same throughout? What does he imagine are the motives of the dancers? Is dance entertainment or something more? How does he paint the nighttime travels of the enslaved, as they moved under the cover of darkness?
 
-Note: For more on early Caribbean music and dance, see not only <a href="http://www.musicalpassage.org/#home" target="blank">Musical Passage</a> but also Richard Rath's <a href="http://way.net/creole/drumsandpower.html" target="blank">"Drums and Power: Ways of Creolizing Music in Coastal South Carolina and Georgia, 1730-1790"</a>. Also see Rath's "African Music in Seventeenth-Century Jamaica: Cultural Transit and Transition."
+Note: For more on early Caribbean music and dance, see not only <a href="http://www.musicalpassage.org/#home" target="blank">Musical Passage</a> but also Richard Rath's <a href="http://way.net/creole/drumsandpower.html" target="blank">"Drums and Power: Ways of Creolizing Music in Coastal South Carolina and Georgia, 1730-1790."</a> Also see Rath's "African Music in Seventeenth-Century Jamaica: Cultural Transit and Transition."
 
 > —*Julie Chun Kim*
 {:.right}
@@ -86,7 +86,7 @@ Musical instruments played in Guiana, hand-colored etching and aquatint from Giu
 
 [^f158n1]: Grainger refers here to the night-blooming cereus (*Selenicereus grandiflorus*), also sometimes known as the queen of the night because of the exquisite beauty and fragrant scent of its large, white flowers. These flowers only open after sunset. Because of this unusual property, the night-blooming cereus became a subject of much speculation and even fantasy on the part of European botanists and observers, who wondered if it could be compared to a nocturnal animal. Botanists today have realized that the flower blooms at night because the cactus' pollinators, which include bats and moths, are nocturnal themselves. They also note the fact that the flower's petals are opalescent and highly visible at night, especially in the moonlight, to attract these pollinators. For more on the night-blooming cereus, see a digital exhibit on ["Poetic Botany"](https://www.nybg.org/poetic-botany/selenicereus/) created by the New York Botanical Garden. The night-blooming cereus is native to the Bahamas, the Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Nicaragua.  
 
-[^f158n2]: blooms.
+[^f158n2]: Blooms.
 
 [^f158n3]: The Chilean strawberry (*Fragaria chiloensis*) is native to the Pacific Northwest but was probably spread by migratory birds to Hawaii and Chile, where indigenous peoples began cultivating it thousands of years ago. In the eighteenth century, the Chilean strawberry was brought to Europe, where it was crossed with the Virginia strawberry (*Fragaria virginiana*) to create today's commercial strawberry (*Fragaria x ananassa*).
 
