@@ -16,7 +16,7 @@ This excerpt about the fire at midnight not only shows that plantations were oft
 As you read the below excerpts, think about how they depict fire. Does Grainger reach any conclusions about how the fire has started? How does he depict the reactions of enslaved laborers to the fire? How realistic is the portrayal of their reactions, given that they were being forced to work for their enslavers? What does this excerpt reveal about the relationship between natural forces and human beings on the plantation?
 
 
-Note: Kathleen Donegan's *Seasons of Misery: Catastrophe and Colonial Settlement in Early America* discusses the link between fire and rebellion in seventeenth-century Barbados. In *Igniting the Caribbean's Past: Fire in British West Indian History*, Bonham C. Richardson also points out that "All of the slave uprisings in the eastern Caribbean that preceded emancipation in the 1830s involved the use or planned use of fire" (31).
+Note: Kathleen Donegan's *Seasons of Misery: Catastrophe and Colonial Settlement in Early America* discusses the link between fire and rebellion in seventeenth-century Barbados. In *Igniting the Caribbean's Past: Fire in British West Indian History*, Bonham C. Richardson points out that "All of the slave uprisings in the eastern Caribbean that preceded emancipation in the 1830s involved the use or planned use of fire" (31).
 
 > —*Lina Jiang*
 {:.right}
@@ -85,7 +85,7 @@ class="center-image" />
 - And here bid all thy watery engines play;
 - For here the wind the burning deluge drives.
 
-- IN vain.—More wide the blazing torrent rolls;[75]
+- IN vain.—More wide the blazing torrent rolls; [75]
 - More loud it roars, more bright it fires the pole!
 - And toward thy mansion, see, it bends its way.
 - Haste! far, O far, your infant-throng remove:
