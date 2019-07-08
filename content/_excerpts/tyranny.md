@@ -8,11 +8,11 @@ permalink: /excerpts/tyranny.html
 
 ## Tyranny
 
-Grainger uses the word "tyranny" (or one of its variants) nine times in *The Sugar-Cane*. Over the course of the poem, the term appears to shift subtly from a personification of the "insidious tyrant death" (I.328) who stalks British colonists and destroys European plants in the torrid climate of the tropics, to a more traditional application of the term against Britain's military and colonial foes in book III. In book IV, however, "tyranny" begins to multiply in the text, referring variously to the black legend of Spanish colonialism to the more generic tyranny of slavery, the tyranny of insects and parasites that afflict human beings, and the tyranny of enslavers who need colonial laws to restrain their violent impulses. Given this wide range of uses, it is worth asking what, exactly, does tyranny mean to Grainger, and why is his use of it in the *The Sugar-Cane* important?
+Grainger uses the word "tyranny" (or one of its variants) nine times in *The Sugar-Cane*. Over the course of the poem, the term appears to shift subtly from a personification of the "insidious tyrant death" (I.328) who stalks British colonists and destroys European plants in the torrid climate of the tropics, to a more traditional application of the term against Britain's military and colonial foes. In Book IV, however, "tyranny" begins to multiply in the text, referring variously to the black legend of Spanish colonialism to the more generic tyranny of slavery, the tyranny of insects and parasites that afflict human beings, and the tyranny of enslavers who need colonial laws to restrain their violent impulses. Given this wide range of uses, it is worth asking what, exactly, tyranny means to Grainger. And why is his use of it in the *The Sugar-Cane* important?
 
-To the ancient Greeks, a tyrant (*&#964;&#973;&#961;&#945;&#957;&#957;&#959;&#962;*) was either a person who had usurped power from the legitimate ruler, or an absolute ruler who could not be restrained by legal or social convention. During the Age of Revolutions—the period spanning from approximately 1775 to 1848—the word tyranny became an easy rallying cry for people across the Atlantic world seeking to establish independent systems of self governance. Students of U.S. history will be familiar with Thomas Jefferson's list of grievances against Britain in the *Declaration of Independence*. Introducing those grievances, Jefferson writes: "The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States." In the 1790s, French soldiers marching to battle sang: "Contre nous de la tyrannie / L'&#233;tendard sanglant est lev&#233;!" (Against us, Tyranny's / Bloody flag is raised), lines that would soon be enshrined in the French national anthem. And on 1 January 1804, Jean-Jacques Dessalines declared independence for the Republic of Haiti, writing: "And you, people who have too long been unfortunate, witness the oath that we are talking, remember that I have counted on your fidelity and courage when I entered the pursuit of liberty to fight the despotism and the tyranny against which you had struggled for fourteen years; remember that I have sacrificed everything to fly to your defense, parents, children, fortune, and now I am rich only in your liberty; that my name has become a horror to all those who want slavery, and that despots and tyrants never utter it unless to curse the day that I was born."[^fn1]
+To the ancient Greeks, a tyrant (*&#964;&#973;&#961;&#945;&#957;&#957;&#959;&#962;*) was either a person who had usurped power from the legitimate ruler or an absolute ruler who could not be restrained by legal or social convention. During the Age of Revolutions—the period spanning from approximately 1775 to 1848—the word tyranny became a common rallying cry for people across the Atlantic world seeking to establish independent systems of self-governance. Students of U.S. history will be familiar with Thomas Jefferson's list of grievances against Britain in the *Declaration of Independence*. Introducing those grievances, Jefferson writes, "The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States." In the 1790s, French soldiers marching to battle sang, "Contre nous de la tyrannie / L'&#233;tendard sanglant est lev&#233;!" (Against us, Tyranny's / Bloody flag is raised), lines that would soon be enshrined in the French national anthem. And on 1 January 1804, Jean-Jacques Dessalines declared independence for the Republic of Haiti, writing, "And you, people who have too long been unfortunate, witness the oath that we are talking, remember that I have counted on your fidelity and courage when I entered the pursuit of liberty to fight the despotism and the tyranny against which you had struggled for fourteen years; remember that I have sacrificed everything to fly to your defense, parents, children, fortune, and now I am rich only in your liberty; that my name has become a horror to all those who want slavery, and that despots and tyrants never utter it unless to curse the day that I was born."[^fn1]
 
-The historical and literary link between tyranny and slavery is long and vexed. When Dessalines invokes the specter of slavery in the Haitian Declaration of Independence, he means it literally: having only recently expelled Napoleon's army from St. Domingue, the Haitians were determined to prevent slavery from ever returning to their country. Nevertheless, despite the force of Dessalines's literal association, the Americans and French who fought in their own revolutions relied on a metaphorical link between tyranny and slavery in which they portrayed themselves as resisting figural enslavement at the hands of foreign tyrants. Eighteenth-century writers certainly understood the irony of revolutionaries professing their horror at the thought of losing their liberty and being enslaved on the one hand, while being enslavers themselves, on the other. Perhaps the keenest observer of this irony is Phillis Wheatley, the enslaved African poet who would use it to great effect in the poem titled "To the Right Honorable William, Earl of Dartmouth," published in her 1773 *Poems on Various Subjects*. Here Wheatley highlights the metaphorical link between tyranny and slavery that men like Thomas Jefferson and Tom Paine would make later in the decade only to juxtapose it to the actual tyranny and her own enslavement:
+The historical and literary link between tyranny and slavery is long and vexed. When Dessalines invokes the specter of slavery in the Haitian Declaration of Independence, he means it literally: having only recently expelled Napoleon's army from St. Domingue, the Haitians were determined to prevent slavery from ever returning to their country. Nevertheless, despite the force of Dessalines' literal association, the Americans and French who fought in their own revolutions relied on a metaphorical link between tyranny and slavery in which they portrayed themselves as resisting figural enslavement at the hands of foreign tyrants. Eighteenth-century writers certainly understood the irony of revolutionaries professing their horror at the thought of losing their liberty and being enslaved while being enslavers themselves. Perhaps the keenest observer of this irony is Phillis Wheatley, the enslaved African poet who would use it to great effect in the poem titled "To the Right Honorable William, Earl of Dartmouth," published in her 1773 *Poems on Various Subjects*. Here, Wheatley highlights the metaphorical link between tyranny and slavery that men like Thomas Jefferson and Tom Paine would make later in the decade only to juxtapose it to the actual tyranny of her own enslavement:
 
 > No more, *America*, in mournful strain [15]  
 > of wrongs, and grievance unredress'd complain,  
@@ -35,11 +35,11 @@ The historical and literary link between tyranny and slavery is long and vexed. 
 > Others may never feel tyrannic sway?[^fn2]
 {:.indented}
 
-Wheatley's poem is an ironic reminder not to take claims like Jefferson's literally. Reading about the kidnapping and enslavement that she suffered during her life pushes readers to reconsider the literary affect implicit in any metaphorical representation of slavery by propertied men in the eighteenth century. In turn, this irony likewise asks us to consider the full and complicated valence of the word "tyranny" in *The Sugar-Cane*. Grainger certainly knew that it was impossible to invoke tyranny in the context of Caribbean plantations without also immediately invoking slavery. And yet, he takes time to get there. His goal of promoting the production of sugar and of defending the use of enslaved labor in the sugar trade produces a formal and thematic tension that erupts at various moments in the poem.
+Wheatley's poem is an ironic reminder not to take claims like Jefferson's literally. Reading about the kidnapping and enslavement that she suffered during her life pushes readers to reconsider the literary affect implicit in any metaphorical representation of slavery by propertied men in the eighteenth century. In turn, this irony likewise asks us to consider the full and complicated valence of the word "tyranny" in *The Sugar-Cane*. Grainger certainly knew that it was impossible to invoke tyranny in the context of Caribbean plantations without also immediately invoking slavery. And yet he takes time to get there. His goal of promoting the production of sugar and of defending the use of enslaved labor in the sugar trade produces a formal and thematic tension that erupts at various moments in the poem.
 
-We encourage readers to read for "tyranny" and to consider how Grainger's use of the term changes over the length of *The Sugar-Cane*. Does he use it consistently from beginning to end? Who are the tyrants and who are the victims of tyranny at various points in the poem? How does Grainger use the term strategically in book IV, where he must otherwise confront the relation between tyranny and slavery to the British Empire? How do the varying uses of tyranny undermine or sustain Grainger's ideological goals in the poem?
+We encourage readers to read for "tyranny" and to consider how Grainger's use of the term changes over the length of *The Sugar-Cane*. Does he use it consistently from beginning to end? Who are the tyrants and who are the victims of tyranny at various points in the poem? How does Grainger use the term strategically in Book IV, where he must confront the relation between tyranny and slavery to the British Empire? How do the varying uses of tyranny undermine or sustain Grainger's ideological goals in the poem?
 
-Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology: James Grainger's The Sugar Cane and the Bodies of Empire."
+Note: For more on tyranny in *The Sugar-Cane*, see Steven W. Thomas's "Doctoring Ideology: James Grainger's *The Sugar Cane* and the Bodies of Empire."
 
 > —*Cristobal Silva*
 {:.right}  
@@ -74,7 +74,7 @@ class="center-image" />
 - "These lines, with all the malice of a friend."[^f25n4]
 
 - YET future rains the careful may foretell:
-- Mosquitos, sand-flies, seek the shelter'd roof,
+- Mosquitos, sand-flies, seek the shelter'd roof...
 
 >VER. 334. *Mosquitos,*\] This is a Spanish word, signifying a Gnat, or Fly. The are very troublesome, especially to strangers, whom they bite unmercifully, causing a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often been occasioned by scratching those swellings, in persons of a bad habit of body. Though natives of the West-Indies, they are not less common in the coldest regions; for Mr. Maupertuis[^f25n5] takes notice how troublesome they were to him and his attendants on the snowy summit of certain mountains within the arctic circle. They, however, chiefly love shady, moist, and warm places. Accordingly they are commonest to be met with in the corners of rooms, towards evening, and before rain. They are so light, as not to be felt when they pitch on the skin; and, as soon as they have darted in their proboscis, fly off, so that the first intimation one has of being bit by them, is the itching tumour. Warm lime-juice is its remedy. The Mosquito makes a humming noise, especially in the night-time.
 
@@ -115,7 +115,7 @@ class="center-image" />
 - The main itself seems parted into streams,
 - Clear as a mirror; and, with deadly scents,
 - Annoys the rower; who, heart-fainting, eyes
-- The sails hang idly, noiseless, from the mast.[^f73n3] [375]
+- The sails hang idly, noiseless, from the mast....[^f73n3] [375]
 
 
 [^f73n1]: Vibratory or quivering flashes of light; lightning.
@@ -150,7 +150,7 @@ class="center-image" />
 - For a clear, strong, continued fire improves
 - Thy muscovado's[^f103n6] colour, and its grain.— [310]
 - Yet vehement heat, protracted, will consume
-- Thy vessels, whether from the martial mine,
+- Thy vessels, whether from the martial mine...
 
 > VER. 312. *Thy vessels,*\] The vessels, wherein the Cane-juice is reduced to Sugar by coction, are either made of iron or of copper. Each sort hath its advantages and
 
@@ -192,7 +192,7 @@ class="center-image" />
 - Mild government, with every sweet of life,
 - In blissful climates? See them dragg'd in chains,
 - By proud insulting tyrants,[^f134n7] to the mines
-- Which once they call'd their own, and then despis'd!
+- Which once they call'd their own, and then despis'd!...
 
 > VER. 181. *rocky Drave,*\] A river in Hungary, on whose banks are found mines of quicksilver.  
 
@@ -238,7 +238,7 @@ class="center-image" />
 - A leaden cylinder: But, O, beware,
 - No rashness practise; else 'twill surely snap,
 - And suddenly, retreating, dire produce
-- An annual lameness to the tortured Moor.[^f137n5] [255]
+- An annual lameness to the tortured Moor....[^f137n5] [255]
 
 [^f137n1]: A direct acknowledgment of the tyranny of slavery. Note that tyranny, an increasingly discussed topic during the late eighteenth-century Age of Revolutions, appears several more times in Book IV.  
 
@@ -277,7 +277,7 @@ class="center-image" />
 - Thanks to the Almighty, in each path-way hedge,
 - Rank cow-itch[^f140n7] grows, whose sharp unnumber'd stings,
 - Sheath'd in Melasses,[^f140n8] from their dens expell, [310]
-- Fell dens of death, the reptile lurking foe.—
+- Fell dens of death, the reptile lurking foe....
 
 > VER. 309. *Cow-itch*] See notes in Book II.
 
@@ -325,7 +325,7 @@ class="center-image" />
 - On thee chief Ceres,[^f142n5] with unfailing love
 - And fond distinction, emulously gaze.
 - In vain hath nature pour'd vast seas between
-- Far-distant kingdoms; endless storms in vain
+- Far-distant kingdoms; endless storms in vain...
 
 [^f142n1]: City and province in central Sicily and location of a Sicilian slave revolt (134-132 BCE).  
 
@@ -362,7 +362,7 @@ class="center-image" />
 - To guard the AEthiop[^f159n10] from tyrannic sway![^f159n11]
 
 - DID such, in these green isles which Albion[^f159n12] claims, [630]
-- Did such obtain; the muse, at midnight-hour,
+- Did such obtain; the muse, at midnight-hour...
 
 
 > VER. 613. *candle-weed*\] This shrub, which produces a yellow flower somewhat resembling a narcissus,[^f159n13] makes a beautiful hedge, and blows about November. It grows wild every where. It is said to be diuretic,[^f159n14] but this I do not know from experience.
