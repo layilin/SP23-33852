@@ -181,10 +181,8 @@ class="center-image" />
 - That in his service spent his vigorous prime:
 - And dares a mortal to his fellow man,
 - \(For spite of vanity, thy slaves are men\)
-- Deny protection? Muse suppress the tale.
+- Deny protection? Muse suppress the tale....
 
-- YE! who in bundles bind the lopt-off Canes; [180]
-- But chiefly ye! who feed the tight-brac'd mill....
 
 > Pere Labat says, he was informed the English were wont, as a punishment, thus to grind their negroes to death. But one may venture to affirm this punishment never had the sanction of law; and if any Englishman ever did grind his negroes to death, I will take upon me to aver, he was universally detested by his countrymen.  
 
