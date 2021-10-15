@@ -83,6 +83,7 @@ Below is a list of works we consulted during the transcription and editing of *T
   <div class="csl-entry">Harper, Grant A., and Nancy Bunbury. “Invasive Rats on Tropical Islands: Their Population Biology and Impacts on Native Species.” <i>Global Ecology and Conservation</i>, vol. 3, 2015, pp. 607–27. <i>ScienceDirect</i>, doi:<a href="https://doi.org/10.1016/j.gecco.2015.02.010">10.1016/j.gecco.2015.02.010</a>.</div>
   <div class="csl-entry">Hartman, Saidiya. “Venus in Two Acts.” <i>Small Axe</i>, vol. 12, no. 2, 2008, pp. 1–14.</div>
   <div class="csl-entry">Hartnoll, Richard, et al. “Population Biology of the Black Land Crab, Gecarcinus Ruricola, in the San Andres Archipelago, Western Caribbean.” <i>Journal of Crustacean Biology</i>, vol. 26, no. 3, 2006, pp. 316–25. <i>academic.oup.com</i>, doi:<a href="https://doi.org/10.1651/C-2640.1">10.1651/C-2640.1</a>.</div>
+  <div class="csl-entry">Higman, B. W. <i>Jamaican Food: History, Biology, Culture</i>. Jamaica, University of the West Indies Press, 2008.</div>
   <div class="csl-entry">Hogarth, Rana A. <i>Medicalizing Blackness: Making Racial Difference in the Atlantic World, 1780-1840</i>. University of North Carolina Press, 2017.</div>
   <div class="csl-entry">Howard, Richard A. “Eighteenth Century West Indian Pharmaceuticals.” <i>Harvard Papers in Botany</i>, vol. 1, no. 5, 1994, pp. 69–91.</div>
   <div class="csl-entry">Hulme, Peter. <i>Colonial Encounters: Europe and the Native Caribbean, 1492-1797</i>. Methuen, 1986.</div>
