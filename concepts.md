@@ -27,6 +27,7 @@ This list contains concepts used in the readings over the spring semester.
 - judicial autonomy
 - political embeddedness
 - control parable
+- hierarchical trust
 
 
 ---
