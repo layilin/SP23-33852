@@ -34,17 +34,17 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Digital Grainger
-tagline:             "An Online Edition of *The Sugar-Cane* (1764)"
-description:         'Digital Grainger includes'
-url:                 ''
-baseurl:             '/grainger'
+title:               Spring23-33852
+tagline:             "a course archive of notes and references"
+description:         'Spring23-33852 includes'
+url:                 'https://layilin.github.io/'
+baseurl:             '/SP23-33852'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Yilin La
+  url:               https://layilin.github.io/munajat
+  email:            yla@indiana.edu
 
 # Custom vars
 version:             0.0.5
