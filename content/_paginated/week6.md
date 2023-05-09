@@ -1,4 +1,3 @@
-
 ---
 layout: page-item
 title: week6
