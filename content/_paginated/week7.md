@@ -2,6 +2,7 @@
 layout: page-item
 title: week7
 editor: Yilin
+order: 7
 source: Spring23-33852
 permalink: "/paginated/week7.html"
 ---
