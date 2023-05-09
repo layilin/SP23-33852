@@ -1,5 +1,5 @@
 ---
-layout: exhibit
+layout: poem
 title: "李庄案后的律师暗战"
 creator: 季天琴 (时任记者南都周刊)
 publish_date: 2011-06-11
